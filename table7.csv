@@ -1,0 +1,837 @@
+time_period,time_identifier,geographic_level,country_code,country_name,itt_level,breakdown_topic,breakdown,trainee_number,trainee_percentage
+201516,Academic year,National,E92000001,England,Postgraduate,Total,Primary,12578,100
+201516,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Male,2722,22
+201516,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Female,9856,78
+201516,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Other Sex,0,0
+201516,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Known Sex,12578,100
+201516,Academic year,National,E92000001,England,Postgraduate,Total,Secondary,15183,55
+201516,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Male,5983,39
+201516,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Female,9200,61
+201516,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Other Sex,0,0
+201516,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Known Sex,15183,100
+201516,Academic year,National,E92000001,England,Postgraduate,Sex,Total Known Sex,27761,100
+201516,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Asian / Asian British,0,0
+201516,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Black / African / Caribbean / Black British,0,0
+201516,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Mixed / Multiple ethnic groups,0,0
+201516,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Other ethnic group,0,0
+201516,Academic year,National,E92000001,England,Postgraduate,Ethnicity,White,0,0
+201516,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Total Known Ethnicity,0,0
+201516,Academic year,National,E92000001,England,Postgraduate,Age,Under 25,15199,55
+201516,Academic year,National,E92000001,England,Postgraduate,Age,25 to 29,6763,24
+201516,Academic year,National,E92000001,England,Postgraduate,Age,30 to 34,2153,8
+201516,Academic year,National,E92000001,England,Postgraduate,Age,35 to 39,1339,5
+201516,Academic year,National,E92000001,England,Postgraduate,Age,40 to 44,1155,4
+201516,Academic year,National,E92000001,England,Postgraduate,Age,45 to 49,762,3
+201516,Academic year,National,E92000001,England,Postgraduate,Age,50 to 54,314,1
+201516,Academic year,National,E92000001,England,Postgraduate,Age,55 and over,76,0
+201516,Academic year,National,E92000001,England,Postgraduate,Disability,Declared,2297,8
+201516,Academic year,National,E92000001,England,Postgraduate,Disability,No Disability Declared,25304,92
+201516,Academic year,National,E92000001,England,Postgraduate,Disability,Total Known Disability,27601,99
+201516,Academic year,National,E92000001,England,Postgraduate,Nationality,UK,0,0
+201516,Academic year,National,E92000001,England,Postgraduate,Nationality,EEA,0,0
+201516,Academic year,National,E92000001,England,Postgraduate,Nationality,Other Nationality,0,0
+201516,Academic year,National,E92000001,England,Postgraduate,Nationality,Total Known Nationality,0,0
+201516,Academic year,National,E92000001,England,Postgraduate,Degree Class,First,4984,18
+201516,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second,15719,57
+201516,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second Class Degree or Better,20703,75
+201516,Academic year,National,E92000001,England,Postgraduate,Degree Class,Lower Second,6024,22
+201516,Academic year,National,E92000001,England,Postgraduate,Degree Class,Other Degree Class,857,3
+201516,Academic year,National,E92000001,England,Postgraduate,Degree Class,Total Known Degree Class,27584,99
+201516,Academic year,National,E92000001,England,Undergraduate,Total,Primary,4781,100
+201516,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Male,722,15
+201516,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Female,4059,85
+201516,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Other Sex,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Known Sex,4781,100
+201516,Academic year,National,E92000001,England,Undergraduate,Total,Secondary,719,13
+201516,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Male,215,30
+201516,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Female,504,70
+201516,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Other Sex,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Known Sex,719,100
+201516,Academic year,National,E92000001,England,Undergraduate,Sex,Total Known Sex,5500,100
+201516,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Asian / Asian British,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Black / African / Caribbean / Black British,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Mixed / Multiple ethnic groups,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Other ethnic group,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Ethnicity,White,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Total Known Ethnicity,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Age,Under 25,4977,90
+201516,Academic year,National,E92000001,England,Undergraduate,Age,25 to 29,247,4
+201516,Academic year,National,E92000001,England,Undergraduate,Age,30 to 34,125,2
+201516,Academic year,National,E92000001,England,Undergraduate,Age,35 to 39,70,1
+201516,Academic year,National,E92000001,England,Undergraduate,Age,40 to 44,54,1
+201516,Academic year,National,E92000001,England,Undergraduate,Age,45 to 49,25,0
+201516,Academic year,National,E92000001,England,Undergraduate,Age,50 to 54,2,0
+201516,Academic year,National,E92000001,England,Undergraduate,Age,55 and over,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Disability,Declared,459,8
+201516,Academic year,National,E92000001,England,Undergraduate,Disability,No Disability Declared,5041,92
+201516,Academic year,National,E92000001,England,Undergraduate,Disability,Total Known Disability,5500,100
+201516,Academic year,National,E92000001,England,Undergraduate,Nationality,UK,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Nationality,EEA,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Nationality,Other Nationality,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Nationality,Total Known Nationality,0,0
+201516,Academic year,National,E92000001,England,Undergraduate,Degree Class,First,z,z
+201516,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second,z,z
+201516,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second Class Degree or Better,z,z
+201516,Academic year,National,E92000001,England,Undergraduate,Degree Class,Lower Second,z,z
+201516,Academic year,National,E92000001,England,Undergraduate,Degree Class,Other Degree Class,z,z
+201516,Academic year,National,E92000001,England,Undergraduate,Degree Class,Total Known Degree Class,z,z
+201617,Academic year,National,E92000001,England,Postgraduate,Total,Primary,11288,100
+201617,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Male,2266,20
+201617,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Female,9022,80
+201617,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Other Sex,0,0
+201617,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Known Sex,11288,100
+201617,Academic year,National,E92000001,England,Postgraduate,Total,Secondary,15461,58
+201617,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Male,6241,40
+201617,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Female,9220,60
+201617,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Other Sex,0,0
+201617,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Known Sex,15461,100
+201617,Academic year,National,E92000001,England,Postgraduate,Sex,Total Known Sex,26749,100
+201617,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Asian / Asian British,0,0
+201617,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Black / African / Caribbean / Black British,0,0
+201617,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Mixed / Multiple ethnic groups,0,0
+201617,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Other ethnic group,0,0
+201617,Academic year,National,E92000001,England,Postgraduate,Ethnicity,White,0,0
+201617,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Total Known Ethnicity,0,0
+201617,Academic year,National,E92000001,England,Postgraduate,Age,Under 25,14164,53
+201617,Academic year,National,E92000001,England,Postgraduate,Age,25 to 29,6495,24
+201617,Academic year,National,E92000001,England,Postgraduate,Age,30 to 34,2189,8
+201617,Academic year,National,E92000001,England,Postgraduate,Age,35 to 39,1401,5
+201617,Academic year,National,E92000001,England,Postgraduate,Age,40 to 44,1116,4
+201617,Academic year,National,E92000001,England,Postgraduate,Age,45 to 49,863,3
+201617,Academic year,National,E92000001,England,Postgraduate,Age,50 to 54,408,2
+201617,Academic year,National,E92000001,England,Postgraduate,Age,55 and over,113,0
+201617,Academic year,National,E92000001,England,Postgraduate,Disability,Declared,2424,9
+201617,Academic year,National,E92000001,England,Postgraduate,Disability,No Disability Declared,24245,91
+201617,Academic year,National,E92000001,England,Postgraduate,Disability,Total Known Disability,26669,100
+201617,Academic year,National,E92000001,England,Postgraduate,Nationality,UK,23658,93
+201617,Academic year,National,E92000001,England,Postgraduate,Nationality,EEA,1295,5
+201617,Academic year,National,E92000001,England,Postgraduate,Nationality,Other Nationality,506,2
+201617,Academic year,National,E92000001,England,Postgraduate,Nationality,Total Known Nationality,25459,95
+201617,Academic year,National,E92000001,England,Postgraduate,Degree Class,First,4767,18
+201617,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second,14779,56
+201617,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second Class Degree or Better,19546,74
+201617,Academic year,National,E92000001,England,Postgraduate,Degree Class,Lower Second,6013,23
+201617,Academic year,National,E92000001,England,Postgraduate,Degree Class,Other Degree Class,802,3
+201617,Academic year,National,E92000001,England,Postgraduate,Degree Class,Total Known Degree Class,26361,99
+201617,Academic year,National,E92000001,England,Undergraduate,Total,Primary,4906,100
+201617,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Male,729,15
+201617,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Female,4177,85
+201617,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Other Sex,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Known Sex,4906,100
+201617,Academic year,National,E92000001,England,Undergraduate,Total,Secondary,241,5
+201617,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Male,91,38
+201617,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Female,150,62
+201617,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Other Sex,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Known Sex,241,100
+201617,Academic year,National,E92000001,England,Undergraduate,Sex,Total Known Sex,5147,100
+201617,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Asian / Asian British,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Black / African / Caribbean / Black British,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Mixed / Multiple ethnic groups,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Other ethnic group,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Ethnicity,White,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Total Known Ethnicity,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Age,Under 25,4681,91
+201617,Academic year,National,E92000001,England,Undergraduate,Age,25 to 29,213,4
+201617,Academic year,National,E92000001,England,Undergraduate,Age,30 to 34,102,2
+201617,Academic year,National,E92000001,England,Undergraduate,Age,35 to 39,74,1
+201617,Academic year,National,E92000001,England,Undergraduate,Age,40 to 44,49,1
+201617,Academic year,National,E92000001,England,Undergraduate,Age,45 to 49,22,0
+201617,Academic year,National,E92000001,England,Undergraduate,Age,50 to 54,6,0
+201617,Academic year,National,E92000001,England,Undergraduate,Age,55 and over,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Disability,Declared,479,9
+201617,Academic year,National,E92000001,England,Undergraduate,Disability,No Disability Declared,4668,91
+201617,Academic year,National,E92000001,England,Undergraduate,Disability,Total Known Disability,5147,100
+201617,Academic year,National,E92000001,England,Undergraduate,Nationality,UK,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Nationality,EEA,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Nationality,Other Nationality,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Nationality,Total Known Nationality,0,0
+201617,Academic year,National,E92000001,England,Undergraduate,Degree Class,First,z,z
+201617,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second,z,z
+201617,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second Class Degree or Better,z,z
+201617,Academic year,National,E92000001,England,Undergraduate,Degree Class,Lower Second,z,z
+201617,Academic year,National,E92000001,England,Undergraduate,Degree Class,Other Degree Class,z,z
+201617,Academic year,National,E92000001,England,Undergraduate,Degree Class,Total Known Degree Class,z,z
+201718,Academic year,National,E92000001,England,Postgraduate,Total,Primary,12500,100
+201718,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Male,2517,20
+201718,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Female,9981,80
+201718,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Other Sex,0,0
+201718,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Known Sex,12498,100
+201718,Academic year,National,E92000001,England,Postgraduate,Total,Secondary,14646,54
+201718,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Male,5831,40
+201718,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Female,8811,60
+201718,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Other Sex,0,0
+201718,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Known Sex,14642,100
+201718,Academic year,National,E92000001,England,Postgraduate,Sex,Total Known Sex,27140,100
+201718,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Asian / Asian British,0,0
+201718,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Black / African / Caribbean / Black British,0,0
+201718,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Mixed / Multiple ethnic groups,0,0
+201718,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Other ethnic group,0,0
+201718,Academic year,National,E92000001,England,Postgraduate,Ethnicity,White,0,0
+201718,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Total Known Ethnicity,0,0
+201718,Academic year,National,E92000001,England,Postgraduate,Age,Under 25,13847,51
+201718,Academic year,National,E92000001,England,Postgraduate,Age,25 to 29,6842,25
+201718,Academic year,National,E92000001,England,Postgraduate,Age,30 to 34,2306,8
+201718,Academic year,National,E92000001,England,Postgraduate,Age,35 to 39,1413,5
+201718,Academic year,National,E92000001,England,Postgraduate,Age,40 to 44,1259,5
+201718,Academic year,National,E92000001,England,Postgraduate,Age,45 to 49,899,3
+201718,Academic year,National,E92000001,England,Postgraduate,Age,50 to 54,407,1
+201718,Academic year,National,E92000001,England,Postgraduate,Age,55 and over,173,1
+201718,Academic year,National,E92000001,England,Postgraduate,Disability,Declared,2590,10
+201718,Academic year,National,E92000001,England,Postgraduate,Disability,No Disability Declared,24451,90
+201718,Academic year,National,E92000001,England,Postgraduate,Disability,Total Known Disability,27041,100
+201718,Academic year,National,E92000001,England,Postgraduate,Nationality,UK,24223,93
+201718,Academic year,National,E92000001,England,Postgraduate,Nationality,EEA,1294,5
+201718,Academic year,National,E92000001,England,Postgraduate,Nationality,Other Nationality,532,2
+201718,Academic year,National,E92000001,England,Postgraduate,Nationality,Total Known Nationality,26049,96
+201718,Academic year,National,E92000001,England,Postgraduate,Degree Class,First,5002,19
+201718,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second,14869,55
+201718,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second Class Degree or Better,19871,74
+201718,Academic year,National,E92000001,England,Postgraduate,Degree Class,Lower Second,6026,22
+201718,Academic year,National,E92000001,England,Postgraduate,Degree Class,Other Degree Class,935,3
+201718,Academic year,National,E92000001,England,Postgraduate,Degree Class,Total Known Degree Class,26832,99
+201718,Academic year,National,E92000001,England,Undergraduate,Total,Primary,4563,100
+201718,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Male,643,14
+201718,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Female,3916,86
+201718,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Other Sex,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Known Sex,4559,100
+201718,Academic year,National,E92000001,England,Undergraduate,Total,Secondary,200,4
+201718,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Male,83,42
+201718,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Female,117,59
+201718,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Other Sex,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Known Sex,200,100
+201718,Academic year,National,E92000001,England,Undergraduate,Sex,Total Known Sex,4759,100
+201718,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Asian / Asian British,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Black / African / Caribbean / Black British,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Mixed / Multiple ethnic groups,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Other ethnic group,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Ethnicity,White,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Total Known Ethnicity,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Age,Under 25,4317,91
+201718,Academic year,National,E92000001,England,Undergraduate,Age,25 to 29,226,5
+201718,Academic year,National,E92000001,England,Undergraduate,Age,30 to 34,82,2
+201718,Academic year,National,E92000001,England,Undergraduate,Age,35 to 39,68,1
+201718,Academic year,National,E92000001,England,Undergraduate,Age,40 to 44,41,1
+201718,Academic year,National,E92000001,England,Undergraduate,Age,45 to 49,20,0
+201718,Academic year,National,E92000001,England,Undergraduate,Age,50 to 54,9,0
+201718,Academic year,National,E92000001,England,Undergraduate,Age,55 and over,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Disability,Declared,591,12
+201718,Academic year,National,E92000001,England,Undergraduate,Disability,No Disability Declared,4165,88
+201718,Academic year,National,E92000001,England,Undergraduate,Disability,Total Known Disability,4756,100
+201718,Academic year,National,E92000001,England,Undergraduate,Nationality,UK,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Nationality,EEA,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Nationality,Other Nationality,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Nationality,Total Known Nationality,0,0
+201718,Academic year,National,E92000001,England,Undergraduate,Degree Class,First,z,z
+201718,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second,z,z
+201718,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second Class Degree or Better,z,z
+201718,Academic year,National,E92000001,England,Undergraduate,Degree Class,Lower Second,z,z
+201718,Academic year,National,E92000001,England,Undergraduate,Degree Class,Other Degree Class,z,z
+201718,Academic year,National,E92000001,England,Undergraduate,Degree Class,Total Known Degree Class,z,z
+201819,Academic year,National,E92000001,England,Postgraduate,Total,Primary,12885,100
+201819,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Male,2415,19
+201819,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Female,10470,81
+201819,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Other Sex,0,0
+201819,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Known Sex,12885,100
+201819,Academic year,National,E92000001,England,Postgraduate,Total,Secondary,16315,56
+201819,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Male,6285,39
+201819,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Female,10030,61
+201819,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Other Sex,0,0
+201819,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Known Sex,16315,100
+201819,Academic year,National,E92000001,England,Postgraduate,Sex,Total Known Sex,29200,100
+201819,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Asian / Asian British,0,0
+201819,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Black / African / Caribbean / Black British,0,0
+201819,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Mixed / Multiple ethnic groups,0,0
+201819,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Other ethnic group,0,0
+201819,Academic year,National,E92000001,England,Postgraduate,Ethnicity,White,0,0
+201819,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Total Known Ethnicity,0,0
+201819,Academic year,National,E92000001,England,Postgraduate,Age,Under 25,14740,50
+201819,Academic year,National,E92000001,England,Postgraduate,Age,25 to 29,7143,24
+201819,Academic year,National,E92000001,England,Postgraduate,Age,30 to 34,2625,9
+201819,Academic year,National,E92000001,England,Postgraduate,Age,35 to 39,1700,6
+201819,Academic year,National,E92000001,England,Postgraduate,Age,40 to 44,1284,4
+201819,Academic year,National,E92000001,England,Postgraduate,Age,45 to 49,980,3
+201819,Academic year,National,E92000001,England,Postgraduate,Age,50 to 54,541,2
+201819,Academic year,National,E92000001,England,Postgraduate,Age,55 and over,202,1
+201819,Academic year,National,E92000001,England,Postgraduate,Disability,Declared,3322,11
+201819,Academic year,National,E92000001,England,Postgraduate,Disability,No Disability Declared,25663,89
+201819,Academic year,National,E92000001,England,Postgraduate,Disability,Total Known Disability,28985,99
+201819,Academic year,National,E92000001,England,Postgraduate,Nationality,UK,26550,93
+201819,Academic year,National,E92000001,England,Postgraduate,Nationality,EEA,1422,5
+201819,Academic year,National,E92000001,England,Postgraduate,Nationality,Other Nationality,634,2
+201819,Academic year,National,E92000001,England,Postgraduate,Nationality,Total Known Nationality,28606,98
+201819,Academic year,National,E92000001,England,Postgraduate,Degree Class,First,5468,19
+201819,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second,15365,54
+201819,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second Class Degree or Better,20833,73
+201819,Academic year,National,E92000001,England,Postgraduate,Degree Class,Lower Second,6604,23
+201819,Academic year,National,E92000001,England,Postgraduate,Degree Class,Other Degree Class,1262,4
+201819,Academic year,National,E92000001,England,Postgraduate,Degree Class,Total Known Degree Class,28699,98
+201819,Academic year,National,E92000001,England,Undergraduate,Total,Primary,4804,100
+201819,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Male,611,13
+201819,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Female,4193,87
+201819,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Other Sex,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Known Sex,4804,100
+201819,Academic year,National,E92000001,England,Undergraduate,Total,Secondary,224,4
+201819,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Male,101,45
+201819,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Female,123,55
+201819,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Other Sex,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Known Sex,224,100
+201819,Academic year,National,E92000001,England,Undergraduate,Sex,Total Known Sex,5028,100
+201819,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Asian / Asian British,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Black / African / Caribbean / Black British,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Mixed / Multiple ethnic groups,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Other ethnic group,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Ethnicity,White,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Total Known Ethnicity,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Age,Under 25,4496,89
+201819,Academic year,National,E92000001,England,Undergraduate,Age,25 to 29,239,5
+201819,Academic year,National,E92000001,England,Undergraduate,Age,30 to 34,124,2
+201819,Academic year,National,E92000001,England,Undergraduate,Age,35 to 39,80,2
+201819,Academic year,National,E92000001,England,Undergraduate,Age,40 to 44,55,1
+201819,Academic year,National,E92000001,England,Undergraduate,Age,45 to 49,27,1
+201819,Academic year,National,E92000001,England,Undergraduate,Age,50 to 54,8,0
+201819,Academic year,National,E92000001,England,Undergraduate,Age,55 and over,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Disability,Declared,740,15
+201819,Academic year,National,E92000001,England,Undergraduate,Disability,No Disability Declared,4289,85
+201819,Academic year,National,E92000001,England,Undergraduate,Disability,Total Known Disability,5029,100
+201819,Academic year,National,E92000001,England,Undergraduate,Nationality,UK,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Nationality,EEA,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Nationality,Other Nationality,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Nationality,Total Known Nationality,0,0
+201819,Academic year,National,E92000001,England,Undergraduate,Degree Class,First,z,z
+201819,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second,z,z
+201819,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second Class Degree or Better,z,z
+201819,Academic year,National,E92000001,England,Undergraduate,Degree Class,Lower Second,z,z
+201819,Academic year,National,E92000001,England,Undergraduate,Degree Class,Other Degree Class,z,z
+201819,Academic year,National,E92000001,England,Undergraduate,Degree Class,Total Known Degree Class,z,z
+201920,Academic year,National,E92000001,England,Postgraduate,Total,Primary,12364,100
+201920,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Male,2130,17
+201920,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Female,10229,83
+201920,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Other Sex,5,0
+201920,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Known Sex,12364,100
+201920,Academic year,National,E92000001,England,Postgraduate,Total,Secondary,17056,58
+201920,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Male,6586,39
+201920,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Female,10447,61
+201920,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Other Sex,23,0
+201920,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Known Sex,17056,100
+201920,Academic year,National,E92000001,England,Postgraduate,Sex,Total Known Sex,29420,100
+201920,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Asian / Asian British,2915,10
+201920,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Black / African / Caribbean / Black British,1067,4
+201920,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Mixed / Multiple ethnic groups,880,3
+201920,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Other ethnic group,353,1
+201920,Academic year,National,E92000001,England,Postgraduate,Ethnicity,White,22579,81
+201920,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Total Known Ethnicity,27794,94
+201920,Academic year,National,E92000001,England,Postgraduate,Age,Under 25,14771,1477100
+201920,Academic year,National,E92000001,England,Postgraduate,Age,25 to 29,7118,711800
+201920,Academic year,National,E92000001,England,Postgraduate,Age,30 to 34,2668,266800
+201920,Academic year,National,E92000001,England,Postgraduate,Age,35 to 39,1713,171300
+201920,Academic year,National,E92000001,England,Postgraduate,Age,40 to 44,1326,132600
+201920,Academic year,National,E92000001,England,Postgraduate,Age,45 to 49,1078,107800
+201920,Academic year,National,E92000001,England,Postgraduate,Age,50 to 54,530,53000
+201920,Academic year,National,E92000001,England,Postgraduate,Age,55 and over,216,21600
+201920,Academic year,National,E92000001,England,Postgraduate,Disability,Declared,3647,13
+201920,Academic year,National,E92000001,England,Postgraduate,Disability,No Disability Declared,25100,87
+201920,Academic year,National,E92000001,England,Postgraduate,Disability,Total Known Disability,28747,98
+201920,Academic year,National,E92000001,England,Postgraduate,Nationality,UK,26562,92
+201920,Academic year,National,E92000001,England,Postgraduate,Nationality,EEA,1470,5
+201920,Academic year,National,E92000001,England,Postgraduate,Nationality,Other Nationality,806,3
+201920,Academic year,National,E92000001,England,Postgraduate,Nationality,Total Known Nationality,28838,98
+201920,Academic year,National,E92000001,England,Postgraduate,Degree Class,First,5647,20
+201920,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second,15083,53
+201920,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second Class Degree or Better,20730,74
+201920,Academic year,National,E92000001,England,Postgraduate,Degree Class,Lower Second,6285,22
+201920,Academic year,National,E92000001,England,Postgraduate,Degree Class,Other Degree Class,1185,4
+201920,Academic year,National,E92000001,England,Postgraduate,Degree Class,Total Known Degree Class,28200,96
+201920,Academic year,National,E92000001,England,Undergraduate,Total,Primary,4528,100
+201920,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Male,599,13
+201920,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Female,3927,87
+201920,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Other Sex,2,0
+201920,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Known Sex,4528,100
+201920,Academic year,National,E92000001,England,Undergraduate,Total,Secondary,366,7
+201920,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Male,110,30
+201920,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Female,255,70
+201920,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Other Sex,1,0
+201920,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Known Sex,366,100
+201920,Academic year,National,E92000001,England,Undergraduate,Sex,Total Known Sex,4894,100
+201920,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Asian / Asian British,356,7
+201920,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Black / African / Caribbean / Black British,63,1
+201920,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Mixed / Multiple ethnic groups,116,2
+201920,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Other ethnic group,33,1
+201920,Academic year,National,E92000001,England,Undergraduate,Ethnicity,White,4294,88
+201920,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Total Known Ethnicity,4862,99
+201920,Academic year,National,E92000001,England,Undergraduate,Age,Under 25,4429,442900
+201920,Academic year,National,E92000001,England,Undergraduate,Age,25 to 29,212,21200
+201920,Academic year,National,E92000001,England,Undergraduate,Age,30 to 34,117,11700
+201920,Academic year,National,E92000001,England,Undergraduate,Age,35 to 39,57,5700
+201920,Academic year,National,E92000001,England,Undergraduate,Age,40 to 44,46,4600
+201920,Academic year,National,E92000001,England,Undergraduate,Age,45 to 49,24,2400
+201920,Academic year,National,E92000001,England,Undergraduate,Age,50 to 54,6,600
+201920,Academic year,National,E92000001,England,Undergraduate,Age,55 and over,3,300
+201920,Academic year,National,E92000001,England,Undergraduate,Disability,Declared,760,16
+201920,Academic year,National,E92000001,England,Undergraduate,Disability,No Disability Declared,4133,84
+201920,Academic year,National,E92000001,England,Undergraduate,Disability,Total Known Disability,4893,100
+201920,Academic year,National,E92000001,England,Undergraduate,Nationality,UK,4642,97
+201920,Academic year,National,E92000001,England,Undergraduate,Nationality,EEA,101,2
+201920,Academic year,National,E92000001,England,Undergraduate,Nationality,Other Nationality,62,1
+201920,Academic year,National,E92000001,England,Undergraduate,Nationality,Total Known Nationality,4805,98
+201920,Academic year,National,E92000001,England,Undergraduate,Degree Class,First,z,z
+201920,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second,z,z
+201920,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second Class Degree or Better,z,z
+201920,Academic year,National,E92000001,England,Undergraduate,Degree Class,Lower Second,z,z
+201920,Academic year,National,E92000001,England,Undergraduate,Degree Class,Other Degree Class,z,z
+201920,Academic year,National,E92000001,England,Undergraduate,Degree Class,Total Known Degree Class,z,z
+202021,Academic year,National,E92000001,England,Postgraduate,Total,Primary,14597,100
+202021,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Male,2416,17
+202021,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Female,12167,83
+202021,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Other Sex,14,0
+202021,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Known Sex,14597,100
+202021,Academic year,National,E92000001,England,Postgraduate,Total,Secondary,20366,58
+202021,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Male,7927,39
+202021,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Female,12382,61
+202021,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Other Sex,57,0
+202021,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Known Sex,20366,100
+202021,Academic year,National,E92000001,England,Postgraduate,Sex,Total Known Sex,34963,100
+202021,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Asian / Asian British,3442,10
+202021,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Black / African / Caribbean / Black British,1446,4
+202021,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Mixed / Multiple ethnic groups,1082,3
+202021,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Other ethnic group,504,2
+202021,Academic year,National,E92000001,England,Postgraduate,Ethnicity,White,26745,81
+202021,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Total Known Ethnicity,33219,95
+202021,Academic year,National,E92000001,England,Postgraduate,Age,Under 25,17661,1766100
+202021,Academic year,National,E92000001,England,Postgraduate,Age,25 to 29,8504,850400
+202021,Academic year,National,E92000001,England,Postgraduate,Age,30 to 34,3163,316300
+202021,Academic year,National,E92000001,England,Postgraduate,Age,35 to 39,2025,202500
+202021,Academic year,National,E92000001,England,Postgraduate,Age,40 to 44,1608,160800
+202021,Academic year,National,E92000001,England,Postgraduate,Age,45 to 49,1128,112800
+202021,Academic year,National,E92000001,England,Postgraduate,Age,50 to 54,599,59900
+202021,Academic year,National,E92000001,England,Postgraduate,Age,55 and over,275,27500
+202021,Academic year,National,E92000001,England,Postgraduate,Disability,Declared,4549,13
+202021,Academic year,National,E92000001,England,Postgraduate,Disability,No Disability Declared,30029,87
+202021,Academic year,National,E92000001,England,Postgraduate,Disability,Total Known Disability,34578,99
+202021,Academic year,National,E92000001,England,Postgraduate,Nationality,UK,31418,92
+202021,Academic year,National,E92000001,England,Postgraduate,Nationality,EEA,1747,5
+202021,Academic year,National,E92000001,England,Postgraduate,Nationality,Other Nationality,919,3
+202021,Academic year,National,E92000001,England,Postgraduate,Nationality,Total Known Nationality,34084,97
+202021,Academic year,National,E92000001,England,Postgraduate,Degree Class,First,7919,23
+202021,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second,18024,52
+202021,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second Class Degree or Better,25943,75
+202021,Academic year,National,E92000001,England,Postgraduate,Degree Class,Lower Second,7158,21
+202021,Academic year,National,E92000001,England,Postgraduate,Degree Class,Other Degree Class,1475,4
+202021,Academic year,National,E92000001,England,Postgraduate,Degree Class,Total Known Degree Class,34576,99
+202021,Academic year,National,E92000001,England,Undergraduate,Total,Primary,5265,100
+202021,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Male,565,11
+202021,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Female,4698,89
+202021,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Other Sex,2,0
+202021,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Known Sex,5265,100
+202021,Academic year,National,E92000001,England,Undergraduate,Total,Secondary,725,12
+202021,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Male,168,23
+202021,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Female,557,77
+202021,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Other Sex,0,0
+202021,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Known Sex,725,100
+202021,Academic year,National,E92000001,England,Undergraduate,Sex,Total Known Sex,5990,100
+202021,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Asian / Asian British,597,10
+202021,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Black / African / Caribbean / Black British,120,2
+202021,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Mixed / Multiple ethnic groups,151,3
+202021,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Other ethnic group,53,1
+202021,Academic year,National,E92000001,England,Undergraduate,Ethnicity,White,5034,85
+202021,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Total Known Ethnicity,5955,99
+202021,Academic year,National,E92000001,England,Undergraduate,Age,Under 25,5455,545500
+202021,Academic year,National,E92000001,England,Undergraduate,Age,25 to 29,247,24700
+202021,Academic year,National,E92000001,England,Undergraduate,Age,30 to 34,122,12200
+202021,Academic year,National,E92000001,England,Undergraduate,Age,35 to 39,81,8100
+202021,Academic year,National,E92000001,England,Undergraduate,Age,40 to 44,49,4900
+202021,Academic year,National,E92000001,England,Undergraduate,Age,45 to 49,28,2800
+202021,Academic year,National,E92000001,England,Undergraduate,Age,50 to 54,7,700
+202021,Academic year,National,E92000001,England,Undergraduate,Age,55 and over,1,100
+202021,Academic year,National,E92000001,England,Undergraduate,Disability,Declared,1036,17
+202021,Academic year,National,E92000001,England,Undergraduate,Disability,No Disability Declared,4954,83
+202021,Academic year,National,E92000001,England,Undergraduate,Disability,Total Known Disability,5990,100
+202021,Academic year,National,E92000001,England,Undergraduate,Nationality,UK,5666,96
+202021,Academic year,National,E92000001,England,Undergraduate,Nationality,EEA,130,2
+202021,Academic year,National,E92000001,England,Undergraduate,Nationality,Other Nationality,79,1
+202021,Academic year,National,E92000001,England,Undergraduate,Nationality,Total Known Nationality,5875,98
+202021,Academic year,National,E92000001,England,Undergraduate,Degree Class,First,z,z
+202021,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second,z,z
+202021,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second Class Degree or Better,z,z
+202021,Academic year,National,E92000001,England,Undergraduate,Degree Class,Lower Second,z,z
+202021,Academic year,National,E92000001,England,Undergraduate,Degree Class,Other Degree Class,z,z
+202021,Academic year,National,E92000001,England,Undergraduate,Degree Class,Total Known Degree Class,z,z
+202122,Academic year,National,E92000001,England,Postgraduate,Total,Primary,14192,100
+202122,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Male,2276,16
+202122,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Female,11808,84
+202122,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Other Sex,12,0
+202122,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Known Sex,14096,99
+202122,Academic year,National,E92000001,England,Postgraduate,Total,Secondary,16091,53
+202122,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Male,6220,39
+202122,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Female,9652,61
+202122,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Other Sex,27,0
+202122,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Known Sex,15899,99
+202122,Academic year,National,E92000001,England,Postgraduate,Sex,Total Known Sex,29995,99
+202122,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Asian / Asian British,2912,11
+202122,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Black / African / Caribbean / Black British,1159,4
+202122,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Mixed / Multiple ethnic groups,908,3
+202122,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Other ethnic group,471,2
+202122,Academic year,National,E92000001,England,Postgraduate,Ethnicity,White,21643,80
+202122,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Total Known Ethnicity,27093,89
+202122,Academic year,National,E92000001,England,Postgraduate,Age,Under 25,15804,1580400
+202122,Academic year,National,E92000001,England,Postgraduate,Age,25 to 29,7260,726000
+202122,Academic year,National,E92000001,England,Postgraduate,Age,30 to 34,2803,280300
+202122,Academic year,National,E92000001,England,Postgraduate,Age,35 to 39,1679,167900
+202122,Academic year,National,E92000001,England,Postgraduate,Age,40 to 44,1300,130000
+202122,Academic year,National,E92000001,England,Postgraduate,Age,45 to 49,863,86300
+202122,Academic year,National,E92000001,England,Postgraduate,Age,50 to 54,422,42200
+202122,Academic year,National,E92000001,England,Postgraduate,Age,55 and over,152,15200
+202122,Academic year,National,E92000001,England,Postgraduate,Disability,Declared,3726,14
+202122,Academic year,National,E92000001,England,Postgraduate,Disability,No Disability Declared,23614,86
+202122,Academic year,National,E92000001,England,Postgraduate,Disability,Total Known Disability,27340,90
+202122,Academic year,National,E92000001,England,Postgraduate,Nationality,UK,27628,93
+202122,Academic year,National,E92000001,England,Postgraduate,Nationality,EEA,1210,4
+202122,Academic year,National,E92000001,England,Postgraduate,Nationality,Other Nationality,823,3
+202122,Academic year,National,E92000001,England,Postgraduate,Nationality,Total Known Nationality,29661,98
+202122,Academic year,National,E92000001,England,Postgraduate,Degree Class,First,7504,26
+202122,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second,15008,52
+202122,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second Class Degree or Better,22512,77
+202122,Academic year,National,E92000001,England,Postgraduate,Degree Class,Lower Second,5416,19
+202122,Academic year,National,E92000001,England,Postgraduate,Degree Class,Other Degree Class,1134,4
+202122,Academic year,National,E92000001,England,Postgraduate,Degree Class,Total Known Degree Class,29062,96
+202122,Academic year,National,E92000001,England,Undergraduate,Total,Primary,5713,100
+202122,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Male,671,12
+202122,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Female,4927,88
+202122,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Other Sex,10,0
+202122,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Known Sex,5608,98
+202122,Academic year,National,E92000001,England,Undergraduate,Total,Secondary,361,6
+202122,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Male,158,44
+202122,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Female,202,56
+202122,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Other Sex,1,0
+202122,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Known Sex,361,100
+202122,Academic year,National,E92000001,England,Undergraduate,Sex,Total Known Sex,5969,98
+202122,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Asian / Asian British,619,11
+202122,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Black / African / Caribbean / Black British,148,3
+202122,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Mixed / Multiple ethnic groups,166,3
+202122,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Other ethnic group,57,1
+202122,Academic year,National,E92000001,England,Undergraduate,Ethnicity,White,4869,83
+202122,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Total Known Ethnicity,5859,96
+202122,Academic year,National,E92000001,England,Undergraduate,Age,Under 25,5517,551700
+202122,Academic year,National,E92000001,England,Undergraduate,Age,25 to 29,264,26400
+202122,Academic year,National,E92000001,England,Undergraduate,Age,30 to 34,133,13300
+202122,Academic year,National,E92000001,England,Undergraduate,Age,35 to 39,69,6900
+202122,Academic year,National,E92000001,England,Undergraduate,Age,40 to 44,52,5200
+202122,Academic year,National,E92000001,England,Undergraduate,Age,45 to 49,26,2600
+202122,Academic year,National,E92000001,England,Undergraduate,Age,50 to 54,11,1100
+202122,Academic year,National,E92000001,England,Undergraduate,Age,55 and over,2,200
+202122,Academic year,National,E92000001,England,Undergraduate,Disability,Declared,1013,17
+202122,Academic year,National,E92000001,England,Undergraduate,Disability,No Disability Declared,4811,83
+202122,Academic year,National,E92000001,England,Undergraduate,Disability,Total Known Disability,5824,96
+202122,Academic year,National,E92000001,England,Undergraduate,Nationality,UK,5542,96
+202122,Academic year,National,E92000001,England,Undergraduate,Nationality,EEA,127,2
+202122,Academic year,National,E92000001,England,Undergraduate,Nationality,Other Nationality,94,2
+202122,Academic year,National,E92000001,England,Undergraduate,Nationality,Total Known Nationality,5763,95
+202122,Academic year,National,E92000001,England,Undergraduate,Degree Class,First,z,z
+202122,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second,z,z
+202122,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second Class Degree or Better,z,z
+202122,Academic year,National,E92000001,England,Undergraduate,Degree Class,Lower Second,z,z
+202122,Academic year,National,E92000001,England,Undergraduate,Degree Class,Other Degree Class,z,z
+202122,Academic year,National,E92000001,England,Undergraduate,Degree Class,Total Known Degree Class,z,z
+202223,Academic year,National,E92000001,England,Postgraduate,Total,Primary,11010,100
+202223,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Male,1695,16
+202223,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Female,9176,84
+202223,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Other Sex,22,0
+202223,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Known Sex,10893,99
+202223,Academic year,National,E92000001,England,Postgraduate,Total,Secondary,12596,53
+202223,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Male,4861,39
+202223,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Female,7547,61
+202223,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Other Sex,41,0
+202223,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Known Sex,12449,99
+202223,Academic year,National,E92000001,England,Postgraduate,Sex,Total Known Sex,23342,99
+202223,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Asian / Asian British,2867,13
+202223,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Black / African / Caribbean / Black British,1050,5
+202223,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Mixed / Multiple ethnic groups,842,4
+202223,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Other ethnic group,405,2
+202223,Academic year,National,E92000001,England,Postgraduate,Ethnicity,White,17557,77
+202223,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Total Known Ethnicity,22721,96
+202223,Academic year,National,E92000001,England,Postgraduate,Age,Under 25,12314,1231400
+202223,Academic year,National,E92000001,England,Postgraduate,Age,25 to 29,5488,548800
+202223,Academic year,National,E92000001,England,Postgraduate,Age,30 to 34,2125,212500
+202223,Academic year,National,E92000001,England,Postgraduate,Age,35 to 39,1358,135800
+202223,Academic year,National,E92000001,England,Postgraduate,Age,40 to 44,1098,109800
+202223,Academic year,National,E92000001,England,Postgraduate,Age,45 to 49,724,72400
+202223,Academic year,National,E92000001,England,Postgraduate,Age,50 to 54,344,34400
+202223,Academic year,National,E92000001,England,Postgraduate,Age,55 and over,155,15500
+202223,Academic year,National,E92000001,England,Postgraduate,Disability,Declared,2969,13
+202223,Academic year,National,E92000001,England,Postgraduate,Disability,No Disability Declared,19923,87
+202223,Academic year,National,E92000001,England,Postgraduate,Disability,Total Known Disability,22892,97
+202223,Academic year,National,E92000001,England,Postgraduate,Nationality,UK,20019,91
+202223,Academic year,National,E92000001,England,Postgraduate,Nationality,EEA,1201,5
+202223,Academic year,National,E92000001,England,Postgraduate,Nationality,Other Nationality,722,3
+202223,Academic year,National,E92000001,England,Postgraduate,Nationality,Total Known Nationality,21942,93
+202223,Academic year,National,E92000001,England,Postgraduate,Degree Class,First,5489,24
+202223,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second,11682,52
+202223,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second Class Degree or Better,17171,76
+202223,Academic year,National,E92000001,England,Postgraduate,Degree Class,Lower Second,4402,19
+202223,Academic year,National,E92000001,England,Postgraduate,Degree Class,Other Degree Class,1073,5
+202223,Academic year,National,E92000001,England,Postgraduate,Degree Class,Total Known Degree Class,22646,96
+202223,Academic year,National,E92000001,England,Undergraduate,Total,Primary,5479,100
+202223,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Male,594,11
+202223,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Female,4860,89
+202223,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Other Sex,5,0
+202223,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Known Sex,5459,100
+202223,Academic year,National,E92000001,England,Undergraduate,Total,Secondary,328,6
+202223,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Male,144,44
+202223,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Female,184,56
+202223,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Other Sex,0,0
+202223,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Known Sex,328,100
+202223,Academic year,National,E92000001,England,Undergraduate,Sex,Total Known Sex,5787,100
+202223,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Asian / Asian British,647,11
+202223,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Black / African / Caribbean / Black British,138,2
+202223,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Mixed / Multiple ethnic groups,167,3
+202223,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Other ethnic group,55,1
+202223,Academic year,National,E92000001,England,Undergraduate,Ethnicity,White,4684,82
+202223,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Total Known Ethnicity,5691,98
+202223,Academic year,National,E92000001,England,Undergraduate,Age,Under 25,5391,539100
+202223,Academic year,National,E92000001,England,Undergraduate,Age,25 to 29,214,21400
+202223,Academic year,National,E92000001,England,Undergraduate,Age,30 to 34,91,9100
+202223,Academic year,National,E92000001,England,Undergraduate,Age,35 to 39,64,6400
+202223,Academic year,National,E92000001,England,Undergraduate,Age,40 to 44,24,2400
+202223,Academic year,National,E92000001,England,Undergraduate,Age,45 to 49,18,1800
+202223,Academic year,National,E92000001,England,Undergraduate,Age,50 to 54,5,500
+202223,Academic year,National,E92000001,England,Undergraduate,Age,55 and over,0,0
+202223,Academic year,National,E92000001,England,Undergraduate,Disability,Declared,1078,19
+202223,Academic year,National,E92000001,England,Undergraduate,Disability,No Disability Declared,4572,81
+202223,Academic year,National,E92000001,England,Undergraduate,Disability,Total Known Disability,5650,97
+202223,Academic year,National,E92000001,England,Undergraduate,Nationality,UK,5225,96
+202223,Academic year,National,E92000001,England,Undergraduate,Nationality,EEA,131,2
+202223,Academic year,National,E92000001,England,Undergraduate,Nationality,Other Nationality,95,2
+202223,Academic year,National,E92000001,England,Undergraduate,Nationality,Total Known Nationality,5451,94
+202223,Academic year,National,E92000001,England,Undergraduate,Degree Class,First,z,z
+202223,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second,z,z
+202223,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second Class Degree or Better,z,z
+202223,Academic year,National,E92000001,England,Undergraduate,Degree Class,Lower Second,z,z
+202223,Academic year,National,E92000001,England,Undergraduate,Degree Class,Other Degree Class,z,z
+202223,Academic year,National,E92000001,England,Undergraduate,Degree Class,Total Known Degree Class,z,z
+202324,Academic year,National,E92000001,England,Postgraduate,Total,Primary,9125,100
+202324,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Male,1412,16
+202324,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Female,7364,84
+202324,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Other Sex,25,0
+202324,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Known Sex,8801,96
+202324,Academic year,National,E92000001,England,Postgraduate,Total,Secondary,13551,60
+202324,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Male,5166,39
+202324,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Female,8014,61
+202324,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Other Sex,48,0
+202324,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Known Sex,13228,98
+202324,Academic year,National,E92000001,England,Postgraduate,Sex,Total Known Sex,22029,97
+202324,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Asian / Asian British,2909,14
+202324,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Black / African / Caribbean / Black British,1202,6
+202324,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Mixed / Multiple ethnic groups,870,4
+202324,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Other ethnic group,432,2
+202324,Academic year,National,E92000001,England,Postgraduate,Ethnicity,White,16006,75
+202324,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Total Known Ethnicity,21419,94
+202324,Academic year,National,E92000001,England,Postgraduate,Age,Under 25,11775,1177500
+202324,Academic year,National,E92000001,England,Postgraduate,Age,25 to 29,4848,484800
+202324,Academic year,National,E92000001,England,Postgraduate,Age,30 to 34,2040,204000
+202324,Academic year,National,E92000001,England,Postgraduate,Age,35 to 39,1366,136600
+202324,Academic year,National,E92000001,England,Postgraduate,Age,40 to 44,1176,117600
+202324,Academic year,National,E92000001,England,Postgraduate,Age,45 to 49,810,81000
+202324,Academic year,National,E92000001,England,Postgraduate,Age,50 to 54,445,44500
+202324,Academic year,National,E92000001,England,Postgraduate,Age,55 and over,216,21600
+202324,Academic year,National,E92000001,England,Postgraduate,Disability,Declared,3718,18
+202324,Academic year,National,E92000001,England,Postgraduate,Disability,No Disability Declared,17475,82
+202324,Academic year,National,E92000001,England,Postgraduate,Disability,Total Known Disability,21193,93
+202324,Academic year,National,E92000001,England,Postgraduate,Nationality,UK,19363,91
+202324,Academic year,National,E92000001,England,Postgraduate,Nationality,EEA,880,4
+202324,Academic year,National,E92000001,England,Postgraduate,Nationality,Other Nationality,1053,5
+202324,Academic year,National,E92000001,England,Postgraduate,Nationality,Total Known Nationality,21296,94
+202324,Academic year,National,E92000001,England,Postgraduate,Degree Class,First,4761,22
+202324,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second,10955,51
+202324,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second Class Degree or Better,15716,73
+202324,Academic year,National,E92000001,England,Postgraduate,Degree Class,Lower Second,4387,20
+202324,Academic year,National,E92000001,England,Postgraduate,Degree Class,Other Degree Class,1322,6
+202324,Academic year,National,E92000001,England,Postgraduate,Degree Class,Total Known Degree Class,21425,94
+202324,Academic year,National,E92000001,England,Undergraduate,Total,Primary,4726,100
+202324,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Male,548,12
+202324,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Female,4133,88
+202324,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Other Sex,4,0
+202324,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Known Sex,4685,99
+202324,Academic year,National,E92000001,England,Undergraduate,Total,Secondary,258,5
+202324,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Male,98,38
+202324,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Female,159,62
+202324,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Other Sex,1,0
+202324,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Known Sex,258,100
+202324,Academic year,National,E92000001,England,Undergraduate,Sex,Total Known Sex,4943,99
+202324,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Asian / Asian British,626,14
+202324,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Black / African / Caribbean / Black British,117,3
+202324,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Mixed / Multiple ethnic groups,156,3
+202324,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Other ethnic group,61,1
+202324,Academic year,National,E92000001,England,Undergraduate,Ethnicity,White,3565,79
+202324,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Total Known Ethnicity,4525,91
+202324,Academic year,National,E92000001,England,Undergraduate,Age,Under 25,4676,467600
+202324,Academic year,National,E92000001,England,Undergraduate,Age,25 to 29,147,14700
+202324,Academic year,National,E92000001,England,Undergraduate,Age,30 to 34,70,7000
+202324,Academic year,National,E92000001,England,Undergraduate,Age,35 to 39,37,3700
+202324,Academic year,National,E92000001,England,Undergraduate,Age,40 to 44,32,3200
+202324,Academic year,National,E92000001,England,Undergraduate,Age,45 to 49,15,1500
+202324,Academic year,National,E92000001,England,Undergraduate,Age,50 to 54,4,400
+202324,Academic year,National,E92000001,England,Undergraduate,Age,55 and over,3,300
+202324,Academic year,National,E92000001,England,Undergraduate,Disability,Declared,1060,22
+202324,Academic year,National,E92000001,England,Undergraduate,Disability,No Disability Declared,3816,78
+202324,Academic year,National,E92000001,England,Undergraduate,Disability,Total Known Disability,4876,98
+202324,Academic year,National,E92000001,England,Undergraduate,Nationality,UK,4568,97
+202324,Academic year,National,E92000001,England,Undergraduate,Nationality,EEA,92,2
+202324,Academic year,National,E92000001,England,Undergraduate,Nationality,Other Nationality,73,2
+202324,Academic year,National,E92000001,England,Undergraduate,Nationality,Total Known Nationality,4733,95
+202324,Academic year,National,E92000001,England,Undergraduate,Degree Class,First,z,z
+202324,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second,z,z
+202324,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second Class Degree or Better,z,z
+202324,Academic year,National,E92000001,England,Undergraduate,Degree Class,Lower Second,z,z
+202324,Academic year,National,E92000001,England,Undergraduate,Degree Class,Other Degree Class,z,z
+202324,Academic year,National,E92000001,England,Undergraduate,Degree Class,Total Known Degree Class,z,z
+202425,Academic year,National,E92000001,England,Postgraduate,Total,Primary,8853,100
+202425,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Male,1370,16
+202425,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Female,7269,84
+202425,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Other Sex,35,0
+202425,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Known Sex,8674,98
+202425,Academic year,National,E92000001,England,Postgraduate,Total,Secondary,15255,63
+202425,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Male,5943,40
+202425,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Female,9020,60
+202425,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Other Sex,55,0
+202425,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Known Sex,15018,98
+202425,Academic year,National,E92000001,England,Postgraduate,Sex,Total Known Sex,23692,98
+202425,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Asian / Asian British,3405,15
+202425,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Black / African / Caribbean / Black British,1569,7
+202425,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Mixed / Multiple ethnic groups,965,4
+202425,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Other ethnic group,559,2
+202425,Academic year,National,E92000001,England,Postgraduate,Ethnicity,White,16478,72
+202425,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Total Known Ethnicity,22976,95
+202425,Academic year,National,E92000001,England,Postgraduate,Age,Under 25,12227,1222700
+202425,Academic year,National,E92000001,England,Postgraduate,Age,25 to 29,5263,526300
+202425,Academic year,National,E92000001,England,Postgraduate,Age,30 to 34,2182,218200
+202425,Academic year,National,E92000001,England,Postgraduate,Age,35 to 39,1511,151100
+202425,Academic year,National,E92000001,England,Postgraduate,Age,40 to 44,1278,127800
+202425,Academic year,National,E92000001,England,Postgraduate,Age,45 to 49,842,84200
+202425,Academic year,National,E92000001,England,Postgraduate,Age,50 to 54,525,52500
+202425,Academic year,National,E92000001,England,Postgraduate,Age,55 and over,280,28000
+202425,Academic year,National,E92000001,England,Postgraduate,Disability,Declared,4335,19
+202425,Academic year,National,E92000001,England,Postgraduate,Disability,No Disability Declared,18414,81
+202425,Academic year,National,E92000001,England,Postgraduate,Disability,Total Known Disability,22749,94
+202425,Academic year,National,E92000001,England,Postgraduate,Nationality,UK,20586,88
+202425,Academic year,National,E92000001,England,Postgraduate,Nationality,EEA,1381,6
+202425,Academic year,National,E92000001,England,Postgraduate,Nationality,Other Nationality,1351,6
+202425,Academic year,National,E92000001,England,Postgraduate,Nationality,Total Known Nationality,23318,97
+202425,Academic year,National,E92000001,England,Postgraduate,Degree Class,First,4907,21
+202425,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second,11595,51
+202425,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second Class Degree or Better,16502,72
+202425,Academic year,National,E92000001,England,Postgraduate,Degree Class,Lower Second,4700,21
+202425,Academic year,National,E92000001,England,Postgraduate,Degree Class,Other Degree Class,1641,7
+202425,Academic year,National,E92000001,England,Postgraduate,Degree Class,Total Known Degree Class,22843,95
+202425,Academic year,National,E92000001,England,Undergraduate,Total,Primary,4545,100
+202425,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Male,546,12
+202425,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Female,3957,87
+202425,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Other Sex,23,1
+202425,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Known Sex,4526,100
+202425,Academic year,National,E92000001,England,Undergraduate,Total,Secondary,245,5
+202425,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Male,105,44
+202425,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Female,135,56
+202425,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Other Sex,1,0
+202425,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Known Sex,241,98
+202425,Academic year,National,E92000001,England,Undergraduate,Sex,Total Known Sex,4767,100
+202425,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Asian / Asian British,638,15
+202425,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Black / African / Caribbean / Black British,178,4
+202425,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Mixed / Multiple ethnic groups,149,3
+202425,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Other ethnic group,70,2
+202425,Academic year,National,E92000001,England,Undergraduate,Ethnicity,White,3290,76
+202425,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Total Known Ethnicity,4325,90
+202425,Academic year,National,E92000001,England,Undergraduate,Age,Under 25,4540,454000
+202425,Academic year,National,E92000001,England,Undergraduate,Age,25 to 29,124,12400
+202425,Academic year,National,E92000001,England,Undergraduate,Age,30 to 34,54,5400
+202425,Academic year,National,E92000001,England,Undergraduate,Age,35 to 39,33,3300
+202425,Academic year,National,E92000001,England,Undergraduate,Age,40 to 44,22,2200
+202425,Academic year,National,E92000001,England,Undergraduate,Age,45 to 49,10,1000
+202425,Academic year,National,E92000001,England,Undergraduate,Age,50 to 54,7,700
+202425,Academic year,National,E92000001,England,Undergraduate,Age,55 and over,0,0
+202425,Academic year,National,E92000001,England,Undergraduate,Disability,Declared,952,21
+202425,Academic year,National,E92000001,England,Undergraduate,Disability,No Disability Declared,3668,79
+202425,Academic year,National,E92000001,England,Undergraduate,Disability,Total Known Disability,4620,96
+202425,Academic year,National,E92000001,England,Undergraduate,Nationality,UK,4310,96
+202425,Academic year,National,E92000001,England,Undergraduate,Nationality,EEA,99,2
+202425,Academic year,National,E92000001,England,Undergraduate,Nationality,Other Nationality,76,2
+202425,Academic year,National,E92000001,England,Undergraduate,Nationality,Total Known Nationality,4485,94
+202425,Academic year,National,E92000001,England,Undergraduate,Degree Class,First,z,z
+202425,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second,z,z
+202425,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second Class Degree or Better,z,z
+202425,Academic year,National,E92000001,England,Undergraduate,Degree Class,Lower Second,z,z
+202425,Academic year,National,E92000001,England,Undergraduate,Degree Class,Other Degree Class,z,z
+202425,Academic year,National,E92000001,England,Undergraduate,Degree Class,Total Known Degree Class,z,z
+202526,Academic year,National,E92000001,England,Postgraduate,Total,Primary,9645,100
+202526,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Male,1362,14
+202526,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Female,8195,86
+202526,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Other Sex,15,0
+202526,Academic year,National,E92000001,England,Postgraduate,Sex,Primary Known Sex,9572,99
+202526,Academic year,National,E92000001,England,Postgraduate,Total,Secondary,16975,64
+202526,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Male,6771,40
+202526,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Female,9935,59
+202526,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Other Sex,60,0
+202526,Academic year,National,E92000001,England,Postgraduate,Sex,Secondary Known Sex,16766,99
+202526,Academic year,National,E92000001,England,Postgraduate,Sex,Total Known Sex,26338,99
+202526,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Asian / Asian British,4014,16
+202526,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Black / African / Caribbean / Black British,2047,8
+202526,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Mixed / Multiple ethnic groups,1138,4
+202526,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Other ethnic group,638,3
+202526,Academic year,National,E92000001,England,Postgraduate,Ethnicity,White,17518,69
+202526,Academic year,National,E92000001,England,Postgraduate,Ethnicity,Total Known Ethnicity,25355,95
+202526,Academic year,National,E92000001,England,Postgraduate,Age,Under 25,13439,1343900
+202526,Academic year,National,E92000001,England,Postgraduate,Age,25 to 29,5858,585800
+202526,Academic year,National,E92000001,England,Postgraduate,Age,30 to 34,2416,241600
+202526,Academic year,National,E92000001,England,Postgraduate,Age,35 to 39,1703,170300
+202526,Academic year,National,E92000001,England,Postgraduate,Age,40 to 44,1406,140600
+202526,Academic year,National,E92000001,England,Postgraduate,Age,45 to 49,950,95000
+202526,Academic year,National,E92000001,England,Postgraduate,Age,50 to 54,550,55000
+202526,Academic year,National,E92000001,England,Postgraduate,Age,55 and over,298,29800
+202526,Academic year,National,E92000001,England,Postgraduate,Disability,Declared,4817,20
+202526,Academic year,National,E92000001,England,Postgraduate,Disability,No Disability Declared,19542,80
+202526,Academic year,National,E92000001,England,Postgraduate,Disability,Total Known Disability,24359,92
+202526,Academic year,National,E92000001,England,Postgraduate,Nationality,UK,22492,86
+202526,Academic year,National,E92000001,England,Postgraduate,Nationality,EEA,1543,6
+202526,Academic year,National,E92000001,England,Postgraduate,Nationality,Other Nationality,2082,8
+202526,Academic year,National,E92000001,England,Postgraduate,Nationality,Total Known Nationality,26117,98
+202526,Academic year,National,E92000001,England,Postgraduate,Degree Class,First,5654,22
+202526,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second,12475,49
+202526,Academic year,National,E92000001,England,Postgraduate,Degree Class,Upper Second Class Degree or Better,18129,72
+202526,Academic year,National,E92000001,England,Postgraduate,Degree Class,Lower Second,4812,19
+202526,Academic year,National,E92000001,England,Postgraduate,Degree Class,Other Degree Class,2265,9
+202526,Academic year,National,E92000001,England,Postgraduate,Degree Class,Total Known Degree Class,25206,95
+202526,Academic year,National,E92000001,England,Undergraduate,Total,Primary,5262,100
+202526,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Male,430,8
+202526,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Female,4694,91
+202526,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Other Sex,17,0
+202526,Academic year,National,E92000001,England,Undergraduate,Sex,Primary Known Sex,5141,98
+202526,Academic year,National,E92000001,England,Undergraduate,Total,Secondary,293,5
+202526,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Male,115,43
+202526,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Female,155,57
+202526,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Other Sex,0,0
+202526,Academic year,National,E92000001,England,Undergraduate,Sex,Secondary Known Sex,270,92
+202526,Academic year,National,E92000001,England,Undergraduate,Sex,Total Known Sex,5411,97
+202526,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Asian / Asian British,718,14
+202526,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Black / African / Caribbean / Black British,148,3
+202526,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Mixed / Multiple ethnic groups,186,4
+202526,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Other ethnic group,93,2
+202526,Academic year,National,E92000001,England,Undergraduate,Ethnicity,White,3993,78
+202526,Academic year,National,E92000001,England,Undergraduate,Ethnicity,Total Known Ethnicity,5138,92
+202526,Academic year,National,E92000001,England,Undergraduate,Age,Under 25,5176,517600
+202526,Academic year,National,E92000001,England,Undergraduate,Age,25 to 29,160,16000
+202526,Academic year,National,E92000001,England,Undergraduate,Age,30 to 34,57,5700
+202526,Academic year,National,E92000001,England,Undergraduate,Age,35 to 39,72,7200
+202526,Academic year,National,E92000001,England,Undergraduate,Age,40 to 44,47,4700
+202526,Academic year,National,E92000001,England,Undergraduate,Age,45 to 49,28,2800
+202526,Academic year,National,E92000001,England,Undergraduate,Age,50 to 54,9,900
+202526,Academic year,National,E92000001,England,Undergraduate,Age,55 and over,6,600
+202526,Academic year,National,E92000001,England,Undergraduate,Disability,Declared,1017,21
+202526,Academic year,National,E92000001,England,Undergraduate,Disability,No Disability Declared,3886,79
+202526,Academic year,National,E92000001,England,Undergraduate,Disability,Total Known Disability,4903,88
+202526,Academic year,National,E92000001,England,Undergraduate,Nationality,UK,5066,95
+202526,Academic year,National,E92000001,England,Undergraduate,Nationality,EEA,137,3
+202526,Academic year,National,E92000001,England,Undergraduate,Nationality,Other Nationality,153,3
+202526,Academic year,National,E92000001,England,Undergraduate,Nationality,Total Known Nationality,5356,96
+202526,Academic year,National,E92000001,England,Undergraduate,Degree Class,First,z,z
+202526,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second,z,z
+202526,Academic year,National,E92000001,England,Undergraduate,Degree Class,Upper Second Class Degree or Better,z,z
+202526,Academic year,National,E92000001,England,Undergraduate,Degree Class,Lower Second,z,z
+202526,Academic year,National,E92000001,England,Undergraduate,Degree Class,Other Degree Class,z,z
+202526,Academic year,National,E92000001,England,Undergraduate,Degree Class,Total Known Degree Class,z,z

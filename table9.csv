@@ -1,0 +1,230 @@
+time_period,time_identifier,geographic_level,country_code,country_name,training_route,breakdown_topic,breakdown,trainee_number,trainee_percentage
+201920,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Total,Total,307,100
+201920,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Total,Total,41,100
+201920,Academic year,National,E92000001,England,Early Years ITT Undergraduate Entry,Total,Total,9,100
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Total,Total,348,100
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,Under 25,55,16
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,25 and Over,293,84
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Male,14,4
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Female,334,96
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Other Sex,0,0
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Total Known Sex,348,100
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Asian / Asian British,22,7
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Black / African / Caribbean / Black British,12,4
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Mixed / Multiple ethnic groups,6,2
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Other Ethnic group,1,0
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,White,276,87
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Total Known Ethnicity,317,91
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Declared,32,10
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,No Disability Declared,284,90
+201920,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Total Known Disability,316,91
+201920,Academic year,National,E92000001,England,Early Years ITT Total,Total,Total,357,100
+202021,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Total,Total,478,100
+202021,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Total,Total,77,100
+202021,Academic year,National,E92000001,England,Early Years ITT Undergraduate Entry,Total,Total,26,100
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Total,Total,555,100
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,Under 25,130,23
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,25 and Over,425,77
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Male,15,3
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Female,537,97
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Other Sex,3,1
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Total Known Sex,555,100
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Asian / Asian British,46,11
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Black / African / Caribbean / Black British,20,5
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Mixed / Multiple ethnic groups,11,3
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Other Ethnic group,4,1
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,White,348,81
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Total Known Ethnicity,429,77
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Declared,41,8
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,No Disability Declared,476,92
+202021,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Total Known Disability,517,93
+202021,Academic year,National,E92000001,England,Early Years ITT Total,Total,Total,581,100
+202122,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Total,Total,374,100
+202122,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Total,Total,69,100
+202122,Academic year,National,E92000001,England,Early Years ITT Undergraduate Entry,Total,Total,15,100
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Total,Total,443,100
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,Under 25,114,26
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,25 and Over,329,74
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Male,14,3
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Female,427,97
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Other Sex,0,0
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Total Known Sex,441,100
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Asian / Asian British,34,9
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Black / African / Caribbean / Black British,13,4
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Mixed / Multiple ethnic groups,12,3
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Other Ethnic group,3,1
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,White,307,83
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Total Known Ethnicity,369,83
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Declared,32,9
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,No Disability Declared,330,91
+202122,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Total Known Disability,362,82
+202122,Academic year,National,E92000001,England,Early Years ITT Total,Total,Total,458,100
+202223,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Total,Total,430,100
+202223,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Total,Total,58,100
+202223,Academic year,National,E92000001,England,Early Years ITT Undergraduate Entry,Total,Total,4,100
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Total,Total,488,100
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,Under 25,112,23
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,25 and Over,376,77
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Male,14,3
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Female,462,97
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Other Sex,0,0
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Total Known Sex,476,98
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Asian / Asian British,30,8
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Black / African / Caribbean / Black British,13,3
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Mixed / Multiple ethnic groups,5,1
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Other Ethnic group,4,1
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,White,339,87
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Total Known Ethnicity,391,80
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Declared,20,7
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,No Disability Declared,268,93
+202223,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Total Known Disability,288,59
+202223,Academic year,National,E92000001,England,Early Years ITT Total,Total,Total,492,100
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Total,Total,541,100
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Age,Under 25,100,18
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Age,25 and Over,441,82
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Sex,Male,17,3
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Sex,Female,511,97
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Sex,Other Sex,1,0
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Sex,Total Known Sex,529,98
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Asian / Asian British,59,12
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Black / African / Caribbean / Black British,19,4
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Mixed / Multiple ethnic groups,17,3
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Other Ethnic group,7,1
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,White,392,79
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Total Known Ethnicity,494,91
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Disability,Declared,29,13
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Disability,No Disability Declared,193,87
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Disability,Total Known Disability,222,41
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Total,Total,41,100
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Age,Under 25,12,29
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Age,25 and Over,29,71
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Sex,Male,1,3
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Sex,Female,37,97
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Sex,Other Sex,0,0
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Sex,Total Known Sex,38,93
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Asian / Asian British,7,25
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Black / African / Caribbean / Black British,7,25
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Mixed / Multiple ethnic groups,1,4
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Other Ethnic group,0,0
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,White,13,46
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Total Known Ethnicity,28,68
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Disability,Declared,3,16
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Disability,No Disability Declared,16,84
+202324,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Disability,Total Known Disability,19,46
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Total,Total,582,100
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,Under 25,112,19
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,25 and Over,470,81
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Male,18,3
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Female,548,97
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Other Sex,1,0
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Total Known Sex,567,97
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Asian / Asian British,66,13
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Black / African / Caribbean / Black British,26,5
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Mixed / Multiple ethnic groups,18,3
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Other Ethnic group,7,1
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,White,405,78
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Total Known Ethnicity,522,90
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Declared,32,13
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,No Disability Declared,209,87
+202324,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Total Known Disability,241,41
+202324,Academic year,National,E92000001,England,Early Years ITT Total,Total,Total,582,100
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Total,Total,521,100
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Age,Under 25,99,19
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Age,25 and Over,422,81
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Sex,Male,14,3
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Sex,Female,493,97
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Sex,Other Sex,2,0
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Sex,Total Known Sex,509,98
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Asian / Asian British,66,13
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Black / African / Caribbean / Black British,33,7
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Mixed / Multiple ethnic groups,12,2
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Other Ethnic group,7,1
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,White,379,76
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Total Known Ethnicity,497,95
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Disability,Declared,38,8
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Disability,No Disability Declared,440,92
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Disability,Total Known Disability,478,92
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Total,Total,58,100
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Age,Under 25,10,17
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Age,25 and Over,48,83
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Sex,Male,3,7
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Sex,Female,41,91
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Sex,Other Sex,1,2
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Sex,Total Known Sex,45,78
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Asian / Asian British,6,13
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Black / African / Caribbean / Black British,16,36
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Mixed / Multiple ethnic groups,2,4
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Other Ethnic group,2,4
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,White,19,42
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Total Known Ethnicity,45,78
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Disability,Declared,1,3
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Disability,No Disability Declared,36,97
+202425,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Disability,Total Known Disability,37,64
+202425,Academic year,National,E92000001,England,Early Years ITT Undergraduate Entry,Total,Total,1,100
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Total,Total,579,100
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,Under 25,109,19
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,25 and Over,470,81
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Male,17,3
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Female,534,96
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Other Sex,3,1
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Total Known Sex,554,96
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Asian / Asian British,72,13
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Black / African / Caribbean / Black British,49,9
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Mixed / Multiple ethnic groups,14,3
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Other Ethnic group,9,2
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,White,398,73
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Total Known Ethnicity,542,94
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Declared,39,8
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,No Disability Declared,476,92
+202425,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Total Known Disability,515,89
+202425,Academic year,National,E92000001,England,Early Years ITT Total,Total,Total,580,100
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Total,Total,485,100
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Age,Under 25,101,21
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Age,25 and Over,384,79
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Sex,Male,14,3
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Sex,Female,455,97
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Sex,Other Sex,1,0
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Sex,Total Known Sex,470,97
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Asian / Asian British,62,14
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Black / African / Caribbean / Black British,39,9
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Mixed / Multiple ethnic groups,14,3
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Other Ethnic group,4,1
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,White,325,73
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Ethnicity,Total Known Ethnicity,444,92
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Disability,Declared,37,9
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Disability,No Disability Declared,395,91
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate employment-based,Disability,Total Known Disability,432,89
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Total,Total,48,100
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Age,Under 25,13,27
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Age,25 and Over,35,73
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Sex,Male,3,8
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Sex,Female,35,92
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Sex,Other Sex,0,0
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Sex,Total Known Sex,38,79
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Asian / Asian British,7,24
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Black / African / Caribbean / Black British,12,41
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Mixed / Multiple ethnic groups,4,14
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Other Ethnic group,0,0
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,White,6,21
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Ethnicity,Total Known Ethnicity,29,60
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Disability,Declared,1,3
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Disability,No Disability Declared,28,97
+202526,Academic year,National,E92000001,England,Early Years ITT Graduate Entry,Disability,Total Known Disability,29,60
+202526,Academic year,National,E92000001,England,Early Years ITT Undergraduate Entry,Total,Total,3,100
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Total,Total,533,100
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,Under 25,114,21
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Age,25 and Over,419,79
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Male,17,3
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Female,490,96
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Other Sex,1,0
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Sex,Total Known Sex,508,95
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Asian / Asian British,69,15
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Black / African / Caribbean / Black British,51,11
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Mixed / Multiple ethnic groups,18,4
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Other Ethnic group,4,1
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,White,331,70
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Ethnicity,Total Known Ethnicity,473,89
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Declared,38,8
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,No Disability Declared,423,92
+202526,Academic year,National,E92000001,England,Postgraduate Early Years ITT Total,Disability,Total Known Disability,461,86
+202526,Academic year,National,E92000001,England,Early Years ITT Total,Total,Total,536,100

@@ -1,0 +1,1361 @@
+time_period,time_identifier,geographic_level,country_code,country_name,inclusion_status,itt_subject,breakdown_topic,breakdown,trainee_number,trainee_percentage
+201516,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Postgraduates,506,z
+201516,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Art & Design,Target,ITT Recruitment,794,64
+201516,Academic year,National,E92000001,England,Original,Biology,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Biology,Entrants,Postgraduates,1058,z
+201516,Academic year,National,E92000001,England,Original,Biology,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Biology,Target,ITT Recruitment,1178,90
+201516,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Postgraduates,200,z
+201516,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Business Studies,Target,ITT Recruitment,313,64
+201516,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Postgraduates,985,z
+201516,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Chemistry,Target,ITT Recruitment,1053,94
+201516,Academic year,National,E92000001,England,Original,Computing,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Computing,Entrants,Postgraduates,504,z
+201516,Academic year,National,E92000001,England,Original,Computing,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Computing,Target,ITT Recruitment,723,70
+201516,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Postgraduates,513,z
+201516,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Design & Technology,Target,ITT Recruitment,1279,40
+201516,Academic year,National,E92000001,England,Original,English,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,English,Entrants,Postgraduates,2370,z
+201516,Academic year,National,E92000001,England,Original,English,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,English,Target,ITT Recruitment,2253,105
+201516,Academic year,National,E92000001,England,Original,Geography,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Geography,Entrants,Postgraduates,642,z
+201516,Academic year,National,E92000001,England,Original,Geography,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Geography,Target,ITT Recruitment,778,83
+201516,Academic year,National,E92000001,England,Original,History,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,History,Entrants,Postgraduates,918,z
+201516,Academic year,National,E92000001,England,Original,History,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,History,Target,ITT Recruitment,816,113
+201516,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Postgraduates,2452,z
+201516,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Mathematics,Target,ITT Recruitment,2581,95
+201516,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Postgraduates,1392,z
+201516,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Target,ITT Recruitment,1583,88
+201516,Academic year,National,E92000001,England,Original,Music,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Music,Entrants,Postgraduates,353,z
+201516,Academic year,National,E92000001,England,Original,Music,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Music,Target,ITT Recruitment,481,73
+201516,Academic year,National,E92000001,England,Original,Other,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Other,Entrants,Postgraduates,902,z
+201516,Academic year,National,E92000001,England,Original,Other,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Other,Target,ITT Recruitment,1777,51
+201516,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Postgraduates,1235,z
+201516,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Physical Education,Target,ITT Recruitment,1227,101
+201516,Academic year,National,E92000001,England,Original,Physics,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Physics,Entrants,Postgraduates,740,z
+201516,Academic year,National,E92000001,England,Original,Physics,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Physics,Target,ITT Recruitment,1055,70
+201516,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Postgraduates,413,z
+201516,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Religious Education,Target,ITT Recruitment,650,64
+201516,Academic year,National,E92000001,England,Original,Primary,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Primary,Entrants,Postgraduates,12578,z
+201516,Academic year,National,E92000001,England,Original,Primary,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Primary,Target,ITT Recruitment,11245,112
+201516,Academic year,National,E92000001,England,Original,Secondary,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Secondary,Entrants,Postgraduates,15183,z
+201516,Academic year,National,E92000001,England,Original,Secondary,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Secondary,Target,ITT Recruitment,18541,82
+201516,Academic year,National,E92000001,England,Original,Total Science,Entrants,Total,z,z
+201516,Academic year,National,E92000001,England,Original,Total Science,Entrants,Postgraduates,2783,z
+201516,Academic year,National,E92000001,England,Original,Total Science,Entrants,Undergraduates,z,z
+201516,Academic year,National,E92000001,England,Original,Total Science,Target,ITT Recruitment,3286,85
+201516,Academic year,National,E92000001,England,Original,Total,Entrants,Total,33261,100
+201516,Academic year,National,E92000001,England,Original,Total,Entrants,Postgraduates,27761,83
+201516,Academic year,National,E92000001,England,Original,Total,Entrants,Undergraduates,5500,17
+201516,Academic year,National,E92000001,England,Original,Total,Target,ITT Recruitment,29787,93
+201617,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Postgraduates,516,z
+201617,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Art & Design,Target,ITT Recruitment,633,82
+201617,Academic year,National,E92000001,England,Original,Biology,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Biology,Entrants,Postgraduates,1329,z
+201617,Academic year,National,E92000001,England,Original,Biology,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Biology,Target,ITT Recruitment,1178,113
+201617,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Postgraduates,213,z
+201617,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Business Studies,Target,ITT Recruitment,252,85
+201617,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Postgraduates,1009,z
+201617,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Chemistry,Target,ITT Recruitment,1053,96
+201617,Academic year,National,E92000001,England,Original,Computing,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Computing,Entrants,Postgraduates,487,z
+201617,Academic year,National,E92000001,England,Original,Computing,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Computing,Target,ITT Recruitment,723,67
+201617,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Postgraduates,417,z
+201617,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Design & Technology,Target,ITT Recruitment,1034,40
+201617,Academic year,National,E92000001,England,Original,English,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,English,Entrants,Postgraduates,2167,z
+201617,Academic year,National,E92000001,England,Original,English,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,English,Target,ITT Recruitment,2253,96
+201617,Academic year,National,E92000001,England,Original,Geography,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Geography,Entrants,Postgraduates,896,z
+201617,Academic year,National,E92000001,England,Original,Geography,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Geography,Target,ITT Recruitment,778,115
+201617,Academic year,National,E92000001,England,Original,History,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,History,Entrants,Postgraduates,901,z
+201617,Academic year,National,E92000001,England,Original,History,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,History,Target,ITT Recruitment,816,110
+201617,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Postgraduates,2547,z
+201617,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Mathematics,Target,ITT Recruitment,3102,82
+201617,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Postgraduates,1471,z
+201617,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Target,ITT Recruitment,1583,93
+201617,Academic year,National,E92000001,England,Original,Music,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Music,Entrants,Postgraduates,357,z
+201617,Academic year,National,E92000001,England,Original,Music,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Music,Target,ITT Recruitment,399,89
+201617,Academic year,National,E92000001,England,Original,Other,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Other,Entrants,Postgraduates,797,z
+201617,Academic year,National,E92000001,England,Original,Other,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Other,Target,ITT Recruitment,1285,62
+201617,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Postgraduates,1087,z
+201617,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Physical Education,Target,ITT Recruitment,999,109
+201617,Academic year,National,E92000001,England,Original,Physics,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Physics,Entrants,Postgraduates,833,z
+201617,Academic year,National,E92000001,England,Original,Physics,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Physics,Target,ITT Recruitment,1055,79
+201617,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Postgraduates,434,z
+201617,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Religious Education,Target,ITT Recruitment,544,80
+201617,Academic year,National,E92000001,England,Original,Primary,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Primary,Entrants,Postgraduates,11288,z
+201617,Academic year,National,E92000001,England,Original,Primary,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Primary,Target,ITT Recruitment,11489,98
+201617,Academic year,National,E92000001,England,Original,Secondary,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Secondary,Entrants,Postgraduates,15461,z
+201617,Academic year,National,E92000001,England,Original,Secondary,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Secondary,Target,ITT Recruitment,17688,87
+201617,Academic year,National,E92000001,England,Original,Total Science,Entrants,Total,z,z
+201617,Academic year,National,E92000001,England,Original,Total Science,Entrants,Postgraduates,3171,z
+201617,Academic year,National,E92000001,England,Original,Total Science,Entrants,Undergraduates,z,z
+201617,Academic year,National,E92000001,England,Original,Total Science,Target,ITT Recruitment,3286,97
+201617,Academic year,National,E92000001,England,Original,Total,Entrants,Total,31896,100
+201617,Academic year,National,E92000001,England,Original,Total,Entrants,Postgraduates,26749,84
+201617,Academic year,National,E92000001,England,Original,Total,Entrants,Undergraduates,5147,16
+201617,Academic year,National,E92000001,England,Original,Total,Target,ITT Recruitment,29176,92
+201718,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Postgraduates,422,z
+201718,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Art & Design,Target,ITT Recruitment,577,73
+201718,Academic year,National,E92000001,England,Original,Biology,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Biology,Entrants,Postgraduates,1004,z
+201718,Academic year,National,E92000001,England,Original,Biology,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Biology,Target,ITT Recruitment,1188,85
+201718,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Postgraduates,170,z
+201718,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Business Studies,Target,ITT Recruitment,218,78
+201718,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Postgraduates,864,z
+201718,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Chemistry,Target,ITT Recruitment,1053,82
+201718,Academic year,National,E92000001,England,Original,Computing,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Computing,Entrants,Postgraduates,451,z
+201718,Academic year,National,E92000001,England,Original,Computing,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Computing,Target,ITT Recruitment,723,62
+201718,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Postgraduates,302,z
+201718,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Design & Technology,Target,ITT Recruitment,917,33
+201718,Academic year,National,E92000001,England,Original,English,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,English,Entrants,Postgraduates,2126,z
+201718,Academic year,National,E92000001,England,Original,English,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,English,Target,ITT Recruitment,2426,88
+201718,Academic year,National,E92000001,England,Original,Geography,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Geography,Entrants,Postgraduates,1191,z
+201718,Academic year,National,E92000001,England,Original,Geography,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Geography,Target,ITT Recruitment,1531,78
+201718,Academic year,National,E92000001,England,Original,History,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,History,Entrants,Postgraduates,1155,z
+201718,Academic year,National,E92000001,England,Original,History,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,History,Target,ITT Recruitment,1160,100
+201718,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Postgraduates,2384,z
+201718,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Mathematics,Target,ITT Recruitment,3102,77
+201718,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Postgraduates,1434,z
+201718,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Target,ITT Recruitment,1583,91
+201718,Academic year,National,E92000001,England,Original,Music,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Music,Entrants,Postgraduates,295,z
+201718,Academic year,National,E92000001,England,Original,Music,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Music,Target,ITT Recruitment,393,75
+201718,Academic year,National,E92000001,England,Original,Other,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Other,Entrants,Postgraduates,648,z
+201718,Academic year,National,E92000001,England,Original,Other,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Other,Target,ITT Recruitment,1157,56
+201718,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Postgraduates,1103,z
+201718,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Physical Education,Target,ITT Recruitment,999,110
+201718,Academic year,National,E92000001,England,Original,Physics,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Physics,Entrants,Postgraduates,696,z
+201718,Academic year,National,E92000001,England,Original,Physics,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Physics,Target,ITT Recruitment,1055,66
+201718,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Postgraduates,401,z
+201718,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Religious Education,Target,ITT Recruitment,643,62
+201718,Academic year,National,E92000001,England,Original,Primary,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Primary,Entrants,Postgraduates,12500,z
+201718,Academic year,National,E92000001,England,Original,Primary,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Primary,Target,ITT Recruitment,12121,103
+201718,Academic year,National,E92000001,England,Original,Secondary,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Secondary,Entrants,Postgraduates,14646,z
+201718,Academic year,National,E92000001,England,Original,Secondary,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Secondary,Target,ITT Recruitment,18726,78
+201718,Academic year,National,E92000001,England,Original,Total Science,Entrants,Total,z,z
+201718,Academic year,National,E92000001,England,Original,Total Science,Entrants,Postgraduates,2564,z
+201718,Academic year,National,E92000001,England,Original,Total Science,Entrants,Undergraduates,z,z
+201718,Academic year,National,E92000001,England,Original,Total Science,Target,ITT Recruitment,3296,78
+201718,Academic year,National,E92000001,England,Original,Total,Entrants,Total,31909,100
+201718,Academic year,National,E92000001,England,Original,Total,Entrants,Postgraduates,27146,85
+201718,Academic year,National,E92000001,England,Original,Total,Entrants,Undergraduates,4763,15
+201718,Academic year,National,E92000001,England,Original,Total,Target,ITT Recruitment,30847,88
+201819,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Postgraduates,473,z
+201819,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Art & Design,Target,ITT Recruitment,646,73
+201819,Academic year,National,E92000001,England,Original,Biology,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Biology,Entrants,Postgraduates,1819,z
+201819,Academic year,National,E92000001,England,Original,Biology,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Biology,Target,ITT Recruitment,1188,153
+201819,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Postgraduates,180,z
+201819,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Business Studies,Target,ITT Recruitment,241,75
+201819,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Postgraduates,838,z
+201819,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Chemistry,Target,ITT Recruitment,1053,80
+201819,Academic year,National,E92000001,England,Original,Computing,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Computing,Entrants,Postgraduates,540,z
+201819,Academic year,National,E92000001,England,Original,Computing,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Computing,Target,ITT Recruitment,723,75
+201819,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Postgraduates,299,z
+201819,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Design & Technology,Target,ITT Recruitment,1167,26
+201819,Academic year,National,E92000001,England,Original,English,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,English,Entrants,Postgraduates,2846,z
+201819,Academic year,National,E92000001,England,Original,English,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,English,Target,ITT Recruitment,2558,111
+201819,Academic year,National,E92000001,England,Original,Geography,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Geography,Entrants,Postgraduates,1307,z
+201819,Academic year,National,E92000001,England,Original,Geography,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Geography,Target,ITT Recruitment,1531,85
+201819,Academic year,National,E92000001,England,Original,History,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,History,Entrants,Postgraduates,1190,z
+201819,Academic year,National,E92000001,England,Original,History,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,History,Target,ITT Recruitment,1180,101
+201819,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Postgraduates,2174,z
+201819,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Mathematics,Target,ITT Recruitment,3116,70
+201819,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Postgraduates,1470,z
+201819,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Target,ITT Recruitment,1669,88
+201819,Academic year,National,E92000001,England,Original,Music,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Music,Entrants,Postgraduates,300,z
+201819,Academic year,National,E92000001,England,Original,Music,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Music,Target,ITT Recruitment,409,73
+201819,Academic year,National,E92000001,England,Original,Other,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Other,Entrants,Postgraduates,694,z
+201819,Academic year,National,E92000001,England,Original,Other,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Other,Target,ITT Recruitment,1253,55
+201819,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Postgraduates,1242,z
+201819,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Physical Education,Target,ITT Recruitment,1078,115
+201819,Academic year,National,E92000001,England,Original,Physics,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Physics,Entrants,Postgraduates,579,z
+201819,Academic year,National,E92000001,England,Original,Physics,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Physics,Target,ITT Recruitment,1219,47
+201819,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Postgraduates,376,z
+201819,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Religious Education,Target,ITT Recruitment,643,58
+201819,Academic year,National,E92000001,England,Original,Primary,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Primary,Entrants,Postgraduates,12888,z
+201819,Academic year,National,E92000001,England,Original,Primary,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Primary,Target,ITT Recruitment,12552,103
+201819,Academic year,National,E92000001,England,Original,Secondary,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Secondary,Entrants,Postgraduates,16327,z
+201819,Academic year,National,E92000001,England,Original,Secondary,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Secondary,Target,ITT Recruitment,19674,83
+201819,Academic year,National,E92000001,England,Original,Total Science,Entrants,Total,z,z
+201819,Academic year,National,E92000001,England,Original,Total Science,Entrants,Postgraduates,3236,z
+201819,Academic year,National,E92000001,England,Original,Total Science,Entrants,Undergraduates,z,z
+201819,Academic year,National,E92000001,England,Original,Total Science,Target,ITT Recruitment,3460,94
+201819,Academic year,National,E92000001,England,Original,Total,Entrants,Total,34243,100
+201819,Academic year,National,E92000001,England,Original,Total,Entrants,Postgraduates,29215,85
+201819,Academic year,National,E92000001,England,Original,Total,Entrants,Undergraduates,5028,15
+201819,Academic year,National,E92000001,England,Original,Total,Target,ITT Recruitment,32226,91
+201920,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Total,413,100
+201920,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Postgraduates,413,100
+201920,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Original,Art & Design,Target,ITT Recruitment,668,62
+201920,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Total,8,100
+201920,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Postgraduates,8,100
+201920,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Art & Design,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Biology,Entrants,Total,1943,100
+201920,Academic year,National,E92000001,England,Original,Biology,Entrants,Postgraduates,1934,100
+201920,Academic year,National,E92000001,England,Original,Biology,Entrants,Undergraduates,9,0
+201920,Academic year,National,E92000001,England,Original,Biology,Target,ITT Recruitment,1192,162
+201920,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Total,12,100
+201920,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Postgraduates,12,100
+201920,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Biology,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Total,185,100
+201920,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Postgraduates,185,100
+201920,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Original,Business Studies,Target,ITT Recruitment,348,53
+201920,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Total,16,100
+201920,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Postgraduates,16,100
+201920,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Business Studies,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Total,770,100
+201920,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Postgraduates,767,100
+201920,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Undergraduates,3,0
+201920,Academic year,National,E92000001,England,Original,Chemistry,Target,ITT Recruitment,1152,67
+201920,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Total,16,100
+201920,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Postgraduates,16,100
+201920,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Chemistry,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Computing,Entrants,Total,477,100
+201920,Academic year,National,E92000001,England,Original,Computing,Entrants,Postgraduates,471,99
+201920,Academic year,National,E92000001,England,Original,Computing,Entrants,Undergraduates,6,1
+201920,Academic year,National,E92000001,England,Original,Computing,Target,ITT Recruitment,631,75
+201920,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Total,4,100
+201920,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Postgraduates,4,100
+201920,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Computing,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Total,432,100
+201920,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Postgraduates,432,100
+201920,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Original,Design & Technology,Target,ITT Recruitment,1022,42
+201920,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Total,9,100
+201920,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Postgraduates,9,100
+201920,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,English,Entrants,Total,3056,100
+201920,Academic year,National,E92000001,England,Original,English,Entrants,Postgraduates,2901,95
+201920,Academic year,National,E92000001,England,Original,English,Entrants,Undergraduates,155,5
+201920,Academic year,National,E92000001,England,Original,English,Target,ITT Recruitment,2654,109
+201920,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Total,38,100
+201920,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Postgraduates,38,100
+201920,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,English,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Geography,Entrants,Total,1312,100
+201920,Academic year,National,E92000001,England,Original,Geography,Entrants,Postgraduates,1312,100
+201920,Academic year,National,E92000001,England,Original,Geography,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Original,Geography,Target,ITT Recruitment,1116,118
+201920,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Total,16,100
+201920,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Postgraduates,16,100
+201920,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Geography,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,History,Entrants,Total,1458,100
+201920,Academic year,National,E92000001,England,Original,History,Entrants,Postgraduates,1457,100
+201920,Academic year,National,E92000001,England,Original,History,Entrants,Undergraduates,1,0
+201920,Academic year,National,E92000001,England,Original,History,Target,ITT Recruitment,1273,114
+201920,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Total,19,100
+201920,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Postgraduates,19,100
+201920,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,History,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Total,2237,100
+201920,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Postgraduates,2157,96
+201920,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Undergraduates,80,4
+201920,Academic year,National,E92000001,England,Original,Mathematics,Target,ITT Recruitment,3343,65
+201920,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Total,40,100
+201920,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Postgraduates,40,100
+201920,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Mathematics,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Total,1480,100
+201920,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Postgraduates,1455,98
+201920,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Undergraduates,25,2
+201920,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Target,ITT Recruitment,2269,64
+201920,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Total,44,100
+201920,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Postgraduates,44,100
+201920,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Music,Entrants,Total,312,100
+201920,Academic year,National,E92000001,England,Original,Music,Entrants,Postgraduates,312,100
+201920,Academic year,National,E92000001,England,Original,Music,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Original,Music,Target,ITT Recruitment,392,80
+201920,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Total,17,100
+201920,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Postgraduates,17,100
+201920,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Music,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Other,Entrants,Total,572,100
+201920,Academic year,National,E92000001,England,Original,Other,Entrants,Postgraduates,570,100
+201920,Academic year,National,E92000001,England,Original,Other,Entrants,Undergraduates,2,0
+201920,Academic year,National,E92000001,England,Original,Other,Target,ITT Recruitment,1015,56
+201920,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Total,20,100
+201920,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Postgraduates,20,100
+201920,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Other,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Total,1350,100
+201920,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Postgraduates,1276,95
+201920,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Undergraduates,74,5
+201920,Academic year,National,E92000001,England,Original,Physical Education,Target,ITT Recruitment,1222,104
+201920,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Total,96,100
+201920,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Postgraduates,96,100
+201920,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Physical Education,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Physics,Entrants,Total,526,100
+201920,Academic year,National,E92000001,England,Original,Physics,Entrants,Postgraduates,524,100
+201920,Academic year,National,E92000001,England,Original,Physics,Entrants,Undergraduates,2,0
+201920,Academic year,National,E92000001,England,Original,Physics,Target,ITT Recruitment,1265,41
+201920,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Total,27,100
+201920,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Postgraduates,27,100
+201920,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Physics,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Total,503,100
+201920,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Postgraduates,494,98
+201920,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Undergraduates,9,2
+201920,Academic year,National,E92000001,England,Original,Religious Education,Target,ITT Recruitment,525,94
+201920,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Total,14,100
+201920,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Postgraduates,14,100
+201920,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Religious Education,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Primary,Entrants,Total,16608,100
+201920,Academic year,National,E92000001,England,Original,Primary,Entrants,Postgraduates,12092,73
+201920,Academic year,National,E92000001,England,Original,Primary,Entrants,Undergraduates,4516,27
+201920,Academic year,National,E92000001,England,Original,Primary,Target,ITT Recruitment,13003,93
+201920,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Total,284,100
+201920,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Postgraduates,272,96
+201920,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Undergraduates,12,4
+201920,Academic year,National,E92000001,England,Previously excluded,Primary,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Secondary,Entrants,Total,17026,100
+201920,Academic year,National,E92000001,England,Original,Secondary,Entrants,Postgraduates,16660,98
+201920,Academic year,National,E92000001,England,Original,Secondary,Entrants,Undergraduates,366,2
+201920,Academic year,National,E92000001,England,Original,Secondary,Target,ITT Recruitment,20087,83
+201920,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Total,396,100
+201920,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Postgraduates,396,100
+201920,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Secondary,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Total Science,Entrants,Total,3239,100
+201920,Academic year,National,E92000001,England,Original,Total Science,Entrants,Postgraduates,3225,100
+201920,Academic year,National,E92000001,England,Original,Total Science,Entrants,Undergraduates,14,0
+201920,Academic year,National,E92000001,England,Original,Total Science,Target,ITT Recruitment,3609,89
+201920,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Total,55,100
+201920,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Postgraduates,55,100
+201920,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Previously excluded,Total Science,Target,ITT Recruitment,z,z
+201920,Academic year,National,E92000001,England,Original,Total,Entrants,Total,33634,100
+201920,Academic year,National,E92000001,England,Original,Total,Entrants,Postgraduates,28752,85
+201920,Academic year,National,E92000001,England,Original,Total,Entrants,Undergraduates,4882,15
+201920,Academic year,National,E92000001,England,Original,Total,Target,ITT Recruitment,33090,87
+201920,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Total,680,100
+201920,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Postgraduates,668,98
+201920,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Undergraduates,12,2
+201920,Academic year,National,E92000001,England,Previously excluded,Total,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Total,889,100
+202021,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Postgraduates,889,100
+202021,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Original,Art & Design,Target,ITT Recruitment,681,131
+202021,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Total,26,100
+202021,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Postgraduates,26,100
+202021,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Art & Design,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Biology,Entrants,Total,2090,100
+202021,Academic year,National,E92000001,England,Original,Biology,Entrants,Postgraduates,2021,97
+202021,Academic year,National,E92000001,England,Original,Biology,Entrants,Undergraduates,69,3
+202021,Academic year,National,E92000001,England,Original,Biology,Target,ITT Recruitment,1116,181
+202021,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Total,86,100
+202021,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Postgraduates,86,100
+202021,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Biology,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Total,383,100
+202021,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Postgraduates,383,100
+202021,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Original,Business Studies,Target,ITT Recruitment,397,96
+202021,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Total,19,100
+202021,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Postgraduates,19,100
+202021,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Business Studies,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Total,854,100
+202021,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Postgraduates,848,99
+202021,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Undergraduates,6,1
+202021,Academic year,National,E92000001,England,Original,Chemistry,Target,ITT Recruitment,1144,74
+202021,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Total,37,100
+202021,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Postgraduates,37,100
+202021,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Chemistry,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Computing,Entrants,Total,600,100
+202021,Academic year,National,E92000001,England,Original,Computing,Entrants,Postgraduates,592,99
+202021,Academic year,National,E92000001,England,Original,Computing,Entrants,Undergraduates,8,1
+202021,Academic year,National,E92000001,England,Original,Computing,Target,ITT Recruitment,621,95
+202021,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Total,9,100
+202021,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Postgraduates,9,100
+202021,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Computing,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Total,654,100
+202021,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Postgraduates,654,100
+202021,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Original,Design & Technology,Target,ITT Recruitment,919,71
+202021,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Total,24,100
+202021,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Postgraduates,24,100
+202021,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,English,Entrants,Total,3301,100
+202021,Academic year,National,E92000001,England,Original,English,Entrants,Postgraduates,3081,93
+202021,Academic year,National,E92000001,England,Original,English,Entrants,Undergraduates,220,7
+202021,Academic year,National,E92000001,England,Original,English,Target,ITT Recruitment,2544,121
+202021,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Total,96,100
+202021,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Postgraduates,96,100
+202021,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,English,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Geography,Entrants,Total,1186,100
+202021,Academic year,National,E92000001,England,Original,Geography,Entrants,Postgraduates,1183,100
+202021,Academic year,National,E92000001,England,Original,Geography,Entrants,Undergraduates,3,0
+202021,Academic year,National,E92000001,England,Original,Geography,Target,ITT Recruitment,929,127
+202021,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Total,20,100
+202021,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Postgraduates,20,100
+202021,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Geography,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,History,Entrants,Total,1646,100
+202021,Academic year,National,E92000001,England,Original,History,Entrants,Postgraduates,1644,100
+202021,Academic year,National,E92000001,England,Original,History,Entrants,Undergraduates,2,0
+202021,Academic year,National,E92000001,England,Original,History,Target,ITT Recruitment,982,167
+202021,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Total,24,100
+202021,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Postgraduates,24,100
+202021,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,History,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Total,2982,100
+202021,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Postgraduates,2744,92
+202021,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Undergraduates,238,8
+202021,Academic year,National,E92000001,England,Original,Mathematics,Target,ITT Recruitment,3307,83
+202021,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Total,79,100
+202021,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Postgraduates,79,100
+202021,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Mathematics,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Total,1683,100
+202021,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Postgraduates,1669,99
+202021,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Undergraduates,14,1
+202021,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Target,ITT Recruitment,2361,71
+202021,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Total,55,100
+202021,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Postgraduates,55,100
+202021,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Music,Entrants,Total,467,100
+202021,Academic year,National,E92000001,England,Original,Music,Entrants,Postgraduates,467,100
+202021,Academic year,National,E92000001,England,Original,Music,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Original,Music,Target,ITT Recruitment,385,121
+202021,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Total,11,100
+202021,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Postgraduates,11,100
+202021,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Music,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Other,Entrants,Total,849,100
+202021,Academic year,National,E92000001,England,Original,Other,Entrants,Postgraduates,844,99
+202021,Academic year,National,E92000001,England,Original,Other,Entrants,Undergraduates,5,1
+202021,Academic year,National,E92000001,England,Original,Other,Target,ITT Recruitment,1053,80
+202021,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Total,27,100
+202021,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Postgraduates,27,100
+202021,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Other,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Total,1670,100
+202021,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Postgraduates,1527,91
+202021,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Undergraduates,143,9
+202021,Academic year,National,E92000001,England,Original,Physical Education,Target,ITT Recruitment,1200,127
+202021,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Total,122,100
+202021,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Postgraduates,122,100
+202021,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Physical Education,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Physics,Entrants,Total,506,100
+202021,Academic year,National,E92000001,England,Original,Physics,Entrants,Postgraduates,503,99
+202021,Academic year,National,E92000001,England,Original,Physics,Entrants,Undergraduates,3,1
+202021,Academic year,National,E92000001,England,Original,Physics,Target,ITT Recruitment,1336,38
+202021,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Total,11,100
+202021,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Postgraduates,11,100
+202021,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Physics,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Total,671,100
+202021,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Postgraduates,657,98
+202021,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Undergraduates,14,2
+202021,Academic year,National,E92000001,England,Original,Religious Education,Target,ITT Recruitment,510,129
+202021,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Total,14,100
+202021,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Postgraduates,14,100
+202021,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Religious Education,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Primary,Entrants,Total,19405,100
+202021,Academic year,National,E92000001,England,Original,Primary,Entrants,Postgraduates,14147,73
+202021,Academic year,National,E92000001,England,Original,Primary,Entrants,Undergraduates,5258,27
+202021,Academic year,National,E92000001,England,Original,Primary,Target,ITT Recruitment,11467,123
+202021,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Total,457,100
+202021,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Postgraduates,450,98
+202021,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Undergraduates,7,2
+202021,Academic year,National,E92000001,England,Previously excluded,Primary,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Secondary,Entrants,Total,20431,100
+202021,Academic year,National,E92000001,England,Original,Secondary,Entrants,Postgraduates,19706,96
+202021,Academic year,National,E92000001,England,Original,Secondary,Entrants,Undergraduates,725,4
+202021,Academic year,National,E92000001,England,Original,Secondary,Target,ITT Recruitment,19485,101
+202021,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Total,660,100
+202021,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Postgraduates,660,100
+202021,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Secondary,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Total Science,Entrants,Total,3450,100
+202021,Academic year,National,E92000001,England,Original,Total Science,Entrants,Postgraduates,3372,98
+202021,Academic year,National,E92000001,England,Original,Total Science,Entrants,Undergraduates,78,2
+202021,Academic year,National,E92000001,England,Original,Total Science,Target,ITT Recruitment,3596,94
+202021,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Total,134,100
+202021,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Postgraduates,134,100
+202021,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Previously excluded,Total Science,Target,ITT Recruitment,z,z
+202021,Academic year,National,E92000001,England,Original,Total,Entrants,Total,39836,100
+202021,Academic year,National,E92000001,England,Original,Total,Entrants,Postgraduates,33853,85
+202021,Academic year,National,E92000001,England,Original,Total,Entrants,Undergraduates,5983,15
+202021,Academic year,National,E92000001,England,Original,Total,Target,ITT Recruitment,30952,109
+202021,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Total,1117,100
+202021,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Postgraduates,1110,99
+202021,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Undergraduates,7,1
+202021,Academic year,National,E92000001,England,Previously excluded,Total,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Total,778,100
+202122,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Postgraduates,778,100
+202122,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Original,Art & Design,Target,ITT Recruitment,580,134
+202122,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Total,10,100
+202122,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Postgraduates,10,100
+202122,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Art & Design,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Biology,Entrants,Total,935,100
+202122,Academic year,National,E92000001,England,Original,Biology,Entrants,Postgraduates,909,97
+202122,Academic year,National,E92000001,England,Original,Biology,Entrants,Undergraduates,26,3
+202122,Academic year,National,E92000001,England,Original,Biology,Target,ITT Recruitment,820,111
+202122,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Total,9,100
+202122,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Postgraduates,9,100
+202122,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Biology,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Total,330,100
+202122,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Postgraduates,330,100
+202122,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Original,Business Studies,Target,ITT Recruitment,725,46
+202122,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Total,12,100
+202122,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Postgraduates,12,100
+202122,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Business Studies,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Total,1069,100
+202122,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Postgraduates,1063,99
+202122,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Undergraduates,6,1
+202122,Academic year,National,E92000001,England,Original,Chemistry,Target,ITT Recruitment,1080,98
+202122,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Total,7,100
+202122,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Postgraduates,7,100
+202122,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Chemistry,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Computing,Entrants,Total,561,100
+202122,Academic year,National,E92000001,England,Original,Computing,Entrants,Postgraduates,549,98
+202122,Academic year,National,E92000001,England,Original,Computing,Entrants,Undergraduates,12,2
+202122,Academic year,National,E92000001,England,Original,Computing,Target,ITT Recruitment,840,65
+202122,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Total,4,100
+202122,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Postgraduates,4,100
+202122,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Computing,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Total,336,100
+202122,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Postgraduates,332,99
+202122,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Undergraduates,4,1
+202122,Academic year,National,E92000001,England,Original,Design & Technology,Target,ITT Recruitment,1475,23
+202122,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Total,6,100
+202122,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Postgraduates,6,100
+202122,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,English,Entrants,Total,2252,100
+202122,Academic year,National,E92000001,England,Original,English,Entrants,Postgraduates,2227,99
+202122,Academic year,National,E92000001,England,Original,English,Entrants,Undergraduates,25,1
+202122,Academic year,National,E92000001,England,Original,English,Target,ITT Recruitment,1980,112
+202122,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Total,60,100
+202122,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Postgraduates,60,100
+202122,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,English,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Geography,Entrants,Total,613,100
+202122,Academic year,National,E92000001,England,Original,Geography,Entrants,Postgraduates,612,100
+202122,Academic year,National,E92000001,England,Original,Geography,Entrants,Undergraduates,1,0
+202122,Academic year,National,E92000001,England,Original,Geography,Target,ITT Recruitment,745,82
+202122,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Total,15,100
+202122,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Postgraduates,15,100
+202122,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Geography,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,History,Entrants,Total,1504,100
+202122,Academic year,National,E92000001,England,Original,History,Entrants,Postgraduates,1495,99
+202122,Academic year,National,E92000001,England,Original,History,Entrants,Undergraduates,9,1
+202122,Academic year,National,E92000001,England,Original,History,Target,ITT Recruitment,780,192
+202122,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Total,12,100
+202122,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Postgraduates,12,100
+202122,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,History,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Total,2598,100
+202122,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Postgraduates,2512,97
+202122,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Undergraduates,86,3
+202122,Academic year,National,E92000001,England,Original,Mathematics,Target,ITT Recruitment,2800,90
+202122,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Total,18,100
+202122,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Postgraduates,17,94
+202122,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Undergraduates,1,6
+202122,Academic year,National,E92000001,England,Previously excluded,Mathematics,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Total,1087,100
+202122,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Postgraduates,1083,100
+202122,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Undergraduates,4,0
+202122,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Target,ITT Recruitment,1545,70
+202122,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Total,24,100
+202122,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Postgraduates,24,100
+202122,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Music,Entrants,Total,381,100
+202122,Academic year,National,E92000001,England,Original,Music,Entrants,Postgraduates,381,100
+202122,Academic year,National,E92000001,England,Original,Music,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Original,Music,Target,ITT Recruitment,540,71
+202122,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Total,14,100
+202122,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Postgraduates,14,100
+202122,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Music,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Other,Entrants,Total,985,100
+202122,Academic year,National,E92000001,England,Original,Other,Entrants,Postgraduates,985,100
+202122,Academic year,National,E92000001,England,Original,Other,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Original,Other,Target,ITT Recruitment,2310,43
+202122,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Total,14,100
+202122,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Postgraduates,14,100
+202122,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Other,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Total,1800,100
+202122,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Postgraduates,1633,91
+202122,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Undergraduates,167,9
+202122,Academic year,National,E92000001,England,Original,Physical Education,Target,ITT Recruitment,1010,162
+202122,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Total,13,100
+202122,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Postgraduates,13,100
+202122,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Physical Education,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Physics,Entrants,Total,539,100
+202122,Academic year,National,E92000001,England,Original,Physics,Entrants,Postgraduates,532,99
+202122,Academic year,National,E92000001,England,Original,Physics,Entrants,Undergraduates,7,1
+202122,Academic year,National,E92000001,England,Original,Physics,Target,ITT Recruitment,2530,21
+202122,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Total,7,100
+202122,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Postgraduates,7,100
+202122,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Physics,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Total,444,100
+202122,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Postgraduates,431,97
+202122,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Undergraduates,13,3
+202122,Academic year,National,E92000001,England,Original,Religious Education,Target,ITT Recruitment,470,92
+202122,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Total,15,100
+202122,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Postgraduates,15,100
+202122,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Religious Education,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Primary,Entrants,Total,19694,100
+202122,Academic year,National,E92000001,England,Original,Primary,Entrants,Postgraduates,14001,71
+202122,Academic year,National,E92000001,England,Original,Primary,Entrants,Undergraduates,5693,29
+202122,Academic year,National,E92000001,England,Original,Primary,Target,ITT Recruitment,10800,130
+202122,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Total,211,100
+202122,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Postgraduates,191,91
+202122,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Undergraduates,20,9
+202122,Academic year,National,E92000001,England,Previously excluded,Primary,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Secondary,Entrants,Total,16212,100
+202122,Academic year,National,E92000001,England,Original,Secondary,Entrants,Postgraduates,15852,98
+202122,Academic year,National,E92000001,England,Original,Secondary,Entrants,Undergraduates,360,2
+202122,Academic year,National,E92000001,England,Original,Secondary,Target,ITT Recruitment,20230,78
+202122,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Total,240,100
+202122,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Postgraduates,239,100
+202122,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Undergraduates,1,0
+202122,Academic year,National,E92000001,England,Previously excluded,Secondary,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Total Science,Entrants,Total,2543,100
+202122,Academic year,National,E92000001,England,Original,Total Science,Entrants,Postgraduates,2504,98
+202122,Academic year,National,E92000001,England,Original,Total Science,Entrants,Undergraduates,39,2
+202122,Academic year,National,E92000001,England,Original,Total Science,Target,ITT Recruitment,4430,57
+202122,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Total,23,100
+202122,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Postgraduates,23,100
+202122,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Previously excluded,Total Science,Target,ITT Recruitment,z,z
+202122,Academic year,National,E92000001,England,Original,Total,Entrants,Total,35906,100
+202122,Academic year,National,E92000001,England,Original,Total,Entrants,Postgraduates,29853,83
+202122,Academic year,National,E92000001,England,Original,Total,Entrants,Undergraduates,6053,17
+202122,Academic year,National,E92000001,England,Original,Total,Target,ITT Recruitment,31030,96
+202122,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Total,451,100
+202122,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Postgraduates,430,95
+202122,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Undergraduates,21,5
+202122,Academic year,National,E92000001,England,Previously excluded,Total,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Total,465,100
+202223,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Postgraduates,465,100
+202223,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Original,Art & Design,Target,ITT Recruitment,530,88
+202223,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Total,23,100
+202223,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Postgraduates,23,100
+202223,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Art & Design,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Biology,Entrants,Total,661,100
+202223,Academic year,National,E92000001,England,Original,Biology,Entrants,Postgraduates,643,97
+202223,Academic year,National,E92000001,England,Original,Biology,Entrants,Undergraduates,18,3
+202223,Academic year,National,E92000001,England,Original,Biology,Target,ITT Recruitment,780,82
+202223,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Total,32,100
+202223,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Postgraduates,32,100
+202223,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Biology,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Total,223,100
+202223,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Postgraduates,223,100
+202223,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Original,Business Studies,Target,ITT Recruitment,635,35
+202223,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Total,30,100
+202223,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Postgraduates,30,100
+202223,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Business Studies,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Total,739,100
+202223,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Postgraduates,735,99
+202223,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Undergraduates,4,1
+202223,Academic year,National,E92000001,England,Original,Chemistry,Target,ITT Recruitment,885,83
+202223,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Total,32,100
+202223,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Postgraduates,32,100
+202223,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Chemistry,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Computing,Entrants,Total,335,100
+202223,Academic year,National,E92000001,England,Original,Computing,Entrants,Postgraduates,331,99
+202223,Academic year,National,E92000001,England,Original,Computing,Entrants,Undergraduates,4,1
+202223,Academic year,National,E92000001,England,Original,Computing,Target,ITT Recruitment,1145,29
+202223,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Total,9,100
+202223,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Postgraduates,9,100
+202223,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Computing,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Total,433,100
+202223,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Postgraduates,433,100
+202223,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Original,Design & Technology,Target,ITT Recruitment,1825,24
+202223,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Total,11,100
+202223,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Postgraduates,11,100
+202223,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,English,Entrants,Total,1754,100
+202223,Academic year,National,E92000001,England,Original,English,Entrants,Postgraduates,1726,98
+202223,Academic year,National,E92000001,England,Original,English,Entrants,Undergraduates,28,2
+202223,Academic year,National,E92000001,England,Original,English,Target,ITT Recruitment,2100,82
+202223,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Total,62,100
+202223,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Postgraduates,61,98
+202223,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Undergraduates,1,2
+202223,Academic year,National,E92000001,England,Previously excluded,English,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Geography,Entrants,Total,640,100
+202223,Academic year,National,E92000001,England,Original,Geography,Entrants,Postgraduates,640,100
+202223,Academic year,National,E92000001,England,Original,Geography,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Original,Geography,Target,ITT Recruitment,945,68
+202223,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Total,21,100
+202223,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Postgraduates,21,100
+202223,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Geography,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,History,Entrants,Total,1104,100
+202223,Academic year,National,E92000001,England,Original,History,Entrants,Postgraduates,1099,100
+202223,Academic year,National,E92000001,England,Original,History,Entrants,Undergraduates,5,0
+202223,Academic year,National,E92000001,England,Original,History,Target,ITT Recruitment,850,129
+202223,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Total,27,100
+202223,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Postgraduates,27,100
+202223,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,History,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Total,1867,100
+202223,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Postgraduates,1799,96
+202223,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Undergraduates,68,4
+202223,Academic year,National,E92000001,England,Original,Mathematics,Target,ITT Recruitment,2040,88
+202223,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Total,70,100
+202223,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Postgraduates,70,100
+202223,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Mathematics,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Total,771,100
+202223,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Postgraduates,768,100
+202223,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Undergraduates,3,0
+202223,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Target,ITT Recruitment,2170,35
+202223,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Total,59,100
+202223,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Postgraduates,59,100
+202223,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Music,Entrants,Total,292,100
+202223,Academic year,National,E92000001,England,Original,Music,Entrants,Postgraduates,292,100
+202223,Academic year,National,E92000001,England,Original,Music,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Original,Music,Target,ITT Recruitment,470,62
+202223,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Total,26,100
+202223,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Postgraduates,26,100
+202223,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Music,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Other,Entrants,Total,713,100
+202223,Academic year,National,E92000001,England,Original,Other,Entrants,Postgraduates,713,100
+202223,Academic year,National,E92000001,England,Original,Other,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Original,Other,Target,ITT Recruitment,2530,28
+202223,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Total,20,100
+202223,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Postgraduates,19,95
+202223,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Undergraduates,1,5
+202223,Academic year,National,E92000001,England,Previously excluded,Other,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Total,1571,100
+202223,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Postgraduates,1393,89
+202223,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Undergraduates,178,11
+202223,Academic year,National,E92000001,England,Original,Physical Education,Target,ITT Recruitment,980,142
+202223,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Total,107,100
+202223,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Postgraduates,106,99
+202223,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Undergraduates,1,1
+202223,Academic year,National,E92000001,England,Previously excluded,Physical Education,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Physics,Entrants,Total,432,100
+202223,Academic year,National,E92000001,England,Original,Physics,Entrants,Postgraduates,427,99
+202223,Academic year,National,E92000001,England,Original,Physics,Entrants,Undergraduates,5,1
+202223,Academic year,National,E92000001,England,Original,Physics,Target,ITT Recruitment,2610,16
+202223,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Total,30,100
+202223,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Postgraduates,30,100
+202223,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Physics,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Total,348,100
+202223,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Postgraduates,336,97
+202223,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Undergraduates,12,3
+202223,Academic year,National,E92000001,England,Original,Religious Education,Target,ITT Recruitment,450,75
+202223,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Total,17,100
+202223,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Postgraduates,17,100
+202223,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Religious Education,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Primary,Entrants,Total,16099,100
+202223,Academic year,National,E92000001,England,Original,Primary,Entrants,Postgraduates,10638,66
+202223,Academic year,National,E92000001,England,Original,Primary,Entrants,Undergraduates,5461,34
+202223,Academic year,National,E92000001,England,Original,Primary,Target,ITT Recruitment,11655,91
+202223,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Total,390,100
+202223,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Postgraduates,372,95
+202223,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Undergraduates,18,5
+202223,Academic year,National,E92000001,England,Previously excluded,Primary,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Secondary,Entrants,Total,12348,100
+202223,Academic year,National,E92000001,England,Original,Secondary,Entrants,Postgraduates,12023,97
+202223,Academic year,National,E92000001,England,Original,Secondary,Entrants,Undergraduates,325,3
+202223,Academic year,National,E92000001,England,Original,Secondary,Target,ITT Recruitment,20945,57
+202223,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Total,576,100
+202223,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Postgraduates,573,99
+202223,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Undergraduates,3,1
+202223,Academic year,National,E92000001,England,Previously excluded,Secondary,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Total Science,Entrants,Total,1832,100
+202223,Academic year,National,E92000001,England,Original,Total Science,Entrants,Postgraduates,1805,99
+202223,Academic year,National,E92000001,England,Original,Total Science,Entrants,Undergraduates,27,1
+202223,Academic year,National,E92000001,England,Original,Total Science,Target,ITT Recruitment,4275,42
+202223,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Total,94,100
+202223,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Postgraduates,94,100
+202223,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Previously excluded,Total Science,Target,ITT Recruitment,z,z
+202223,Academic year,National,E92000001,England,Original,Total,Entrants,Total,28447,100
+202223,Academic year,National,E92000001,England,Original,Total,Entrants,Postgraduates,22661,80
+202223,Academic year,National,E92000001,England,Original,Total,Entrants,Undergraduates,5786,20
+202223,Academic year,National,E92000001,England,Original,Total,Target,ITT Recruitment,32600,70
+202223,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Total,966,100
+202223,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Postgraduates,945,98
+202223,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Undergraduates,21,2
+202223,Academic year,National,E92000001,England,Previously excluded,Total,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Total,369,100
+202324,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Postgraduates,369,100
+202324,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Original,Art & Design,Target,ITT Recruitment,825,45
+202324,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Total,32,100
+202324,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Postgraduates,32,100
+202324,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Art & Design,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Biology,Entrants,Total,927,100
+202324,Academic year,National,E92000001,England,Original,Biology,Entrants,Postgraduates,922,99
+202324,Academic year,National,E92000001,England,Original,Biology,Entrants,Undergraduates,5,1
+202324,Academic year,National,E92000001,England,Original,Biology,Target,ITT Recruitment,1050,88
+202324,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Total,26,100
+202324,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Postgraduates,26,100
+202324,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Biology,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Total,198,100
+202324,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Postgraduates,198,100
+202324,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Original,Business Studies,Target,ITT Recruitment,1195,17
+202324,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Total,28,100
+202324,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Postgraduates,28,100
+202324,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Business Studies,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Total,756,100
+202324,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Postgraduates,754,100
+202324,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Undergraduates,2,0
+202324,Academic year,National,E92000001,England,Original,Chemistry,Target,ITT Recruitment,1195,63
+202324,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Total,22,100
+202324,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Postgraduates,22,100
+202324,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Chemistry,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Computing,Entrants,Total,412,100
+202324,Academic year,National,E92000001,England,Original,Computing,Entrants,Postgraduates,411,100
+202324,Academic year,National,E92000001,England,Original,Computing,Entrants,Undergraduates,1,0
+202324,Academic year,National,E92000001,England,Original,Computing,Target,ITT Recruitment,1170,35
+202324,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Total,11,100
+202324,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Postgraduates,11,100
+202324,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Computing,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Total,573,100
+202324,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Postgraduates,573,100
+202324,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Original,Design & Technology,Target,ITT Recruitment,2110,27
+202324,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Total,16,100
+202324,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Postgraduates,16,100
+202324,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,English,Entrants,Total,2210,100
+202324,Academic year,National,E92000001,England,Original,English,Entrants,Postgraduates,2189,99
+202324,Academic year,National,E92000001,England,Original,English,Entrants,Undergraduates,21,1
+202324,Academic year,National,E92000001,England,Original,English,Target,ITT Recruitment,3035,72
+202324,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Total,71,100
+202324,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Postgraduates,71,100
+202324,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,English,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Geography,Entrants,Total,822,100
+202324,Academic year,National,E92000001,England,Original,Geography,Entrants,Postgraduates,822,100
+202324,Academic year,National,E92000001,England,Original,Geography,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Original,Geography,Target,ITT Recruitment,1485,55
+202324,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Total,17,100
+202324,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Postgraduates,17,100
+202324,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Geography,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,History,Entrants,Total,938,100
+202324,Academic year,National,E92000001,England,Original,History,Entrants,Postgraduates,931,99
+202324,Academic year,National,E92000001,England,Original,History,Entrants,Undergraduates,7,1
+202324,Academic year,National,E92000001,England,Original,History,Target,ITT Recruitment,800,116
+202324,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Total,37,100
+202324,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Postgraduates,37,100
+202324,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,History,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Total,1846,100
+202324,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Postgraduates,1804,98
+202324,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Undergraduates,42,2
+202324,Academic year,National,E92000001,England,Original,Mathematics,Target,ITT Recruitment,2960,61
+202324,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Total,74,100
+202324,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Postgraduates,73,99
+202324,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Undergraduates,1,1
+202324,Academic year,National,E92000001,England,Previously excluded,Mathematics,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Total,998,100
+202324,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Postgraduates,997,100
+202324,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Undergraduates,1,0
+202324,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Target,ITT Recruitment,2985,33
+202324,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Total,108,100
+202324,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Postgraduates,108,100
+202324,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Music,Entrants,Total,216,100
+202324,Academic year,National,E92000001,England,Original,Music,Entrants,Postgraduates,216,100
+202324,Academic year,National,E92000001,England,Original,Music,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Original,Music,Target,ITT Recruitment,790,27
+202324,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Total,22,100
+202324,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Postgraduates,22,100
+202324,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Music,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Other,Entrants,Total,530,100
+202324,Academic year,National,E92000001,England,Original,Other,Entrants,Postgraduates,522,98
+202324,Academic year,National,E92000001,England,Original,Other,Entrants,Undergraduates,8,2
+202324,Academic year,National,E92000001,England,Original,Other,Target,ITT Recruitment,2550,20
+202324,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Total,42,100
+202324,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Postgraduates,42,100
+202324,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Other,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Total,1484,100
+202324,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Postgraduates,1323,89
+202324,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Undergraduates,161,11
+202324,Academic year,National,E92000001,England,Original,Physical Education,Target,ITT Recruitment,735,180
+202324,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Total,164,100
+202324,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Postgraduates,164,100
+202324,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Physical Education,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Physics,Entrants,Total,469,100
+202324,Academic year,National,E92000001,England,Original,Physics,Entrants,Postgraduates,466,99
+202324,Academic year,National,E92000001,England,Original,Physics,Entrants,Undergraduates,3,1
+202324,Academic year,National,E92000001,England,Original,Physics,Target,ITT Recruitment,2820,17
+202324,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Total,98,100
+202324,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Postgraduates,98,100
+202324,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Physics,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Total,275,100
+202324,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Postgraduates,269,98
+202324,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Undergraduates,6,2
+202324,Academic year,National,E92000001,England,Original,Religious Education,Target,ITT Recruitment,655,41
+202324,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Total,18,100
+202324,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Postgraduates,18,100
+202324,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Religious Education,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Primary,Entrants,Total,13351,100
+202324,Academic year,National,E92000001,England,Original,Primary,Entrants,Postgraduates,8644,65
+202324,Academic year,National,E92000001,England,Original,Primary,Entrants,Undergraduates,4707,35
+202324,Academic year,National,E92000001,England,Original,Primary,Target,ITT Recruitment,9180,94
+202324,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Total,500,100
+202324,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Postgraduates,481,96
+202324,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Undergraduates,19,4
+202324,Academic year,National,E92000001,England,Previously excluded,Primary,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Secondary,Entrants,Total,13023,100
+202324,Academic year,National,E92000001,England,Original,Secondary,Entrants,Postgraduates,12766,98
+202324,Academic year,National,E92000001,England,Original,Secondary,Entrants,Undergraduates,257,2
+202324,Academic year,National,E92000001,England,Original,Secondary,Target,ITT Recruitment,26360,48
+202324,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Total,786,100
+202324,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Postgraduates,785,100
+202324,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Undergraduates,1,0
+202324,Academic year,National,E92000001,England,Previously excluded,Secondary,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Total Science,Entrants,Total,2152,100
+202324,Academic year,National,E92000001,England,Original,Total Science,Entrants,Postgraduates,2142,100
+202324,Academic year,National,E92000001,England,Original,Total Science,Entrants,Undergraduates,10,0
+202324,Academic year,National,E92000001,England,Original,Total Science,Target,ITT Recruitment,5065,42
+202324,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Total,146,100
+202324,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Postgraduates,146,100
+202324,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Previously excluded,Total Science,Target,ITT Recruitment,z,z
+202324,Academic year,National,E92000001,England,Original,Total,Entrants,Total,26374,100
+202324,Academic year,National,E92000001,England,Original,Total,Entrants,Postgraduates,21410,81
+202324,Academic year,National,E92000001,England,Original,Total,Entrants,Undergraduates,4964,19
+202324,Academic year,National,E92000001,England,Original,Total,Target,ITT Recruitment,35540,60
+202324,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Total,1286,100
+202324,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Postgraduates,1266,98
+202324,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Undergraduates,20,2
+202324,Academic year,National,E92000001,England,Previously excluded,Total,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Total,701,100
+202425,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Postgraduates,701,100
+202425,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Original,Art & Design,Target,ITT Recruitment,1095,64
+202425,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Total,21,100
+202425,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Postgraduates,21,100
+202425,Academic year,National,E92000001,England,Previously excluded,Art & Design,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,Art & Design,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Biology,Entrants,Total,1294,100
+202425,Academic year,National,E92000001,England,Original,Biology,Entrants,Postgraduates,1294,100
+202425,Academic year,National,E92000001,England,Original,Biology,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Original,Biology,Target,ITT Recruitment,1120,116
+202425,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Total,21,100
+202425,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Postgraduates,20,95
+202425,Academic year,National,E92000001,England,Previously excluded,Biology,Entrants,Undergraduates,1,5
+202425,Academic year,National,E92000001,England,Previously excluded,Biology,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Total,191,100
+202425,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Postgraduates,191,100
+202425,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Original,Business Studies,Target,ITT Recruitment,1200,16
+202425,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Total,23,100
+202425,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Postgraduates,23,100
+202425,Academic year,National,E92000001,England,Previously excluded,Business Studies,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,Business Studies,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Total,750,100
+202425,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Postgraduates,748,100
+202425,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Undergraduates,2,0
+202425,Academic year,National,E92000001,England,Original,Chemistry,Target,ITT Recruitment,1220,61
+202425,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Total,12,100
+202425,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Postgraduates,12,100
+202425,Academic year,National,E92000001,England,Previously excluded,Chemistry,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,Chemistry,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Computing,Entrants,Total,493,100
+202425,Academic year,National,E92000001,England,Original,Computing,Entrants,Postgraduates,488,99
+202425,Academic year,National,E92000001,England,Original,Computing,Entrants,Undergraduates,5,1
+202425,Academic year,National,E92000001,England,Original,Computing,Target,ITT Recruitment,1330,37
+202425,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Total,9,100
+202425,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Postgraduates,8,89
+202425,Academic year,National,E92000001,England,Previously excluded,Computing,Entrants,Undergraduates,1,11
+202425,Academic year,National,E92000001,England,Previously excluded,Computing,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Total,612,100
+202425,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Postgraduates,612,100
+202425,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Original,Design & Technology,Target,ITT Recruitment,1565,39
+202425,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Total,10,100
+202425,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Postgraduates,10,100
+202425,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,Design & Technology,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,English,Entrants,Total,2295,100
+202425,Academic year,National,E92000001,England,Original,English,Entrants,Postgraduates,2273,99
+202425,Academic year,National,E92000001,England,Original,English,Entrants,Undergraduates,22,1
+202425,Academic year,National,E92000001,England,Original,English,Target,ITT Recruitment,2290,99
+202425,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Total,43,100
+202425,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Postgraduates,43,100
+202425,Academic year,National,E92000001,England,Previously excluded,English,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,English,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Geography,Entrants,Total,855,100
+202425,Academic year,National,E92000001,England,Original,Geography,Entrants,Postgraduates,855,100
+202425,Academic year,National,E92000001,England,Original,Geography,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Original,Geography,Target,ITT Recruitment,945,90
+202425,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Total,13,100
+202425,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Postgraduates,13,100
+202425,Academic year,National,E92000001,England,Previously excluded,Geography,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,Geography,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,History,Entrants,Total,882,100
+202425,Academic year,National,E92000001,England,Original,History,Entrants,Postgraduates,877,99
+202425,Academic year,National,E92000001,England,Original,History,Entrants,Undergraduates,5,1
+202425,Academic year,National,E92000001,England,Original,History,Target,ITT Recruitment,725,121
+202425,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Total,31,100
+202425,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Postgraduates,31,100
+202425,Academic year,National,E92000001,England,Previously excluded,History,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,History,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Total,2199,100
+202425,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Postgraduates,2157,98
+202425,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Undergraduates,42,2
+202425,Academic year,National,E92000001,England,Original,Mathematics,Target,ITT Recruitment,3065,70
+202425,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Total,70,100
+202425,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Postgraduates,68,97
+202425,Academic year,National,E92000001,England,Previously excluded,Mathematics,Entrants,Undergraduates,2,3
+202425,Academic year,National,E92000001,England,Previously excluded,Mathematics,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Total,1126,100
+202425,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Postgraduates,1126,100
+202425,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Target,ITT Recruitment,2560,44
+202425,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Total,107,100
+202425,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Postgraduates,107,100
+202425,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,Modern Foreign Languages,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Music,Entrants,Total,325,100
+202425,Academic year,National,E92000001,England,Original,Music,Entrants,Postgraduates,325,100
+202425,Academic year,National,E92000001,England,Original,Music,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Original,Music,Target,ITT Recruitment,820,40
+202425,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Total,20,100
+202425,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Postgraduates,20,100
+202425,Academic year,National,E92000001,England,Previously excluded,Music,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,Music,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Other,Entrants,Total,528,100
+202425,Academic year,National,E92000001,England,Original,Other,Entrants,Postgraduates,523,99
+202425,Academic year,National,E92000001,England,Original,Other,Entrants,Undergraduates,5,1
+202425,Academic year,National,E92000001,England,Original,Other,Target,ITT Recruitment,2565,20
+202425,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Total,27,100
+202425,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Postgraduates,27,100
+202425,Academic year,National,E92000001,England,Previously excluded,Other,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,Other,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Total,1476,100
+202425,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Postgraduates,1332,90
+202425,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Undergraduates,144,10
+202425,Academic year,National,E92000001,England,Original,Physical Education,Target,ITT Recruitment,625,213
+202425,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Total,90,100
+202425,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Postgraduates,90,100
+202425,Academic year,National,E92000001,England,Previously excluded,Physical Education,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,Physical Education,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Physics,Entrants,Total,685,100
+202425,Academic year,National,E92000001,England,Original,Physics,Entrants,Postgraduates,679,99
+202425,Academic year,National,E92000001,England,Original,Physics,Entrants,Undergraduates,6,1
+202425,Academic year,National,E92000001,England,Original,Physics,Target,ITT Recruitment,2250,30
+202425,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Total,119,100
+202425,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Postgraduates,119,100
+202425,Academic year,National,E92000001,England,Previously excluded,Physics,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,Physics,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Total,461,100
+202425,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Postgraduates,451,98
+202425,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Undergraduates,10,2
+202425,Academic year,National,E92000001,England,Original,Religious Education,Target,ITT Recruitment,580,78
+202425,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Total,11,100
+202425,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Postgraduates,11,100
+202425,Academic year,National,E92000001,England,Previously excluded,Religious Education,Entrants,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Previously excluded,Religious Education,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Primary,Entrants,Total,12911,100
+202425,Academic year,National,E92000001,England,Original,Primary,Entrants,Postgraduates,8473,66
+202425,Academic year,National,E92000001,England,Original,Primary,Entrants,Undergraduates,4438,34
+202425,Academic year,National,E92000001,England,Original,Primary,Target,ITT Recruitment,9400,90
+202425,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Total,487,100
+202425,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Postgraduates,380,78
+202425,Academic year,National,E92000001,England,Previously excluded,Primary,Entrants,Undergraduates,107,22
+202425,Academic year,National,E92000001,England,Previously excluded,Primary,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Secondary,Entrants,Total,14873,100
+202425,Academic year,National,E92000001,England,Original,Secondary,Entrants,Postgraduates,14632,98
+202425,Academic year,National,E92000001,England,Original,Secondary,Entrants,Undergraduates,241,2
+202425,Academic year,National,E92000001,England,Original,Secondary,Target,ITT Recruitment,23955,61
+202425,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Total,627,100
+202425,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Postgraduates,623,99
+202425,Academic year,National,E92000001,England,Previously excluded,Secondary,Entrants,Undergraduates,4,1
+202425,Academic year,National,E92000001,England,Previously excluded,Secondary,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Total Science,Entrants,Total,2729,100
+202425,Academic year,National,E92000001,England,Original,Total Science,Entrants,Postgraduates,2721,100
+202425,Academic year,National,E92000001,England,Original,Total Science,Entrants,Undergraduates,8,0
+202425,Academic year,National,E92000001,England,Original,Total Science,Target,ITT Recruitment,4590,59
+202425,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Total,152,100
+202425,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Postgraduates,151,99
+202425,Academic year,National,E92000001,England,Previously excluded,Total Science,Entrants,Undergraduates,1,1
+202425,Academic year,National,E92000001,England,Previously excluded,Total Science,Target,ITT Recruitment,z,z
+202425,Academic year,National,E92000001,England,Original,Total,Entrants,Total,27784,100
+202425,Academic year,National,E92000001,England,Original,Total,Entrants,Postgraduates,23105,83
+202425,Academic year,National,E92000001,England,Original,Total,Entrants,Undergraduates,4679,17
+202425,Academic year,National,E92000001,England,Original,Total,Target,ITT Recruitment,33355,69
+202425,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Total,1114,100
+202425,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Postgraduates,1003,90
+202425,Academic year,National,E92000001,England,Previously excluded,Total,Entrants,Undergraduates,111,10
+202425,Academic year,National,E92000001,England,Previously excluded,Total,Target,ITT Recruitment,z,z
+202526,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Total,872,100
+202526,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Postgraduates,872,100
+202526,Academic year,National,E92000001,England,Original,Art & Design,Entrants,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Original,Art & Design,Target,ITT Recruitment,680,128
+202526,Academic year,National,E92000001,England,Original,Biology,Entrants,Total,1489,100
+202526,Academic year,National,E92000001,England,Original,Biology,Entrants,Postgraduates,1489,100
+202526,Academic year,National,E92000001,England,Original,Biology,Entrants,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Original,Biology,Target,ITT Recruitment,985,151
+202526,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Total,271,100
+202526,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Postgraduates,271,100
+202526,Academic year,National,E92000001,England,Original,Business Studies,Entrants,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Original,Business Studies,Target,ITT Recruitment,900,30
+202526,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Total,865,100
+202526,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Postgraduates,864,100
+202526,Academic year,National,E92000001,England,Original,Chemistry,Entrants,Undergraduates,1,0
+202526,Academic year,National,E92000001,England,Original,Chemistry,Target,ITT Recruitment,730,118
+202526,Academic year,National,E92000001,England,Original,Computing,Entrants,Total,716,100
+202526,Academic year,National,E92000001,England,Original,Computing,Entrants,Postgraduates,715,100
+202526,Academic year,National,E92000001,England,Original,Computing,Entrants,Undergraduates,1,0
+202526,Academic year,National,E92000001,England,Original,Computing,Target,ITT Recruitment,895,80
+202526,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Total,680,100
+202526,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Postgraduates,680,100
+202526,Academic year,National,E92000001,England,Original,Design & Technology,Entrants,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Original,Design & Technology,Target,ITT Recruitment,965,70
+202526,Academic year,National,E92000001,England,Original,English,Entrants,Total,2074,100
+202526,Academic year,National,E92000001,England,Original,English,Entrants,Postgraduates,2059,99
+202526,Academic year,National,E92000001,England,Original,English,Entrants,Undergraduates,15,1
+202526,Academic year,National,E92000001,England,Original,English,Target,ITT Recruitment,1950,106
+202526,Academic year,National,E92000001,England,Original,Geography,Entrants,Total,1035,100
+202526,Academic year,National,E92000001,England,Original,Geography,Entrants,Postgraduates,1035,100
+202526,Academic year,National,E92000001,England,Original,Geography,Entrants,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Original,Geography,Target,ITT Recruitment,935,111
+202526,Academic year,National,E92000001,England,Original,History,Entrants,Total,996,100
+202526,Academic year,National,E92000001,England,Original,History,Entrants,Postgraduates,989,99
+202526,Academic year,National,E92000001,England,Original,History,Entrants,Undergraduates,7,1
+202526,Academic year,National,E92000001,England,Original,History,Target,ITT Recruitment,790,125
+202526,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Total,2665,100
+202526,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Postgraduates,2588,97
+202526,Academic year,National,E92000001,England,Original,Mathematics,Entrants,Undergraduates,77,3
+202526,Academic year,National,E92000001,England,Original,Mathematics,Target,ITT Recruitment,2300,113
+202526,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Total,1412,100
+202526,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Postgraduates,1408,100
+202526,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Entrants,Undergraduates,4,0
+202526,Academic year,National,E92000001,England,Original,Modern Foreign Languages,Target,ITT Recruitment,1520,93
+202526,Academic year,National,E92000001,England,Original,Music,Entrants,Total,367,100
+202526,Academic year,National,E92000001,England,Original,Music,Entrants,Postgraduates,367,100
+202526,Academic year,National,E92000001,England,Original,Music,Entrants,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Original,Music,Target,ITT Recruitment,565,65
+202526,Academic year,National,E92000001,England,Original,Other,Entrants,Total,603,100
+202526,Academic year,National,E92000001,England,Original,Other,Entrants,Postgraduates,603,100
+202526,Academic year,National,E92000001,England,Original,Other,Entrants,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Original,Other,Target,ITT Recruitment,3140,19
+202526,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Total,1646,100
+202526,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Postgraduates,1466,89
+202526,Academic year,National,E92000001,England,Original,Physical Education,Entrants,Undergraduates,180,11
+202526,Academic year,National,E92000001,England,Original,Physical Education,Target,ITT Recruitment,725,202
+202526,Academic year,National,E92000001,England,Original,Physics,Entrants,Total,1094,100
+202526,Academic year,National,E92000001,England,Original,Physics,Entrants,Postgraduates,1086,99
+202526,Academic year,National,E92000001,England,Original,Physics,Entrants,Undergraduates,8,1
+202526,Academic year,National,E92000001,England,Original,Physics,Target,ITT Recruitment,1410,77
+202526,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Total,483,100
+202526,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Postgraduates,483,100
+202526,Academic year,National,E92000001,England,Original,Religious Education,Entrants,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Original,Religious Education,Target,ITT Recruitment,780,62
+202526,Academic year,National,E92000001,England,Original,Primary,Entrants,Total,14907,100
+202526,Academic year,National,E92000001,England,Original,Primary,Entrants,Postgraduates,9645,65
+202526,Academic year,National,E92000001,England,Original,Primary,Entrants,Undergraduates,5262,35
+202526,Academic year,National,E92000001,England,Original,Primary,Target,ITT Recruitment,7650,126
+202526,Academic year,National,E92000001,England,Original,Secondary,Entrants,Total,17268,100
+202526,Academic year,National,E92000001,England,Original,Secondary,Entrants,Postgraduates,16975,98
+202526,Academic year,National,E92000001,England,Original,Secondary,Entrants,Undergraduates,293,2
+202526,Academic year,National,E92000001,England,Original,Secondary,Target,ITT Recruitment,19270,88
+202526,Academic year,National,E92000001,England,Original,Total Science,Entrants,Total,3448,100
+202526,Academic year,National,E92000001,England,Original,Total Science,Entrants,Postgraduates,3439,100
+202526,Academic year,National,E92000001,England,Original,Total Science,Entrants,Undergraduates,9,0
+202526,Academic year,National,E92000001,England,Original,Total Science,Target,ITT Recruitment,3125,110
+202526,Academic year,National,E92000001,England,Original,Total,Entrants,Total,32175,100
+202526,Academic year,National,E92000001,England,Original,Total,Entrants,Postgraduates,26620,83
+202526,Academic year,National,E92000001,England,Original,Total,Entrants,Undergraduates,5555,17
+202526,Academic year,National,E92000001,England,Original,Total,Target,ITT Recruitment,26920,99

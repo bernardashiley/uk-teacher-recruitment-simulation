@@ -1,0 +1,1071 @@
+time_period,time_identifier,geographic_level,country_code,country_name,region_code,region_name,breakdown_topic,breakdown,trainee_number,trainee_percentage
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Higher Education,1269,52
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,School Centred ITT,636,26
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Total,1905,79
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,Higher Education,22,1
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,School Centred ITT,44,2
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,Total,66,3
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Higher Education,11,0
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Total,11,0
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Higher Education,440,18
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Total,440,18
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried Total,Total,77,3
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,Postgraduate Total,Total,1982,82
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate Total,Total,440,18
+201920,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total,Total,2422,7
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Higher Education,905,34
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,School Centred ITT,1169,44
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Total,2074,79
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,School Centred ITT,332,13
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Higher Education,72,3
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Total,404,15
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,School Centred ITT,9,0
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,Total,9,0
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Higher Education,149,6
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Total,149,6
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried Total,Total,413,16
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,Postgraduate Total,Total,2487,94
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate Total,Total,149,6
+201920,Academic year,Regional,E92000001,England,E12000006,East of England,Total,Total,2636,8
+201920,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,School Centred ITT,943,15
+201920,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Higher Education,3005,48
+201920,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Total,3948,64
+201920,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,Higher Education,641,10
+201920,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,Total,641,10
+201920,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,School Centred ITT,637,10
+201920,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Higher Education,432,7
+201920,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Total,1069,17
+201920,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,School Centred ITT,49,1
+201920,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Higher Education,43,1
+201920,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Total,92,1
+201920,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Higher Education,463,7
+201920,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Total,463,7
+201920,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried Total,Total,1802,29
+201920,Academic year,Regional,E92000001,England,E12000007,London,Postgraduate Total,Total,5750,93
+201920,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate Total,Total,463,7
+201920,Academic year,Regional,E92000001,England,E12000007,London,Total,Total,6213,18
+201920,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,School Centred ITT,514,28
+201920,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Higher Education,861,47
+201920,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Total,1375,76
+201920,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried High Potential ITT,Higher Education,87,5
+201920,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried High Potential ITT,Total,87,5
+201920,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,Higher Education,10,1
+201920,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,School Centred ITT,5,0
+201920,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,Total,15,1
+201920,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Higher Education,8,0
+201920,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,School Centred ITT,2,0
+201920,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Total,10,1
+201920,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Higher Education,332,18
+201920,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Total,332,18
+201920,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried Total,Total,112,6
+201920,Academic year,Regional,E92000001,England,E12000001,North East,Postgraduate Total,Total,1487,82
+201920,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate Total,Total,332,18
+201920,Academic year,Regional,E92000001,England,E12000001,North East,Total,Total,1819,5
+201920,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Higher Education,3479,65
+201920,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,School Centred ITT,632,12
+201920,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Total,4111,77
+201920,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried High Potential ITT,Higher Education,128,2
+201920,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried High Potential ITT,Total,128,2
+201920,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Higher Education,30,1
+201920,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,School Centred ITT,34,1
+201920,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Total,64,1
+201920,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,School Centred ITT,16,0
+201920,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,Total,16,0
+201920,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Higher Education,1019,19
+201920,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Total,1019,19
+201920,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried Total,Total,208,4
+201920,Academic year,Regional,E92000001,England,E12000002,North West,Postgraduate Total,Total,4319,81
+201920,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate Total,Total,1019,19
+201920,Academic year,Regional,E92000001,England,E12000002,North West,Total,Total,5338,16
+201920,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Higher Education,2600,49
+201920,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,School Centred ITT,906,17
+201920,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Total,3506,67
+201920,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried High Potential ITT,Higher Education,220,4
+201920,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried High Potential ITT,Total,220,4
+201920,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,School Centred ITT,340,6
+201920,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Higher Education,240,5
+201920,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Total,580,11
+201920,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,School Centred ITT,33,1
+201920,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Total,33,1
+201920,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Higher Education,914,17
+201920,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,School Centred ITT,9,0
+201920,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Total,923,18
+201920,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried Total,Total,833,16
+201920,Academic year,Regional,E92000001,England,E12000008,South East,Postgraduate Total,Total,4339,82
+201920,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate Total,Total,923,18
+201920,Academic year,Regional,E92000001,England,E12000008,South East,Total,Total,5262,15
+201920,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Higher Education,1697,61
+201920,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,School Centred ITT,549,20
+201920,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Total,2246,81
+201920,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried High Potential ITT,Higher Education,74,3
+201920,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried High Potential ITT,Total,74,3
+201920,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,Higher Education,41,1
+201920,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,School Centred ITT,48,2
+201920,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,Total,89,3
+201920,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,School Centred ITT,6,0
+201920,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,Total,6,0
+201920,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Higher Education,351,13
+201920,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Total,351,13
+201920,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried Total,Total,169,6
+201920,Academic year,Regional,E92000001,England,E12000009,South West,Postgraduate Total,Total,2415,87
+201920,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate Total,Total,351,13
+201920,Academic year,Regional,E92000001,England,E12000009,South West,Total,Total,2766,8
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Higher Education,2278,58
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,School Centred ITT,624,16
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Total,2902,74
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried High Potential ITT,Higher Education,350,9
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried High Potential ITT,Total,350,9
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Higher Education,123,3
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,School Centred ITT,30,1
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Total,153,4
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Higher Education,21,1
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Total,21,1
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Higher Education,509,13
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Total,509,13
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried Total,Total,524,13
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,Postgraduate Total,Total,3426,87
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate Total,Total,509,13
+201920,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total,Total,3935,11
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Higher Education,1966,50
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,School Centred ITT,988,25
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Total,2954,75
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried High Potential ITT,Higher Education,161,4
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried High Potential ITT,Total,161,4
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,School Centred ITT,56,1
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,Higher Education,38,1
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,Total,94,2
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,School Centred ITT,6,0
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,Total,6,0
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Higher Education,681,17
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,School Centred ITT,27,1
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Total,708,18
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried Total,Total,261,7
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Postgraduate Total,Total,3215,82
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate Total,Total,708,18
+201920,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total,Total,3923,11
+201920,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,Higher Education,18060,53
+201920,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,School Centred ITT,6961,20
+201920,Academic year,National,E92000001,England,E92000001,England,PG Salaried High Potential ITT,Higher Education,1661,5
+201920,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,School Centred ITT,1526,4
+201920,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,Higher Education,1008,3
+201920,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,Higher Education,83,0
+201920,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,School Centred ITT,121,0
+201920,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,School Centred ITT,36,0
+201920,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,Higher Education,4858,14
+201920,Academic year,National,E92000001,England,E92000001,England,PG Salaried Total,Total,4399,13
+201920,Academic year,National,E92000001,England,E92000001,England,Postgraduate Total,Total,29420,86
+201920,Academic year,National,E92000001,England,E92000001,England,Undergraduate Total,Total,4894,14
+201920,Academic year,National,E92000001,England,E92000001,England,Total,Total,34314,100
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,School Centred ITT,763,26
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Higher Education,1561,54
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Total,2324,80
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,Higher Education,17,1
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,School Centred ITT,42,1
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,Total,59,2
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Higher Education,29,1
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Total,29,1
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Higher Education,491,17
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Total,491,17
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried Total,Total,88,3
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,Postgraduate Total,Total,2412,83
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate Total,Total,491,17
+202021,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total,Total,2903,7
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Higher Education,1108,37
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,School Centred ITT,1365,45
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Total,2473,82
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,School Centred ITT,298,10
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Higher Education,65,2
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Total,363,12
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,School Centred ITT,37,1
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,Total,37,1
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Higher Education,150,5
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Total,150,5
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried Total,Total,400,13
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,Postgraduate Total,Total,2873,95
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate Total,Total,150,5
+202021,Academic year,Regional,E92000001,England,E12000006,East of England,Total,Total,3023,7
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,School Centred ITT,1214,16
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Higher Education,3941,53
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Total,5155,69
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,School Centred ITT,10,0
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,Higher Education,577,8
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,Total,587,8
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,School Centred ITT,575,8
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Higher Education,367,5
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Total,942,13
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Higher Education,39,1
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,School Centred ITT,101,1
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Total,140,2
+202021,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Higher Education,597,8
+202021,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Total,597,8
+202021,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried Total,Total,1669,22
+202021,Academic year,Regional,E92000001,England,E12000007,London,Postgraduate Total,Total,6824,92
+202021,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate Total,Total,597,8
+202021,Academic year,Regional,E92000001,England,E12000007,London,Total,Total,7421,18
+202021,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Higher Education,990,49
+202021,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,School Centred ITT,534,26
+202021,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Total,1524,75
+202021,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried High Potential ITT,Higher Education,84,4
+202021,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried High Potential ITT,Total,84,4
+202021,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,School Centred ITT,3,0
+202021,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,Higher Education,12,1
+202021,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,Total,15,1
+202021,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,School Centred ITT,6,0
+202021,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Higher Education,7,0
+202021,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Total,13,1
+202021,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Higher Education,405,20
+202021,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Total,405,20
+202021,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried Total,Total,112,5
+202021,Academic year,Regional,E92000001,England,E12000001,North East,Postgraduate Total,Total,1636,80
+202021,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate Total,Total,405,20
+202021,Academic year,Regional,E92000001,England,E12000001,North East,Total,Total,2041,5
+202021,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Higher Education,4262,64
+202021,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,School Centred ITT,790,12
+202021,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Total,5052,76
+202021,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried High Potential ITT,Higher Education,130,2
+202021,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried High Potential ITT,Total,130,2
+202021,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,School Centred ITT,23,0
+202021,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Higher Education,31,0
+202021,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Total,54,1
+202021,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,School Centred ITT,38,1
+202021,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,Total,38,1
+202021,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Higher Education,1367,21
+202021,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Total,1367,21
+202021,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried Total,Total,222,3
+202021,Academic year,Regional,E92000001,England,E12000002,North West,Postgraduate Total,Total,5274,79
+202021,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate Total,Total,1367,21
+202021,Academic year,Regional,E92000001,England,E12000002,North West,Total,Total,6641,16
+202021,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,School Centred ITT,1256,21
+202021,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Higher Education,3042,50
+202021,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Total,4298,70
+202021,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried High Potential ITT,Higher Education,266,4
+202021,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried High Potential ITT,Total,266,4
+202021,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,School Centred ITT,323,5
+202021,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Higher Education,204,3
+202021,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Total,527,9
+202021,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,School Centred ITT,34,1
+202021,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Higher Education,15,0
+202021,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Total,49,1
+202021,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,School Centred ITT,9,0
+202021,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Higher Education,973,16
+202021,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Total,982,16
+202021,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried Total,Total,842,14
+202021,Academic year,Regional,E92000001,England,E12000008,South East,Postgraduate Total,Total,5140,84
+202021,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate Total,Total,982,16
+202021,Academic year,Regional,E92000001,England,E12000008,South East,Total,Total,6122,15
+202021,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,School Centred ITT,658,21
+202021,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Higher Education,1923,61
+202021,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Total,2581,82
+202021,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried High Potential ITT,Higher Education,90,3
+202021,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried High Potential ITT,Total,90,3
+202021,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,School Centred ITT,21,1
+202021,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,Higher Education,18,1
+202021,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,Total,39,1
+202021,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,School Centred ITT,8,0
+202021,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,Higher Education,6,0
+202021,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,Total,14,0
+202021,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Higher Education,405,13
+202021,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Total,405,13
+202021,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried Total,Total,143,5
+202021,Academic year,Regional,E92000001,England,E12000009,South West,Postgraduate Total,Total,2724,87
+202021,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate Total,Total,405,13
+202021,Academic year,Regional,E92000001,England,E12000009,South West,Total,Total,3129,8
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,School Centred ITT,722,15
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Higher Education,3044,61
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Total,3766,76
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried High Potential ITT,Higher Education,319,6
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried High Potential ITT,Total,319,6
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,School Centred ITT,33,1
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Higher Education,69,1
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Total,102,2
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Higher Education,50,1
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Total,50,1
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Higher Education,717,14
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,School Centred ITT,17,0
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Total,734,15
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried Total,Total,471,9
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,Postgraduate Total,Total,4237,85
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate Total,Total,734,15
+202021,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total,Total,4971,12
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,School Centred ITT,1190,25
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Higher Education,2380,51
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Total,3570,76
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried High Potential ITT,Higher Education,165,4
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried High Potential ITT,Total,165,4
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,School Centred ITT,53,1
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,Higher Education,40,1
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,Total,93,2
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,School Centred ITT,15,0
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,Total,15,0
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,School Centred ITT,32,1
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Higher Education,827,18
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Total,859,18
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried Total,Total,273,6
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Postgraduate Total,Total,3843,82
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate Total,Total,859,18
+202021,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total,Total,4702,11
+202021,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,School Centred ITT,8492,21
+202021,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,Higher Education,22251,54
+202021,Academic year,National,E92000001,England,E92000001,England,PG Salaried High Potential ITT,School Centred ITT,10,0
+202021,Academic year,National,E92000001,England,E92000001,England,PG Salaried High Potential ITT,Higher Education,1631,4
+202021,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,Higher Education,823,2
+202021,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,School Centred ITT,1371,3
+202021,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,Higher Education,146,0
+202021,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,School Centred ITT,239,1
+202021,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,School Centred ITT,58,0
+202021,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,Higher Education,5932,14
+202021,Academic year,National,E92000001,England,E92000001,England,PG Salaried Total,Total,4220,10
+202021,Academic year,National,E92000001,England,E92000001,England,Postgraduate Total,Total,34963,85
+202021,Academic year,National,E92000001,England,E92000001,England,Undergraduate Total,Total,5990,15
+202021,Academic year,National,E92000001,England,E92000001,England,Total,Total,40953,100
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,School Centred ITT,755,29
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Higher Education,1273,49
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Total,2028,78
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,Higher Education,10,0
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,School Centred ITT,24,1
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,Total,34,1
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Higher Education,27,1
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,School Centred ITT,6,0
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Total,33,1
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Higher Education,520,20
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Total,520,20
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried Total,Total,67,3
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,Postgraduate Total,Total,2095,80
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate Total,Total,520,20
+202122,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total,Total,2615,7
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,School Centred ITT,1354,51
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Higher Education,939,36
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Total,2293,87
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Higher Education,30,1
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,School Centred ITT,135,5
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Total,165,6
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,School Centred ITT,41,2
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,Total,41,2
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Higher Education,123,5
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,School Centred ITT,17,1
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Total,140,5
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried Total,Total,206,8
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,Postgraduate Total,Total,2499,95
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate Total,Total,140,5
+202122,Academic year,Regional,E92000001,England,E12000006,East of England,Total,Total,2639,7
+202122,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,School Centred ITT,1337,18
+202122,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Higher Education,3383,45
+202122,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Total,4720,62
+202122,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,School Centred ITT,1501,20
+202122,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,Total,1501,20
+202122,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Higher Education,78,1
+202122,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,School Centred ITT,198,3
+202122,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Total,276,4
+202122,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,School Centred ITT,371,5
+202122,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Higher Education,94,1
+202122,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Total,465,6
+202122,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Higher Education,586,8
+202122,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,School Centred ITT,9,0
+202122,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Total,595,8
+202122,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried Total,Total,2242,30
+202122,Academic year,Regional,E92000001,England,E12000007,London,Postgraduate Total,Total,6962,92
+202122,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate Total,Total,595,8
+202122,Academic year,Regional,E92000001,England,E12000007,London,Total,Total,7557,21
+202122,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Higher Education,700,44
+202122,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,School Centred ITT,454,28
+202122,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Total,1154,72
+202122,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,Higher Education,4,0
+202122,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,School Centred ITT,4,0
+202122,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,Total,8,0
+202122,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Higher Education,7,0
+202122,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,School Centred ITT,9,1
+202122,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Total,16,1
+202122,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Higher Education,423,26
+202122,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Total,423,26
+202122,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried Total,Total,24,1
+202122,Academic year,Regional,E92000001,England,E12000001,North East,Postgraduate Total,Total,1178,74
+202122,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate Total,Total,423,26
+202122,Academic year,Regional,E92000001,England,E12000001,North East,Total,Total,1601,4
+202122,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,School Centred ITT,761,14
+202122,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Higher Education,3515,63
+202122,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Total,4276,77
+202122,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,School Centred ITT,20,0
+202122,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Higher Education,21,0
+202122,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Total,41,1
+202122,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,School Centred ITT,39,1
+202122,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,Total,39,1
+202122,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Higher Education,1231,22
+202122,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Total,1231,22
+202122,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried Total,Total,80,1
+202122,Academic year,Regional,E92000001,England,E12000002,North West,Postgraduate Total,Total,4356,78
+202122,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate Total,Total,1231,22
+202122,Academic year,Regional,E92000001,England,E12000002,North West,Total,Total,5587,15
+202122,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Higher Education,2822,52
+202122,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,School Centred ITT,1355,25
+202122,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Total,4177,77
+202122,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,School Centred ITT,111,2
+202122,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Higher Education,94,2
+202122,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Total,205,4
+202122,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Higher Education,3,0
+202122,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,School Centred ITT,66,1
+202122,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Total,69,1
+202122,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Higher Education,988,18
+202122,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,School Centred ITT,14,0
+202122,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Total,1002,18
+202122,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried Total,Total,274,5
+202122,Academic year,Regional,E92000001,England,E12000008,South East,Postgraduate Total,Total,4451,82
+202122,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate Total,Total,1002,18
+202122,Academic year,Regional,E92000001,England,E12000008,South East,Total,Total,5453,15
+202122,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,School Centred ITT,614,23
+202122,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Higher Education,1542,57
+202122,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Total,2156,80
+202122,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,School Centred ITT,9,0
+202122,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,Total,9,0
+202122,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,School Centred ITT,17,1
+202122,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,Higher Education,6,0
+202122,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,Total,23,1
+202122,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Higher Education,501,19
+202122,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Total,501,19
+202122,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried Total,Total,32,1
+202122,Academic year,Regional,E92000001,England,E12000009,South West,Postgraduate Total,Total,2188,81
+202122,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate Total,Total,501,19
+202122,Academic year,Regional,E92000001,England,E12000009,South West,Total,Total,2689,7
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,School Centred ITT,667,16
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Higher Education,2513,62
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Total,3180,78
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Higher Education,33,1
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,School Centred ITT,14,0
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Total,47,1
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Higher Education,103,3
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Total,103,3
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,School Centred ITT,18,0
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Higher Education,734,18
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Total,752,18
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried Total,Total,150,4
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,Postgraduate Total,Total,3330,82
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate Total,Total,752,18
+202122,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total,Total,4082,11
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,School Centred ITT,1158,28
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Higher Education,1879,45
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Total,3037,73
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,School Centred ITT,23,1
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,Higher Education,6,0
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,Total,29,1
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,School Centred ITT,158,4
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,Total,158,4
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Higher Education,855,21
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,School Centred ITT,55,1
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Total,910,22
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried Total,Total,187,5
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Postgraduate Total,Total,3224,78
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate Total,Total,910,22
+202122,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total,Total,4134,11
+202122,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,School Centred ITT,8455,23
+202122,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,Higher Education,18566,51
+202122,Academic year,National,E92000001,England,E92000001,England,PG Salaried High Potential ITT,School Centred ITT,1501,4
+202122,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,Higher Education,276,1
+202122,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,School Centred ITT,538,1
+202122,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,School Centred ITT,707,2
+202122,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,Higher Education,240,1
+202122,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,School Centred ITT,113,0
+202122,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,Higher Education,5961,16
+202122,Academic year,National,E92000001,England,E92000001,England,PG Salaried Total,Total,3262,9
+202122,Academic year,National,E92000001,England,E92000001,England,Postgraduate Total,Total,30283,83
+202122,Academic year,National,E92000001,England,E92000001,England,Undergraduate Total,Total,6074,17
+202122,Academic year,National,E92000001,England,E92000001,England,Total,Total,36357,100
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Higher Education,971,48
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,School Centred ITT,492,24
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Total,1463,73
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,Higher Education,7,0
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,School Centred ITT,8,0
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,Total,15,1
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Higher Education,29,1
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,School Centred ITT,4,0
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Total,33,2
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Higher Education,503,25
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Total,503,25
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried Total,Total,48,2
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,Postgraduate Total,Total,1511,75
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate Total,Total,503,25
+202223,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total,Total,2014,7
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Higher Education,776,36
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,School Centred ITT,954,44
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Total,1730,79
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Higher Education,16,1
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,School Centred ITT,127,6
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Total,143,7
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,School Centred ITT,150,7
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,Total,150,7
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,School Centred ITT,17,1
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Higher Education,139,6
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Total,156,7
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried Total,Total,293,13
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,Postgraduate Total,Total,2023,93
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate Total,Total,156,7
+202223,Academic year,Regional,E92000001,England,E12000006,East of England,Total,Total,2179,7
+202223,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,School Centred ITT,733,12
+202223,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Higher Education,2773,47
+202223,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Total,3506,59
+202223,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,School Centred ITT,1372,23
+202223,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,Total,1372,23
+202223,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,School Centred ITT,212,4
+202223,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Higher Education,60,1
+202223,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Total,272,5
+202223,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,School Centred ITT,142,2
+202223,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Higher Education,84,1
+202223,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Total,226,4
+202223,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Higher Education,586,10
+202223,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Total,586,10
+202223,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried Total,Total,1870,31
+202223,Academic year,Regional,E92000001,England,E12000007,London,Postgraduate Total,Total,5376,90
+202223,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate Total,Total,586,10
+202223,Academic year,Regional,E92000001,England,E12000007,London,Total,Total,5962,20
+202223,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,School Centred ITT,321,25
+202223,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Higher Education,589,46
+202223,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Total,910,71
+202223,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,School Centred ITT,6,0
+202223,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,Higher Education,2,0
+202223,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,Total,8,1
+202223,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Higher Education,8,1
+202223,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,School Centred ITT,11,1
+202223,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Total,19,1
+202223,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Higher Education,336,26
+202223,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Total,336,26
+202223,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried Total,Total,27,2
+202223,Academic year,Regional,E92000001,England,E12000001,North East,Postgraduate Total,Total,937,74
+202223,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate Total,Total,336,26
+202223,Academic year,Regional,E92000001,England,E12000001,North East,Total,Total,1273,4
+202223,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,School Centred ITT,730,16
+202223,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Higher Education,2666,58
+202223,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Total,3396,73
+202223,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,School Centred ITT,3,0
+202223,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Higher Education,20,0
+202223,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Total,23,0
+202223,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,School Centred ITT,45,1
+202223,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,Total,45,1
+202223,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,School Centred ITT,1,0
+202223,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Higher Education,1164,25
+202223,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Total,1165,25
+202223,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried Total,Total,68,1
+202223,Academic year,Regional,E92000001,England,E12000002,North West,Postgraduate Total,Total,3464,75
+202223,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate Total,Total,1165,25
+202223,Academic year,Regional,E92000001,England,E12000002,North West,Total,Total,4629,16
+202223,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Higher Education,2155,49
+202223,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,School Centred ITT,986,22
+202223,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Total,3141,71
+202223,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Higher Education,103,2
+202223,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,School Centred ITT,118,3
+202223,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Total,221,5
+202223,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,School Centred ITT,73,2
+202223,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Higher Education,22,0
+202223,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Total,95,2
+202223,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Higher Education,944,21
+202223,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,School Centred ITT,18,0
+202223,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Total,962,22
+202223,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried Total,Total,316,7
+202223,Academic year,Regional,E92000001,England,E12000008,South East,Postgraduate Total,Total,3457,78
+202223,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate Total,Total,962,22
+202223,Academic year,Regional,E92000001,England,E12000008,South East,Total,Total,4419,15
+202223,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Higher Education,1160,57
+202223,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,School Centred ITT,466,23
+202223,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Total,1626,80
+202223,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,School Centred ITT,9,0
+202223,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,Total,9,0
+202223,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,School Centred ITT,6,0
+202223,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,Higher Education,6,0
+202223,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,Total,12,1
+202223,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Higher Education,391,19
+202223,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Total,391,19
+202223,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried Total,Total,21,1
+202223,Academic year,Regional,E92000001,England,E12000009,South West,Postgraduate Total,Total,1647,81
+202223,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate Total,Total,391,19
+202223,Academic year,Regional,E92000001,England,E12000009,South West,Total,Total,2038,7
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,School Centred ITT,569,18
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Higher Education,1793,56
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Total,2362,74
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Higher Education,21,1
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,School Centred ITT,11,0
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Total,32,1
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Higher Education,69,2
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Total,69,2
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,School Centred ITT,13,0
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Higher Education,720,23
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Total,733,23
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried Total,Total,101,3
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,Postgraduate Total,Total,2463,77
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate Total,Total,733,23
+202223,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total,Total,3196,11
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,School Centred ITT,1073,29
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Higher Education,1342,36
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Total,2415,65
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,School Centred ITT,26,1
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,Higher Education,5,0
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,Total,31,1
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,School Centred ITT,282,8
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,Total,282,8
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Higher Education,929,25
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,School Centred ITT,46,1
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Total,975,26
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried Total,Total,313,8
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Postgraduate Total,Total,2728,74
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate Total,Total,975,26
+202223,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total,Total,3703,13
+202223,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,Higher Education,14225,48
+202223,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,School Centred ITT,6324,22
+202223,Academic year,National,E92000001,England,E92000001,England,PG Salaried High Potential ITT,School Centred ITT,1372,5
+202223,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,School Centred ITT,520,2
+202223,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,Higher Education,234,1
+202223,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,School Centred ITT,713,2
+202223,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,Higher Education,218,1
+202223,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,School Centred ITT,95,0
+202223,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,Higher Education,5712,19
+202223,Academic year,National,E92000001,England,E92000001,England,PG Salaried Total,Total,3057,10
+202223,Academic year,National,E92000001,England,E92000001,England,Postgraduate Total,Total,23606,80
+202223,Academic year,National,E92000001,England,E92000001,England,Undergraduate Total,Total,5807,20
+202223,Academic year,National,E92000001,England,E92000001,England,Total,Total,29413,100
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,School Centred ITT,545,29
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Higher Education,876,47
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Total,1421,76
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,School Centred ITT,35,2
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,Higher Education,4,0
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,Total,39,2
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Higher Education,23,1
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,School Centred ITT,6,0
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Total,29,2
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Higher Education,389,21
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Total,389,21
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried Total,Total,68,4
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,Postgraduate Total,Total,1489,79
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate Total,Total,389,21
+202324,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total,Total,1878,7
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,School Centred ITT,711,36
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Higher Education,770,39
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Total,1481,74
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Higher Education,25,1
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,School Centred ITT,186,9
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Total,211,11
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,School Centred ITT,174,9
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,Total,174,9
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,School Centred ITT,27,1
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Higher Education,103,5
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Total,130,7
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried Total,Total,385,19
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,Postgraduate Total,Total,1866,93
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate Total,Total,130,7
+202324,Academic year,Regional,E92000001,England,E12000006,East of England,Total,Total,1996,7
+202324,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,School Centred ITT,764,14
+202324,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Higher Education,2452,45
+202324,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Total,3216,59
+202324,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,School Centred ITT,1301,24
+202324,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,Total,1301,24
+202324,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,School Centred ITT,162,3
+202324,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Higher Education,36,1
+202324,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Total,198,4
+202324,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,School Centred ITT,144,3
+202324,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Higher Education,89,2
+202324,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Total,233,4
+202324,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Higher Education,531,10
+202324,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Total,531,10
+202324,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried Total,Total,1732,32
+202324,Academic year,Regional,E92000001,England,E12000007,London,Postgraduate Total,Total,4948,90
+202324,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate Total,Total,531,10
+202324,Academic year,Regional,E92000001,England,E12000007,London,Total,Total,5479,20
+202324,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Higher Education,538,44
+202324,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,School Centred ITT,269,22
+202324,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Total,807,66
+202324,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,School Centred ITT,3,0
+202324,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,Total,3,0
+202324,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,School Centred ITT,16,1
+202324,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Higher Education,7,1
+202324,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Total,23,2
+202324,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Higher Education,381,31
+202324,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Total,381,31
+202324,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried Total,Total,26,2
+202324,Academic year,Regional,E92000001,England,E12000001,North East,Postgraduate Total,Total,833,69
+202324,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate Total,Total,381,31
+202324,Academic year,Regional,E92000001,England,E12000001,North East,Total,Total,1214,4
+202324,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Higher Education,2405,59
+202324,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,School Centred ITT,641,16
+202324,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Total,3046,74
+202324,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,School Centred ITT,10,0
+202324,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Higher Education,19,0
+202324,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Total,29,1
+202324,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,School Centred ITT,41,1
+202324,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,Total,41,1
+202324,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Higher Education,979,24
+202324,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Total,979,24
+202324,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried Total,Total,70,2
+202324,Academic year,Regional,E92000001,England,E12000002,North West,Postgraduate Total,Total,3116,76
+202324,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate Total,Total,979,24
+202324,Academic year,Regional,E92000001,England,E12000002,North West,Total,Total,4095,15
+202324,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Higher Education,1791,43
+202324,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,School Centred ITT,951,23
+202324,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Total,2742,66
+202324,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,School Centred ITT,131,3
+202324,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Higher Education,66,2
+202324,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Total,197,5
+202324,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Higher Education,298,7
+202324,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,School Centred ITT,122,3
+202324,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Total,420,10
+202324,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,School Centred ITT,4,0
+202324,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Higher Education,809,19
+202324,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Total,813,19
+202324,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried Total,Total,617,15
+202324,Academic year,Regional,E92000001,England,E12000008,South East,Postgraduate Total,Total,3359,81
+202324,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate Total,Total,813,19
+202324,Academic year,Regional,E92000001,England,E12000008,South East,Total,Total,4172,15
+202324,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Higher Education,1087,54
+202324,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,School Centred ITT,471,24
+202324,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Total,1558,78
+202324,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,School Centred ITT,13,1
+202324,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,Total,13,1
+202324,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,School Centred ITT,48,2
+202324,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,Higher Education,5,0
+202324,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,Total,53,3
+202324,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Higher Education,374,19
+202324,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Total,374,19
+202324,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried Total,Total,66,3
+202324,Academic year,Regional,E92000001,England,E12000009,South West,Postgraduate Total,Total,1624,81
+202324,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate Total,Total,374,19
+202324,Academic year,Regional,E92000001,England,E12000009,South West,Total,Total,1998,7
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Higher Education,1718,55
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,School Centred ITT,548,18
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Total,2266,73
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,School Centred ITT,19,1
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Higher Education,17,1
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Total,36,1
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Higher Education,146,5
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Total,146,5
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Higher Education,656,21
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,School Centred ITT,11,0
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Total,667,21
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried Total,Total,182,6
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,Postgraduate Total,Total,2448,79
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate Total,Total,667,21
+202324,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total,Total,3115,11
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,School Centred ITT,1459,39
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Higher Education,1156,31
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Total,2615,70
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,School Centred ITT,55,1
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,Higher Education,9,0
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,Total,64,2
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,School Centred ITT,314,8
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,Total,314,8
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,School Centred ITT,46,1
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Higher Education,674,18
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Total,720,19
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried Total,Total,378,10
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Postgraduate Total,Total,2993,81
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate Total,Total,720,19
+202324,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total,Total,3713,13
+202324,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,School Centred ITT,6359,23
+202324,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,Higher Education,12793,46
+202324,Academic year,National,E92000001,England,E92000001,England,PG Salaried High Potential ITT,School Centred ITT,1301,5
+202324,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,School Centred ITT,614,2
+202324,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,Higher Education,176,1
+202324,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,School Centred ITT,865,3
+202324,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,Higher Education,568,2
+202324,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,School Centred ITT,88,0
+202324,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,Higher Education,4896,18
+202324,Academic year,National,E92000001,England,E92000001,England,PG Salaried Total,Total,3524,13
+202324,Academic year,National,E92000001,England,E92000001,England,Postgraduate Total,Total,22676,82
+202324,Academic year,National,E92000001,England,E92000001,England,Undergraduate Total,Total,4984,18
+202324,Academic year,National,E92000001,England,E92000001,England,Total,Total,27660,100
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Higher Education,977,47
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,School Centred ITT,524,25
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Total,1501,72
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,School Centred ITT,11,1
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,Total,11,1
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Higher Education,29,1
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,School Centred ITT,13,1
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Total,42,2
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Higher Education,529,25
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Total,529,25
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried Total,Total,53,3
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,Postgraduate Total,Total,1554,75
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate Total,Total,529,25
+202425,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total,Total,2083,7
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,School Centred ITT,805,40
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Higher Education,507,25
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Total,1312,66
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,School Centred ITT,204,10
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Higher Education,10,1
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Total,214,11
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,School Centred ITT,256,13
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,Total,256,13
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,School Centred ITT,35,2
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Higher Education,176,9
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Total,211,11
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried Total,Total,470,24
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,Postgraduate Total,Total,1782,89
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate Total,Total,211,11
+202425,Academic year,Regional,E92000001,England,E12000006,East of England,Total,Total,1993,7
+202425,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,School Centred ITT,1366,23
+202425,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Higher Education,2394,40
+202425,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Total,3760,62
+202425,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,School Centred ITT,1396,23
+202425,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,Total,1396,23
+202425,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,School Centred ITT,283,5
+202425,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Higher Education,19,0
+202425,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Total,302,5
+202425,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,School Centred ITT,128,2
+202425,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Higher Education,65,1
+202425,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Total,193,3
+202425,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Higher Education,392,6
+202425,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,School Centred ITT,1,0
+202425,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Total,393,7
+202425,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried Total,Total,1891,31
+202425,Academic year,Regional,E92000001,England,E12000007,London,Postgraduate Total,Total,5651,93
+202425,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate Total,Total,393,7
+202425,Academic year,Regional,E92000001,England,E12000007,London,Total,Total,6044,21
+202425,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Higher Education,426,42
+202425,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,School Centred ITT,207,21
+202425,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Total,633,63
+202425,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,School Centred ITT,1,0
+202425,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried School Direct,Total,1,0
+202425,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Higher Education,8,1
+202425,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,School Centred ITT,18,2
+202425,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Total,26,3
+202425,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Higher Education,348,35
+202425,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Total,348,35
+202425,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried Total,Total,27,3
+202425,Academic year,Regional,E92000001,England,E12000001,North East,Postgraduate Total,Total,660,65
+202425,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate Total,Total,348,35
+202425,Academic year,Regional,E92000001,England,E12000001,North East,Total,Total,1008,3
+202425,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Higher Education,2040,58
+202425,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,School Centred ITT,599,17
+202425,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Total,2639,75
+202425,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,School Centred ITT,5,0
+202425,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Higher Education,16,0
+202425,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Total,21,1
+202425,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,School Centred ITT,28,1
+202425,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,Total,28,1
+202425,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Higher Education,831,24
+202425,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Total,831,24
+202425,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried Total,Total,49,1
+202425,Academic year,Regional,E92000001,England,E12000002,North West,Postgraduate Total,Total,2688,76
+202425,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate Total,Total,831,24
+202425,Academic year,Regional,E92000001,England,E12000002,North West,Total,Total,3519,12
+202425,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,School Centred ITT,1138,29
+202425,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Higher Education,1535,39
+202425,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Total,2673,67
+202425,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Higher Education,42,1
+202425,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,School Centred ITT,124,3
+202425,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Total,166,4
+202425,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Higher Education,299,8
+202425,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,School Centred ITT,122,3
+202425,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Total,421,11
+202425,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Higher Education,726,18
+202425,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Total,726,18
+202425,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried Total,Total,587,15
+202425,Academic year,Regional,E92000001,England,E12000008,South East,Postgraduate Total,Total,3260,82
+202425,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate Total,Total,726,18
+202425,Academic year,Regional,E92000001,England,E12000008,South East,Total,Total,3986,14
+202425,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Higher Education,881,45
+202425,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,School Centred ITT,601,31
+202425,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Total,1482,76
+202425,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,School Centred ITT,14,1
+202425,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,Total,14,1
+202425,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,School Centred ITT,325,17
+202425,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,Total,325,17
+202425,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Higher Education,133,7
+202425,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Total,133,7
+202425,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried Total,Total,339,17
+202425,Academic year,Regional,E92000001,England,E12000009,South West,Postgraduate Total,Total,1821,93
+202425,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate Total,Total,133,7
+202425,Academic year,Regional,E92000001,England,E12000009,South West,Total,Total,1954,7
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Higher Education,2139,58
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,School Centred ITT,521,14
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Total,2660,73
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,School Centred ITT,34,1
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Higher Education,34,1
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Total,68,2
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Higher Education,168,5
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Total,168,5
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Higher Education,751,21
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,School Centred ITT,10,0
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Total,761,21
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried Total,Total,236,6
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,Postgraduate Total,Total,2896,79
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate Total,Total,761,21
+202425,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total,Total,3657,13
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,School Centred ITT,1900,41
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Higher Education,1393,30
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Total,3293,71
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,School Centred ITT,88,2
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,Total,88,2
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,School Centred ITT,415,9
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,Total,415,9
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Higher Education,857,18
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,School Centred ITT,1,0
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Total,858,18
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried Total,Total,503,11
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Postgraduate Total,Total,3796,82
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate Total,Total,858,18
+202425,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total,Total,4654,16
+202425,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,Higher Education,12292,43
+202425,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,School Centred ITT,7661,27
+202425,Academic year,National,E92000001,England,E92000001,England,PG Salaried High Potential ITT,School Centred ITT,1396,5
+202425,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,School Centred ITT,764,3
+202425,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,Higher Education,121,0
+202425,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,School Centred ITT,1305,5
+202425,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,Higher Education,569,2
+202425,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,Higher Education,4743,16
+202425,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,School Centred ITT,47,0
+202425,Academic year,National,E92000001,England,E92000001,England,PG Salaried Total,Total,4155,14
+202425,Academic year,National,E92000001,England,E92000001,England,Postgraduate Total,Total,24108,83
+202425,Academic year,National,E92000001,England,E92000001,England,Undergraduate Total,Total,4790,17
+202425,Academic year,National,E92000001,England,E92000001,England,Total,Total,28898,100
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Higher Education,1092,48
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,School Centred ITT,549,24
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG fee-funded,Total,1641,72
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,School Centred ITT,14,1
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried School Direct,Total,14,1
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Higher Education,18,1
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,School Centred ITT,21,1
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried PGTA,Total,39,2
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Higher Education,568,25
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate fee-funded,Total,568,25
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate Teacher Degree Apprenticeship,Higher Education,4,0
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate Teacher Degree Apprenticeship,Total,4,0
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,PG Salaried Total,Total,53,2
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,Postgraduate Total,Total,1694,75
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,Undergraduate Total,Total,572,25
+202526,Academic year,Regional,E92000001,England,E12000004,East Midlands,Total,Total,2266,7
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Higher Education,639,29
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,School Centred ITT,862,39
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,PG fee-funded,Total,1501,68
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,School Centred ITT,165,7
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Higher Education,7,0
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried School Direct,Total,172,8
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,School Centred ITT,255,11
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried PGTA,Total,255,11
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,School Centred ITT,37,2
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Higher Education,254,11
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate fee-funded,Total,291,13
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,PG Salaried Total,Total,427,19
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,Postgraduate Total,Total,1928,87
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,Undergraduate Total,Total,291,13
+202526,Academic year,Regional,E92000001,England,E12000006,East of England,Total,Total,2219,7
+202526,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Higher Education,2734,41
+202526,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,School Centred ITT,1661,25
+202526,Academic year,Regional,E92000001,England,E12000007,London,PG fee-funded,Total,4395,66
+202526,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,School Centred ITT,1426,21
+202526,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried High Potential ITT,Total,1426,21
+202526,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,School Centred ITT,199,3
+202526,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Higher Education,3,0
+202526,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried School Direct,Total,202,3
+202526,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,School Centred ITT,164,2
+202526,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Higher Education,69,1
+202526,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried PGTA,Total,233,3
+202526,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Higher Education,438,7
+202526,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate fee-funded,Total,438,7
+202526,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate Teacher Degree Apprenticeship,Higher Education,7,0
+202526,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate Teacher Degree Apprenticeship,Total,7,0
+202526,Academic year,Regional,E92000001,England,E12000007,London,PG Salaried Total,Total,1861,28
+202526,Academic year,Regional,E92000001,England,E12000007,London,Postgraduate Total,Total,6256,93
+202526,Academic year,Regional,E92000001,England,E12000007,London,Undergraduate Total,Total,445,7
+202526,Academic year,Regional,E92000001,England,E12000007,London,Total,Total,6701,21
+202526,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Higher Education,510,43
+202526,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,School Centred ITT,234,20
+202526,Academic year,Regional,E92000001,England,E12000001,North East,PG fee-funded,Total,744,63
+202526,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Higher Education,3,0
+202526,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,School Centred ITT,14,1
+202526,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried PGTA,Total,17,1
+202526,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Higher Education,419,35
+202526,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate fee-funded,Total,419,35
+202526,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate Teacher Degree Apprenticeship,Higher Education,9,1
+202526,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate Teacher Degree Apprenticeship,Total,9,1
+202526,Academic year,Regional,E92000001,England,E12000001,North East,PG Salaried Total,Total,17,1
+202526,Academic year,Regional,E92000001,England,E12000001,North East,Postgraduate Total,Total,761,64
+202526,Academic year,Regional,E92000001,England,E12000001,North East,Undergraduate Total,Total,428,36
+202526,Academic year,Regional,E92000001,England,E12000001,North East,Total,Total,1189,4
+202526,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,School Centred ITT,718,18
+202526,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Higher Education,2321,58
+202526,Academic year,Regional,E92000001,England,E12000002,North West,PG fee-funded,Total,3039,76
+202526,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,School Centred ITT,15,0
+202526,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Higher Education,7,0
+202526,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried School Direct,Total,22,1
+202526,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,School Centred ITT,53,1
+202526,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried PGTA,Total,53,1
+202526,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Higher Education,894,22
+202526,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate fee-funded,Total,894,22
+202526,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate Teacher Degree Apprenticeship,Higher Education,6,0
+202526,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate Teacher Degree Apprenticeship,Total,6,0
+202526,Academic year,Regional,E92000001,England,E12000002,North West,PG Salaried Total,Total,75,2
+202526,Academic year,Regional,E92000001,England,E12000002,North West,Postgraduate Total,Total,3114,78
+202526,Academic year,Regional,E92000001,England,E12000002,North West,Undergraduate Total,Total,900,22
+202526,Academic year,Regional,E92000001,England,E12000002,North West,Total,Total,4014,12
+202526,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Higher Education,1658,38
+202526,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,School Centred ITT,1140,26
+202526,Academic year,Regional,E92000001,England,E12000008,South East,PG fee-funded,Total,2798,64
+202526,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,School Centred ITT,87,2
+202526,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Higher Education,18,0
+202526,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried School Direct,Total,105,2
+202526,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,School Centred ITT,184,4
+202526,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Higher Education,356,8
+202526,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried PGTA,Total,540,12
+202526,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Higher Education,837,19
+202526,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate fee-funded,Total,837,19
+202526,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate Teacher Degree Apprenticeship,Higher Education,85,2
+202526,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate Teacher Degree Apprenticeship,School Centred ITT,6,0
+202526,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate Teacher Degree Apprenticeship,Total,91,2
+202526,Academic year,Regional,E92000001,England,E12000008,South East,PG Salaried Total,Total,645,15
+202526,Academic year,Regional,E92000001,England,E12000008,South East,Postgraduate Total,Total,3443,79
+202526,Academic year,Regional,E92000001,England,E12000008,South East,Undergraduate Total,Total,928,21
+202526,Academic year,Regional,E92000001,England,E12000008,South East,Total,Total,4371,14
+202526,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,School Centred ITT,748,35
+202526,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Higher Education,909,42
+202526,Academic year,Regional,E92000001,England,E12000009,South West,PG fee-funded,Total,1657,77
+202526,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,School Centred ITT,23,1
+202526,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried School Direct,Total,23,1
+202526,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,School Centred ITT,307,14
+202526,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried PGTA,Total,307,14
+202526,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Higher Education,152,7
+202526,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate fee-funded,Total,152,7
+202526,Academic year,Regional,E92000001,England,E12000009,South West,PG Salaried Total,Total,330,15
+202526,Academic year,Regional,E92000001,England,E12000009,South West,Postgraduate Total,Total,1987,93
+202526,Academic year,Regional,E92000001,England,E12000009,South West,Undergraduate Total,Total,152,7
+202526,Academic year,Regional,E92000001,England,E12000009,South West,Total,Total,2139,7
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,School Centred ITT,544,13
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Higher Education,2578,61
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG fee-funded,Total,3122,74
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Higher Education,35,1
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,School Centred ITT,16,0
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried School Direct,Total,51,1
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Higher Education,130,3
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried PGTA,Total,130,3
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Higher Education,843,20
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,School Centred ITT,23,1
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate fee-funded,Total,866,20
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate Teacher Degree Apprenticeship,Higher Education,59,1
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate Teacher Degree Apprenticeship,Total,59,1
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,PG Salaried Total,Total,181,4
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,Postgraduate Total,Total,3303,78
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,Undergraduate Total,Total,925,22
+202526,Academic year,Regional,E92000001,England,E12000005,West Midlands,Total,Total,4228,13
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,School Centred ITT,2192,43
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Higher Education,1458,29
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG fee-funded,Total,3650,72
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,School Centred ITT,54,1
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried School Direct,Total,54,1
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,School Centred ITT,430,9
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried PGTA,Total,430,9
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Higher Education,909,18
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate fee-funded,Total,909,18
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate Teacher Degree Apprenticeship,Higher Education,5,0
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate Teacher Degree Apprenticeship,Total,5,0
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,PG Salaried Total,Total,484,10
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Postgraduate Total,Total,4134,82
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Undergraduate Total,Total,914,18
+202526,Academic year,Regional,E92000001,England,E12000003,Yorkshire and The Humber,Total,Total,5048,16
+202526,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,School Centred ITT,8648,27
+202526,Academic year,National,E92000001,England,E92000001,England,PG fee-funded,Higher Education,13899,43
+202526,Academic year,National,E92000001,England,E92000001,England,PG Salaried High Potential ITT,School Centred ITT,1426,4
+202526,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,School Centred ITT,573,2
+202526,Academic year,National,E92000001,England,E92000001,England,PG Salaried School Direct,Higher Education,70,0
+202526,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,School Centred ITT,1428,4
+202526,Academic year,National,E92000001,England,E92000001,England,PG Salaried PGTA,Higher Education,576,2
+202526,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,Higher Education,5314,17
+202526,Academic year,National,E92000001,England,E92000001,England,Undergraduate fee-funded,School Centred ITT,60,0
+202526,Academic year,National,E92000001,England,E92000001,England,Undergraduate Teacher Degree Apprenticeship,School Centred ITT,6,0
+202526,Academic year,National,E92000001,England,E92000001,England,Undergraduate Teacher Degree Apprenticeship,Higher Education,175,1
+202526,Academic year,National,E92000001,England,E92000001,England,PG Salaried Total,Total,4073,13
+202526,Academic year,National,E92000001,England,E92000001,England,Postgraduate Total,Total,26620,83
+202526,Academic year,National,E92000001,England,E92000001,England,Undergraduate Total,Total,5555,17
+202526,Academic year,National,E92000001,England,E92000001,England,Total,Total,32175,100

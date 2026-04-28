@@ -1,0 +1,1695 @@
+time_period,time_identifier,geographic_level,country_code,country_name,itt_subject,breakdown_topic,breakdown,trainee_number,trainee_percentage
+201920,Academic year,National,E92000001,England,Art & Design,Total,New Entrants,421,100
+201920,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates,421,100
+201920,Academic year,National,E92000001,England,Art & Design,Total,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Male,66,16
+201920,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Female,354,84
+201920,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Other Sex,1,0
+201920,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Total Known Sex,421,100
+201920,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,EEA,17,4
+201920,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,UK,397,94
+201920,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Other Nationality,7,2
+201920,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Total Known Nationality,421,100
+201920,Academic year,National,E92000001,England,Biology,Total,New Entrants,1955,100
+201920,Academic year,National,E92000001,England,Biology,Total,Postgraduates,1946,100
+201920,Academic year,National,E92000001,England,Biology,Total,Undergraduates,9,0
+201920,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Male,632,32
+201920,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Female,1309,67
+201920,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Other Sex,5,0
+201920,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Total Known Sex,1946,100
+201920,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,EEA,100,5
+201920,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,UK,1718,91
+201920,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Other Nationality,71,4
+201920,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Total Known Nationality,1889,100
+201920,Academic year,National,E92000001,England,Business Studies,Total,New Entrants,201,100
+201920,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates,201,100
+201920,Academic year,National,E92000001,England,Business Studies,Total,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Male,107,53
+201920,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Female,94,47
+201920,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Other Sex,0,0
+201920,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Total Known Sex,201,100
+201920,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,EEA,7,3
+201920,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,UK,174,87
+201920,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Other Nationality,20,10
+201920,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Total Known Nationality,201,100
+201920,Academic year,National,E92000001,England,Chemistry,Total,New Entrants,786,100
+201920,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates,783,100
+201920,Academic year,National,E92000001,England,Chemistry,Total,Undergraduates,3,0
+201920,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Male,343,44
+201920,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Female,440,56
+201920,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Other Sex,0,0
+201920,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Total Known Sex,783,100
+201920,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,EEA,41,5
+201920,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,UK,663,88
+201920,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Other Nationality,48,6
+201920,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Total Known Nationality,752,100
+201920,Academic year,National,E92000001,England,Classics,Total,New Entrants,80,100
+201920,Academic year,National,E92000001,England,Classics,Total,Postgraduates,80,100
+201920,Academic year,National,E92000001,England,Classics,Total,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Male,29,36
+201920,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Female,50,63
+201920,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Other Sex,1,1
+201920,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Total Known Sex,80,100
+201920,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,EEA,13,16
+201920,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,UK,64,80
+201920,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Other Nationality,3,4
+201920,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Total Known Nationality,80,100
+201920,Academic year,National,E92000001,England,Computing,Total,New Entrants,481,100
+201920,Academic year,National,E92000001,England,Computing,Total,Postgraduates,475,99
+201920,Academic year,National,E92000001,England,Computing,Total,Undergraduates,6,1
+201920,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Male,318,67
+201920,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Female,157,33
+201920,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Other Sex,0,0
+201920,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Total Known Sex,475,100
+201920,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,EEA,24,5
+201920,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,UK,428,90
+201920,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Other Nationality,22,5
+201920,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Total Known Nationality,474,100
+201920,Academic year,National,E92000001,England,Design & Technology,Total,New Entrants,441,100
+201920,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates,441,100
+201920,Academic year,National,E92000001,England,Design & Technology,Total,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Male,102,23
+201920,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Female,339,77
+201920,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Other Sex,0,0
+201920,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Total Known Sex,441,100
+201920,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,EEA,15,3
+201920,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,UK,414,94
+201920,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Other Nationality,10,2
+201920,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Total Known Nationality,439,100
+201920,Academic year,National,E92000001,England,Drama,Total,New Entrants,301,100
+201920,Academic year,National,E92000001,England,Drama,Total,Postgraduates,300,100
+201920,Academic year,National,E92000001,England,Drama,Total,Undergraduates,1,0
+201920,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Male,72,24
+201920,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Female,228,76
+201920,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Other Sex,0,0
+201920,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Total Known Sex,300,100
+201920,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,EEA,5,2
+201920,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,UK,288,96
+201920,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Other Nationality,7,2
+201920,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Total Known Nationality,300,100
+201920,Academic year,National,E92000001,England,English,Total,New Entrants,3094,100
+201920,Academic year,National,E92000001,England,English,Total,Postgraduates,2939,95
+201920,Academic year,National,E92000001,England,English,Total,Undergraduates,155,5
+201920,Academic year,National,E92000001,England,English,Sex Postgraduates,Male,734,25
+201920,Academic year,National,E92000001,England,English,Sex Postgraduates,Female,2196,75
+201920,Academic year,National,E92000001,England,English,Sex Postgraduates,Other Sex,9,0
+201920,Academic year,National,E92000001,England,English,Sex Postgraduates,Total Known Sex,2939,100
+201920,Academic year,National,E92000001,England,English,Nationality Postgraduates,EEA,82,3
+201920,Academic year,National,E92000001,England,English,Nationality Postgraduates,UK,2784,96
+201920,Academic year,National,E92000001,England,English,Nationality Postgraduates,Other Nationality,44,2
+201920,Academic year,National,E92000001,England,English,Nationality Postgraduates,Total Known Nationality,2910,100
+201920,Academic year,National,E92000001,England,Geography,Total,New Entrants,1328,100
+201920,Academic year,National,E92000001,England,Geography,Total,Postgraduates,1328,100
+201920,Academic year,National,E92000001,England,Geography,Total,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Male,541,41
+201920,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Female,787,59
+201920,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Other Sex,0,0
+201920,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Total Known Sex,1328,100
+201920,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,EEA,36,3
+201920,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,UK,1248,96
+201920,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Other Nationality,20,2
+201920,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Total Known Nationality,1304,100
+201920,Academic year,National,E92000001,England,History,Total,New Entrants,1477,100
+201920,Academic year,National,E92000001,England,History,Total,Postgraduates,1476,100
+201920,Academic year,National,E92000001,England,History,Total,Undergraduates,1,0
+201920,Academic year,National,E92000001,England,History,Sex Postgraduates,Male,702,48
+201920,Academic year,National,E92000001,England,History,Sex Postgraduates,Female,773,52
+201920,Academic year,National,E92000001,England,History,Sex Postgraduates,Other Sex,1,0
+201920,Academic year,National,E92000001,England,History,Sex Postgraduates,Total Known Sex,1476,100
+201920,Academic year,National,E92000001,England,History,Nationality Postgraduates,EEA,44,3
+201920,Academic year,National,E92000001,England,History,Nationality Postgraduates,UK,1392,96
+201920,Academic year,National,E92000001,England,History,Nationality Postgraduates,Other Nationality,18,1
+201920,Academic year,National,E92000001,England,History,Nationality Postgraduates,Total Known Nationality,1454,100
+201920,Academic year,National,E92000001,England,Mathematics,Total,New Entrants,2277,100
+201920,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates,2197,96
+201920,Academic year,National,E92000001,England,Mathematics,Total,Undergraduates,80,4
+201920,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Male,1074,49
+201920,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Female,1119,51
+201920,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Other Sex,4,0
+201920,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Total Known Sex,2197,100
+201920,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,EEA,136,6
+201920,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,UK,1863,87
+201920,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Other Nationality,144,7
+201920,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Total Known Nationality,2143,100
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Total,New Entrants,1444,100
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates,1419,98
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Undergraduates,25,2
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Male,318,22
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Female,1101,78
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Other Sex,0,0
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Total Known Sex,1419,100
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,EEA,406,29
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,UK,906,65
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Other Nationality,79,6
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Total Known Nationality,1391,100
+201920,Academic year,National,E92000001,England,Music,Total,New Entrants,329,100
+201920,Academic year,National,E92000001,England,Music,Total,Postgraduates,329,100
+201920,Academic year,National,E92000001,England,Music,Total,Undergraduates,0,0
+201920,Academic year,National,E92000001,England,Music,Sex Postgraduates,Male,176,53
+201920,Academic year,National,E92000001,England,Music,Sex Postgraduates,Female,152,46
+201920,Academic year,National,E92000001,England,Music,Sex Postgraduates,Other Sex,1,0
+201920,Academic year,National,E92000001,England,Music,Sex Postgraduates,Total Known Sex,329,100
+201920,Academic year,National,E92000001,England,Music,Nationality Postgraduates,EEA,19,6
+201920,Academic year,National,E92000001,England,Music,Nationality Postgraduates,UK,302,92
+201920,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Other Nationality,8,2
+201920,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Total Known Nationality,329,100
+201920,Academic year,National,E92000001,England,Other,Total,New Entrants,291,100
+201920,Academic year,National,E92000001,England,Other,Total,Postgraduates,290,100
+201920,Academic year,National,E92000001,England,Other,Total,Undergraduates,1,0
+201920,Academic year,National,E92000001,England,Other,Sex Postgraduates,Male,54,19
+201920,Academic year,National,E92000001,England,Other,Sex Postgraduates,Female,236,81
+201920,Academic year,National,E92000001,England,Other,Sex Postgraduates,Other Sex,0,0
+201920,Academic year,National,E92000001,England,Other,Sex Postgraduates,Total Known Sex,290,100
+201920,Academic year,National,E92000001,England,Other,Nationality Postgraduates,EEA,9,3
+201920,Academic year,National,E92000001,England,Other,Nationality Postgraduates,UK,275,95
+201920,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Other Nationality,6,2
+201920,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Total Known Nationality,290,100
+201920,Academic year,National,E92000001,England,Physical Education,Total,New Entrants,1446,100
+201920,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates,1372,95
+201920,Academic year,National,E92000001,England,Physical Education,Total,Undergraduates,74,5
+201920,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Male,780,57
+201920,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Female,592,43
+201920,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Other Sex,0,0
+201920,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Total Known Sex,1372,100
+201920,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,EEA,30,2
+201920,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,UK,1306,97
+201920,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Other Nationality,5,0
+201920,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Total Known Nationality,1341,100
+201920,Academic year,National,E92000001,England,Physics,Total,New Entrants,553,100
+201920,Academic year,National,E92000001,England,Physics,Total,Postgraduates,551,100
+201920,Academic year,National,E92000001,England,Physics,Total,Undergraduates,2,0
+201920,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Male,369,67
+201920,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Female,182,33
+201920,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Other Sex,0,0
+201920,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Total Known Sex,551,100
+201920,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,EEA,34,6
+201920,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,UK,475,88
+201920,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Other Nationality,32,6
+201920,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Total Known Nationality,541,100
+201920,Academic year,National,E92000001,England,Religious Education,Total,New Entrants,517,100
+201920,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates,508,98
+201920,Academic year,National,E92000001,England,Religious Education,Total,Undergraduates,9,2
+201920,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Male,169,33
+201920,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Female,338,67
+201920,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Other Sex,1,0
+201920,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Total Known Sex,508,100
+201920,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,EEA,20,4
+201920,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,UK,461,93
+201920,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Other Nationality,14,3
+201920,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Total Known Nationality,495,100
+201920,Academic year,National,E92000001,England,Primary,Total,New Entrants,16892,100
+201920,Academic year,National,E92000001,England,Primary,Total,Postgraduates,12364,73
+201920,Academic year,National,E92000001,England,Primary,Total,Undergraduates,4528,27
+201920,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Male,2130,17
+201920,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Female,10229,83
+201920,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Other Sex,5,0
+201920,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Total Known Sex,12364,100
+201920,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,EEA,432,4
+201920,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,UK,11404,94
+201920,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Other Nationality,248,2
+201920,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Total Known Nationality,12084,100
+201920,Academic year,National,E92000001,England,Secondary,Total,New Entrants,17422,100
+201920,Academic year,National,E92000001,England,Secondary,Total,Postgraduates,17056,98
+201920,Academic year,National,E92000001,England,Secondary,Total,Undergraduates,366,2
+201920,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Male,6586,39
+201920,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Female,10447,61
+201920,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Other Sex,23,0
+201920,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Total Known Sex,17056,100
+201920,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,EEA,1038,6
+201920,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,UK,15158,90
+201920,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Other Nationality,558,3
+201920,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Total Known Nationality,16754,100
+201920,Academic year,National,E92000001,England,STEM Subjects,Total,New Entrants,6052,100
+201920,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates,5952,98
+201920,Academic year,National,E92000001,England,STEM Subjects,Total,Undergraduates,100,2
+201920,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Male,2736,46
+201920,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Female,3207,54
+201920,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Other Sex,9,0
+201920,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Total Known Sex,5952,100
+201920,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,EEA,335,6
+201920,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,UK,5147,89
+201920,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Other Nationality,317,5
+201920,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Total Known Nationality,5799,100
+201920,Academic year,National,E92000001,England,Total,Total,New Entrants,34314,100
+201920,Academic year,National,E92000001,England,Total,Total,Postgraduates,29420,86
+201920,Academic year,National,E92000001,England,Total,Total,Undergraduates,4894,14
+201920,Academic year,National,E92000001,England,Total,Sex Postgraduates,Male,8716,30
+201920,Academic year,National,E92000001,England,Total,Sex Postgraduates,Female,20676,70
+201920,Academic year,National,E92000001,England,Total,Sex Postgraduates,Other Sex,28,0
+201920,Academic year,National,E92000001,England,Total,Sex Postgraduates,Total Known Sex,29420,100
+201920,Academic year,National,E92000001,England,Total,Nationality Postgraduates,EEA,1470,5
+201920,Academic year,National,E92000001,England,Total,Nationality Postgraduates,UK,26562,92
+201920,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Other Nationality,806,3
+201920,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Total Known Nationality,28838,100
+202021,Academic year,National,E92000001,England,Art & Design,Total,New Entrants,915,100
+202021,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates,915,100
+202021,Academic year,National,E92000001,England,Art & Design,Total,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Male,136,15
+202021,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Female,779,85
+202021,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Other Sex,0,0
+202021,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Total Known Sex,915,100
+202021,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,EEA,53,6
+202021,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,UK,849,93
+202021,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Other Nationality,12,1
+202021,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Total Known Nationality,914,100
+202021,Academic year,National,E92000001,England,Biology,Total,New Entrants,2176,100
+202021,Academic year,National,E92000001,England,Biology,Total,Postgraduates,2107,97
+202021,Academic year,National,E92000001,England,Biology,Total,Undergraduates,69,3
+202021,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Male,724,34
+202021,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Female,1368,65
+202021,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Other Sex,15,1
+202021,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Total Known Sex,2107,100
+202021,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,EEA,105,5
+202021,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,UK,1871,92
+202021,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Other Nationality,59,3
+202021,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Total Known Nationality,2035,100
+202021,Academic year,National,E92000001,England,Business Studies,Total,New Entrants,402,100
+202021,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates,402,100
+202021,Academic year,National,E92000001,England,Business Studies,Total,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Male,196,49
+202021,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Female,206,51
+202021,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Other Sex,0,0
+202021,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Total Known Sex,402,100
+202021,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,EEA,18,5
+202021,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,UK,362,91
+202021,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Other Nationality,20,5
+202021,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Total Known Nationality,400,100
+202021,Academic year,National,E92000001,England,Chemistry,Total,New Entrants,891,100
+202021,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates,885,99
+202021,Academic year,National,E92000001,England,Chemistry,Total,Undergraduates,6,1
+202021,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Male,378,43
+202021,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Female,504,57
+202021,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Other Sex,3,0
+202021,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Total Known Sex,885,100
+202021,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,EEA,42,5
+202021,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,UK,756,89
+202021,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Other Nationality,49,6
+202021,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Total Known Nationality,847,100
+202021,Academic year,National,E92000001,England,Classics,Total,New Entrants,80,100
+202021,Academic year,National,E92000001,England,Classics,Total,Postgraduates,80,100
+202021,Academic year,National,E92000001,England,Classics,Total,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Male,34,43
+202021,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Female,46,58
+202021,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Other Sex,0,0
+202021,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Total Known Sex,80,100
+202021,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,EEA,13,16
+202021,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,UK,65,81
+202021,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Other Nationality,2,3
+202021,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Total Known Nationality,80,100
+202021,Academic year,National,E92000001,England,Computing,Total,New Entrants,609,100
+202021,Academic year,National,E92000001,England,Computing,Total,Postgraduates,601,99
+202021,Academic year,National,E92000001,England,Computing,Total,Undergraduates,8,1
+202021,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Male,436,73
+202021,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Female,165,27
+202021,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Other Sex,0,0
+202021,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Total Known Sex,601,100
+202021,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,EEA,29,5
+202021,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,UK,533,89
+202021,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Other Nationality,39,6
+202021,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Total Known Nationality,601,100
+202021,Academic year,National,E92000001,England,Design & Technology,Total,New Entrants,678,100
+202021,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates,678,100
+202021,Academic year,National,E92000001,England,Design & Technology,Total,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Male,163,24
+202021,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Female,514,76
+202021,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Other Sex,1,0
+202021,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Total Known Sex,678,100
+202021,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,EEA,19,3
+202021,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,UK,644,95
+202021,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Other Nationality,15,2
+202021,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Total Known Nationality,678,100
+202021,Academic year,National,E92000001,England,Drama,Total,New Entrants,472,100
+202021,Academic year,National,E92000001,England,Drama,Total,Postgraduates,467,99
+202021,Academic year,National,E92000001,England,Drama,Total,Undergraduates,5,1
+202021,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Male,128,27
+202021,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Female,339,73
+202021,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Other Sex,0,0
+202021,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Total Known Sex,467,100
+202021,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,EEA,9,2
+202021,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,UK,452,97
+202021,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Other Nationality,6,1
+202021,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Total Known Nationality,467,100
+202021,Academic year,National,E92000001,England,English,Total,New Entrants,3397,100
+202021,Academic year,National,E92000001,England,English,Total,Postgraduates,3177,94
+202021,Academic year,National,E92000001,England,English,Total,Undergraduates,220,6
+202021,Academic year,National,E92000001,England,English,Sex Postgraduates,Male,757,24
+202021,Academic year,National,E92000001,England,English,Sex Postgraduates,Female,2409,76
+202021,Academic year,National,E92000001,England,English,Sex Postgraduates,Other Sex,11,0
+202021,Academic year,National,E92000001,England,English,Sex Postgraduates,Total Known Sex,3177,100
+202021,Academic year,National,E92000001,England,English,Nationality Postgraduates,EEA,105,3
+202021,Academic year,National,E92000001,England,English,Nationality Postgraduates,UK,2947,95
+202021,Academic year,National,E92000001,England,English,Nationality Postgraduates,Other Nationality,66,2
+202021,Academic year,National,E92000001,England,English,Nationality Postgraduates,Total Known Nationality,3118,100
+202021,Academic year,National,E92000001,England,Geography,Total,New Entrants,1206,100
+202021,Academic year,National,E92000001,England,Geography,Total,Postgraduates,1203,100
+202021,Academic year,National,E92000001,England,Geography,Total,Undergraduates,3,0
+202021,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Male,489,41
+202021,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Female,712,59
+202021,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Other Sex,2,0
+202021,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Total Known Sex,1203,100
+202021,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,EEA,40,3
+202021,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,UK,1118,95
+202021,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Other Nationality,14,1
+202021,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Total Known Nationality,1172,100
+202021,Academic year,National,E92000001,England,History,Total,New Entrants,1670,100
+202021,Academic year,National,E92000001,England,History,Total,Postgraduates,1668,100
+202021,Academic year,National,E92000001,England,History,Total,Undergraduates,2,0
+202021,Academic year,National,E92000001,England,History,Sex Postgraduates,Male,765,46
+202021,Academic year,National,E92000001,England,History,Sex Postgraduates,Female,902,54
+202021,Academic year,National,E92000001,England,History,Sex Postgraduates,Other Sex,1,0
+202021,Academic year,National,E92000001,England,History,Sex Postgraduates,Total Known Sex,1668,100
+202021,Academic year,National,E92000001,England,History,Nationality Postgraduates,EEA,42,3
+202021,Academic year,National,E92000001,England,History,Nationality Postgraduates,UK,1566,96
+202021,Academic year,National,E92000001,England,History,Nationality Postgraduates,Other Nationality,19,1
+202021,Academic year,National,E92000001,England,History,Nationality Postgraduates,Total Known Nationality,1627,100
+202021,Academic year,National,E92000001,England,Mathematics,Total,New Entrants,3061,100
+202021,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates,2823,92
+202021,Academic year,National,E92000001,England,Mathematics,Total,Undergraduates,238,8
+202021,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Male,1498,53
+202021,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Female,1315,47
+202021,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Other Sex,10,0
+202021,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Total Known Sex,2823,100
+202021,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,EEA,138,5
+202021,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,UK,2416,89
+202021,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Other Nationality,165,6
+202021,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Total Known Nationality,2719,100
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Total,New Entrants,1658,100
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates,1644,99
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Undergraduates,14,1
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Male,375,23
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Female,1261,77
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Other Sex,8,0
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Total Known Sex,1644,100
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,EEA,461,29
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,UK,1052,66
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Other Nationality,89,6
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Total Known Nationality,1602,100
+202021,Academic year,National,E92000001,England,Music,Total,New Entrants,478,100
+202021,Academic year,National,E92000001,England,Music,Total,Postgraduates,478,100
+202021,Academic year,National,E92000001,England,Music,Total,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Music,Sex Postgraduates,Male,273,57
+202021,Academic year,National,E92000001,England,Music,Sex Postgraduates,Female,202,42
+202021,Academic year,National,E92000001,England,Music,Sex Postgraduates,Other Sex,3,1
+202021,Academic year,National,E92000001,England,Music,Sex Postgraduates,Total Known Sex,478,100
+202021,Academic year,National,E92000001,England,Music,Nationality Postgraduates,EEA,28,6
+202021,Academic year,National,E92000001,England,Music,Nationality Postgraduates,UK,445,93
+202021,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Other Nationality,4,1
+202021,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Total Known Nationality,477,100
+202021,Academic year,National,E92000001,England,Other,Total,New Entrants,404,100
+202021,Academic year,National,E92000001,England,Other,Total,Postgraduates,404,100
+202021,Academic year,National,E92000001,England,Other,Total,Undergraduates,0,0
+202021,Academic year,National,E92000001,England,Other,Sex Postgraduates,Male,95,24
+202021,Academic year,National,E92000001,England,Other,Sex Postgraduates,Female,309,76
+202021,Academic year,National,E92000001,England,Other,Sex Postgraduates,Other Sex,0,0
+202021,Academic year,National,E92000001,England,Other,Sex Postgraduates,Total Known Sex,404,100
+202021,Academic year,National,E92000001,England,Other,Nationality Postgraduates,EEA,16,4
+202021,Academic year,National,E92000001,England,Other,Nationality Postgraduates,UK,377,93
+202021,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Other Nationality,11,3
+202021,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Total Known Nationality,404,100
+202021,Academic year,National,E92000001,England,Physical Education,Total,New Entrants,1792,100
+202021,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates,1649,92
+202021,Academic year,National,E92000001,England,Physical Education,Total,Undergraduates,143,8
+202021,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Male,929,56
+202021,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Female,720,44
+202021,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Other Sex,0,0
+202021,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Total Known Sex,1649,100
+202021,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,EEA,45,3
+202021,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,UK,1557,97
+202021,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Other Nationality,10,1
+202021,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Total Known Nationality,1612,100
+202021,Academic year,National,E92000001,England,Physics,Total,New Entrants,517,100
+202021,Academic year,National,E92000001,England,Physics,Total,Postgraduates,514,99
+202021,Academic year,National,E92000001,England,Physics,Total,Undergraduates,3,1
+202021,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Male,363,71
+202021,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Female,150,29
+202021,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Other Sex,1,0
+202021,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Total Known Sex,514,100
+202021,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,EEA,31,6
+202021,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,UK,444,90
+202021,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Other Nationality,21,4
+202021,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Total Known Nationality,496,100
+202021,Academic year,National,E92000001,England,Religious Education,Total,New Entrants,685,100
+202021,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates,671,98
+202021,Academic year,National,E92000001,England,Religious Education,Total,Undergraduates,14,2
+202021,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Male,188,28
+202021,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Female,481,72
+202021,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Other Sex,2,0
+202021,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Total Known Sex,671,100
+202021,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,EEA,30,5
+202021,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,UK,593,92
+202021,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Other Nationality,22,3
+202021,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Total Known Nationality,645,100
+202021,Academic year,National,E92000001,England,Primary,Total,New Entrants,19862,100
+202021,Academic year,National,E92000001,England,Primary,Total,Postgraduates,14597,73
+202021,Academic year,National,E92000001,England,Primary,Total,Undergraduates,5265,27
+202021,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Male,2416,17
+202021,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Female,12167,83
+202021,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Other Sex,14,0
+202021,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Total Known Sex,14597,100
+202021,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,EEA,523,4
+202021,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,UK,13371,94
+202021,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Other Nationality,296,2
+202021,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Total Known Nationality,14190,100
+202021,Academic year,National,E92000001,England,Secondary,Total,New Entrants,21091,100
+202021,Academic year,National,E92000001,England,Secondary,Total,Postgraduates,20366,97
+202021,Academic year,National,E92000001,England,Secondary,Total,Undergraduates,725,3
+202021,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Male,7927,39
+202021,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Female,12382,61
+202021,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Other Sex,57,0
+202021,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Total Known Sex,20366,100
+202021,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,EEA,1224,6
+202021,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,UK,18047,91
+202021,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Other Nationality,623,3
+202021,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Total Known Nationality,19894,100
+202021,Academic year,National,E92000001,England,STEM Subjects,Total,New Entrants,7254,100
+202021,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates,6930,96
+202021,Academic year,National,E92000001,England,STEM Subjects,Total,Undergraduates,324,4
+202021,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Male,3399,49
+202021,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Female,3502,51
+202021,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Other Sex,29,0
+202021,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Total Known Sex,6930,100
+202021,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,EEA,345,5
+202021,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,UK,6020,90
+202021,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Other Nationality,333,5
+202021,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Total Known Nationality,6698,100
+202021,Academic year,National,E92000001,England,Total,Total,New Entrants,40953,100
+202021,Academic year,National,E92000001,England,Total,Total,Postgraduates,34963,85
+202021,Academic year,National,E92000001,England,Total,Total,Undergraduates,5990,15
+202021,Academic year,National,E92000001,England,Total,Sex Postgraduates,Male,10343,30
+202021,Academic year,National,E92000001,England,Total,Sex Postgraduates,Female,24549,70
+202021,Academic year,National,E92000001,England,Total,Sex Postgraduates,Other Sex,71,0
+202021,Academic year,National,E92000001,England,Total,Sex Postgraduates,Total Known Sex,34963,100
+202021,Academic year,National,E92000001,England,Total,Nationality Postgraduates,EEA,1747,5
+202021,Academic year,National,E92000001,England,Total,Nationality Postgraduates,UK,31418,92
+202021,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Other Nationality,919,3
+202021,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Total Known Nationality,34084,100
+202122,Academic year,National,E92000001,England,Art & Design,Total,New Entrants,788,100
+202122,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates,788,100
+202122,Academic year,National,E92000001,England,Art & Design,Total,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Male,114,15
+202122,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Female,670,85
+202122,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Other Sex,1,0
+202122,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Total Known Sex,785,100
+202122,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,EEA,34,4
+202122,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,UK,722,92
+202122,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Other Nationality,26,3
+202122,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Total Known Nationality,782,100
+202122,Academic year,National,E92000001,England,Biology,Total,New Entrants,944,100
+202122,Academic year,National,E92000001,England,Biology,Total,Postgraduates,918,97
+202122,Academic year,National,E92000001,England,Biology,Total,Undergraduates,26,3
+202122,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Male,287,32
+202122,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Female,620,68
+202122,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Other Sex,0,0
+202122,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Total Known Sex,907,100
+202122,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,EEA,33,4
+202122,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,UK,827,92
+202122,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Other Nationality,40,4
+202122,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Total Known Nationality,900,100
+202122,Academic year,National,E92000001,England,Business Studies,Total,New Entrants,342,100
+202122,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates,342,100
+202122,Academic year,National,E92000001,England,Business Studies,Total,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Male,167,50
+202122,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Female,168,50
+202122,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Other Sex,0,0
+202122,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Total Known Sex,335,100
+202122,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,EEA,16,5
+202122,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,UK,308,90
+202122,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Other Nationality,18,5
+202122,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Total Known Nationality,342,100
+202122,Academic year,National,E92000001,England,Chemistry,Total,New Entrants,1076,100
+202122,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates,1070,99
+202122,Academic year,National,E92000001,England,Chemistry,Total,Undergraduates,6,1
+202122,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Male,429,40
+202122,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Female,631,59
+202122,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Other Sex,2,0
+202122,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Total Known Sex,1062,100
+202122,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,EEA,43,4
+202122,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,UK,942,90
+202122,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Other Nationality,59,6
+202122,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Total Known Nationality,1044,100
+202122,Academic year,National,E92000001,England,Classics,Total,New Entrants,61,100
+202122,Academic year,National,E92000001,England,Classics,Total,Postgraduates,61,100
+202122,Academic year,National,E92000001,England,Classics,Total,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Male,23,38
+202122,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Female,37,61
+202122,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Other Sex,1,2
+202122,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Total Known Sex,61,100
+202122,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,EEA,2,3
+202122,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,UK,57,93
+202122,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Other Nationality,2,3
+202122,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Total Known Nationality,61,100
+202122,Academic year,National,E92000001,England,Computing,Total,New Entrants,565,100
+202122,Academic year,National,E92000001,England,Computing,Total,Postgraduates,553,98
+202122,Academic year,National,E92000001,England,Computing,Total,Undergraduates,12,2
+202122,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Male,387,71
+202122,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Female,157,29
+202122,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Other Sex,1,0
+202122,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Total Known Sex,545,100
+202122,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,EEA,20,4
+202122,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,UK,493,90
+202122,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Other Nationality,36,7
+202122,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Total Known Nationality,549,100
+202122,Academic year,National,E92000001,England,Design & Technology,Total,New Entrants,342,100
+202122,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates,338,99
+202122,Academic year,National,E92000001,England,Design & Technology,Total,Undergraduates,4,1
+202122,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Male,80,24
+202122,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Female,255,76
+202122,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Other Sex,1,0
+202122,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Total Known Sex,336,100
+202122,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,EEA,10,3
+202122,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,UK,322,95
+202122,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Other Nationality,6,2
+202122,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Total Known Nationality,338,100
+202122,Academic year,National,E92000001,England,Drama,Total,New Entrants,489,100
+202122,Academic year,National,E92000001,England,Drama,Total,Postgraduates,489,100
+202122,Academic year,National,E92000001,England,Drama,Total,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Male,132,27
+202122,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Female,351,73
+202122,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Other Sex,1,0
+202122,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Total Known Sex,484,100
+202122,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,EEA,11,2
+202122,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,UK,465,96
+202122,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Other Nationality,8,2
+202122,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Total Known Nationality,484,100
+202122,Academic year,National,E92000001,England,English,Total,New Entrants,2312,100
+202122,Academic year,National,E92000001,England,English,Total,Postgraduates,2287,99
+202122,Academic year,National,E92000001,England,English,Total,Undergraduates,25,1
+202122,Academic year,National,E92000001,England,English,Sex Postgraduates,Male,505,22
+202122,Academic year,National,E92000001,England,English,Sex Postgraduates,Female,1746,77
+202122,Academic year,National,E92000001,England,English,Sex Postgraduates,Other Sex,4,0
+202122,Academic year,National,E92000001,England,English,Sex Postgraduates,Total Known Sex,2255,100
+202122,Academic year,National,E92000001,England,English,Nationality Postgraduates,EEA,62,3
+202122,Academic year,National,E92000001,England,English,Nationality Postgraduates,UK,2147,95
+202122,Academic year,National,E92000001,England,English,Nationality Postgraduates,Other Nationality,51,2
+202122,Academic year,National,E92000001,England,English,Nationality Postgraduates,Total Known Nationality,2260,100
+202122,Academic year,National,E92000001,England,Geography,Total,New Entrants,628,100
+202122,Academic year,National,E92000001,England,Geography,Total,Postgraduates,627,100
+202122,Academic year,National,E92000001,England,Geography,Total,Undergraduates,1,0
+202122,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Male,206,33
+202122,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Female,416,67
+202122,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Other Sex,0,0
+202122,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Total Known Sex,622,100
+202122,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,EEA,20,3
+202122,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,UK,592,95
+202122,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Other Nationality,9,1
+202122,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Total Known Nationality,621,100
+202122,Academic year,National,E92000001,England,History,Total,New Entrants,1516,100
+202122,Academic year,National,E92000001,England,History,Total,Postgraduates,1507,99
+202122,Academic year,National,E92000001,England,History,Total,Undergraduates,9,1
+202122,Academic year,National,E92000001,England,History,Sex Postgraduates,Male,689,46
+202122,Academic year,National,E92000001,England,History,Sex Postgraduates,Female,797,54
+202122,Academic year,National,E92000001,England,History,Sex Postgraduates,Other Sex,2,0
+202122,Academic year,National,E92000001,England,History,Sex Postgraduates,Total Known Sex,1488,100
+202122,Academic year,National,E92000001,England,History,Nationality Postgraduates,EEA,25,2
+202122,Academic year,National,E92000001,England,History,Nationality Postgraduates,UK,1428,97
+202122,Academic year,National,E92000001,England,History,Nationality Postgraduates,Other Nationality,26,2
+202122,Academic year,National,E92000001,England,History,Nationality Postgraduates,Total Known Nationality,1479,100
+202122,Academic year,National,E92000001,England,Mathematics,Total,New Entrants,2616,100
+202122,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates,2529,97
+202122,Academic year,National,E92000001,England,Mathematics,Total,Undergraduates,87,3
+202122,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Male,1293,52
+202122,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Female,1187,48
+202122,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Other Sex,6,0
+202122,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Total Known Sex,2486,100
+202122,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,EEA,106,4
+202122,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,UK,2230,90
+202122,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Other Nationality,135,5
+202122,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Total Known Nationality,2471,100
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Total,New Entrants,1050,100
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates,1046,100
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Undergraduates,4,0
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Male,216,21
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Female,811,79
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Other Sex,2,0
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Total Known Sex,1029,100
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,EEA,294,28
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,UK,682,66
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Other Nationality,59,6
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Total Known Nationality,1035,100
+202122,Academic year,National,E92000001,England,Music,Total,New Entrants,395,100
+202122,Academic year,National,E92000001,England,Music,Total,Postgraduates,395,100
+202122,Academic year,National,E92000001,England,Music,Total,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Music,Sex Postgraduates,Male,212,54
+202122,Academic year,National,E92000001,England,Music,Sex Postgraduates,Female,179,46
+202122,Academic year,National,E92000001,England,Music,Sex Postgraduates,Other Sex,1,0
+202122,Academic year,National,E92000001,England,Music,Sex Postgraduates,Total Known Sex,392,100
+202122,Academic year,National,E92000001,England,Music,Nationality Postgraduates,EEA,19,5
+202122,Academic year,National,E92000001,England,Music,Nationality Postgraduates,UK,356,91
+202122,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Other Nationality,15,4
+202122,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Total Known Nationality,390,100
+202122,Academic year,National,E92000001,England,Other,Total,New Entrants,510,100
+202122,Academic year,National,E92000001,England,Other,Total,Postgraduates,510,100
+202122,Academic year,National,E92000001,England,Other,Total,Undergraduates,0,0
+202122,Academic year,National,E92000001,England,Other,Sex Postgraduates,Male,113,22
+202122,Academic year,National,E92000001,England,Other,Sex Postgraduates,Female,391,77
+202122,Academic year,National,E92000001,England,Other,Sex Postgraduates,Other Sex,1,0
+202122,Academic year,National,E92000001,England,Other,Sex Postgraduates,Total Known Sex,505,100
+202122,Academic year,National,E92000001,England,Other,Nationality Postgraduates,EEA,14,3
+202122,Academic year,National,E92000001,England,Other,Nationality Postgraduates,UK,477,94
+202122,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Other Nationality,19,4
+202122,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Total Known Nationality,510,100
+202122,Academic year,National,E92000001,England,Physical Education,Total,New Entrants,1813,100
+202122,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates,1646,91
+202122,Academic year,National,E92000001,England,Physical Education,Total,Undergraduates,167,9
+202122,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Male,875,53
+202122,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Female,763,47
+202122,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Other Sex,1,0
+202122,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Total Known Sex,1639,100
+202122,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,EEA,24,1
+202122,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,UK,1578,98
+202122,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Other Nationality,8,0
+202122,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Total Known Nationality,1610,100
+202122,Academic year,National,E92000001,England,Physics,Total,New Entrants,546,100
+202122,Academic year,National,E92000001,England,Physics,Total,Postgraduates,539,99
+202122,Academic year,National,E92000001,England,Physics,Total,Undergraduates,7,1
+202122,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Male,355,67
+202122,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Female,174,33
+202122,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Other Sex,0,0
+202122,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Total Known Sex,529,100
+202122,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,EEA,29,5
+202122,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,UK,468,88
+202122,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Other Nationality,32,6
+202122,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Total Known Nationality,529,100
+202122,Academic year,National,E92000001,England,Religious Education,Total,New Entrants,459,100
+202122,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates,446,97
+202122,Academic year,National,E92000001,England,Religious Education,Total,Undergraduates,13,3
+202122,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Male,137,31
+202122,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Female,299,68
+202122,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Other Sex,3,1
+202122,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Total Known Sex,439,100
+202122,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,EEA,14,3
+202122,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,UK,408,95
+202122,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Other Nationality,9,2
+202122,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Total Known Nationality,431,100
+202122,Academic year,National,E92000001,England,Primary,Total,New Entrants,19905,100
+202122,Academic year,National,E92000001,England,Primary,Total,Postgraduates,14192,71
+202122,Academic year,National,E92000001,England,Primary,Total,Undergraduates,5713,29
+202122,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Male,2276,16
+202122,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Female,11808,84
+202122,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Other Sex,12,0
+202122,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Total Known Sex,14096,100
+202122,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,EEA,434,3
+202122,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,UK,13126,95
+202122,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Other Nationality,265,2
+202122,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Total Known Nationality,13825,100
+202122,Academic year,National,E92000001,England,Secondary,Total,New Entrants,16452,100
+202122,Academic year,National,E92000001,England,Secondary,Total,Postgraduates,16091,98
+202122,Academic year,National,E92000001,England,Secondary,Total,Undergraduates,361,2
+202122,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Male,6220,39
+202122,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Female,9652,61
+202122,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Other Sex,27,0
+202122,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Total Known Sex,15899,100
+202122,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,EEA,776,5
+202122,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,UK,14502,92
+202122,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Other Nationality,558,4
+202122,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Total Known Nationality,15836,100
+202122,Academic year,National,E92000001,England,STEM Subjects,Total,New Entrants,5747,100
+202122,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates,5609,98
+202122,Academic year,National,E92000001,England,STEM Subjects,Total,Undergraduates,138,2
+202122,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Male,2751,50
+202122,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Female,2769,50
+202122,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Other Sex,9,0
+202122,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Total Known Sex,5529,100
+202122,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,EEA,231,4
+202122,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,UK,4960,90
+202122,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Other Nationality,302,5
+202122,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Total Known Nationality,5493,100
+202122,Academic year,National,E92000001,England,Total,Total,New Entrants,36357,100
+202122,Academic year,National,E92000001,England,Total,Total,Postgraduates,30283,83
+202122,Academic year,National,E92000001,England,Total,Total,Undergraduates,6074,17
+202122,Academic year,National,E92000001,England,Total,Sex Postgraduates,Male,8496,28
+202122,Academic year,National,E92000001,England,Total,Sex Postgraduates,Female,21460,72
+202122,Academic year,National,E92000001,England,Total,Sex Postgraduates,Other Sex,39,0
+202122,Academic year,National,E92000001,England,Total,Sex Postgraduates,Total Known Sex,29995,100
+202122,Academic year,National,E92000001,England,Total,Nationality Postgraduates,EEA,1210,4
+202122,Academic year,National,E92000001,England,Total,Nationality Postgraduates,UK,27628,93
+202122,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Other Nationality,823,3
+202122,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Total Known Nationality,29661,100
+202223,Academic year,National,E92000001,England,Art & Design,Total,New Entrants,488,100
+202223,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates,488,100
+202223,Academic year,National,E92000001,England,Art & Design,Total,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Male,59,12
+202223,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Female,427,88
+202223,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Other Sex,1,0
+202223,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Total Known Sex,487,100
+202223,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,EEA,29,6
+202223,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,UK,414,92
+202223,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Other Nationality,9,2
+202223,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Total Known Nationality,452,100
+202223,Academic year,National,E92000001,England,Biology,Total,New Entrants,693,100
+202223,Academic year,National,E92000001,England,Biology,Total,Postgraduates,675,97
+202223,Academic year,National,E92000001,England,Biology,Total,Undergraduates,18,3
+202223,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Male,198,30
+202223,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Female,470,70
+202223,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Other Sex,0,0
+202223,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Total Known Sex,668,100
+202223,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,EEA,33,5
+202223,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,UK,555,88
+202223,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Other Nationality,41,7
+202223,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Total Known Nationality,629,100
+202223,Academic year,National,E92000001,England,Business Studies,Total,New Entrants,253,100
+202223,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates,253,100
+202223,Academic year,National,E92000001,England,Business Studies,Total,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Male,117,47
+202223,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Female,133,53
+202223,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Other Sex,0,0
+202223,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Total Known Sex,250,100
+202223,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,EEA,12,5
+202223,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,UK,199,87
+202223,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Other Nationality,19,8
+202223,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Total Known Nationality,230,100
+202223,Academic year,National,E92000001,England,Chemistry,Total,New Entrants,771,100
+202223,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates,767,99
+202223,Academic year,National,E92000001,England,Chemistry,Total,Undergraduates,4,1
+202223,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Male,281,37
+202223,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Female,468,62
+202223,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Other Sex,3,0
+202223,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Total Known Sex,752,100
+202223,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,EEA,32,5
+202223,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,UK,624,88
+202223,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Other Nationality,53,7
+202223,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Total Known Nationality,709,100
+202223,Academic year,National,E92000001,England,Classics,Total,New Entrants,64,100
+202223,Academic year,National,E92000001,England,Classics,Total,Postgraduates,64,100
+202223,Academic year,National,E92000001,England,Classics,Total,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Male,27,42
+202223,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Female,37,58
+202223,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Other Sex,0,0
+202223,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Total Known Sex,64,100
+202223,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,EEA,7,11
+202223,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,UK,57,89
+202223,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Other Nationality,0,0
+202223,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Total Known Nationality,64,100
+202223,Academic year,National,E92000001,England,Computing,Total,New Entrants,344,100
+202223,Academic year,National,E92000001,England,Computing,Total,Postgraduates,340,99
+202223,Academic year,National,E92000001,England,Computing,Total,Undergraduates,4,1
+202223,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Male,229,68
+202223,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Female,107,32
+202223,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Other Sex,2,1
+202223,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Total Known Sex,338,100
+202223,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,EEA,18,6
+202223,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,UK,272,87
+202223,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Other Nationality,21,7
+202223,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Total Known Nationality,311,100
+202223,Academic year,National,E92000001,England,Design & Technology,Total,New Entrants,444,100
+202223,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates,444,100
+202223,Academic year,National,E92000001,England,Design & Technology,Total,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Male,113,26
+202223,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Female,326,74
+202223,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Other Sex,2,0
+202223,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Total Known Sex,441,100
+202223,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,EEA,18,4
+202223,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,UK,389,94
+202223,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Other Nationality,7,2
+202223,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Total Known Nationality,414,100
+202223,Academic year,National,E92000001,England,Drama,Total,New Entrants,331,100
+202223,Academic year,National,E92000001,England,Drama,Total,Postgraduates,331,100
+202223,Academic year,National,E92000001,England,Drama,Total,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Male,86,26
+202223,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Female,244,74
+202223,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Other Sex,1,0
+202223,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Total Known Sex,331,100
+202223,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,EEA,8,3
+202223,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,UK,294,96
+202223,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Other Nationality,3,1
+202223,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Total Known Nationality,305,100
+202223,Academic year,National,E92000001,England,English,Total,New Entrants,1816,100
+202223,Academic year,National,E92000001,England,English,Total,Postgraduates,1787,98
+202223,Academic year,National,E92000001,England,English,Total,Undergraduates,29,2
+202223,Academic year,National,E92000001,England,English,Sex Postgraduates,Male,405,23
+202223,Academic year,National,E92000001,England,English,Sex Postgraduates,Female,1349,77
+202223,Academic year,National,E92000001,England,English,Sex Postgraduates,Other Sex,8,0
+202223,Academic year,National,E92000001,England,English,Sex Postgraduates,Total Known Sex,1762,100
+202223,Academic year,National,E92000001,England,English,Nationality Postgraduates,EEA,52,3
+202223,Academic year,National,E92000001,England,English,Nationality Postgraduates,UK,1587,94
+202223,Academic year,National,E92000001,England,English,Nationality Postgraduates,Other Nationality,42,2
+202223,Academic year,National,E92000001,England,English,Nationality Postgraduates,Total Known Nationality,1681,100
+202223,Academic year,National,E92000001,England,Geography,Total,New Entrants,661,100
+202223,Academic year,National,E92000001,England,Geography,Total,Postgraduates,661,100
+202223,Academic year,National,E92000001,England,Geography,Total,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Male,251,38
+202223,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Female,403,61
+202223,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Other Sex,2,0
+202223,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Total Known Sex,656,100
+202223,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,EEA,21,3
+202223,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,UK,596,95
+202223,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Other Nationality,13,2
+202223,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Total Known Nationality,630,100
+202223,Academic year,National,E92000001,England,History,Total,New Entrants,1131,100
+202223,Academic year,National,E92000001,England,History,Total,Postgraduates,1126,100
+202223,Academic year,National,E92000001,England,History,Total,Undergraduates,5,0
+202223,Academic year,National,E92000001,England,History,Sex Postgraduates,Male,550,49
+202223,Academic year,National,E92000001,England,History,Sex Postgraduates,Female,564,51
+202223,Academic year,National,E92000001,England,History,Sex Postgraduates,Other Sex,2,0
+202223,Academic year,National,E92000001,England,History,Sex Postgraduates,Total Known Sex,1116,100
+202223,Academic year,National,E92000001,England,History,Nationality Postgraduates,EEA,30,3
+202223,Academic year,National,E92000001,England,History,Nationality Postgraduates,UK,1028,96
+202223,Academic year,National,E92000001,England,History,Nationality Postgraduates,Other Nationality,8,1
+202223,Academic year,National,E92000001,England,History,Nationality Postgraduates,Total Known Nationality,1066,100
+202223,Academic year,National,E92000001,England,Mathematics,Total,New Entrants,1937,100
+202223,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates,1869,96
+202223,Academic year,National,E92000001,England,Mathematics,Total,Undergraduates,68,4
+202223,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Male,914,50
+202223,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Female,916,50
+202223,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Other Sex,8,0
+202223,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Total Known Sex,1838,100
+202223,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,EEA,109,6
+202223,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,UK,1508,86
+202223,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Other Nationality,146,8
+202223,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Total Known Nationality,1763,100
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Total,New Entrants,766,100
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates,763,100
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Undergraduates,3,0
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Male,150,20
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Female,600,80
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Other Sex,3,0
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Total Known Sex,753,100
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,EEA,230,31
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,UK,437,59
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Other Nationality,68,9
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Total Known Nationality,735,100
+202223,Academic year,National,E92000001,England,Music,Total,New Entrants,318,100
+202223,Academic year,National,E92000001,England,Music,Total,Postgraduates,318,100
+202223,Academic year,National,E92000001,England,Music,Total,Undergraduates,0,0
+202223,Academic year,National,E92000001,England,Music,Sex Postgraduates,Male,162,52
+202223,Academic year,National,E92000001,England,Music,Sex Postgraduates,Female,152,48
+202223,Academic year,National,E92000001,England,Music,Sex Postgraduates,Other Sex,0,0
+202223,Academic year,National,E92000001,England,Music,Sex Postgraduates,Total Known Sex,314,100
+202223,Academic year,National,E92000001,England,Music,Nationality Postgraduates,EEA,18,6
+202223,Academic year,National,E92000001,England,Music,Nationality Postgraduates,UK,267,91
+202223,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Other Nationality,9,3
+202223,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Total Known Nationality,294,100
+202223,Academic year,National,E92000001,England,Other,Total,New Entrants,402,100
+202223,Academic year,National,E92000001,England,Other,Total,Postgraduates,401,100
+202223,Academic year,National,E92000001,England,Other,Total,Undergraduates,1,0
+202223,Academic year,National,E92000001,England,Other,Sex Postgraduates,Male,75,19
+202223,Academic year,National,E92000001,England,Other,Sex Postgraduates,Female,323,81
+202223,Academic year,National,E92000001,England,Other,Sex Postgraduates,Other Sex,1,0
+202223,Academic year,National,E92000001,England,Other,Sex Postgraduates,Total Known Sex,399,100
+202223,Academic year,National,E92000001,England,Other,Nationality Postgraduates,EEA,17,4
+202223,Academic year,National,E92000001,England,Other,Nationality Postgraduates,UK,364,94
+202223,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Other Nationality,5,1
+202223,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Total Known Nationality,386,100
+202223,Academic year,National,E92000001,England,Physical Education,Total,New Entrants,1678,100
+202223,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates,1499,89
+202223,Academic year,National,E92000001,England,Physical Education,Total,Undergraduates,179,11
+202223,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Male,826,56
+202223,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Female,654,44
+202223,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Other Sex,3,0
+202223,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Total Known Sex,1483,100
+202223,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,EEA,60,4
+202223,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,UK,1333,95
+202223,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Other Nationality,14,1
+202223,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Total Known Nationality,1407,100
+202223,Academic year,National,E92000001,England,Physics,Total,New Entrants,462,100
+202223,Academic year,National,E92000001,England,Physics,Total,Postgraduates,457,99
+202223,Academic year,National,E92000001,England,Physics,Total,Undergraduates,5,1
+202223,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Male,299,67
+202223,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Female,145,32
+202223,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Other Sex,4,1
+202223,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Total Known Sex,448,100
+202223,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,EEA,23,5
+202223,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,UK,358,85
+202223,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Other Nationality,40,10
+202223,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Total Known Nationality,421,100
+202223,Academic year,National,E92000001,England,Religious Education,Total,New Entrants,365,100
+202223,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates,353,97
+202223,Academic year,National,E92000001,England,Religious Education,Total,Undergraduates,12,3
+202223,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Male,119,34
+202223,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Female,229,66
+202223,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Other Sex,1,0
+202223,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Total Known Sex,349,100
+202223,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,EEA,11,3
+202223,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,UK,312,95
+202223,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Other Nationality,6,2
+202223,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Total Known Nationality,329,100
+202223,Academic year,National,E92000001,England,Primary,Total,New Entrants,16489,100
+202223,Academic year,National,E92000001,England,Primary,Total,Postgraduates,11010,67
+202223,Academic year,National,E92000001,England,Primary,Total,Undergraduates,5479,33
+202223,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Male,1695,16
+202223,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Female,9176,84
+202223,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Other Sex,22,0
+202223,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Total Known Sex,10893,100
+202223,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,EEA,473,5
+202223,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,UK,9425,93
+202223,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Other Nationality,218,2
+202223,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Total Known Nationality,10116,100
+202223,Academic year,National,E92000001,England,Secondary,Total,New Entrants,12924,100
+202223,Academic year,National,E92000001,England,Secondary,Total,Postgraduates,12596,97
+202223,Academic year,National,E92000001,England,Secondary,Total,Undergraduates,328,3
+202223,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Male,4861,39
+202223,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Female,7547,61
+202223,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Other Sex,41,0
+202223,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Total Known Sex,12449,100
+202223,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,EEA,728,6
+202223,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,UK,10594,90
+202223,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Other Nationality,504,4
+202223,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Total Known Nationality,11826,100
+202223,Academic year,National,E92000001,England,STEM Subjects,Total,New Entrants,4207,100
+202223,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates,4108,98
+202223,Academic year,National,E92000001,England,STEM Subjects,Total,Undergraduates,99,2
+202223,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Male,1921,48
+202223,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Female,2106,52
+202223,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Other Sex,17,0
+202223,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Total Known Sex,4044,100
+202223,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,EEA,215,6
+202223,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,UK,3317,87
+202223,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Other Nationality,301,8
+202223,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Total Known Nationality,3833,100
+202223,Academic year,National,E92000001,England,Total,Total,New Entrants,29413,100
+202223,Academic year,National,E92000001,England,Total,Total,Postgraduates,23606,80
+202223,Academic year,National,E92000001,England,Total,Total,Undergraduates,5807,20
+202223,Academic year,National,E92000001,England,Total,Sex Postgraduates,Male,6556,28
+202223,Academic year,National,E92000001,England,Total,Sex Postgraduates,Female,16723,72
+202223,Academic year,National,E92000001,England,Total,Sex Postgraduates,Other Sex,63,0
+202223,Academic year,National,E92000001,England,Total,Sex Postgraduates,Total Known Sex,23342,100
+202223,Academic year,National,E92000001,England,Total,Nationality Postgraduates,EEA,1201,5
+202223,Academic year,National,E92000001,England,Total,Nationality Postgraduates,UK,20019,91
+202223,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Other Nationality,722,3
+202223,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Total Known Nationality,21942,100
+202324,Academic year,National,E92000001,England,Art & Design,Total,New Entrants,401,100
+202324,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates,401,100
+202324,Academic year,National,E92000001,England,Art & Design,Total,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Male,75,19
+202324,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Female,313,81
+202324,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Other Sex,0,0
+202324,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Total Known Sex,388,100
+202324,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,EEA,17,5
+202324,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,UK,333,90
+202324,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Other Nationality,21,6
+202324,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Total Known Nationality,371,100
+202324,Academic year,National,E92000001,England,Biology,Total,New Entrants,953,100
+202324,Academic year,National,E92000001,England,Biology,Total,Postgraduates,948,99
+202324,Academic year,National,E92000001,England,Biology,Total,Undergraduates,5,1
+202324,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Male,255,27
+202324,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Female,672,72
+202324,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Other Sex,2,0
+202324,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Total Known Sex,929,100
+202324,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,EEA,30,3
+202324,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,UK,804,90
+202324,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Other Nationality,64,7
+202324,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Total Known Nationality,898,100
+202324,Academic year,National,E92000001,England,Business Studies,Total,New Entrants,226,100
+202324,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates,226,100
+202324,Academic year,National,E92000001,England,Business Studies,Total,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Male,112,50
+202324,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Female,112,50
+202324,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Other Sex,0,0
+202324,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Total Known Sex,224,100
+202324,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,EEA,11,5
+202324,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,UK,177,82
+202324,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Other Nationality,29,13
+202324,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Total Known Nationality,217,100
+202324,Academic year,National,E92000001,England,Chemistry,Total,New Entrants,778,100
+202324,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates,776,100
+202324,Academic year,National,E92000001,England,Chemistry,Total,Undergraduates,2,0
+202324,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Male,298,39
+202324,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Female,467,61
+202324,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Other Sex,2,0
+202324,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Total Known Sex,767,100
+202324,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,EEA,28,4
+202324,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,UK,629,88
+202324,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Other Nationality,61,8
+202324,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Total Known Nationality,718,100
+202324,Academic year,National,E92000001,England,Classics,Total,New Entrants,69,100
+202324,Academic year,National,E92000001,England,Classics,Total,Postgraduates,69,100
+202324,Academic year,National,E92000001,England,Classics,Total,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Male,31,45
+202324,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Female,37,54
+202324,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Other Sex,1,1
+202324,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Total Known Sex,69,100
+202324,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,EEA,1,1
+202324,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,UK,67,99
+202324,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Other Nationality,0,0
+202324,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Total Known Nationality,68,100
+202324,Academic year,National,E92000001,England,Computing,Total,New Entrants,423,100
+202324,Academic year,National,E92000001,England,Computing,Total,Postgraduates,422,100
+202324,Academic year,National,E92000001,England,Computing,Total,Undergraduates,1,0
+202324,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Male,271,67
+202324,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Female,131,32
+202324,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Other Sex,2,0
+202324,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Total Known Sex,404,100
+202324,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,EEA,29,7
+202324,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,UK,339,85
+202324,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Other Nationality,32,8
+202324,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Total Known Nationality,400,100
+202324,Academic year,National,E92000001,England,Design & Technology,Total,New Entrants,589,100
+202324,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates,589,100
+202324,Academic year,National,E92000001,England,Design & Technology,Total,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Male,147,25
+202324,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Female,436,75
+202324,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Other Sex,1,0
+202324,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Total Known Sex,584,100
+202324,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,EEA,20,4
+202324,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,UK,530,95
+202324,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Other Nationality,6,1
+202324,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Total Known Nationality,556,100
+202324,Academic year,National,E92000001,England,Drama,Total,New Entrants,242,100
+202324,Academic year,National,E92000001,England,Drama,Total,Postgraduates,242,100
+202324,Academic year,National,E92000001,England,Drama,Total,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Male,61,26
+202324,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Female,177,74
+202324,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Other Sex,1,0
+202324,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Total Known Sex,239,100
+202324,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,EEA,3,1
+202324,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,UK,205,96
+202324,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Other Nationality,5,2
+202324,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Total Known Nationality,213,100
+202324,Academic year,National,E92000001,England,English,Total,New Entrants,2281,100
+202324,Academic year,National,E92000001,England,English,Total,Postgraduates,2260,99
+202324,Academic year,National,E92000001,England,English,Total,Undergraduates,21,1
+202324,Academic year,National,E92000001,England,English,Sex Postgraduates,Male,523,24
+202324,Academic year,National,E92000001,England,English,Sex Postgraduates,Female,1651,75
+202324,Academic year,National,E92000001,England,English,Sex Postgraduates,Other Sex,18,1
+202324,Academic year,National,E92000001,England,English,Sex Postgraduates,Total Known Sex,2192,100
+202324,Academic year,National,E92000001,England,English,Nationality Postgraduates,EEA,53,2
+202324,Academic year,National,E92000001,England,English,Nationality Postgraduates,UK,2036,94
+202324,Academic year,National,E92000001,England,English,Nationality Postgraduates,Other Nationality,66,3
+202324,Academic year,National,E92000001,England,English,Nationality Postgraduates,Total Known Nationality,2155,100
+202324,Academic year,National,E92000001,England,Geography,Total,New Entrants,839,100
+202324,Academic year,National,E92000001,England,Geography,Total,Postgraduates,839,100
+202324,Academic year,National,E92000001,England,Geography,Total,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Male,303,37
+202324,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Female,507,62
+202324,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Other Sex,2,0
+202324,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Total Known Sex,812,100
+202324,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,EEA,25,3
+202324,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,UK,767,96
+202324,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Other Nationality,11,1
+202324,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Total Known Nationality,803,100
+202324,Academic year,National,E92000001,England,History,Total,New Entrants,975,100
+202324,Academic year,National,E92000001,England,History,Total,Postgraduates,968,99
+202324,Academic year,National,E92000001,England,History,Total,Undergraduates,7,1
+202324,Academic year,National,E92000001,England,History,Sex Postgraduates,Male,466,50
+202324,Academic year,National,E92000001,England,History,Sex Postgraduates,Female,469,50
+202324,Academic year,National,E92000001,England,History,Sex Postgraduates,Other Sex,5,1
+202324,Academic year,National,E92000001,England,History,Sex Postgraduates,Total Known Sex,940,100
+202324,Academic year,National,E92000001,England,History,Nationality Postgraduates,EEA,15,2
+202324,Academic year,National,E92000001,England,History,Nationality Postgraduates,UK,885,96
+202324,Academic year,National,E92000001,England,History,Nationality Postgraduates,Other Nationality,24,3
+202324,Academic year,National,E92000001,England,History,Nationality Postgraduates,Total Known Nationality,924,100
+202324,Academic year,National,E92000001,England,Mathematics,Total,New Entrants,1920,100
+202324,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates,1877,98
+202324,Academic year,National,E92000001,England,Mathematics,Total,Undergraduates,43,2
+202324,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Male,896,49
+202324,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Female,930,51
+202324,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Other Sex,6,0
+202324,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Total Known Sex,1832,100
+202324,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,EEA,91,5
+202324,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,UK,1510,86
+202324,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Other Nationality,165,9
+202324,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Total Known Nationality,1766,100
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Total,New Entrants,1037,100
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates,1036,100
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Undergraduates,1,0
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Male,277,27
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Female,736,73
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Other Sex,2,0
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Total Known Sex,1015,100
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,EEA,288,30
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,UK,572,59
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Other Nationality,116,12
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Total Known Nationality,976,100
+202324,Academic year,National,E92000001,England,Music,Total,New Entrants,238,100
+202324,Academic year,National,E92000001,England,Music,Total,Postgraduates,238,100
+202324,Academic year,National,E92000001,England,Music,Total,Undergraduates,0,0
+202324,Academic year,National,E92000001,England,Music,Sex Postgraduates,Male,117,50
+202324,Academic year,National,E92000001,England,Music,Sex Postgraduates,Female,119,50
+202324,Academic year,National,E92000001,England,Music,Sex Postgraduates,Other Sex,0,0
+202324,Academic year,National,E92000001,England,Music,Sex Postgraduates,Total Known Sex,236,100
+202324,Academic year,National,E92000001,England,Music,Nationality Postgraduates,EEA,11,5
+202324,Academic year,National,E92000001,England,Music,Nationality Postgraduates,UK,195,89
+202324,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Other Nationality,14,6
+202324,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Total Known Nationality,220,100
+202324,Academic year,National,E92000001,England,Other,Total,New Entrants,330,100
+202324,Academic year,National,E92000001,England,Other,Total,Postgraduates,322,98
+202324,Academic year,National,E92000001,England,Other,Total,Undergraduates,8,2
+202324,Academic year,National,E92000001,England,Other,Sex Postgraduates,Male,73,23
+202324,Academic year,National,E92000001,England,Other,Sex Postgraduates,Female,245,77
+202324,Academic year,National,E92000001,England,Other,Sex Postgraduates,Other Sex,0,0
+202324,Academic year,National,E92000001,England,Other,Sex Postgraduates,Total Known Sex,318,100
+202324,Academic year,National,E92000001,England,Other,Nationality Postgraduates,EEA,15,5
+202324,Academic year,National,E92000001,England,Other,Nationality Postgraduates,UK,286,92
+202324,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Other Nationality,11,4
+202324,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Total Known Nationality,312,100
+202324,Academic year,National,E92000001,England,Physical Education,Total,New Entrants,1648,100
+202324,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates,1487,90
+202324,Academic year,National,E92000001,England,Physical Education,Total,Undergraduates,161,10
+202324,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Male,809,56
+202324,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Female,635,44
+202324,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Other Sex,1,0
+202324,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Total Known Sex,1445,100
+202324,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,EEA,15,1
+202324,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,UK,1364,98
+202324,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Other Nationality,17,1
+202324,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Total Known Nationality,1396,100
+202324,Academic year,National,E92000001,England,Physics,Total,New Entrants,567,100
+202324,Academic year,National,E92000001,England,Physics,Total,Postgraduates,564,99
+202324,Academic year,National,E92000001,England,Physics,Total,Undergraduates,3,1
+202324,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Male,372,67
+202324,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Female,183,33
+202324,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Other Sex,3,1
+202324,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Total Known Sex,558,100
+202324,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,EEA,17,3
+202324,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,UK,315,60
+202324,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Other Nationality,192,37
+202324,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Total Known Nationality,524,100
+202324,Academic year,National,E92000001,England,Religious Education,Total,New Entrants,293,100
+202324,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates,287,98
+202324,Academic year,National,E92000001,England,Religious Education,Total,Undergraduates,6,2
+202324,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Male,80,29
+202324,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Female,194,70
+202324,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Other Sex,2,1
+202324,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Total Known Sex,276,100
+202324,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,EEA,5,2
+202324,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,UK,263,95
+202324,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Other Nationality,8,3
+202324,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Total Known Nationality,276,100
+202324,Academic year,National,E92000001,England,Primary,Total,New Entrants,13851,100
+202324,Academic year,National,E92000001,England,Primary,Total,Postgraduates,9125,66
+202324,Academic year,National,E92000001,England,Primary,Total,Undergraduates,4726,34
+202324,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Male,1412,16
+202324,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Female,7364,84
+202324,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Other Sex,25,0
+202324,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Total Known Sex,8801,100
+202324,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,EEA,206,2
+202324,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,UK,8086,95
+202324,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Other Nationality,211,2
+202324,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Total Known Nationality,8503,100
+202324,Academic year,National,E92000001,England,Secondary,Total,New Entrants,13809,100
+202324,Academic year,National,E92000001,England,Secondary,Total,Postgraduates,13551,98
+202324,Academic year,National,E92000001,England,Secondary,Total,Undergraduates,258,2
+202324,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Male,5166,39
+202324,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Female,8014,61
+202324,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Other Sex,48,0
+202324,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Total Known Sex,13228,100
+202324,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,EEA,674,5
+202324,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,UK,11277,88
+202324,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Other Nationality,842,7
+202324,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Total Known Nationality,12793,100
+202324,Academic year,National,E92000001,England,STEM Subjects,Total,New Entrants,4641,100
+202324,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates,4587,99
+202324,Academic year,National,E92000001,England,STEM Subjects,Total,Undergraduates,54,1
+202324,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Male,2092,47
+202324,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Female,2383,53
+202324,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Other Sex,15,0
+202324,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Total Known Sex,4490,100
+202324,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,EEA,195,5
+202324,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,UK,3597,84
+202324,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Other Nationality,514,12
+202324,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Total Known Nationality,4306,100
+202324,Academic year,National,E92000001,England,Total,Total,New Entrants,27660,100
+202324,Academic year,National,E92000001,England,Total,Total,Postgraduates,22676,82
+202324,Academic year,National,E92000001,England,Total,Total,Undergraduates,4984,18
+202324,Academic year,National,E92000001,England,Total,Sex Postgraduates,Male,6578,30
+202324,Academic year,National,E92000001,England,Total,Sex Postgraduates,Female,15378,70
+202324,Academic year,National,E92000001,England,Total,Sex Postgraduates,Other Sex,73,0
+202324,Academic year,National,E92000001,England,Total,Sex Postgraduates,Total Known Sex,22029,100
+202324,Academic year,National,E92000001,England,Total,Nationality Postgraduates,EEA,880,4
+202324,Academic year,National,E92000001,England,Total,Nationality Postgraduates,UK,19363,91
+202324,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Other Nationality,1053,5
+202324,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Total Known Nationality,21296,100
+202425,Academic year,National,E92000001,England,Art & Design,Total,New Entrants,722,100
+202425,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates,722,100
+202425,Academic year,National,E92000001,England,Art & Design,Total,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Male,132,18
+202425,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Female,576,80
+202425,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Other Sex,8,1
+202425,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Total Known Sex,716,100
+202425,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,EEA,49,7
+202425,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,UK,632,90
+202425,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Other Nationality,20,3
+202425,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Total Known Nationality,701,100
+202425,Academic year,National,E92000001,England,Biology,Total,New Entrants,1315,100
+202425,Academic year,National,E92000001,England,Biology,Total,Postgraduates,1314,100
+202425,Academic year,National,E92000001,England,Biology,Total,Undergraduates,1,0
+202425,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Male,375,29
+202425,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Female,918,71
+202425,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Other Sex,4,0
+202425,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Total Known Sex,1297,100
+202425,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,EEA,68,5
+202425,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,UK,1137,89
+202425,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Other Nationality,70,5
+202425,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Total Known Nationality,1275,100
+202425,Academic year,National,E92000001,England,Business Studies,Total,New Entrants,214,100
+202425,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates,214,100
+202425,Academic year,National,E92000001,England,Business Studies,Total,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Male,111,52
+202425,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Female,102,48
+202425,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Other Sex,0,0
+202425,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Total Known Sex,213,100
+202425,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,EEA,14,7
+202425,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,UK,170,83
+202425,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Other Nationality,22,11
+202425,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Total Known Nationality,206,100
+202425,Academic year,National,E92000001,England,Chemistry,Total,New Entrants,762,100
+202425,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates,760,100
+202425,Academic year,National,E92000001,England,Chemistry,Total,Undergraduates,2,0
+202425,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Male,283,38
+202425,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Female,457,62
+202425,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Other Sex,2,0
+202425,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Total Known Sex,742,100
+202425,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,EEA,58,8
+202425,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,UK,606,82
+202425,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Other Nationality,71,10
+202425,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Total Known Nationality,735,100
+202425,Academic year,National,E92000001,England,Classics,Total,New Entrants,54,100
+202425,Academic year,National,E92000001,England,Classics,Total,Postgraduates,54,100
+202425,Academic year,National,E92000001,England,Classics,Total,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Male,24,44
+202425,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Female,30,56
+202425,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Other Sex,0,0
+202425,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Total Known Sex,54,100
+202425,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,EEA,0,0
+202425,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,UK,53,98
+202425,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Other Nationality,1,2
+202425,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Total Known Nationality,54,100
+202425,Academic year,National,E92000001,England,Computing,Total,New Entrants,502,100
+202425,Academic year,National,E92000001,England,Computing,Total,Postgraduates,496,99
+202425,Academic year,National,E92000001,England,Computing,Total,Undergraduates,6,1
+202425,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Male,331,68
+202425,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Female,153,31
+202425,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Other Sex,2,0
+202425,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Total Known Sex,486,100
+202425,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,EEA,26,5
+202425,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,UK,405,84
+202425,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Other Nationality,50,10
+202425,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Total Known Nationality,481,100
+202425,Academic year,National,E92000001,England,Design & Technology,Total,New Entrants,622,100
+202425,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates,622,100
+202425,Academic year,National,E92000001,England,Design & Technology,Total,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Male,175,28
+202425,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Female,446,72
+202425,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Other Sex,0,0
+202425,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Total Known Sex,621,100
+202425,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,EEA,27,4
+202425,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,UK,566,94
+202425,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Other Nationality,12,2
+202425,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Total Known Nationality,605,100
+202425,Academic year,National,E92000001,England,Drama,Total,New Entrants,221,100
+202425,Academic year,National,E92000001,England,Drama,Total,Postgraduates,220,100
+202425,Academic year,National,E92000001,England,Drama,Total,Undergraduates,1,0
+202425,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Male,60,28
+202425,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Female,156,72
+202425,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Other Sex,1,0
+202425,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Total Known Sex,217,100
+202425,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,EEA,2,1
+202425,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,UK,200,98
+202425,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Other Nationality,3,1
+202425,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Total Known Nationality,205,100
+202425,Academic year,National,E92000001,England,English,Total,New Entrants,2338,100
+202425,Academic year,National,E92000001,England,English,Total,Postgraduates,2316,99
+202425,Academic year,National,E92000001,England,English,Total,Undergraduates,22,1
+202425,Academic year,National,E92000001,England,English,Sex Postgraduates,Male,561,25
+202425,Academic year,National,E92000001,England,English,Sex Postgraduates,Female,1690,75
+202425,Academic year,National,E92000001,England,English,Sex Postgraduates,Other Sex,14,1
+202425,Academic year,National,E92000001,England,English,Sex Postgraduates,Total Known Sex,2265,100
+202425,Academic year,National,E92000001,England,English,Nationality Postgraduates,EEA,83,4
+202425,Academic year,National,E92000001,England,English,Nationality Postgraduates,UK,2126,93
+202425,Academic year,National,E92000001,England,English,Nationality Postgraduates,Other Nationality,70,3
+202425,Academic year,National,E92000001,England,English,Nationality Postgraduates,Total Known Nationality,2279,100
+202425,Academic year,National,E92000001,England,Geography,Total,New Entrants,868,100
+202425,Academic year,National,E92000001,England,Geography,Total,Postgraduates,868,100
+202425,Academic year,National,E92000001,England,Geography,Total,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Male,356,42
+202425,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Female,495,58
+202425,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Other Sex,2,0
+202425,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Total Known Sex,853,100
+202425,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,EEA,37,4
+202425,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,UK,785,92
+202425,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Other Nationality,28,3
+202425,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Total Known Nationality,850,100
+202425,Academic year,National,E92000001,England,History,Total,New Entrants,913,100
+202425,Academic year,National,E92000001,England,History,Total,Postgraduates,908,99
+202425,Academic year,National,E92000001,England,History,Total,Undergraduates,5,1
+202425,Academic year,National,E92000001,England,History,Sex Postgraduates,Male,423,47
+202425,Academic year,National,E92000001,England,History,Sex Postgraduates,Female,469,53
+202425,Academic year,National,E92000001,England,History,Sex Postgraduates,Other Sex,1,0
+202425,Academic year,National,E92000001,England,History,Sex Postgraduates,Total Known Sex,893,100
+202425,Academic year,National,E92000001,England,History,Nationality Postgraduates,EEA,25,3
+202425,Academic year,National,E92000001,England,History,Nationality Postgraduates,UK,842,96
+202425,Academic year,National,E92000001,England,History,Nationality Postgraduates,Other Nationality,10,1
+202425,Academic year,National,E92000001,England,History,Nationality Postgraduates,Total Known Nationality,877,100
+202425,Academic year,National,E92000001,England,Mathematics,Total,New Entrants,2269,100
+202425,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates,2225,98
+202425,Academic year,National,E92000001,England,Mathematics,Total,Undergraduates,44,2
+202425,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Male,1089,50
+202425,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Female,1100,50
+202425,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Other Sex,9,0
+202425,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Total Known Sex,2198,100
+202425,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,EEA,126,6
+202425,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,UK,1805,84
+202425,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Other Nationality,218,10
+202425,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Total Known Nationality,2149,100
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Total,New Entrants,1179,100
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates,1179,100
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Male,311,27
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Female,860,73
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Other Sex,1,0
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Total Known Sex,1172,100
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,EEA,361,31
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,UK,638,56
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Other Nationality,149,13
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Total Known Nationality,1148,100
+202425,Academic year,National,E92000001,England,Music,Total,New Entrants,345,100
+202425,Academic year,National,E92000001,England,Music,Total,Postgraduates,345,100
+202425,Academic year,National,E92000001,England,Music,Total,Undergraduates,0,0
+202425,Academic year,National,E92000001,England,Music,Sex Postgraduates,Male,177,52
+202425,Academic year,National,E92000001,England,Music,Sex Postgraduates,Female,158,47
+202425,Academic year,National,E92000001,England,Music,Sex Postgraduates,Other Sex,3,1
+202425,Academic year,National,E92000001,England,Music,Sex Postgraduates,Total Known Sex,338,100
+202425,Academic year,National,E92000001,England,Music,Nationality Postgraduates,EEA,19,6
+202425,Academic year,National,E92000001,England,Music,Nationality Postgraduates,UK,297,88
+202425,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Other Nationality,20,6
+202425,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Total Known Nationality,336,100
+202425,Academic year,National,E92000001,England,Other,Total,New Entrants,334,100
+202425,Academic year,National,E92000001,England,Other,Total,Postgraduates,330,99
+202425,Academic year,National,E92000001,England,Other,Total,Undergraduates,4,1
+202425,Academic year,National,E92000001,England,Other,Sex Postgraduates,Male,81,25
+202425,Academic year,National,E92000001,England,Other,Sex Postgraduates,Female,247,75
+202425,Academic year,National,E92000001,England,Other,Sex Postgraduates,Other Sex,0,0
+202425,Academic year,National,E92000001,England,Other,Sex Postgraduates,Total Known Sex,328,100
+202425,Academic year,National,E92000001,England,Other,Nationality Postgraduates,EEA,13,4
+202425,Academic year,National,E92000001,England,Other,Nationality Postgraduates,UK,290,91
+202425,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Other Nationality,16,5
+202425,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Total Known Nationality,319,100
+202425,Academic year,National,E92000001,England,Physical Education,Total,New Entrants,1566,100
+202425,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates,1422,91
+202425,Academic year,National,E92000001,England,Physical Education,Total,Undergraduates,144,9
+202425,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Male,773,56
+202425,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Female,611,44
+202425,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Other Sex,0,0
+202425,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Total Known Sex,1384,100
+202425,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,EEA,72,5
+202425,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,UK,1281,94
+202425,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Other Nationality,16,1
+202425,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Total Known Nationality,1369,100
+202425,Academic year,National,E92000001,England,Physics,Total,New Entrants,804,100
+202425,Academic year,National,E92000001,England,Physics,Total,Postgraduates,798,99
+202425,Academic year,National,E92000001,England,Physics,Total,Undergraduates,6,1
+202425,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Male,528,67
+202425,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Female,251,32
+202425,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Other Sex,5,1
+202425,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Total Known Sex,784,100
+202425,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,EEA,29,4
+202425,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,UK,368,49
+202425,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Other Nationality,355,47
+202425,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Total Known Nationality,752,100
+202425,Academic year,National,E92000001,England,Religious Education,Total,New Entrants,472,100
+202425,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates,462,98
+202425,Academic year,National,E92000001,England,Religious Education,Total,Undergraduates,10,2
+202425,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Male,153,33
+202425,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Female,301,66
+202425,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Other Sex,3,1
+202425,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Total Known Sex,457,100
+202425,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,EEA,9,2
+202425,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,UK,422,95
+202425,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Other Nationality,14,3
+202425,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Total Known Nationality,445,100
+202425,Academic year,National,E92000001,England,Primary,Total,New Entrants,13398,100
+202425,Academic year,National,E92000001,England,Primary,Total,Postgraduates,8853,66
+202425,Academic year,National,E92000001,England,Primary,Total,Undergraduates,4545,34
+202425,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Male,1370,16
+202425,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Female,7269,84
+202425,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Other Sex,35,0
+202425,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Total Known Sex,8674,100
+202425,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,EEA,363,4
+202425,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,UK,7963,93
+202425,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Other Nationality,206,2
+202425,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Total Known Nationality,8532,100
+202425,Academic year,National,E92000001,England,Secondary,Total,New Entrants,15500,100
+202425,Academic year,National,E92000001,England,Secondary,Total,Postgraduates,15255,98
+202425,Academic year,National,E92000001,England,Secondary,Total,Undergraduates,245,2
+202425,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Male,5943,40
+202425,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Female,9020,60
+202425,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Other Sex,55,0
+202425,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Total Known Sex,15018,100
+202425,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,EEA,1018,7
+202425,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,UK,12623,85
+202425,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Other Nationality,1145,8
+202425,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Total Known Nationality,14786,100
+202425,Academic year,National,E92000001,England,STEM Subjects,Total,New Entrants,5652,100
+202425,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates,5593,99
+202425,Academic year,National,E92000001,England,STEM Subjects,Total,Undergraduates,59,1
+202425,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Male,2606,47
+202425,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Female,2879,52
+202425,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Other Sex,22,0
+202425,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Total Known Sex,5507,100
+202425,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,EEA,307,6
+202425,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,UK,4321,80
+202425,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Other Nationality,764,14
+202425,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Total Known Nationality,5392,100
+202425,Academic year,National,E92000001,England,Total,Total,New Entrants,28898,100
+202425,Academic year,National,E92000001,England,Total,Total,Postgraduates,24108,83
+202425,Academic year,National,E92000001,England,Total,Total,Undergraduates,4790,17
+202425,Academic year,National,E92000001,England,Total,Sex Postgraduates,Male,7313,31
+202425,Academic year,National,E92000001,England,Total,Sex Postgraduates,Female,16289,69
+202425,Academic year,National,E92000001,England,Total,Sex Postgraduates,Other Sex,90,0
+202425,Academic year,National,E92000001,England,Total,Sex Postgraduates,Total Known Sex,23692,100
+202425,Academic year,National,E92000001,England,Total,Nationality Postgraduates,EEA,1381,6
+202425,Academic year,National,E92000001,England,Total,Nationality Postgraduates,UK,20586,88
+202425,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Other Nationality,1351,6
+202425,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Total Known Nationality,23318,100
+202526,Academic year,National,E92000001,England,Art & Design,Total,New Entrants,872,100
+202526,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates,872,100
+202526,Academic year,National,E92000001,England,Art & Design,Total,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Male,135,16
+202526,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Female,720,84
+202526,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Other Sex,6,1
+202526,Academic year,National,E92000001,England,Art & Design,Sex Postgraduates,Total Known Sex,861,100
+202526,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,EEA,43,5
+202526,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,UK,763,89
+202526,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Other Nationality,53,6
+202526,Academic year,National,E92000001,England,Art & Design,Nationality Postgraduates,Total Known Nationality,859,100
+202526,Academic year,National,E92000001,England,Biology,Total,New Entrants,1489,100
+202526,Academic year,National,E92000001,England,Biology,Total,Postgraduates,1489,100
+202526,Academic year,National,E92000001,England,Biology,Total,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Male,448,30
+202526,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Female,1021,69
+202526,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Other Sex,4,0
+202526,Academic year,National,E92000001,England,Biology,Sex Postgraduates,Total Known Sex,1473,100
+202526,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,EEA,75,5
+202526,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,UK,1276,88
+202526,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Other Nationality,107,7
+202526,Academic year,National,E92000001,England,Biology,Nationality Postgraduates,Total Known Nationality,1458,100
+202526,Academic year,National,E92000001,England,Business Studies,Total,New Entrants,271,100
+202526,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates,271,100
+202526,Academic year,National,E92000001,England,Business Studies,Total,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Male,132,49
+202526,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Female,136,51
+202526,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Other Sex,0,0
+202526,Academic year,National,E92000001,England,Business Studies,Sex Postgraduates,Total Known Sex,268,100
+202526,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,EEA,24,9
+202526,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,UK,215,79
+202526,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Other Nationality,32,12
+202526,Academic year,National,E92000001,England,Business Studies,Nationality Postgraduates,Total Known Nationality,271,100
+202526,Academic year,National,E92000001,England,Chemistry,Total,New Entrants,865,100
+202526,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates,864,100
+202526,Academic year,National,E92000001,England,Chemistry,Total,Undergraduates,1,0
+202526,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Male,326,38
+202526,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Female,524,62
+202526,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Other Sex,2,0
+202526,Academic year,National,E92000001,England,Chemistry,Sex Postgraduates,Total Known Sex,852,100
+202526,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,EEA,46,5
+202526,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,UK,731,86
+202526,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Other Nationality,73,9
+202526,Academic year,National,E92000001,England,Chemistry,Nationality Postgraduates,Total Known Nationality,850,100
+202526,Academic year,National,E92000001,England,Classics,Total,New Entrants,44,100
+202526,Academic year,National,E92000001,England,Classics,Total,Postgraduates,44,100
+202526,Academic year,National,E92000001,England,Classics,Total,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Male,21,48
+202526,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Female,23,52
+202526,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Other Sex,0,0
+202526,Academic year,National,E92000001,England,Classics,Sex Postgraduates,Total Known Sex,44,100
+202526,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,EEA,5,11
+202526,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,UK,38,86
+202526,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Other Nationality,1,2
+202526,Academic year,National,E92000001,England,Classics,Nationality Postgraduates,Total Known Nationality,44,100
+202526,Academic year,National,E92000001,England,Computing,Total,New Entrants,716,100
+202526,Academic year,National,E92000001,England,Computing,Total,Postgraduates,715,100
+202526,Academic year,National,E92000001,England,Computing,Total,Undergraduates,1,0
+202526,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Male,495,71
+202526,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Female,202,29
+202526,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Other Sex,4,1
+202526,Academic year,National,E92000001,England,Computing,Sex Postgraduates,Total Known Sex,701,100
+202526,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,EEA,47,7
+202526,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,UK,591,84
+202526,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Other Nationality,64,9
+202526,Academic year,National,E92000001,England,Computing,Nationality Postgraduates,Total Known Nationality,702,100
+202526,Academic year,National,E92000001,England,Design & Technology,Total,New Entrants,680,100
+202526,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates,680,100
+202526,Academic year,National,E92000001,England,Design & Technology,Total,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Male,203,30
+202526,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Female,466,70
+202526,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Other Sex,0,0
+202526,Academic year,National,E92000001,England,Design & Technology,Sex Postgraduates,Total Known Sex,669,100
+202526,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,EEA,27,4
+202526,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,UK,619,93
+202526,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Other Nationality,22,3
+202526,Academic year,National,E92000001,England,Design & Technology,Nationality Postgraduates,Total Known Nationality,668,100
+202526,Academic year,National,E92000001,England,Drama,Total,New Entrants,255,100
+202526,Academic year,National,E92000001,England,Drama,Total,Postgraduates,255,100
+202526,Academic year,National,E92000001,England,Drama,Total,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Male,80,32
+202526,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Female,168,67
+202526,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Other Sex,1,0
+202526,Academic year,National,E92000001,England,Drama,Sex Postgraduates,Total Known Sex,249,100
+202526,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,EEA,7,3
+202526,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,UK,235,95
+202526,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Other Nationality,5,2
+202526,Academic year,National,E92000001,England,Drama,Nationality Postgraduates,Total Known Nationality,247,100
+202526,Academic year,National,E92000001,England,English,Total,New Entrants,2074,100
+202526,Academic year,National,E92000001,England,English,Total,Postgraduates,2059,99
+202526,Academic year,National,E92000001,England,English,Total,Undergraduates,15,1
+202526,Academic year,National,E92000001,England,English,Sex Postgraduates,Male,484,24
+202526,Academic year,National,E92000001,England,English,Sex Postgraduates,Female,1541,76
+202526,Academic year,National,E92000001,England,English,Sex Postgraduates,Other Sex,14,1
+202526,Academic year,National,E92000001,England,English,Sex Postgraduates,Total Known Sex,2039,100
+202526,Academic year,National,E92000001,England,English,Nationality Postgraduates,EEA,58,3
+202526,Academic year,National,E92000001,England,English,Nationality Postgraduates,UK,1894,93
+202526,Academic year,National,E92000001,England,English,Nationality Postgraduates,Other Nationality,80,4
+202526,Academic year,National,E92000001,England,English,Nationality Postgraduates,Total Known Nationality,2032,100
+202526,Academic year,National,E92000001,England,Geography,Total,New Entrants,1035,100
+202526,Academic year,National,E92000001,England,Geography,Total,Postgraduates,1035,100
+202526,Academic year,National,E92000001,England,Geography,Total,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Male,409,40
+202526,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Female,608,60
+202526,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Other Sex,4,0
+202526,Academic year,National,E92000001,England,Geography,Sex Postgraduates,Total Known Sex,1021,100
+202526,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,EEA,36,4
+202526,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,UK,938,92
+202526,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Other Nationality,45,4
+202526,Academic year,National,E92000001,England,Geography,Nationality Postgraduates,Total Known Nationality,1019,100
+202526,Academic year,National,E92000001,England,History,Total,New Entrants,996,100
+202526,Academic year,National,E92000001,England,History,Total,Postgraduates,989,99
+202526,Academic year,National,E92000001,England,History,Total,Undergraduates,7,1
+202526,Academic year,National,E92000001,England,History,Sex Postgraduates,Male,467,48
+202526,Academic year,National,E92000001,England,History,Sex Postgraduates,Female,506,52
+202526,Academic year,National,E92000001,England,History,Sex Postgraduates,Other Sex,5,1
+202526,Academic year,National,E92000001,England,History,Sex Postgraduates,Total Known Sex,978,100
+202526,Academic year,National,E92000001,England,History,Nationality Postgraduates,EEA,34,3
+202526,Academic year,National,E92000001,England,History,Nationality Postgraduates,UK,905,93
+202526,Academic year,National,E92000001,England,History,Nationality Postgraduates,Other Nationality,34,3
+202526,Academic year,National,E92000001,England,History,Nationality Postgraduates,Total Known Nationality,973,100
+202526,Academic year,National,E92000001,England,Mathematics,Total,New Entrants,2665,100
+202526,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates,2588,97
+202526,Academic year,National,E92000001,England,Mathematics,Total,Undergraduates,77,3
+202526,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Male,1271,50
+202526,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Female,1260,50
+202526,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Other Sex,13,1
+202526,Academic year,National,E92000001,England,Mathematics,Sex Postgraduates,Total Known Sex,2544,100
+202526,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,EEA,144,6
+202526,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,UK,2095,83
+202526,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Other Nationality,282,11
+202526,Academic year,National,E92000001,England,Mathematics,Nationality Postgraduates,Total Known Nationality,2521,100
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Total,New Entrants,1368,100
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates,1364,100
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Undergraduates,4,0
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Male,351,26
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Female,997,74
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Other Sex,2,0
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Sex Postgraduates,Total Known Sex,1350,100
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,EEA,365,27
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,UK,765,57
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Other Nationality,206,15
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Nationality Postgraduates,Total Known Nationality,1336,100
+202526,Academic year,National,E92000001,England,Music,Total,New Entrants,367,100
+202526,Academic year,National,E92000001,England,Music,Total,Postgraduates,367,100
+202526,Academic year,National,E92000001,England,Music,Total,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Music,Sex Postgraduates,Male,164,45
+202526,Academic year,National,E92000001,England,Music,Sex Postgraduates,Female,197,54
+202526,Academic year,National,E92000001,England,Music,Sex Postgraduates,Other Sex,1,0
+202526,Academic year,National,E92000001,England,Music,Sex Postgraduates,Total Known Sex,362,100
+202526,Academic year,National,E92000001,England,Music,Nationality Postgraduates,EEA,30,8
+202526,Academic year,National,E92000001,England,Music,Nationality Postgraduates,UK,295,83
+202526,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Other Nationality,32,9
+202526,Academic year,National,E92000001,England,Music,Nationality Postgraduates,Total Known Nationality,357,100
+202526,Academic year,National,E92000001,England,Other,Total,New Entrants,348,100
+202526,Academic year,National,E92000001,England,Other,Total,Postgraduates,348,100
+202526,Academic year,National,E92000001,England,Other,Total,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Other,Sex Postgraduates,Male,68,20
+202526,Academic year,National,E92000001,England,Other,Sex Postgraduates,Female,279,80
+202526,Academic year,National,E92000001,England,Other,Sex Postgraduates,Other Sex,0,0
+202526,Academic year,National,E92000001,England,Other,Sex Postgraduates,Total Known Sex,347,100
+202526,Academic year,National,E92000001,England,Other,Nationality Postgraduates,EEA,16,5
+202526,Academic year,National,E92000001,England,Other,Nationality Postgraduates,UK,302,89
+202526,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Other Nationality,21,6
+202526,Academic year,National,E92000001,England,Other,Nationality Postgraduates,Total Known Nationality,339,100
+202526,Academic year,National,E92000001,England,Physical Education,Total,New Entrants,1646,100
+202526,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates,1466,89
+202526,Academic year,National,E92000001,England,Physical Education,Total,Undergraduates,180,11
+202526,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Male,813,56
+202526,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Female,642,44
+202526,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Other Sex,1,0
+202526,Academic year,National,E92000001,England,Physical Education,Sex Postgraduates,Total Known Sex,1456,100
+202526,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,EEA,69,5
+202526,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,UK,1337,92
+202526,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Other Nationality,40,3
+202526,Academic year,National,E92000001,England,Physical Education,Nationality Postgraduates,Total Known Nationality,1446,100
+202526,Academic year,National,E92000001,England,Physics,Total,New Entrants,1094,100
+202526,Academic year,National,E92000001,England,Physics,Total,Postgraduates,1086,99
+202526,Academic year,National,E92000001,England,Physics,Total,Undergraduates,8,1
+202526,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Male,738,69
+202526,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Female,331,31
+202526,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Other Sex,3,0
+202526,Academic year,National,E92000001,England,Physics,Sex Postgraduates,Total Known Sex,1072,100
+202526,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,EEA,46,4
+202526,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,UK,382,37
+202526,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Other Nationality,607,59
+202526,Academic year,National,E92000001,England,Physics,Nationality Postgraduates,Total Known Nationality,1035,100
+202526,Academic year,National,E92000001,England,Religious Education,Total,New Entrants,483,100
+202526,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates,483,100
+202526,Academic year,National,E92000001,England,Religious Education,Total,Undergraduates,0,0
+202526,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Male,166,35
+202526,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Female,314,65
+202526,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Other Sex,0,0
+202526,Academic year,National,E92000001,England,Religious Education,Sex Postgraduates,Total Known Sex,480,100
+202526,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,EEA,18,4
+202526,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,UK,448,93
+202526,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Other Nationality,17,4
+202526,Academic year,National,E92000001,England,Religious Education,Nationality Postgraduates,Total Known Nationality,483,100
+202526,Academic year,National,E92000001,England,Primary,Total,New Entrants,14907,100
+202526,Academic year,National,E92000001,England,Primary,Total,Postgraduates,9645,65
+202526,Academic year,National,E92000001,England,Primary,Total,Undergraduates,5262,35
+202526,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Male,1362,14
+202526,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Female,8195,86
+202526,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Other Sex,15,0
+202526,Academic year,National,E92000001,England,Primary,Sex Postgraduates,Total Known Sex,9572,100
+202526,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,EEA,453,5
+202526,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,UK,8663,91
+202526,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Other Nationality,361,4
+202526,Academic year,National,E92000001,England,Primary,Nationality Postgraduates,Total Known Nationality,9477,100
+202526,Academic year,National,E92000001,England,Secondary,Total,New Entrants,17268,100
+202526,Academic year,National,E92000001,England,Secondary,Total,Postgraduates,16975,98
+202526,Academic year,National,E92000001,England,Secondary,Total,Undergraduates,293,2
+202526,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Male,6771,40
+202526,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Female,9935,59
+202526,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Other Sex,60,0
+202526,Academic year,National,E92000001,England,Secondary,Sex Postgraduates,Total Known Sex,16766,100
+202526,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,EEA,1090,7
+202526,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,UK,13829,83
+202526,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Other Nationality,1721,10
+202526,Academic year,National,E92000001,England,Secondary,Nationality Postgraduates,Total Known Nationality,16640,100
+202526,Academic year,National,E92000001,England,STEM Subjects,Total,New Entrants,6829,100
+202526,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates,6742,99
+202526,Academic year,National,E92000001,England,STEM Subjects,Total,Undergraduates,87,1
+202526,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Male,3278,49
+202526,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Female,3338,50
+202526,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Other Sex,26,0
+202526,Academic year,National,E92000001,England,STEM Subjects,Sex Postgraduates,Total Known Sex,6642,100
+202526,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,EEA,358,5
+202526,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,UK,5075,77
+202526,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Other Nationality,1133,17
+202526,Academic year,National,E92000001,England,STEM Subjects,Nationality Postgraduates,Total Known Nationality,6566,100
+202526,Academic year,National,E92000001,England,Total,Total,New Entrants,32175,100
+202526,Academic year,National,E92000001,England,Total,Total,Postgraduates,26620,83
+202526,Academic year,National,E92000001,England,Total,Total,Undergraduates,5555,17
+202526,Academic year,National,E92000001,England,Total,Sex Postgraduates,Male,8133,31
+202526,Academic year,National,E92000001,England,Total,Sex Postgraduates,Female,18130,69
+202526,Academic year,National,E92000001,England,Total,Sex Postgraduates,Other Sex,75,0
+202526,Academic year,National,E92000001,England,Total,Sex Postgraduates,Total Known Sex,26338,100
+202526,Academic year,National,E92000001,England,Total,Nationality Postgraduates,EEA,1543,6
+202526,Academic year,National,E92000001,England,Total,Nationality Postgraduates,UK,22492,86
+202526,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Other Nationality,2082,8
+202526,Academic year,National,E92000001,England,Total,Nationality Postgraduates,Total Known Nationality,26117,100

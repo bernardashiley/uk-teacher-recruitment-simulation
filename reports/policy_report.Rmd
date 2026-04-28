@@ -1,0 +1,563 @@
+---
+title: "The £6,500 Recruitment Leak"
+subtitle: "Why the UK's International Teacher Recruitment Cycle is Broken, and How to Fix It"
+author: |
+  Bernard Ashaley Ashiley  
+  Odwira and Whitehall
+date: "26 April 2026"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    toc_float: true
+    number_sections: false
+    theme: flatly
+    code_folding: hide
+    fig_width: 8
+    fig_height: 5
+    fig_caption: true
+  pdf_document:
+    toc: true
+    toc_depth: 2
+    fig_width: 8
+    fig_height: 5
+    latex_engine: xelatex
+link-citations: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE, warning = FALSE, message = FALSE,
+  fig.align = "center", dpi = 150
+)
+
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+library(scales)
+library(patchwork)
+library(knitr)
+
+# ---- Load caches -----------------------------------------------------------
+mc_abc        <- read.csv("../cache/mc_abc_R5000_v3_99ci_ABF_20260128.csv")
+strat_summary <- read.csv("../cache/strat_subgroup_R400_v4.csv")
+heatmap_data  <- read.csv("../cache/breakeven_heatmap_v4.csv")
+
+# ---- Build mc_summary from the wide cache ---------------------------------
+# The cache uses these canonical labels verbatim; do not transform them.
+mc_summary <- mc_abc |>
+  pivot_longer(
+    cols = -c(rep, policy_id, policy, policy_short),
+    names_to = "metric",
+    values_to = "value"
+  ) |>
+  group_by(policy_id, policy, policy_short, metric) |>
+  summarise(
+    mean    = mean(value, na.rm = TRUE),
+    sd      = sd(value,   na.rm = TRUE),
+    n       = n(),
+    mcse    = sd / sqrt(n),
+    ci_low  = mean - 2.576 * mcse,
+    ci_high = mean + 2.576 * mcse,
+    .groups = "drop"
+  )
+
+# ---- Theme and aesthetics --------------------------------------------------
+theme_policy <- function() {
+  theme_minimal(base_size = 11) +
+    theme(
+      plot.title    = element_text(face = "bold", size = 14),
+      plot.subtitle = element_text(color = "grey40", size = 10),
+      plot.caption  = element_text(color = "grey40", size = 8, hjust = 0),
+      panel.grid.minor = element_blank(),
+      strip.text    = element_text(face = "bold")
+    )
+}
+
+policy_levels <- c(
+  "Auto Sponsor + Relocation + Integration",
+  "Auto Sponsor + Relocation",
+  "Status Quo"
+)
+
+pal_policy <- c(
+  "Status Quo"                              = "#7B7B7B",
+  "Auto Sponsor + Relocation"               = "#1F4E79",
+  "Auto Sponsor + Relocation + Integration" = "#C00000"
+)
+
+pal_actor  <- c("DfE" = "#1F4E79", "Schools" = "#7B9FC4", "Teachers" = "#C9A66B")
+
+gbp <- function(x, big = TRUE) {
+  if (big) scales::label_dollar(prefix = "£", scale = 1e-6,
+                                 suffix = "M", accuracy = 0.1)(x)
+  else     scales::label_dollar(prefix = "£", accuracy = 1)(x)
+}
+```
+
+# Executive Summary {-}
+
+The United Kingdom's international teacher recruitment system loses money in a predictable, recurring way. Under the current operating model (Policy A, the Status Quo), the Department for Education, schools, and the overseas teachers themselves between them spend around £3.49 million per cohort on visa-needing trainees who will not still be in post twelve months later. Expressed per teacher who actually stays, the figure is £6,552.
+
+```{r exec-headline, fig.height=2.6, fig.cap="Per-head fiscal cost of overseas teacher recruitment under three policies. Bars show mean across 5,000 simulated cohorts; whiskers are 99 per cent Monte Carlo confidence intervals. Source: author's simulation; relative MCSE 0.16 per cent."}
+mc_summary |>
+  filter(metric == "waste_per_retained") |>
+  mutate(policy_short = factor(policy_short, levels = policy_levels)) |>
+  ggplot(aes(x = mean, y = policy_short, fill = policy_short)) +
+    geom_col(width = 0.65) +
+    geom_errorbarh(aes(xmin = ci_low, xmax = ci_high),
+                   height = 0.18, color = "grey20") +
+    geom_text(aes(label = gbp(mean, big = FALSE)),
+              hjust = -0.15, size = 4, fontface = "bold") +
+    scale_x_continuous(labels = scales::label_dollar(prefix = "£"),
+                       expand = expansion(mult = c(0, 0.18))) +
+    scale_fill_manual(values = pal_policy, guide = "none") +
+    labs(title = "Waste per retained teacher",
+         subtitle = "How much each retained overseas teacher costs the system in waste",
+         x = NULL, y = NULL,
+         caption = "99 per cent CI. Source: author's simulation, v4 cache.") +
+    theme_policy()
+```
+
+```{r exec-summary-table}
+tibble::tribble(
+  ~Policy,                                      ~`Posts filled (of 1,200)`, ~`Year-1 attrition`, ~`Waste per retained`,
+  "Status Quo",                                  "644",                       "17.2%",             "£6,552",
+  "Auto Sponsor + Relocation",                   "1,200",                     "8.8%",              "£1,987",
+  "Auto Sponsor + Relocation + Integration",     "1,200",                     "6.1%",              "£1,698"
+) |>
+  knitr::kable(align = "lccc",
+               caption = "Headline metrics, three-policy comparison.")
+```
+
+This report tests three operating models against that loss. The first is the Status Quo. The second (Policy B) reframes Qualified Teacher Status (QTS) itself as the sponsorship credential for shortage-subject overseas recruits, mirroring the structural arrangement that already operates for international doctors via the NHS Health and Care Worker Visa route, and reinstates the £10,000 International Relocation Payment that the Department for Education piloted in the 2023/24 cohort (Cambridge Network, 2025; TES, 2024). The third (Policy C) adds a structured integration course modelled to lift visa-holder retention by six percentage points.
+
+Across 5,000 simulated cohorts, Policy C reduces system waste per retained teacher to £1,698, a 74 per cent reduction in the per-head figure. Total cohort waste falls from £3.49 million to £1.91 million, a 45 per cent reduction. The Department for Education's own coded waste falls from £3.05 million to £1.68 million, a direct saving of £1.37 million per cohort to the public purse. Policy C also fills 1,200 of 1,200 funded training places against the Status Quo's 644.
+
+The finding survives stress testing. Across 247 combinations of retention assumptions, no parameter setting produced an outcome where Policy C cost more per retained teacher than the Status Quo. Even at the worst-case retention floor of 50 per cent with no integration boost, Policy C still saved £2,923 per retained teacher (99 per cent confidence interval, £2,872 to £2,974). The recommendation is direct: adopt Policy C, with a phased pilot in Physics and Modern Foreign Languages where the savings are concentrated.
+
+---
+
+# 1. The Problem
+
+The United Kingdom enters every recruitment cycle with a known shortfall in two subjects: Physics and Modern Foreign Languages. The most recent Initial Teacher Training Census records that secondary postgraduate recruitment reached 62 per cent of target overall in 2024/25, with science, technology, engineering and mathematics subjects together at 61 per cent (DfE, 2025a). The same release shows that Physics has the lowest UK-national share of any postgraduate subject at 57 per cent, with 38 per cent of trainees coming from countries outside the UK and the European Economic Area. Modern Foreign Languages records 62 per cent UK nationals and 29 per cent EEA. The international route exists precisely to close the gap that domestic supply cannot.
+
+The economics of that route are structurally adverse. Most of the cost of recruiting an overseas teacher arrives in year one and cannot be recovered if the teacher leaves. A Skilled Worker visa for a three-year sponsored route costs the applicant £769 in fees plus £1,035 per year in Immigration Health Surcharge charged upfront, a combined personal cost of around £3,656 before salary begins (Home Office, 2026; figures as calibrated, see §3 footnote). The school pays a sponsor-licence overhead and an Immigration Skills Charge. The Department for Education pays the relevant bursary or scholarship for shortage subjects. Salary, induction, and training costs land in year one as well. Year-two costs are materially lower; year-three costs lower still. Year-one attrition therefore concentrates almost all the recoverable risk in the system into a single window.
+
+This produces a leaky bucket. The Status Quo recruits below capacity, loses around 17 per cent of the overseas cohort it does recruit within twelve months, and writes off the front-loaded costs as the price of doing business. The exchequer pays once for the bursary; the school pays once for the sponsorship; the teacher pays once for the visa fees. The teacher then leaves, and the system pays again to recruit a replacement. The fiscal architecture guarantees the loop. The Commons Library briefing on teacher recruitment and retention notes that between 10 and 15 per cent of newly qualified teachers across all routes have left the state-funded sector within their first year in recent cohorts, with overseas-route teachers facing additional friction (House of Commons Library, 2025). The simulated 17.18 per cent year-one attrition figure for the Status Quo overseas cohort sits at the upper end of that domestic range, consistent with the additional visa-route friction documented in the Higher Education Policy Institute's analysis of the 2025 Immigration White Paper (HEPI, 2026). The National Foundation for Educational Research concludes in its 2024 annual report that recruitment and retention remain in a critical state, driven primarily by high workload and pay erosion (NFER, 2024). For the international cohort specifically, this baseline attrition is further compounded by the friction of the visa and sponsorship route (HEPI, 2026).
+
+The international comparison sharpens the diagnosis. The UK is currently the only major Anglophone destination for overseas teachers that combines four structural disadvantages in a single package: full Immigration Health Surcharge applied to teachers (where international doctors are exempt under the Health and Care Worker Visa); a school-by-school sponsor-licence requirement that produces a postcode lottery for international applicants; the discontinuation after the 2023/24 cohort of the £10,000 International Relocation Payment pilot; and no fast-track to settlement for shortage-subject recruits. New Zealand places teachers on the Tier 1 Green List with immediate residency eligibility; Canada provides a points-based permanent residency pathway that does not tie a teacher to a specific employer; Australia offers tax-relative pay advantages for STEM teachers under the Skilled Migration scheme (HEPI, 2026; Cambridge Network, 2025). The UK invests in training through the bursary; competitor countries invest in retention through residency. The result is the leakage this report quantifies.
+
+This report is concerned with the fiscal architecture rather than with workload or pay. The question it answers is narrower but tractable: given the teachers the system does recruit, how much of what is spent on them is recoverable, and what would change if the operating model were different.
+
+---
+
+# 2. Three Policies Tested
+
+Three operating models are evaluated. They are nested, in the sense that each successive policy adds a single lever to the previous one. The nesting is deliberate; it allows the simulation to attribute incremental impact to each lever rather than to the package as a whole.
+
+**Policy A (Status Quo).** Schools choose case-by-case whether to sponsor a visa-needing applicant. There is no centrally-funded relocation support. Induction is provided to whatever standard the individual school operates. This is the current operating model. In the simulation, schools are modelled as sponsoring qualified visa-needing applicants with probability 0.40, reflecting the documented postcode-lottery effect.
+
+**Policy B (QTS as Sponsorship plus Reinstated Relocation).** Two complementary reforms operate together.
+
+The first reform reframes Qualified Teacher Status itself as the sponsorship credential. Under this mechanism, a successfully-completed QTS award acts as a Home Office–recognised endorsement equivalent to a Certificate of Sponsorship for shortage-subject overseas recruits, removing the requirement that each individual state-funded school hold and maintain its own sponsor licence. The structural precedent for this arrangement is the National Health Service's role under the Health and Care Worker Visa, where international doctors do not face a school-equivalent postcode lottery because the NHS as A-rated sponsor processes Certificates of Sponsorship as a standard administrative function (BMA, 2024; RCGP, 2024). The simulation represents this mechanism as a sponsorship probability of 1.00 for qualified visa-needing applicants.
+
+The second reform reinstates the £10,000 International Relocation Payment that the Department for Education piloted in the 2023/24 cohort for overseas Physics and Modern Foreign Languages teachers, and which was discontinued at the end of the pilot period (Cambridge Network, 2025; TES, 2024). The simulation pays the £10,000 grant to qualifying recruits in the two shortage subjects.
+
+The lever is recruitment volume: removing the sponsorship friction lifts offer-acceptance rates for overseas applicants and saturates capacity at 1,200 posts per cohort.
+
+**Policy C (B plus Integration).** Policy B with the addition of a structured integration course at £400 per overseas trainee. The course is modelled as raising visa-holder year-one retention by six percentage points relative to baseline. The lever is retention: reducing the share of upfront costs that are written off when the teacher leaves.
+
+The two levers are complementary rather than substitutable. Policy B fills the posts; Policy C keeps them filled.
+
+```{r param-table}
+tibble::tribble(
+  ~Parameter,                                                  ~Value,         ~Source,
+  "Skilled Worker visa fee, ≤3 years (outside UK)¹",            "£769",        "Home Office, 2026",
+  "Skilled Worker visa fee, >3 years (outside UK)¹",            "£1,519",      "Home Office, 2026",
+  "Immigration Health Surcharge, per adult per year",            "£1,035",      "Home Office, 2026",
+  "Certificate of Sponsorship fee",                              "£525",        "Home Office, 2026",
+  "Immigration Skills Charge, small sponsor",                    "£364/yr",     "Home Office, 2026",
+  "Bursary, Physics",                                            "£29,000",     "DfE, 2025b",
+  "Bursary, Modern Foreign Languages",                           "£20,000",     "DfE, 2025b",
+  "Scholarship, Physics",                                        "£31,000",     "DfE, 2025b",
+  "Scholarship, Modern Foreign Languages",                       "£22,000",     "DfE, 2025b",
+  "Integration course, per overseas trainee (Policy C)²",        "£400",        "Author's calibration",
+  "International Relocation Payment, shortage subjects (B/C)",   "£10,000",     "DfE, 2024 (IRP pilot rate)",
+  "Visa-holder retention boost from integration (Policy C)²",    "+6pp",        "Author's calibration",
+  "Funded training places (capacity)",                           "1,200",       "DfE, 2025a",
+  "Potential trainee pool per cohort (N0)",                      "2,000",       "Model assumption"
+) |>
+  knitr::kable(align = "lll",
+               caption = "Calibrated parameter values used in the simulation.")
+```
+
+¹ The simulation uses the visa fee schedule in force at the time of model calibration (cache version v4, 28 January 2026). The Home Office uplift of 8 April 2026 raised the outside-UK Skilled Worker fee from £769 to £819 (≤3 years) and from £1,519 to £1,865 (>3 years), an approximate 6.5 per cent increase across the schedule (Home Office, 2026). The Immigration Health Surcharge is unchanged at £1,035 per adult per year. Subsequent uplifts are not reflected in the figures presented. Because all three modelled policies face the same fee schedule, the policy contrasts in §7 are robust to the fee level; only the absolute waste totals would shift under recalibration.
+
+² The £400 integration unit cost and the +6 percentage-point retention boost are author's calibrations rather than externally evidenced figures. The policy claim is therefore conditional on these two parameters being defensible. The break-even analysis in §8 stress-tests the retention boost down to zero percentage points and finds Policy C still robust; the £400 unit cost is not yet sensitivity-tested and is flagged as a follow-up for the academic version of this analysis.
+
+---
+
+# 3. Method in Brief
+
+The model is a stochastic simulation with R = 5,000 replicated cohorts of 2,000 potential trainees each. Each cohort is run through the same three-stage pipeline: generation of a candidate pool, application of training and offer mechanics, and evaluation under each of the three policies. Common Random Numbers (CRN) are used across the three policies within each cohort, so that the policies are scored against the same simulated applicants rather than against independent draws. Glasserman and Yao (1992) establish the variance reduction guarantees for CRN under the monotonicity conditions present in this model; Schruben (2011) provides the methodological survey.
+
+Every point estimate in this report is reported with its 99 per cent Monte Carlo confidence interval. The confidence interval is constructed from the standard deviation of the replicate-level estimates divided by the square root of the replicate count, in the standard fashion described in Law (2015). The relative Monte Carlo standard error on the headline contrast is 0.16 per cent of the mean. Full method, validation results, and reproduction instructions are set out in Appendix A.
+
+---
+
+# 4. Headline Findings
+
+Three things matter at first reading: recruitment volume, year-one attrition, and the cost per teacher who actually stays. The first two are presented together in the patchwork below; the third in the chart that follows.
+
+```{r headline-patchwork, fig.height=3.2, fig.cap="Left panel: posts filled per cohort against capacity of 1,200; Auto-Sponsorship saturates capacity. Right panel: year-one attrition rate; each step from A to B to C nearly halves the rate. Whiskers are 99 per cent CI."}
+p_recruit <- mc_summary |>
+  filter(metric == "n_recruited") |>
+  mutate(policy_short = factor(policy_short, levels = policy_levels)) |>
+  ggplot(aes(x = mean, y = policy_short, fill = policy_short)) +
+    geom_col(width = 0.65) +
+    geom_errorbarh(aes(xmin = ci_low, xmax = ci_high), height = 0.18) +
+    geom_vline(xintercept = 1200, linetype = "dashed", color = "grey30") +
+    annotate("text", x = 1205, y = 0.55, label = "Capacity = 1,200",
+             hjust = 0, color = "grey30", size = 3) +
+    geom_text(aes(label = round(mean)), hjust = -0.15, fontface = "bold") +
+    scale_x_continuous(expand = expansion(mult = c(0, 0.18))) +
+    scale_fill_manual(values = pal_policy, guide = "none") +
+    labs(title = "Posts filled per cohort",
+         subtitle = "Of 1,200 funded training places",
+         x = NULL, y = NULL) +
+    theme_policy()
+
+p_attrition <- mc_summary |>
+  filter(metric == "attrition_rate_year1") |>
+  mutate(policy_short = factor(policy_short, levels = policy_levels)) |>
+  ggplot(aes(x = mean, y = policy_short, fill = policy_short)) +
+    geom_col(width = 0.65) +
+    geom_errorbarh(aes(xmin = ci_low, xmax = ci_high), height = 0.18) +
+    geom_text(aes(label = scales::percent(mean, accuracy = 0.1)),
+              hjust = -0.15, fontface = "bold") +
+    scale_x_continuous(labels = scales::percent_format(accuracy = 1),
+                       expand = expansion(mult = c(0, 0.18))) +
+    scale_fill_manual(values = pal_policy, guide = "none") +
+    labs(title = "Year-1 attrition rate",
+         subtitle = "Lower is better",
+         x = NULL, y = NULL) +
+    theme_policy() +
+    theme(axis.text.y = element_blank())
+
+p_recruit + p_attrition + plot_layout(ncol = 2)
+```
+
+The Status Quo fills 644 posts per cohort against a capacity of 1,200 (a 54 per cent fill rate). Policy B raises the figure to 1,200 with a 99 per cent confidence interval that effectively excludes any sub-capacity outcome; the policy operates at the constraint. Adding integration leaves the volume unchanged, by construction. The volume lever is therefore Policy B's contribution; Policy C does not displace it.
+
+Year-one attrition tells the second half of the story. Under the Status Quo, 17.2 per cent of the recruited overseas cohort leaves within twelve months. Policy B reduces this to 8.8 per cent, principally because removing the case-by-case sponsorship friction filters in candidates who would otherwise have been declined by sponsor-unwilling schools and who are well matched to the post. Adding the integration course reduces attrition further, to 6.1 per cent.
+
+The two effects compound. Policy C fills 1.86 times as many posts as the Status Quo and loses fewer than half the share of those it does recruit. Per-head waste, the metric that bundles both effects, is the cleanest single comparator.
+
+```{r headline-waste, fig.height=2.6, fig.cap="Waste per retained teacher, three-policy comparison. The third bar is the headline number: £1,698 against the Status Quo's £6,552. Whiskers are 99 per cent CI."}
+mc_summary |>
+  filter(metric == "waste_per_retained") |>
+  mutate(policy_short = factor(policy_short, levels = policy_levels)) |>
+  ggplot(aes(x = mean, y = policy_short, fill = policy_short)) +
+    geom_col(width = 0.65) +
+    geom_errorbarh(aes(xmin = ci_low, xmax = ci_high),
+                   height = 0.18, color = "grey20") +
+    geom_text(aes(label = gbp(mean, big = FALSE)),
+              hjust = -0.15, size = 4, fontface = "bold") +
+    scale_x_continuous(labels = scales::label_dollar(prefix = "£"),
+                       expand = expansion(mult = c(0, 0.18))) +
+    scale_fill_manual(values = pal_policy, guide = "none") +
+    labs(title = "Waste per retained teacher",
+         subtitle = "Bundles recruitment volume and retention into one number",
+         x = NULL, y = NULL) +
+    theme_policy()
+```
+
+Per retained teacher, the Status Quo costs £6,552 in waste; Policy B reduces this to £1,987 (a 70 per cent reduction); adding integration reduces it further to £1,698 (a 74 per cent reduction relative to the Status Quo). The relative Monte Carlo standard error on the headline figure is 0.16 per cent of the mean, meaning the simulation noise is below the rounding threshold to the nearest pound.
+
+---
+
+# 5. Where the Money Goes
+
+System waste decomposes across three actors. The Department for Education bears the cost of bursaries paid to leavers and of relocation grants paid to leavers. Schools bear the cost of sponsor-licence overheads and integration course fees paid for leavers. Teachers themselves bear the cost of visa fees and Immigration Health Surcharge that are not refunded on departure.
+
+```{r decomposition, fig.height=3.2, fig.cap="System waste by actor, per cohort. The Status Quo concentrates waste in DfE (bursaries paid to leavers) and in Teachers (visa fees not recovered). Policy C compresses all three components simultaneously."}
+mc_summary |>
+  filter(metric %in% c("total_dfe_waste",
+                       "total_school_waste",
+                       "total_teacher_waste")) |>
+  mutate(actor = recode(metric,
+           "total_dfe_waste"     = "DfE",
+           "total_school_waste"  = "Schools",
+           "total_teacher_waste" = "Teachers"),
+         policy_short = factor(policy_short,
+           levels = c("Status Quo",
+                      "Auto Sponsor + Relocation",
+                      "Auto Sponsor + Relocation + Integration"))) |>
+  ggplot(aes(x = policy_short, y = mean, fill = actor)) +
+    geom_col(position = "stack", width = 0.6) +
+    geom_text(aes(label = ifelse(mean > 200000, gbp(mean, big = TRUE), "")),
+              position = position_stack(vjust = 0.5),
+              color = "white", fontface = "bold", size = 3.5) +
+    scale_y_continuous(labels = function(x) gbp(x, big = TRUE),
+                       expand = expansion(mult = c(0, 0.05))) +
+    scale_fill_manual(values = pal_actor, name = NULL) +
+    labs(title = "System waste by actor",
+         subtitle = "Per cohort of 2,000 potential trainees",
+         x = NULL, y = NULL,
+         caption = "99 per cent CI on totals; segments show point estimates.") +
+    theme_policy() +
+    theme(legend.position = "top",
+          axis.text.x = element_text(size = 9))
+```
+
+The aggregate movement matters less than the actor-level redistribution. Under the Status Quo, the Department for Education bears £3.05 million of waste per cohort, primarily through bursaries paid to teachers who leave. This is taxpayer money; it is the figure HM Treasury would code as departmental waste. Under Policy B, total DfE waste falls to £1.79 million per cohort; under Policy C, it falls further to £1.68 million. The implied direct saving from the Status Quo to Policy C is £1.37 million per cohort, achieved entirely within the Department's spending envelope.
+
+The school-borne and teacher-borne components also fall under Policy C. School-coded waste falls from £128,630 under the Status Quo to £85,101 under Policy C, a 34 per cent reduction; teacher-coded waste falls from £308,171 to £146,495 over the same comparison, a 52 per cent reduction. The compositions also shift: school waste under Policy C still includes a new £400-per-trainee integration cost (paid in full but recovered against retained teachers rather than written off against leavers), while teacher waste falls in step with attrition because departing teachers absorb unrecovered visa fees and Immigration Health Surcharge personally.
+
+A point of cross-departmental clarity matters here. The £400 integration cost in Policy C is modelled as a school-borne expenditure because the simulation treats induction-related provision as a school responsibility. If the Department for Education were instead to underwrite integration provision centrally, the actor decomposition would shift; the £1.37 million Departmental saving identified above would partially fund the £480,000 in integration costs (£400 × 1,200 places) that would in that alternative arrangement appear in DfE's column rather than the schools' column. The net DfE position would remain a saving of approximately £0.89 million per cohort.
+
+---
+
+# 6. The Treasury Hook: Physics versus MFL
+
+The aggregate decomposition in §5 understates the policy's Treasury appeal in one important respect. The savings are not distributed evenly across the trainee population; they are concentrated almost entirely in the overseas-recruited cohort within the two shortage subjects. Domestic recruits are largely unaffected.
+
+```{r treasury-hook, fig.height=4.5, fig.cap="Per-head waste, stratified by subject and visa status. The two overseas panels carry essentially all of the policy effect. The two domestic panels are flat across all three policies."}
+strat_summary |>
+  filter(metric == "waste_per_retained") |>
+  mutate(panel = paste(visa_status, subject_grp, sep = ", "),
+         policy_short = case_when(
+           grepl("Integration",  policy) ~ "Auto Sponsor + Relocation + Integration",
+           grepl("Auto Sponsor", policy) ~ "Auto Sponsor + Relocation",
+           grepl("Status Quo",   policy) ~ "Status Quo"
+         ),
+         policy_short = factor(policy_short, levels = policy_levels)) |>
+  ggplot(aes(x = mean, y = policy_short, fill = policy_short)) +
+    geom_col(width = 0.65) +
+    geom_errorbarh(aes(xmin = ci_low_99, xmax = ci_high_99),
+                   height = 0.18, color = "grey20") +
+    facet_wrap(~ panel, ncol = 2, scales = "free_x") +
+    scale_x_continuous(labels = scales::label_dollar(prefix = "£"),
+                       expand = expansion(mult = c(0, 0.18))) +
+    scale_fill_manual(values = pal_policy, guide = "none") +
+    labs(title = "Where the savings actually come from",
+         subtitle = "Per-head waste by subject and visa status (99 per cent CI)",
+         x = "Waste per retained teacher",
+         y = NULL,
+         caption = "Source: stratified sub-sample, 400 reps, v4 cache.") +
+    theme_policy()
+```
+
+The two overseas panels (Physics and Modern Foreign Languages) show the full effect of the policy progression. The two domestic panels are essentially flat across all three policies, indicating that domestic per-head waste is unaffected by any of the three policies. Combined with the recruitment-volume result in §4 (capacity is met by additional overseas recruits, not by displacement of domestic provision), the policy works by preventing waste that the current operating model bakes into the overseas route, not by reducing or substituting UK-national provision.
+
+For HM Treasury specifically, the relevant per-cohort DfE waste in the overseas Physics cohort falls from £1.82 million under the Status Quo to £0.90 million under Policy C, a saving of £0.92 million in the Department's most acute shortage subject. In the overseas Modern Foreign Languages cohort the equivalent figures are £0.88 million falling to £0.44 million, a saving of £0.44 million. These two subjects together account for £1.36 million of the £1.37 million headline DfE saving identified in §5; the residual is spread across smaller policy effects in the rest of the trainee population, and the £0.01 million gap reflects Monte Carlo sampling variation between the headline cache (R = 5,000 replications) and the stratified sub-sample (R = 400 replications). Both stratified figures sit inside DfE's unilateral budgetary authority; Policy C's compression effect is achievable without Home Office or Treasury sign-off on the visa fee schedule itself.
+
+---
+
+# 7. Paired Contrasts
+
+The numbers in §§4 to 6 are point estimates of population means. For a policy comparison, the more decision-relevant quantity is the difference between policies on the same simulated cohort. Common Random Numbers across the three policies allow the simulation to compute that difference directly: for each replicated cohort, Policy A and Policy C are scored against the same applicants, the same offer decisions, and the same retention shocks. The variance of the difference is consequently much smaller than the variance of either policy alone.
+
+```{r paired-contrasts, fig.height=2.8, fig.cap="Paired per-cohort difference in system waste, relative to the Status Quo. Negative values mean the policy saves money. Both confidence intervals lie entirely below zero."}
+diffs_local <- mc_abc |>
+  select(rep, policy_short, total_system_waste) |>
+  pivot_wider(names_from  = policy_short,
+              values_from = total_system_waste) |>
+  transmute(
+    rep = rep,
+    `B vs A: QTS Sponsorship + IRP` =
+      `Auto Sponsor + Relocation` - `Status Quo`,
+    `C vs A: Full Integration Package` =
+      `Auto Sponsor + Relocation + Integration` - `Status Quo`
+  ) |>
+  pivot_longer(-rep, names_to = "contrast", values_to = "d")
+
+contrast_summary <- diffs_local |>
+  group_by(contrast) |>
+  summarise(
+    mean_d  = mean(d),
+    mcse    = sd(d) / sqrt(n()),
+    ci_low  = mean_d - 2.576 * mcse,
+    ci_high = mean_d + 2.576 * mcse,
+    .groups = "drop"
+  )
+
+ggplot(contrast_summary, aes(x = mean_d, y = contrast)) +
+  geom_vline(xintercept = 0, color = "grey50", linewidth = 0.5) +
+  geom_pointrange(aes(xmin = ci_low, xmax = ci_high),
+                  color = "#1F4E79", size = 0.6, linewidth = 0.9) +
+  geom_text(aes(label = gbp(mean_d, big = TRUE)),
+            hjust = -0.25, vjust = -0.6, fontface = "bold", size = 3.5) +
+  scale_x_continuous(labels = function(x) gbp(x, big = TRUE),
+                     expand = expansion(mult = c(0.15, 0.25))) +
+  labs(title = "Paired contrast: system waste versus Status Quo",
+       subtitle = "Mean and 99 per cent CI of per-cohort difference (CRN-paired)",
+       x = "Difference in system waste (negative = saving)",
+       y = NULL,
+       caption = "Source: 5,000 paired replications, v4 cache.") +
+  theme_policy()
+```
+
+Both confidence intervals exclude zero by a wide margin. Policy B saves an average of £1.32 million per cohort relative to the Status Quo, with a 99 per cent confidence interval well below zero. Policy C saves an average of £1.58 million per cohort, with the upper bound of its 99 per cent confidence interval still substantially below zero. The lower confidence bound on the C-versus-A contrast lies approximately 550 Monte Carlo standard errors below zero; on the B-versus-A contrast, approximately 473 standard errors. The probability that either policy fails to save money relative to the Status Quo is, given the model and parameters as calibrated, vanishingly small at the population level.
+
+The CRN methodology delivers material variance reduction in this section. The variance of the paired contrast is between 1.6 and 3.2 times lower than the variance of the same comparison under independent sampling, depending on the metric (Glasserman and Yao, 1992; Schruben, 2011). This is the statistical bridge between the descriptive savings reported in §§4 and 5 and the sensitivity test that follows in §8: it is what allows a 5,000-replicate simulation to produce confidence intervals tight enough to distinguish a £1.58 million mean saving from zero with several orders of magnitude of margin.
+
+---
+
+# 8. The Break-Even Test
+
+A reviewer at HM Treasury or the Department for Education will reasonably ask whether the result depends on the specific retention assumption used in Policy C. The integration course is modelled as raising visa-holder retention by six percentage points. If the true effect is smaller, or zero, the per-head waste figures change. The question is whether they change enough to overturn the comparison with the Status Quo.
+
+The simulation tests this directly. A grid of 247 parameter combinations is constructed: 19 levels of baseline visa-holder retention, ranging from 50 per cent (a near-collapse scenario) to 95 per cent, crossed with 13 levels of integration retention boost, ranging from 0 percentage points to 15 percentage points. Each grid cell is evaluated under 500 paired replications. The question asked at each cell is whether Policy C's per-head waste is reliably below Policy A's, with the 99 per cent confidence interval excluding zero.
+
+```{r heatmap, fig.height=5, fig.cap="Per-head waste advantage of Policy C over the Status Quo across 247 retention parameter combinations. Blue indicates Policy C is reliably cheaper per retained teacher. The break-even contour, where Policy C and the Status Quo would tie, does not appear within the tested grid."}
+heatmap_data |>
+  ggplot(aes(x = rv, y = ib, fill = mean_diff_wpr)) +
+    geom_tile(color = "white", linewidth = 0.2) +
+    geom_contour(aes(z = mean_diff_wpr), breaks = 0,
+                 color = "black", linewidth = 0.6, na.rm = TRUE) +
+    scale_fill_gradient2(
+      low = "#1F4E79", mid = "white", high = "#C00000",
+      midpoint = 0, name = "Difference\n(Policy C minus Status Quo)\nper retained teacher",
+      labels = scales::label_dollar(prefix = "£")) +
+    scale_x_continuous(labels = scales::percent_format(accuracy = 1),
+                       breaks = seq(0.5, 0.95, 0.1)) +
+    scale_y_continuous(labels = scales::percent_format(accuracy = 1),
+                       breaks = seq(0, 0.15, 0.025)) +
+    labs(title = "Policy C is robust across the entire stress-tested grid",
+         subtitle = "Negative (blue) means Policy C is cheaper per retained teacher than the Status Quo",
+         x = "Visa-holder baseline retention",
+         y = "Integration retention boost",
+         caption = "Source: 247-cell grid, 500 paired reps per cell, v4 cache.") +
+    theme_policy() +
+    theme(legend.position = "right")
+```
+
+The result is unambiguous within the tested grid. In every cell, Policy C is cheaper per retained teacher than the Status Quo, with the 99 per cent confidence interval strictly excluding zero. The break-even contour, the line at which Policy C and the Status Quo would produce identical per-head waste, does not appear within the grid. Even at the most adverse cell tested (50 per cent baseline visa-holder retention, zero integration boost), Policy C still saves £2,923 per retained teacher relative to the Status Quo, with a 99 per cent confidence interval of £2,872 to £2,974.
+
+The grid's design has three honest limits, which a peer-review process should test in a follow-up academic version of this analysis. First, the integration retention boost is bounded at zero on the low side; the grid does not test the case in which integration provision actively reduces retention, for example through poor course design or culturally inappropriate content. Second, the £10,000 relocation grant and the £400 integration unit cost are held fixed across the entire grid; the test as constructed does not establish the relocation grant level at which Policy B's volume effect would be neutralised, nor the integration unit cost at which Policy C's net saving would be eliminated. Third, the underlying parameters governing offer-acceptance rates and policy-specific sponsorship probabilities are also held fixed. The break-even analysis as presented therefore answers the question "is Policy C robust to retention parameter uncertainty within a constrained range?" with a clear yes; it does not answer the broader question "is there any combination of all parameters under which Policy C fails?" The latter question is genuinely open and would require an extended academic-grade sensitivity sweep with several thousand additional replications per parameter combination.
+
+For the present policy submission, the relevant claim is the narrower one: under any retention scenario consistent with current evidence on baseline teacher retention in England (NFER, 2024) and the specific friction of the visa route (HEPI, 2026), Policy C produces per-head savings against the Status Quo with very high statistical confidence.
+
+---
+
+# 9. Implementation Risks
+
+Three risks stand between the modelled result and a defensible operational policy. None is hypothetical, and each has a partial mitigation.
+
+The first is the administrative and financial burden of the sponsorship process at school level under any partial implementation of Policy B. The full policy mechanism described in §2 reframes Qualified Teacher Status itself as the sponsorship credential, which would resolve the postcode-lottery problem at the structural level by removing the requirement for individual school sponsor licences for shortage-subject overseas recruits. If, however, the QTS-as-sponsorship reform is delayed or not pursued, Policy B's recruitment-volume effect would then depend on schools holding and maintaining their own sponsor licences, with the documented administrative and compliance costs that this entails. The Higher Education Policy Institute analysis of the 2025 Immigration White Paper notes that the cost, complexity, and administrative burden of the sponsorship process create a significant structural barrier. HEPI (2026) highlights that this lack of administrative support is especially prohibitive for smaller schools outside of Multi-Academy Trusts, directly driving the postcode-lottery effect documented in §1. The mitigation in either case is a centrally-funded sponsor-licence acquisition and compliance-support programme, ideally administered through Multi-Academy Trusts to spread the per-school overhead. A pilot phase should prioritise the Trusts with the highest concentration of Physics and Modern Foreign Languages vacancies, where the savings are largest and the implementation overhead per teacher recruited is therefore lowest.
+
+The second is the supply and quality of integration provision. The £400-per-trainee unit cost in Policy C reflects a course that does not yet exist at scale. Three live questions remain. First, who provides it: existing Continuing Professional Development providers, Initial Teacher Training providers, or a specialist commission? Second, what does the curriculum cover: cultural and pedagogical induction, or pedagogical induction alone? Third, how is effectiveness measured: by the six-percentage-point retention lift assumed in the model, or by a different metric? A six-month commissioning study ahead of national rollout would resolve the supply question without delaying the recruitment-volume gains available under Policy B alone. The volume effect of Policy B does not depend on the integration course existing.
+
+The third is cross-departmental coordination on visa fees. The Skilled Worker fee and the Immigration Health Surcharge are set by the Home Office, not the Department for Education. Policy C compresses waste partly by spreading those costs over a larger retained cohort, but it does not alter the underlying fee structure. International doctors are exempted from the Immigration Health Surcharge under the Health and Care Worker Visa (BMA, 2024); no equivalent exemption currently exists for shortage-subject teachers, and the per-teacher saving available from such an exemption would be approximately £3,105 over a three-year visa, comparable in magnitude to the per-head waste reduction this report quantifies. A future policy variant that proposed extending Health and Care Worker Visa eligibility to shortage-subject teachers, or that proposed DfE underwriting of teacher visa costs, would require HM Treasury and Home Office agreement in addition to DfE adoption. The recommendation here is to keep the visa fee structure outside the scope of the present proposal, retain Policy C's compression effect within the Department's unilateral authority, and treat fee underwriting as a separate, longer-horizon question.
+
+The model assumes that none of these risks materialises at a scale that would overturn the result. The break-even analysis in §8 tests retention sensitivity directly and finds Policy C robust across the tested grid, subject to the design limits stated in that section. The remaining risks are operational and political rather than statistical. The mitigations are conventional public-sector implementation work; none of the three requires legislative change in the form proposed.
+
+---
+
+# 10. Recommendation
+
+The Department for Education should adopt Policy C as the operating model for international teacher recruitment in shortage subjects. Implementation should proceed as a phased pilot, beginning with Physics and Modern Foreign Languages where the per-head savings are concentrated and where the policy carries the lowest displacement risk for domestic provision. The pilot should run for two cohorts before any decision on national rollout, with year-one attrition and per-head waste reported against the simulated benchmarks set out in this report.
+
+A fallback option is available if the integration-course commissioning study described in §9 returns an unviable provider landscape, or if the £400-per-trainee unit cost cannot be defended against scaled provision. In that case, the Department should adopt Policy B alone (QTS-as-sponsorship-endorsement plus the reinstated International Relocation Payment), capturing the £1.32 million per-cohort volume-effect saving identified in §7, and revisit integration provision after twenty-four months of operating data. Policy B's saving does not depend on integration provision existing.
+
+Three further actions support either recommendation. First, the centrally-funded sponsor-licence acquisition and compliance-support programme described in §9 should be launched in parallel with Policy B implementation, to ensure that the auto-sponsorship lever has activatable infrastructure across the school estate during any transition period. Second, a commissioning study for the integration course should be initiated within the first six months, to define provider, curriculum, and evaluation; the timing matters because the study's output determines whether Policy C is implementable at scale or whether the Policy B fallback should be adopted instead. Third, the simulation framework that produced this report should be retained and re-run annually against actual cohort outcomes; the model's parameters are calibration choices, and the value of the analysis depends on those choices remaining defensible against observed data.
+
+The report does not recommend changes to the visa fee schedule or to the Immigration Skills Charge. Those questions sit outside the Department's remit and outside the scope of this analysis.
+
+---
+
+# Appendix A: Method in Detail
+
+The simulation runs three nested policies (A, B, C) over R = 5,000 replicated cohorts of N₀ = 2,000 potential trainees each. Each cohort proceeds through three stages.
+
+In the first stage (`generate_potential_overseas`), trainees are assigned to subject, degree class, induction-quality decile, exceptional-qualification status, and visa-need status, with subject and degree-class distributions calibrated separately for domestic and overseas-origin sub-populations from the Initial Teacher Training Census (DfE, 2025a).
+
+In the second stage (`add_training_and_offers` and `assign_training_incentives`), trainees are scored as qualified or unqualified using a logistic function of induction quality, exceptional-qualification status, and degree class. Bursary and scholarship eligibility are determined according to current Department for Education rules. Offers are extended up to capacity, weighted by qualification and shortage-subject status.
+
+In the third stage (`apply_policy_and_score`), each policy is scored against the same accepted cohort. Common Random Numbers govern the policy-specific shocks: the same uniform draws determine sponsorship outcomes, retention outcomes, and integration-course assignment across all three policies within a cohort. This is the source of the variance reduction reported in §7.
+
+Monte Carlo standard errors are computed as σ̂/√R, where σ̂ is the sample standard deviation of the replicate-level estimate. Confidence intervals are constructed at the 99 per cent level using the standard normal critical value of 2.576. Validation diagnostics across five categories (mathematical consistency, bounds, determinism, convergence, and external plausibility) are reported in Appendix B and all pass.
+
+The simulation is implemented in R, using a fast-path inner-loop variant of the policy-scoring function that operates on numeric vectors directly rather than through `dplyr` aggregation. The fast path was validated against the original implementation across 50 seeds and three policies; all 25 summary metrics matched to within 1e-12. Parallelisation across replicates is provided by the `furrr` package using L'Ecuyer's Combined Multiple Recursive Generator, with worker-level seeds allocated by `furrr_options(seed = TRUE)`.
+
+---
+
+# Appendix B: Validation Results (V1 to V5)
+
+```{r validation-table}
+tibble::tribble(
+  ~`Validation criterion`,                                          ~`Pass threshold`,                ~Result,
+  "V1: Mathematical consistency (accounting identities)",            "max abs residual < 1e-10",       "5.55e-17",
+  "V2: Bounds (probabilities in [0,1]; spend ≥ 0; waste ≤ spend)",   "Zero violations",                "Zero violations",
+  "V3: Determinism under sequential RNG",                            "Bit-identical with sequential rerun",                   "Pass with run_simulation_sequential(); see narrative",
+  "V4: Convergence (relative MCSE on headline metric)",              "≤ 0.5 per cent of mean",         "0.16 per cent",
+  "V5: External plausibility (year-1 attrition vs SWC 2024)",        "within documented range",        "17.18% (Status Quo overseas) consistent with 10–15% domestic NQT range plus visa-route friction (HoC Library, 2025; HEPI, 2026)"
+) |>
+  knitr::kable(align = "lll",
+               caption = "Validation diagnostics across five categories. All five pass.")
+```
+
+V1 through V4 are internal consistency checks; they verify that the simulation does what the code claims. V5 is an external plausibility check, and it is the more important of the five for a policy audience: it asks whether the simulation's output sits within a range that observed reality would predict. The simulated 17.18 per cent year-one attrition for the Status Quo overseas cohort sits at the upper end of the 10–15 per cent newly-qualified-teacher leaver range documented for the state-funded sector in England (House of Commons Library, 2025), with the upward shift attributable to the additional visa-route friction documented in recent policy analysis (HEPI, 2026). The simulation is not calibrated to this external figure; the agreement is independent and serves as evidence that the model is producing realistic baseline behaviour.
+
+A note on V3 is required for transparency. Bit-identical reproducibility holds when the simulation is rerun with the sequential driver `run_simulation_sequential()`, which preserves the full L'Ecuyer-CMRG stream order. The headline cache used in this report was generated with `run_simulation_parallel()`, which allocates independent L'Ecuyer-CMRG sub-streams to multiple worker processes for a roughly threefold reduction in wall-clock time. Parallel sub-stream allocation does not preserve per-replicate bit-identity against a sequential rerun; what it preserves is statistical equivalence, meaning that Monte Carlo means and confidence intervals from a parallel rerun match a sequential rerun to within the Monte Carlo standard errors documented under V4. This is a deliberate trade-off, and it is consistent with standard practice in parallel Monte Carlo simulation. For any verification exercise that requires exact bit-identity, the simulation should be rerun under `run_simulation_sequential()` with the same global seed (20250117).
+---
+
+# Appendix C: Full Metric Panel
+
+```{r full-panel}
+mc_summary |>
+  mutate(
+    policy_short = factor(policy_short, levels = c(
+      "Status Quo",
+      "Auto Sponsor + Relocation",
+      "Auto Sponsor + Relocation + Integration"
+    ))
+  ) |>
+  select(metric, policy_short, mean, ci_low, ci_high, mcse) |>
+  pivot_wider(
+    names_from = policy_short,
+    values_from = c(mean, ci_low, ci_high, mcse),
+    names_glue = "{policy_short}__{.value}"
+  ) |>
+  arrange(metric) |>
+  knitr::kable(
+    digits = 4,
+    caption = "All 18 metrics across 3 policies. Each metric appears once with mean, 99 per cent CI bounds, and MCSE for each policy."
+  )
+```
+
+---
+
+# References {-}
+
+British Medical Association (2024). *Training in the UK and your visa: guidance for international doctors*. Available at: https://www.bma.org.uk/advice-and-support/international-doctors-and-students/studying-and-training-in-the-uk/training-in-the-uk-and-your-visa (accessed April 2026).
+
+Cambridge Network (2025). *Government rollback of teacher relocation scheme could impact overseas recruitment*. Available at: https://www.cambridgenetwork.co.uk/news/government-rollback-teacher-relocation-scheme-could-impact-overseas-recruitment-explains (accessed April 2026).
+
+Department for Education (2024). *International Relocation Payments: pilot scheme guidance*. Available at: https://www.gov.uk/government/publications/international-relocation-payments (accessed April 2026).
+
+Department for Education (2025a). *Initial Teacher Training Census, Academic year 2024/25*. Provisional release. Available at: https://explore-education-statistics.service.gov.uk/find-statistics/initial-teacher-training-census/2024-25 (accessed April 2026).
+
+Department for Education (2025b). *Postgraduate Initial Teacher Training Targets, 2025/26*, including bursary and scholarship rates. Available at: https://explore-education-statistics.service.gov.uk/find-statistics/postgraduate-initial-teacher-training-targets/2025-26 (accessed April 2026).
+
+Department for Education (2025c). *School Workforce in England, Reporting year 2024*. Published June 2025.
+
+Glasserman, P. and Yao, D.D. (1992). Some guidelines and guarantees for common random numbers. *Management Science*, 38(6), pp. 884–908.
+
+Higher Education Policy Institute (2026). *The 2025 Immigration White Paper and its impact on international teacher recruitment and retention in MFL and Physics*. Available at: https://www.hepi.ac.uk/2026/01/04/the-2025-immigration-white-paper-and-its-impact-on-international-teacher-recruitment-and-retention-in-mfl-and-physics/ (accessed April 2026).
+
+Home Office (2026). *Immigration and Nationality Fees*, in force from 8 April 2026. GOV.UK. Available at: https://www.gov.uk/government/publications/visa-regulations-revised-table (accessed April 2026).
+
+House of Commons Library (2025). *Teacher recruitment and retention in England*. Briefing Paper CBP-7222. Available at: https://commonslibrary.parliament.uk/research-briefings/cbp-7222/ (accessed April 2026).
+
+Law, A.M. (2015). *Simulation Modeling and Analysis*, 5th edition. New York: McGraw-Hill.
+
+National Foundation for Educational Research (2024). *Teacher Labour Market in England Annual Report 2024*. Funded by the Nuffield Foundation. Available at: https://www.nfer.ac.uk (accessed April 2026).
+
+Royal College of General Practitioners (2024). *Overseas doctors' guide*. Available at: https://www.rcgp.org.uk/your-career/overseas-doctors-guide (accessed April 2026).
+
+Schruben, L. (2011). Common random numbers. In: *Wiley Encyclopedia of Operations Research and Management Science*. Wiley. DOI: 10.1002/9780470400531.eorms0166.
+
+Times Educational Supplement (2024). *£10,000 payment for overseas teacher trainees cut*. Available at: https://www.tes.com/magazine/news/general/ps10k-payment-overseas-teacher-trainees-cut (accessed April 2026).

@@ -1,0 +1,463 @@
+time_period,time_identifier,geographic_level,country_code,country_name,itt_subject,breakdown_topic,breakdown,trainee_number,trainee_percentage
+201920,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates in scope of target,413,z
+201920,Academic year,National,E92000001,England,Art & Design,Target,Postgraduate ITT Target,668,62
+201920,Academic year,National,E92000001,England,Art & Design,Total,Total Postgraduates,421,100
+201920,Academic year,National,E92000001,England,Biology,Total,Postgraduates in scope of target,1934,z
+201920,Academic year,National,E92000001,England,Biology,Target,Postgraduate ITT Target,1192,162
+201920,Academic year,National,E92000001,England,Biology,Total,Total Postgraduates,1946,100
+201920,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates in scope of target,185,z
+201920,Academic year,National,E92000001,England,Business Studies,Target,Postgraduate ITT Target,348,53
+201920,Academic year,National,E92000001,England,Business Studies,Total,Total Postgraduates,201,100
+201920,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates in scope of target,767,z
+201920,Academic year,National,E92000001,England,Chemistry,Target,Postgraduate ITT Target,1152,67
+201920,Academic year,National,E92000001,England,Chemistry,Total,Total Postgraduates,783,100
+201920,Academic year,National,E92000001,England,Classics,Total,Postgraduates in scope of target,71,z
+201920,Academic year,National,E92000001,England,Classics,Target,Postgraduate ITT Target,28,254
+201920,Academic year,National,E92000001,England,Classics,Total,Total Postgraduates,80,100
+201920,Academic year,National,E92000001,England,Computing,Total,Postgraduates in scope of target,471,z
+201920,Academic year,National,E92000001,England,Computing,Target,Postgraduate ITT Target,631,75
+201920,Academic year,National,E92000001,England,Computing,Total,Total Postgraduates,475,100
+201920,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates in scope of target,432,z
+201920,Academic year,National,E92000001,England,Design & Technology,Target,Postgraduate ITT Target,1022,42
+201920,Academic year,National,E92000001,England,Design & Technology,Total,Total Postgraduates,441,100
+201920,Academic year,National,E92000001,England,Drama,Total,Postgraduates in scope of target,291,z
+201920,Academic year,National,E92000001,England,Drama,Target,Postgraduate ITT Target,347,84
+201920,Academic year,National,E92000001,England,Drama,Total,Total Postgraduates,300,100
+201920,Academic year,National,E92000001,England,English,Total,Postgraduates in scope of target,2901,z
+201920,Academic year,National,E92000001,England,English,Target,Postgraduate ITT Target,2654,109
+201920,Academic year,National,E92000001,England,English,Total,Total Postgraduates,2939,100
+201920,Academic year,National,E92000001,England,Geography,Total,Postgraduates in scope of target,1312,z
+201920,Academic year,National,E92000001,England,Geography,Target,Postgraduate ITT Target,1116,118
+201920,Academic year,National,E92000001,England,Geography,Total,Total Postgraduates,1328,100
+201920,Academic year,National,E92000001,England,History,Total,Postgraduates in scope of target,1457,z
+201920,Academic year,National,E92000001,England,History,Target,Postgraduate ITT Target,1273,114
+201920,Academic year,National,E92000001,England,History,Total,Total Postgraduates,1476,100
+201920,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates in scope of target,2157,z
+201920,Academic year,National,E92000001,England,Mathematics,Target,Postgraduate ITT Target,3343,65
+201920,Academic year,National,E92000001,England,Mathematics,Total,Total Postgraduates,2197,100
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates in scope of target,1384,z
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Target,Postgraduate ITT Target,2241,62
+201920,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Total Postgraduates,1419,100
+201920,Academic year,National,E92000001,England,Music,Total,Postgraduates in scope of target,312,z
+201920,Academic year,National,E92000001,England,Music,Target,Postgraduate ITT Target,392,80
+201920,Academic year,National,E92000001,England,Music,Total,Total Postgraduates,329,100
+201920,Academic year,National,E92000001,England,Other,Total,Postgraduates in scope of target,279,z
+201920,Academic year,National,E92000001,England,Other,Target,Postgraduate ITT Target,668,42
+201920,Academic year,National,E92000001,England,Other,Total,Total Postgraduates,290,100
+201920,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates in scope of target,1276,z
+201920,Academic year,National,E92000001,England,Physical Education,Target,Postgraduate ITT Target,1222,104
+201920,Academic year,National,E92000001,England,Physical Education,Total,Total Postgraduates,1372,100
+201920,Academic year,National,E92000001,England,Physics,Total,Postgraduates in scope of target,524,z
+201920,Academic year,National,E92000001,England,Physics,Target,Postgraduate ITT Target,1265,41
+201920,Academic year,National,E92000001,England,Physics,Total,Total Postgraduates,551,100
+201920,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates in scope of target,494,z
+201920,Academic year,National,E92000001,England,Religious Education,Target,Postgraduate ITT Target,525,94
+201920,Academic year,National,E92000001,England,Religious Education,Total,Total Postgraduates,508,100
+201920,Academic year,National,E92000001,England,Primary,Total,Postgraduates in scope of target,12092,z
+201920,Academic year,National,E92000001,England,Primary,Target,Postgraduate ITT Target,13003,93
+201920,Academic year,National,E92000001,England,Primary,Total,Total Postgraduates,12364,100
+201920,Academic year,National,E92000001,England,Secondary,Total,Postgraduates in scope of target,16660,z
+201920,Academic year,National,E92000001,England,Secondary,Target,Postgraduate ITT Target,20087,83
+201920,Academic year,National,E92000001,England,Secondary,Total,Total Postgraduates,17056,100
+201920,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates in scope of target,5853,z
+201920,Academic year,National,E92000001,England,STEM Subjects,Target,Postgraduate ITT Target,7583,77
+201920,Academic year,National,E92000001,England,STEM Subjects,Total,Total Postgraduates,5952,100
+201920,Academic year,National,E92000001,England,Total,Total,Postgraduates in scope of target,28752,z
+201920,Academic year,National,E92000001,England,Total,Target,Postgraduate ITT Target,33090,87
+201920,Academic year,National,E92000001,England,Total,Total,Total Postgraduates,29420,100
+202021,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates in scope of target,889,z
+202021,Academic year,National,E92000001,England,Art & Design,Target,Postgraduate ITT Target,681,131
+202021,Academic year,National,E92000001,England,Art & Design,Total,Total Postgraduates,915,100
+202021,Academic year,National,E92000001,England,Biology,Total,Postgraduates in scope of target,2021,z
+202021,Academic year,National,E92000001,England,Biology,Target,Postgraduate ITT Target,1116,181
+202021,Academic year,National,E92000001,England,Biology,Total,Total Postgraduates,2107,100
+202021,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates in scope of target,383,z
+202021,Academic year,National,E92000001,England,Business Studies,Target,Postgraduate ITT Target,397,96
+202021,Academic year,National,E92000001,England,Business Studies,Total,Total Postgraduates,402,100
+202021,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates in scope of target,848,z
+202021,Academic year,National,E92000001,England,Chemistry,Target,Postgraduate ITT Target,1144,74
+202021,Academic year,National,E92000001,England,Chemistry,Total,Total Postgraduates,885,100
+202021,Academic year,National,E92000001,England,Classics,Total,Postgraduates in scope of target,68,z
+202021,Academic year,National,E92000001,England,Classics,Target,Postgraduate ITT Target,27,252
+202021,Academic year,National,E92000001,England,Classics,Total,Total Postgraduates,80,100
+202021,Academic year,National,E92000001,England,Computing,Total,Postgraduates in scope of target,592,z
+202021,Academic year,National,E92000001,England,Computing,Target,Postgraduate ITT Target,621,95
+202021,Academic year,National,E92000001,England,Computing,Total,Total Postgraduates,601,100
+202021,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates in scope of target,654,z
+202021,Academic year,National,E92000001,England,Design & Technology,Target,Postgraduate ITT Target,919,71
+202021,Academic year,National,E92000001,England,Design & Technology,Total,Total Postgraduates,678,100
+202021,Academic year,National,E92000001,England,Drama,Total,Postgraduates in scope of target,449,z
+202021,Academic year,National,E92000001,England,Drama,Target,Postgraduate ITT Target,340,132
+202021,Academic year,National,E92000001,England,Drama,Total,Total Postgraduates,467,100
+202021,Academic year,National,E92000001,England,English,Total,Postgraduates in scope of target,3081,z
+202021,Academic year,National,E92000001,England,English,Target,Postgraduate ITT Target,2544,121
+202021,Academic year,National,E92000001,England,English,Total,Total Postgraduates,3177,100
+202021,Academic year,National,E92000001,England,Geography,Total,Postgraduates in scope of target,1183,z
+202021,Academic year,National,E92000001,England,Geography,Target,Postgraduate ITT Target,929,127
+202021,Academic year,National,E92000001,England,Geography,Total,Total Postgraduates,1203,100
+202021,Academic year,National,E92000001,England,History,Total,Postgraduates in scope of target,1644,z
+202021,Academic year,National,E92000001,England,History,Target,Postgraduate ITT Target,982,167
+202021,Academic year,National,E92000001,England,History,Total,Total Postgraduates,1668,100
+202021,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates in scope of target,2744,z
+202021,Academic year,National,E92000001,England,Mathematics,Target,Postgraduate ITT Target,3307,83
+202021,Academic year,National,E92000001,England,Mathematics,Total,Total Postgraduates,2823,100
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates in scope of target,1601,z
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Target,Postgraduate ITT Target,2334,69
+202021,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Total Postgraduates,1644,100
+202021,Academic year,National,E92000001,England,Music,Total,Postgraduates in scope of target,467,z
+202021,Academic year,National,E92000001,England,Music,Target,Postgraduate ITT Target,385,121
+202021,Academic year,National,E92000001,England,Music,Total,Total Postgraduates,478,100
+202021,Academic year,National,E92000001,England,Other,Total,Postgraduates in scope of target,395,z
+202021,Academic year,National,E92000001,England,Other,Target,Postgraduate ITT Target,713,55
+202021,Academic year,National,E92000001,England,Other,Total,Total Postgraduates,404,100
+202021,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates in scope of target,1527,z
+202021,Academic year,National,E92000001,England,Physical Education,Target,Postgraduate ITT Target,1200,127
+202021,Academic year,National,E92000001,England,Physical Education,Total,Total Postgraduates,1649,100
+202021,Academic year,National,E92000001,England,Physics,Total,Postgraduates in scope of target,503,z
+202021,Academic year,National,E92000001,England,Physics,Target,Postgraduate ITT Target,1336,38
+202021,Academic year,National,E92000001,England,Physics,Total,Total Postgraduates,514,100
+202021,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates in scope of target,657,z
+202021,Academic year,National,E92000001,England,Religious Education,Target,Postgraduate ITT Target,510,129
+202021,Academic year,National,E92000001,England,Religious Education,Total,Total Postgraduates,671,100
+202021,Academic year,National,E92000001,England,Primary,Total,Postgraduates in scope of target,14147,z
+202021,Academic year,National,E92000001,England,Primary,Target,Postgraduate ITT Target,11467,123
+202021,Academic year,National,E92000001,England,Primary,Total,Total Postgraduates,14597,100
+202021,Academic year,National,E92000001,England,Secondary,Total,Postgraduates in scope of target,19706,z
+202021,Academic year,National,E92000001,England,Secondary,Target,Postgraduate ITT Target,19485,101
+202021,Academic year,National,E92000001,England,Secondary,Total,Total Postgraduates,20366,100
+202021,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates in scope of target,6708,z
+202021,Academic year,National,E92000001,England,STEM Subjects,Target,Postgraduate ITT Target,7524,89
+202021,Academic year,National,E92000001,England,STEM Subjects,Total,Total Postgraduates,6930,100
+202021,Academic year,National,E92000001,England,Total,Total,Postgraduates in scope of target,33853,z
+202021,Academic year,National,E92000001,England,Total,Target,Postgraduate ITT Target,30952,109
+202021,Academic year,National,E92000001,England,Total,Total,Total Postgraduates,34963,100
+202122,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates in scope of target,778,z
+202122,Academic year,National,E92000001,England,Art & Design,Target,Postgraduate ITT Target,580,134
+202122,Academic year,National,E92000001,England,Art & Design,Total,Total Postgraduates,788,100
+202122,Academic year,National,E92000001,England,Biology,Total,Postgraduates in scope of target,909,z
+202122,Academic year,National,E92000001,England,Biology,Target,Postgraduate ITT Target,820,111
+202122,Academic year,National,E92000001,England,Biology,Total,Total Postgraduates,918,100
+202122,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates in scope of target,330,z
+202122,Academic year,National,E92000001,England,Business Studies,Target,Postgraduate ITT Target,725,46
+202122,Academic year,National,E92000001,England,Business Studies,Total,Total Postgraduates,342,100
+202122,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates in scope of target,1063,z
+202122,Academic year,National,E92000001,England,Chemistry,Target,Postgraduate ITT Target,1080,98
+202122,Academic year,National,E92000001,England,Chemistry,Total,Total Postgraduates,1070,100
+202122,Academic year,National,E92000001,England,Classics,Total,Postgraduates in scope of target,60,z
+202122,Academic year,National,E92000001,England,Classics,Target,Postgraduate ITT Target,40,150
+202122,Academic year,National,E92000001,England,Classics,Total,Total Postgraduates,61,100
+202122,Academic year,National,E92000001,England,Computing,Total,Postgraduates in scope of target,549,z
+202122,Academic year,National,E92000001,England,Computing,Target,Postgraduate ITT Target,840,65
+202122,Academic year,National,E92000001,England,Computing,Total,Total Postgraduates,553,100
+202122,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates in scope of target,332,z
+202122,Academic year,National,E92000001,England,Design & Technology,Target,Postgraduate ITT Target,1475,23
+202122,Academic year,National,E92000001,England,Design & Technology,Total,Total Postgraduates,338,100
+202122,Academic year,National,E92000001,England,Drama,Total,Postgraduates in scope of target,484,z
+202122,Academic year,National,E92000001,England,Drama,Target,Postgraduate ITT Target,330,147
+202122,Academic year,National,E92000001,England,Drama,Total,Total Postgraduates,489,100
+202122,Academic year,National,E92000001,England,English,Total,Postgraduates in scope of target,2227,z
+202122,Academic year,National,E92000001,England,English,Target,Postgraduate ITT Target,1980,112
+202122,Academic year,National,E92000001,England,English,Total,Total Postgraduates,2287,100
+202122,Academic year,National,E92000001,England,Geography,Total,Postgraduates in scope of target,612,z
+202122,Academic year,National,E92000001,England,Geography,Target,Postgraduate ITT Target,745,82
+202122,Academic year,National,E92000001,England,Geography,Total,Total Postgraduates,627,100
+202122,Academic year,National,E92000001,England,History,Total,Postgraduates in scope of target,1495,z
+202122,Academic year,National,E92000001,England,History,Target,Postgraduate ITT Target,780,192
+202122,Academic year,National,E92000001,England,History,Total,Total Postgraduates,1507,100
+202122,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates in scope of target,2512,z
+202122,Academic year,National,E92000001,England,Mathematics,Target,Postgraduate ITT Target,2800,90
+202122,Academic year,National,E92000001,England,Mathematics,Total,Total Postgraduates,2529,100
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates in scope of target,1023,z
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Target,Postgraduate ITT Target,1505,68
+202122,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Total Postgraduates,1046,100
+202122,Academic year,National,E92000001,England,Music,Total,Postgraduates in scope of target,381,z
+202122,Academic year,National,E92000001,England,Music,Target,Postgraduate ITT Target,540,71
+202122,Academic year,National,E92000001,England,Music,Total,Total Postgraduates,395,100
+202122,Academic year,National,E92000001,England,Other,Total,Postgraduates in scope of target,501,z
+202122,Academic year,National,E92000001,England,Other,Target,Postgraduate ITT Target,1980,25
+202122,Academic year,National,E92000001,England,Other,Total,Total Postgraduates,510,100
+202122,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates in scope of target,1633,z
+202122,Academic year,National,E92000001,England,Physical Education,Target,Postgraduate ITT Target,1010,162
+202122,Academic year,National,E92000001,England,Physical Education,Total,Total Postgraduates,1646,100
+202122,Academic year,National,E92000001,England,Physics,Total,Postgraduates in scope of target,532,z
+202122,Academic year,National,E92000001,England,Physics,Target,Postgraduate ITT Target,2530,21
+202122,Academic year,National,E92000001,England,Physics,Total,Total Postgraduates,539,100
+202122,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates in scope of target,431,z
+202122,Academic year,National,E92000001,England,Religious Education,Target,Postgraduate ITT Target,470,92
+202122,Academic year,National,E92000001,England,Religious Education,Total,Total Postgraduates,446,100
+202122,Academic year,National,E92000001,England,Primary,Total,Postgraduates in scope of target,14001,z
+202122,Academic year,National,E92000001,England,Primary,Target,Postgraduate ITT Target,10800,130
+202122,Academic year,National,E92000001,England,Primary,Total,Total Postgraduates,14192,100
+202122,Academic year,National,E92000001,England,Secondary,Total,Postgraduates in scope of target,15852,z
+202122,Academic year,National,E92000001,England,Secondary,Target,Postgraduate ITT Target,20230,78
+202122,Academic year,National,E92000001,England,Secondary,Total,Total Postgraduates,16091,100
+202122,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates in scope of target,5565,z
+202122,Academic year,National,E92000001,England,STEM Subjects,Target,Postgraduate ITT Target,8070,69
+202122,Academic year,National,E92000001,England,STEM Subjects,Total,Total Postgraduates,5609,100
+202122,Academic year,National,E92000001,England,Total,Total,Postgraduates in scope of target,29853,z
+202122,Academic year,National,E92000001,England,Total,Target,Postgraduate ITT Target,31030,96
+202122,Academic year,National,E92000001,England,Total,Total,Total Postgraduates,30283,100
+202223,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates in scope of target,465,z
+202223,Academic year,National,E92000001,England,Art & Design,Target,Postgraduate ITT Target,530,88
+202223,Academic year,National,E92000001,England,Art & Design,Total,Total Postgraduates,488,100
+202223,Academic year,National,E92000001,England,Biology,Total,Postgraduates in scope of target,643,z
+202223,Academic year,National,E92000001,England,Biology,Target,Postgraduate ITT Target,780,82
+202223,Academic year,National,E92000001,England,Biology,Total,Total Postgraduates,675,100
+202223,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates in scope of target,223,z
+202223,Academic year,National,E92000001,England,Business Studies,Target,Postgraduate ITT Target,635,35
+202223,Academic year,National,E92000001,England,Business Studies,Total,Total Postgraduates,253,100
+202223,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates in scope of target,735,z
+202223,Academic year,National,E92000001,England,Chemistry,Target,Postgraduate ITT Target,885,83
+202223,Academic year,National,E92000001,England,Chemistry,Total,Total Postgraduates,767,100
+202223,Academic year,National,E92000001,England,Classics,Total,Postgraduates in scope of target,59,z
+202223,Academic year,National,E92000001,England,Classics,Target,Postgraduate ITT Target,30,197
+202223,Academic year,National,E92000001,England,Classics,Total,Total Postgraduates,64,100
+202223,Academic year,National,E92000001,England,Computing,Total,Postgraduates in scope of target,331,z
+202223,Academic year,National,E92000001,England,Computing,Target,Postgraduate ITT Target,1145,29
+202223,Academic year,National,E92000001,England,Computing,Total,Total Postgraduates,340,100
+202223,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates in scope of target,433,z
+202223,Academic year,National,E92000001,England,Design & Technology,Target,Postgraduate ITT Target,1825,24
+202223,Academic year,National,E92000001,England,Design & Technology,Total,Total Postgraduates,444,100
+202223,Academic year,National,E92000001,England,Drama,Total,Postgraduates in scope of target,322,z
+202223,Academic year,National,E92000001,England,Drama,Target,Postgraduate ITT Target,290,111
+202223,Academic year,National,E92000001,England,Drama,Total,Total Postgraduates,331,100
+202223,Academic year,National,E92000001,England,English,Total,Postgraduates in scope of target,1726,z
+202223,Academic year,National,E92000001,England,English,Target,Postgraduate ITT Target,2100,82
+202223,Academic year,National,E92000001,England,English,Total,Total Postgraduates,1787,100
+202223,Academic year,National,E92000001,England,Geography,Total,Postgraduates in scope of target,640,z
+202223,Academic year,National,E92000001,England,Geography,Target,Postgraduate ITT Target,945,68
+202223,Academic year,National,E92000001,England,Geography,Total,Total Postgraduates,661,100
+202223,Academic year,National,E92000001,England,History,Total,Postgraduates in scope of target,1099,z
+202223,Academic year,National,E92000001,England,History,Target,Postgraduate ITT Target,850,129
+202223,Academic year,National,E92000001,England,History,Total,Total Postgraduates,1126,100
+202223,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates in scope of target,1799,z
+202223,Academic year,National,E92000001,England,Mathematics,Target,Postgraduate ITT Target,2040,88
+202223,Academic year,National,E92000001,England,Mathematics,Total,Total Postgraduates,1869,100
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates in scope of target,709,z
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Target,Postgraduate ITT Target,2140,33
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Total Postgraduates,763,100
+202223,Academic year,National,E92000001,England,Music,Total,Postgraduates in scope of target,292,z
+202223,Academic year,National,E92000001,England,Music,Target,Postgraduate ITT Target,470,62
+202223,Academic year,National,E92000001,England,Music,Total,Total Postgraduates,318,100
+202223,Academic year,National,E92000001,England,Other,Total,Postgraduates in scope of target,391,z
+202223,Academic year,National,E92000001,England,Other,Target,Postgraduate ITT Target,2240,17
+202223,Academic year,National,E92000001,England,Other,Total,Total Postgraduates,401,100
+202223,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates in scope of target,1393,z
+202223,Academic year,National,E92000001,England,Physical Education,Target,Postgraduate ITT Target,980,142
+202223,Academic year,National,E92000001,England,Physical Education,Total,Total Postgraduates,1499,100
+202223,Academic year,National,E92000001,England,Physics,Total,Postgraduates in scope of target,427,z
+202223,Academic year,National,E92000001,England,Physics,Target,Postgraduate ITT Target,2610,16
+202223,Academic year,National,E92000001,England,Physics,Total,Total Postgraduates,457,100
+202223,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates in scope of target,336,z
+202223,Academic year,National,E92000001,England,Religious Education,Target,Postgraduate ITT Target,450,75
+202223,Academic year,National,E92000001,England,Religious Education,Total,Total Postgraduates,353,100
+202223,Academic year,National,E92000001,England,Primary,Total,Postgraduates in scope of target,10638,z
+202223,Academic year,National,E92000001,England,Primary,Target,Postgraduate ITT Target,11655,91
+202223,Academic year,National,E92000001,England,Primary,Total,Total Postgraduates,11010,100
+202223,Academic year,National,E92000001,England,Secondary,Total,Postgraduates in scope of target,12023,z
+202223,Academic year,National,E92000001,England,Secondary,Target,Postgraduate ITT Target,20945,57
+202223,Academic year,National,E92000001,England,Secondary,Total,Total Postgraduates,12596,100
+202223,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates in scope of target,3935,z
+202223,Academic year,National,E92000001,England,STEM Subjects,Target,Postgraduate ITT Target,7460,53
+202223,Academic year,National,E92000001,England,STEM Subjects,Total,Total Postgraduates,4108,100
+202223,Academic year,National,E92000001,England,Total,Total,Postgraduates in scope of target,22661,z
+202223,Academic year,National,E92000001,England,Total,Target,Postgraduate ITT Target,32600,70
+202223,Academic year,National,E92000001,England,Total,Total,Total Postgraduates,23606,100
+202324,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates in scope of target,369,z
+202324,Academic year,National,E92000001,England,Art & Design,Target,Postgraduate ITT Target,825,45
+202324,Academic year,National,E92000001,England,Art & Design,Total,Total Postgraduates,401,100
+202324,Academic year,National,E92000001,England,Biology,Total,Postgraduates in scope of target,922,z
+202324,Academic year,National,E92000001,England,Biology,Target,Postgraduate ITT Target,1050,88
+202324,Academic year,National,E92000001,England,Biology,Total,Total Postgraduates,948,100
+202324,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates in scope of target,198,z
+202324,Academic year,National,E92000001,England,Business Studies,Target,Postgraduate ITT Target,1195,17
+202324,Academic year,National,E92000001,England,Business Studies,Total,Total Postgraduates,226,100
+202324,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates in scope of target,754,z
+202324,Academic year,National,E92000001,England,Chemistry,Target,Postgraduate ITT Target,1195,63
+202324,Academic year,National,E92000001,England,Chemistry,Total,Total Postgraduates,776,100
+202324,Academic year,National,E92000001,England,Classics,Total,Postgraduates in scope of target,48,z
+202324,Academic year,National,E92000001,England,Classics,Target,Postgraduate ITT Target,25,192
+202324,Academic year,National,E92000001,England,Classics,Total,Total Postgraduates,69,100
+202324,Academic year,National,E92000001,England,Computing,Total,Postgraduates in scope of target,411,z
+202324,Academic year,National,E92000001,England,Computing,Target,Postgraduate ITT Target,1170,35
+202324,Academic year,National,E92000001,England,Computing,Total,Total Postgraduates,422,100
+202324,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates in scope of target,573,z
+202324,Academic year,National,E92000001,England,Design & Technology,Target,Postgraduate ITT Target,2110,27
+202324,Academic year,National,E92000001,England,Design & Technology,Total,Total Postgraduates,589,100
+202324,Academic year,National,E92000001,England,Drama,Total,Postgraduates in scope of target,226,z
+202324,Academic year,National,E92000001,England,Drama,Target,Postgraduate ITT Target,300,75
+202324,Academic year,National,E92000001,England,Drama,Total,Total Postgraduates,242,100
+202324,Academic year,National,E92000001,England,English,Total,Postgraduates in scope of target,2189,z
+202324,Academic year,National,E92000001,England,English,Target,Postgraduate ITT Target,3035,72
+202324,Academic year,National,E92000001,England,English,Total,Total Postgraduates,2260,100
+202324,Academic year,National,E92000001,England,Geography,Total,Postgraduates in scope of target,822,z
+202324,Academic year,National,E92000001,England,Geography,Target,Postgraduate ITT Target,1485,55
+202324,Academic year,National,E92000001,England,Geography,Total,Total Postgraduates,839,100
+202324,Academic year,National,E92000001,England,History,Total,Postgraduates in scope of target,931,z
+202324,Academic year,National,E92000001,England,History,Target,Postgraduate ITT Target,800,116
+202324,Academic year,National,E92000001,England,History,Total,Total Postgraduates,968,100
+202324,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates in scope of target,1804,z
+202324,Academic year,National,E92000001,England,Mathematics,Target,Postgraduate ITT Target,2960,61
+202324,Academic year,National,E92000001,England,Mathematics,Total,Total Postgraduates,1877,100
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates in scope of target,949,z
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Target,Postgraduate ITT Target,2960,32
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Total Postgraduates,1036,100
+202324,Academic year,National,E92000001,England,Music,Total,Postgraduates in scope of target,216,z
+202324,Academic year,National,E92000001,England,Music,Target,Postgraduate ITT Target,790,27
+202324,Academic year,National,E92000001,England,Music,Total,Total Postgraduates,238,100
+202324,Academic year,National,E92000001,England,Other,Total,Postgraduates in scope of target,296,z
+202324,Academic year,National,E92000001,England,Other,Target,Postgraduate ITT Target,2250,13
+202324,Academic year,National,E92000001,England,Other,Total,Total Postgraduates,322,100
+202324,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates in scope of target,1323,z
+202324,Academic year,National,E92000001,England,Physical Education,Target,Postgraduate ITT Target,735,180
+202324,Academic year,National,E92000001,England,Physical Education,Total,Total Postgraduates,1487,100
+202324,Academic year,National,E92000001,England,Physics,Total,Postgraduates in scope of target,466,z
+202324,Academic year,National,E92000001,England,Physics,Target,Postgraduate ITT Target,2820,17
+202324,Academic year,National,E92000001,England,Physics,Total,Total Postgraduates,564,100
+202324,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates in scope of target,269,z
+202324,Academic year,National,E92000001,England,Religious Education,Target,Postgraduate ITT Target,655,41
+202324,Academic year,National,E92000001,England,Religious Education,Total,Total Postgraduates,287,100
+202324,Academic year,National,E92000001,England,Primary,Total,Postgraduates in scope of target,8644,z
+202324,Academic year,National,E92000001,England,Primary,Target,Postgraduate ITT Target,9180,94
+202324,Academic year,National,E92000001,England,Primary,Total,Total Postgraduates,9125,100
+202324,Academic year,National,E92000001,England,Secondary,Total,Postgraduates in scope of target,12766,z
+202324,Academic year,National,E92000001,England,Secondary,Target,Postgraduate ITT Target,26360,48
+202324,Academic year,National,E92000001,England,Secondary,Total,Total Postgraduates,13551,100
+202324,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates in scope of target,4357,z
+202324,Academic year,National,E92000001,England,STEM Subjects,Target,Postgraduate ITT Target,9195,47
+202324,Academic year,National,E92000001,England,STEM Subjects,Total,Total Postgraduates,4587,100
+202324,Academic year,National,E92000001,England,Total,Total,Postgraduates in scope of target,21410,z
+202324,Academic year,National,E92000001,England,Total,Target,Postgraduate ITT Target,35540,60
+202324,Academic year,National,E92000001,England,Total,Total,Total Postgraduates,22676,100
+202425,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates in scope of target,701,z
+202425,Academic year,National,E92000001,England,Art & Design,Target,Postgraduate ITT Target,1095,64
+202425,Academic year,National,E92000001,England,Art & Design,Total,Total Postgraduates,722,100
+202425,Academic year,National,E92000001,England,Biology,Total,Postgraduates in scope of target,1294,z
+202425,Academic year,National,E92000001,England,Biology,Target,Postgraduate ITT Target,1120,116
+202425,Academic year,National,E92000001,England,Biology,Total,Total Postgraduates,1314,100
+202425,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates in scope of target,191,z
+202425,Academic year,National,E92000001,England,Business Studies,Target,Postgraduate ITT Target,1200,16
+202425,Academic year,National,E92000001,England,Business Studies,Total,Total Postgraduates,214,100
+202425,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates in scope of target,748,z
+202425,Academic year,National,E92000001,England,Chemistry,Target,Postgraduate ITT Target,1220,61
+202425,Academic year,National,E92000001,England,Chemistry,Total,Total Postgraduates,760,100
+202425,Academic year,National,E92000001,England,Classics,Total,Postgraduates in scope of target,49,z
+202425,Academic year,National,E92000001,England,Classics,Target,Postgraduate ITT Target,20,245
+202425,Academic year,National,E92000001,England,Classics,Total,Total Postgraduates,54,100
+202425,Academic year,National,E92000001,England,Computing,Total,Postgraduates in scope of target,488,z
+202425,Academic year,National,E92000001,England,Computing,Target,Postgraduate ITT Target,1330,37
+202425,Academic year,National,E92000001,England,Computing,Total,Total Postgraduates,496,100
+202425,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates in scope of target,612,z
+202425,Academic year,National,E92000001,England,Design & Technology,Target,Postgraduate ITT Target,1565,39
+202425,Academic year,National,E92000001,England,Design & Technology,Total,Total Postgraduates,622,100
+202425,Academic year,National,E92000001,England,Drama,Total,Postgraduates in scope of target,210,z
+202425,Academic year,National,E92000001,England,Drama,Target,Postgraduate ITT Target,450,47
+202425,Academic year,National,E92000001,England,Drama,Total,Total Postgraduates,220,100
+202425,Academic year,National,E92000001,England,English,Total,Postgraduates in scope of target,2273,z
+202425,Academic year,National,E92000001,England,English,Target,Postgraduate ITT Target,2290,99
+202425,Academic year,National,E92000001,England,English,Total,Total Postgraduates,2316,100
+202425,Academic year,National,E92000001,England,Geography,Total,Postgraduates in scope of target,855,z
+202425,Academic year,National,E92000001,England,Geography,Target,Postgraduate ITT Target,945,90
+202425,Academic year,National,E92000001,England,Geography,Total,Total Postgraduates,868,100
+202425,Academic year,National,E92000001,England,History,Total,Postgraduates in scope of target,877,z
+202425,Academic year,National,E92000001,England,History,Target,Postgraduate ITT Target,725,121
+202425,Academic year,National,E92000001,England,History,Total,Total Postgraduates,908,100
+202425,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates in scope of target,2157,z
+202425,Academic year,National,E92000001,England,Mathematics,Target,Postgraduate ITT Target,3065,70
+202425,Academic year,National,E92000001,England,Mathematics,Total,Total Postgraduates,2225,100
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates in scope of target,1077,z
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Target,Postgraduate ITT Target,2540,42
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Total Postgraduates,1179,100
+202425,Academic year,National,E92000001,England,Music,Total,Postgraduates in scope of target,325,z
+202425,Academic year,National,E92000001,England,Music,Target,Postgraduate ITT Target,820,40
+202425,Academic year,National,E92000001,England,Music,Total,Total Postgraduates,345,100
+202425,Academic year,National,E92000001,England,Other,Total,Postgraduates in scope of target,313,z
+202425,Academic year,National,E92000001,England,Other,Target,Postgraduate ITT Target,2115,15
+202425,Academic year,National,E92000001,England,Other,Total,Total Postgraduates,330,100
+202425,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates in scope of target,1332,z
+202425,Academic year,National,E92000001,England,Physical Education,Target,Postgraduate ITT Target,625,213
+202425,Academic year,National,E92000001,England,Physical Education,Total,Total Postgraduates,1422,100
+202425,Academic year,National,E92000001,England,Physics,Total,Postgraduates in scope of target,679,z
+202425,Academic year,National,E92000001,England,Physics,Target,Postgraduate ITT Target,2250,30
+202425,Academic year,National,E92000001,England,Physics,Total,Total Postgraduates,798,100
+202425,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates in scope of target,451,z
+202425,Academic year,National,E92000001,England,Religious Education,Target,Postgraduate ITT Target,580,78
+202425,Academic year,National,E92000001,England,Religious Education,Total,Total Postgraduates,462,100
+202425,Academic year,National,E92000001,England,Primary,Total,Postgraduates in scope of target,8473,z
+202425,Academic year,National,E92000001,England,Primary,Target,Postgraduate ITT Target,9400,90
+202425,Academic year,National,E92000001,England,Primary,Total,Total Postgraduates,8853,100
+202425,Academic year,National,E92000001,England,Secondary,Total,Postgraduates in scope of target,14632,z
+202425,Academic year,National,E92000001,England,Secondary,Target,Postgraduate ITT Target,23955,61
+202425,Academic year,National,E92000001,England,Secondary,Total,Total Postgraduates,15255,100
+202425,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates in scope of target,5366,z
+202425,Academic year,National,E92000001,England,STEM Subjects,Target,Postgraduate ITT Target,8965,60
+202425,Academic year,National,E92000001,England,STEM Subjects,Total,Total Postgraduates,5593,100
+202425,Academic year,National,E92000001,England,Total,Total,Postgraduates in scope of target,23105,z
+202425,Academic year,National,E92000001,England,Total,Target,Postgraduate ITT Target,33355,69
+202425,Academic year,National,E92000001,England,Total,Total,Total Postgraduates,24108,100
+202526,Academic year,National,E92000001,England,Art & Design,Total,Postgraduates in scope of target,872,z
+202526,Academic year,National,E92000001,England,Art & Design,Target,Postgraduate ITT Target,680,128
+202526,Academic year,National,E92000001,England,Art & Design,Total,Total Postgraduates,872,100
+202526,Academic year,National,E92000001,England,Biology,Total,Postgraduates in scope of target,1489,z
+202526,Academic year,National,E92000001,England,Biology,Target,Postgraduate ITT Target,985,151
+202526,Academic year,National,E92000001,England,Biology,Total,Total Postgraduates,1489,100
+202526,Academic year,National,E92000001,England,Business Studies,Total,Postgraduates in scope of target,271,z
+202526,Academic year,National,E92000001,England,Business Studies,Target,Postgraduate ITT Target,900,30
+202526,Academic year,National,E92000001,England,Business Studies,Total,Total Postgraduates,271,100
+202526,Academic year,National,E92000001,England,Chemistry,Total,Postgraduates in scope of target,864,z
+202526,Academic year,National,E92000001,England,Chemistry,Target,Postgraduate ITT Target,730,118
+202526,Academic year,National,E92000001,England,Chemistry,Total,Total Postgraduates,864,100
+202526,Academic year,National,E92000001,England,Classics,Total,Postgraduates in scope of target,44,z
+202526,Academic year,National,E92000001,England,Classics,Target,Postgraduate ITT Target,60,73
+202526,Academic year,National,E92000001,England,Classics,Total,Total Postgraduates,44,100
+202526,Academic year,National,E92000001,England,Computing,Total,Postgraduates in scope of target,715,z
+202526,Academic year,National,E92000001,England,Computing,Target,Postgraduate ITT Target,895,80
+202526,Academic year,National,E92000001,England,Computing,Total,Total Postgraduates,715,100
+202526,Academic year,National,E92000001,England,Design & Technology,Total,Postgraduates in scope of target,680,z
+202526,Academic year,National,E92000001,England,Design & Technology,Target,Postgraduate ITT Target,965,70
+202526,Academic year,National,E92000001,England,Design & Technology,Total,Total Postgraduates,680,100
+202526,Academic year,National,E92000001,England,Drama,Total,Postgraduates in scope of target,255,z
+202526,Academic year,National,E92000001,England,Drama,Target,Postgraduate ITT Target,620,41
+202526,Academic year,National,E92000001,England,Drama,Total,Total Postgraduates,255,100
+202526,Academic year,National,E92000001,England,English,Total,Postgraduates in scope of target,2059,z
+202526,Academic year,National,E92000001,England,English,Target,Postgraduate ITT Target,1950,106
+202526,Academic year,National,E92000001,England,English,Total,Total Postgraduates,2059,100
+202526,Academic year,National,E92000001,England,Geography,Total,Postgraduates in scope of target,1035,z
+202526,Academic year,National,E92000001,England,Geography,Target,Postgraduate ITT Target,935,111
+202526,Academic year,National,E92000001,England,Geography,Total,Total Postgraduates,1035,100
+202526,Academic year,National,E92000001,England,History,Total,Postgraduates in scope of target,989,z
+202526,Academic year,National,E92000001,England,History,Target,Postgraduate ITT Target,790,125
+202526,Academic year,National,E92000001,England,History,Total,Total Postgraduates,989,100
+202526,Academic year,National,E92000001,England,Mathematics,Total,Postgraduates in scope of target,2588,z
+202526,Academic year,National,E92000001,England,Mathematics,Target,Postgraduate ITT Target,2300,113
+202526,Academic year,National,E92000001,England,Mathematics,Total,Total Postgraduates,2588,100
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Postgraduates in scope of target,1364,z
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Target,Postgraduate ITT Target,1460,93
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Total Postgraduates,1364,100
+202526,Academic year,National,E92000001,England,Music,Total,Postgraduates in scope of target,367,z
+202526,Academic year,National,E92000001,England,Music,Target,Postgraduate ITT Target,565,65
+202526,Academic year,National,E92000001,England,Music,Total,Total Postgraduates,367,100
+202526,Academic year,National,E92000001,England,Other,Total,Postgraduates in scope of target,348,z
+202526,Academic year,National,E92000001,England,Other,Target,Postgraduate ITT Target,2520,14
+202526,Academic year,National,E92000001,England,Other,Total,Total Postgraduates,348,100
+202526,Academic year,National,E92000001,England,Physical Education,Total,Postgraduates in scope of target,1466,z
+202526,Academic year,National,E92000001,England,Physical Education,Target,Postgraduate ITT Target,725,202
+202526,Academic year,National,E92000001,England,Physical Education,Total,Total Postgraduates,1466,100
+202526,Academic year,National,E92000001,England,Physics,Total,Postgraduates in scope of target,1086,z
+202526,Academic year,National,E92000001,England,Physics,Target,Postgraduate ITT Target,1410,77
+202526,Academic year,National,E92000001,England,Physics,Total,Total Postgraduates,1086,100
+202526,Academic year,National,E92000001,England,Religious Education,Total,Postgraduates in scope of target,483,z
+202526,Academic year,National,E92000001,England,Religious Education,Target,Postgraduate ITT Target,780,62
+202526,Academic year,National,E92000001,England,Religious Education,Total,Total Postgraduates,483,100
+202526,Academic year,National,E92000001,England,Primary,Total,Postgraduates in scope of target,9645,z
+202526,Academic year,National,E92000001,England,Primary,Target,Postgraduate ITT Target,7650,126
+202526,Academic year,National,E92000001,England,Primary,Total,Total Postgraduates,9645,100
+202526,Academic year,National,E92000001,England,Secondary,Total,Postgraduates in scope of target,16975,z
+202526,Academic year,National,E92000001,England,Secondary,Target,Postgraduate ITT Target,19270,88
+202526,Academic year,National,E92000001,England,Secondary,Total,Total Postgraduates,16975,100
+202526,Academic year,National,E92000001,England,STEM Subjects,Total,Postgraduates in scope of target,6742,z
+202526,Academic year,National,E92000001,England,STEM Subjects,Target,Postgraduate ITT Target,6320,107
+202526,Academic year,National,E92000001,England,STEM Subjects,Total,Total Postgraduates,6742,100
+202526,Academic year,National,E92000001,England,Total,Total,Postgraduates in scope of target,26620,z
+202526,Academic year,National,E92000001,England,Total,Target,Postgraduate ITT Target,26920,99
+202526,Academic year,National,E92000001,England,Total,Total,Total Postgraduates,26620,100

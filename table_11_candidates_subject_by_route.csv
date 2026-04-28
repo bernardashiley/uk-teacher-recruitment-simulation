@@ -1,0 +1,1450 @@
+time_period,time_identifier,geographic_level,country_code,country_name,itt_subject,itt_route,itt_program_type,num_candidates,num_accepted,perc_accepted_candidates_on_route,in_cycle_accepted_candidates,in_cycle_acceptance_rate
+202223,Academic year,National,E92000001,England,Art & Design,PG fee-funded,HEI,874,358,70,437,50
+202223,Academic year,National,E92000001,England,Art & Design,PG fee-funded,SCITT,432,141,28,178,41
+202223,Academic year,National,E92000001,England,Art & Design,PG fee-funded,Total,1051,499,97,615,59
+202223,Academic year,National,E92000001,England,Art & Design,PG Salaried PGTA,HEI,15,0,0,x,x
+202223,Academic year,National,E92000001,England,Art & Design,PG Salaried PGTA,SCITT,59,7,1,7,12
+202223,Academic year,National,E92000001,England,Art & Design,PG Salaried PGTA,Total,69,7,1,7,10
+202223,Academic year,National,E92000001,England,Art & Design,PG Salaried School Direct,HEI,9,2,0,x,x
+202223,Academic year,National,E92000001,England,Art & Design,PG Salaried School Direct,SCITT,27,4,1,x,x
+202223,Academic year,National,E92000001,England,Art & Design,PG Salaried School Direct,Total,34,6,1,6,18
+202223,Academic year,National,E92000001,England,Art & Design,PG Total,HEI,885,360,70,439,50
+202223,Academic year,National,E92000001,England,Art & Design,PG Total,SCITT,482,152,30,189,39
+202223,Academic year,National,E92000001,England,Art & Design,PG Total,Total,1086,512,100,628,58
+202223,Academic year,National,E92000001,England,Art & Design,Total,HEI,885,360,70,439,50
+202223,Academic year,National,E92000001,England,Art & Design,Total,SCITT,482,152,30,189,39
+202223,Academic year,National,E92000001,England,Art & Design,Total,Total,1086,512,100,628,58
+202223,Academic year,National,E92000001,England,Biology,PG fee-funded,HEI,1193,404,67,504,42
+202223,Academic year,National,E92000001,England,Biology,PG fee-funded,SCITT,530,160,26,185,35
+202223,Academic year,National,E92000001,England,Biology,PG fee-funded,Total,1409,564,93,689,49
+202223,Academic year,National,E92000001,England,Biology,PG Salaried PGTA,HEI,13,3,0,x,x
+202223,Academic year,National,E92000001,England,Biology,PG Salaried PGTA,SCITT,68,13,2,14,21
+202223,Academic year,National,E92000001,England,Biology,PG Salaried PGTA,Total,79,16,3,18,23
+202223,Academic year,National,E92000001,England,Biology,PG Salaried School Direct,HEI,61,9,1,11,18
+202223,Academic year,National,E92000001,England,Biology,PG Salaried School Direct,SCITT,157,17,3,19,12
+202223,Academic year,National,E92000001,England,Biology,PG Salaried School Direct,Total,190,26,4,30,16
+202223,Academic year,National,E92000001,England,Biology,PG Total,HEI,1244,416,69,519,42
+202223,Academic year,National,E92000001,England,Biology,PG Total,SCITT,680,190,31,218,32
+202223,Academic year,National,E92000001,England,Biology,PG Total,Total,1534,606,100,737,48
+202223,Academic year,National,E92000001,England,Biology,Total,HEI,1244,416,69,519,42
+202223,Academic year,National,E92000001,England,Biology,Total,SCITT,680,190,31,218,32
+202223,Academic year,National,E92000001,England,Biology,Total,Total,1534,606,100,737,48
+202223,Academic year,National,E92000001,England,Business Studies,PG fee-funded,HEI,501,112,59,162,32
+202223,Academic year,National,E92000001,England,Business Studies,PG fee-funded,SCITT,287,65,34,83,29
+202223,Academic year,National,E92000001,England,Business Studies,PG fee-funded,Total,633,177,93,245,39
+202223,Academic year,National,E92000001,England,Business Studies,PG Salaried PGTA,HEI,12,0,0,x,x
+202223,Academic year,National,E92000001,England,Business Studies,PG Salaried PGTA,SCITT,48,6,3,7,15
+202223,Academic year,National,E92000001,England,Business Studies,PG Salaried PGTA,Total,55,6,3,7,13
+202223,Academic year,National,E92000001,England,Business Studies,PG Salaried School Direct,HEI,46,3,2,3,7
+202223,Academic year,National,E92000001,England,Business Studies,PG Salaried School Direct,SCITT,52,5,3,5,10
+202223,Academic year,National,E92000001,England,Business Studies,PG Salaried School Direct,Total,89,8,4,8,9
+202223,Academic year,National,E92000001,England,Business Studies,PG Total,HEI,532,115,60,165,31
+202223,Academic year,National,E92000001,England,Business Studies,PG Total,SCITT,338,76,40,95,28
+202223,Academic year,National,E92000001,England,Business Studies,PG Total,Total,685,191,100,260,38
+202223,Academic year,National,E92000001,England,Business Studies,Total,HEI,532,115,60,165,31
+202223,Academic year,National,E92000001,England,Business Studies,Total,SCITT,338,76,40,95,28
+202223,Academic year,National,E92000001,England,Business Studies,Total,Total,685,191,100,260,38
+202223,Academic year,National,E92000001,England,Chemistry,PG fee-funded,HEI,1295,474,64,569,44
+202223,Academic year,National,E92000001,England,Chemistry,PG fee-funded,SCITT,664,234,32,276,42
+202223,Academic year,National,E92000001,England,Chemistry,PG fee-funded,Total,1561,708,96,845,54
+202223,Academic year,National,E92000001,England,Chemistry,PG Salaried PGTA,HEI,9,1,0,x,x
+202223,Academic year,National,E92000001,England,Chemistry,PG Salaried PGTA,SCITT,64,4,1,5,8
+202223,Academic year,National,E92000001,England,Chemistry,PG Salaried PGTA,Total,70,5,1,6,9
+202223,Academic year,National,E92000001,England,Chemistry,PG Salaried School Direct,HEI,39,5,1,6,15
+202223,Academic year,National,E92000001,England,Chemistry,PG Salaried School Direct,SCITT,120,21,3,22,18
+202223,Academic year,National,E92000001,England,Chemistry,PG Salaried School Direct,Total,147,26,4,28,19
+202223,Academic year,National,E92000001,England,Chemistry,PG Total,HEI,1327,480,65,576,43
+202223,Academic year,National,E92000001,England,Chemistry,PG Total,SCITT,780,259,35,303,39
+202223,Academic year,National,E92000001,England,Chemistry,PG Total,Total,1652,739,100,879,53
+202223,Academic year,National,E92000001,England,Chemistry,Total,HEI,1327,480,65,576,43
+202223,Academic year,National,E92000001,England,Chemistry,Total,SCITT,780,259,35,303,39
+202223,Academic year,National,E92000001,England,Chemistry,Total,Total,1652,739,100,879,53
+202223,Academic year,National,E92000001,England,Classics,PG fee-funded,HEI,103,50,85,59,57
+202223,Academic year,National,E92000001,England,Classics,PG fee-funded,SCITT,33,6,10,7,21
+202223,Academic year,National,E92000001,England,Classics,PG fee-funded,Total,107,56,95,66,62
+202223,Academic year,National,E92000001,England,Classics,PG Salaried PGTA,HEI,0,0,0,0,0
+202223,Academic year,National,E92000001,England,Classics,PG Salaried PGTA,SCITT,6,3,5,x,x
+202223,Academic year,National,E92000001,England,Classics,PG Salaried PGTA,Total,6,3,5,x,x
+202223,Academic year,National,E92000001,England,Classics,PG Salaried School Direct,HEI,0,0,0,0,0
+202223,Academic year,National,E92000001,England,Classics,PG Salaried School Direct,SCITT,0,0,0,0,0
+202223,Academic year,National,E92000001,England,Classics,PG Salaried School Direct,Total,0,0,0,0,0
+202223,Academic year,National,E92000001,England,Classics,PG Total,HEI,103,50,85,59,57
+202223,Academic year,National,E92000001,England,Classics,PG Total,SCITT,37,9,15,10,27
+202223,Academic year,National,E92000001,England,Classics,PG Total,Total,109,59,100,69,63
+202223,Academic year,National,E92000001,England,Classics,Total,HEI,103,50,85,59,57
+202223,Academic year,National,E92000001,England,Classics,Total,SCITT,37,9,15,10,27
+202223,Academic year,National,E92000001,England,Classics,Total,Total,109,59,100,69,63
+202223,Academic year,National,E92000001,England,Computing,PG fee-funded,HEI,757,232,68,299,39
+202223,Academic year,National,E92000001,England,Computing,PG fee-funded,SCITT,425,99,29,129,30
+202223,Academic year,National,E92000001,England,Computing,PG fee-funded,Total,932,331,97,428,46
+202223,Academic year,National,E92000001,England,Computing,PG Salaried PGTA,HEI,13,0,0,x,x
+202223,Academic year,National,E92000001,England,Computing,PG Salaried PGTA,SCITT,38,0,0,0,0
+202223,Academic year,National,E92000001,England,Computing,PG Salaried PGTA,Total,46,0,0,0,0
+202223,Academic year,National,E92000001,England,Computing,PG Salaried School Direct,HEI,32,4,1,4,12
+202223,Academic year,National,E92000001,England,Computing,PG Salaried School Direct,SCITT,70,6,2,6,9
+202223,Academic year,National,E92000001,England,Computing,PG Salaried School Direct,Total,92,10,3,10,11
+202223,Academic year,National,E92000001,England,Computing,PG Total,HEI,778,236,69,303,39
+202223,Academic year,National,E92000001,England,Computing,PG Total,SCITT,487,105,31,135,28
+202223,Academic year,National,E92000001,England,Computing,PG Total,Total,982,341,100,438,45
+202223,Academic year,National,E92000001,England,Computing,Total,HEI,778,236,69,303,39
+202223,Academic year,National,E92000001,England,Computing,Total,SCITT,487,105,31,135,28
+202223,Academic year,National,E92000001,England,Computing,Total,Total,982,341,100,438,45
+202223,Academic year,National,E92000001,England,Design & Technology,PG fee-funded,HEI,525,202,50,250,48
+202223,Academic year,National,E92000001,England,Design & Technology,PG fee-funded,SCITT,416,171,42,202,49
+202223,Academic year,National,E92000001,England,Design & Technology,PG fee-funded,Total,738,373,92,452,61
+202223,Academic year,National,E92000001,England,Design & Technology,PG Salaried PGTA,HEI,13,3,1,x,x
+202223,Academic year,National,E92000001,England,Design & Technology,PG Salaried PGTA,SCITT,19,6,1,x,x
+202223,Academic year,National,E92000001,England,Design & Technology,PG Salaried PGTA,Total,32,9,2,10,31
+202223,Academic year,National,E92000001,England,Design & Technology,PG Salaried School Direct,HEI,18,5,1,x,x
+202223,Academic year,National,E92000001,England,Design & Technology,PG Salaried School Direct,SCITT,60,20,5,22,37
+202223,Academic year,National,E92000001,England,Design & Technology,PG Salaried School Direct,Total,73,25,6,27,37
+202223,Academic year,National,E92000001,England,Design & Technology,PG Total,HEI,542,210,52,259,48
+202223,Academic year,National,E92000001,England,Design & Technology,PG Total,SCITT,476,197,48,230,48
+202223,Academic year,National,E92000001,England,Design & Technology,PG Total,Total,794,407,100,489,62
+202223,Academic year,National,E92000001,England,Design & Technology,Total,HEI,542,210,52,259,48
+202223,Academic year,National,E92000001,England,Design & Technology,Total,SCITT,476,197,48,230,48
+202223,Academic year,National,E92000001,England,Design & Technology,Total,Total,794,407,100,489,62
+202223,Academic year,National,E92000001,England,Drama,PG fee-funded,HEI,538,227,66,276,51
+202223,Academic year,National,E92000001,England,Drama,PG fee-funded,SCITT,260,106,31,133,51
+202223,Academic year,National,E92000001,England,Drama,PG fee-funded,Total,647,333,97,409,63
+202223,Academic year,National,E92000001,England,Drama,PG Salaried PGTA,HEI,2,0,0,x,x
+202223,Academic year,National,E92000001,England,Drama,PG Salaried PGTA,SCITT,38,4,1,5,13
+202223,Academic year,National,E92000001,England,Drama,PG Salaried PGTA,Total,38,4,1,5,13
+202223,Academic year,National,E92000001,England,Drama,PG Salaried School Direct,HEI,6,1,0,x,x
+202223,Academic year,National,E92000001,England,Drama,PG Salaried School Direct,SCITT,14,5,1,x,x
+202223,Academic year,National,E92000001,England,Drama,PG Salaried School Direct,Total,18,6,2,x,x
+202223,Academic year,National,E92000001,England,Drama,PG Total,HEI,544,228,66,277,51
+202223,Academic year,National,E92000001,England,Drama,PG Total,SCITT,289,115,34,144,50
+202223,Academic year,National,E92000001,England,Drama,PG Total,Total,676,343,100,421,62
+202223,Academic year,National,E92000001,England,Drama,Total,HEI,544,228,66,277,51
+202223,Academic year,National,E92000001,England,Drama,Total,SCITT,289,115,34,144,50
+202223,Academic year,National,E92000001,England,Drama,Total,Total,676,343,100,421,62
+202223,Academic year,National,E92000001,England,English,PG fee-funded,HEI,2456,963,66,1197,49
+202223,Academic year,National,E92000001,England,English,PG fee-funded,SCITT,1038,357,24,436,42
+202223,Academic year,National,E92000001,England,English,PG fee-funded,Total,2855,1320,90,1633,57
+202223,Academic year,National,E92000001,England,English,PG Salaried PGTA,HEI,37,6,0,6,16
+202223,Academic year,National,E92000001,England,English,PG Salaried PGTA,SCITT,263,68,5,71,27
+202223,Academic year,National,E92000001,England,English,PG Salaried PGTA,Total,290,74,5,77,27
+202223,Academic year,National,E92000001,England,English,PG Salaried School Direct,HEI,158,20,1,20,13
+202223,Academic year,National,E92000001,England,English,PG Salaried School Direct,SCITT,344,56,4,59,17
+202223,Academic year,National,E92000001,England,English,PG Salaried School Direct,Total,433,76,5,79,18
+202223,Academic year,National,E92000001,England,English,PG Total,HEI,2572,989,67,1223,48
+202223,Academic year,National,E92000001,England,English,PG Total,SCITT,1404,481,33,566,40
+202223,Academic year,National,E92000001,England,English,PG Total,Total,3166,1470,100,1789,57
+202223,Academic year,National,E92000001,England,English,Total,HEI,2572,989,67,1223,48
+202223,Academic year,National,E92000001,England,English,Total,SCITT,1404,481,33,566,40
+202223,Academic year,National,E92000001,England,English,Total,Total,3166,1470,100,1789,57
+202223,Academic year,National,E92000001,England,Geography,PG fee-funded,HEI,839,385,66,456,54
+202223,Academic year,National,E92000001,England,Geography,PG fee-funded,SCITT,425,175,30,197,46
+202223,Academic year,National,E92000001,England,Geography,PG fee-funded,Total,985,560,97,653,66
+202223,Academic year,National,E92000001,England,Geography,PG Salaried PGTA,HEI,9,1,0,x,x
+202223,Academic year,National,E92000001,England,Geography,PG Salaried PGTA,SCITT,28,6,1,x,x
+202223,Academic year,National,E92000001,England,Geography,PG Salaried PGTA,Total,36,7,1,7,19
+202223,Academic year,National,E92000001,England,Geography,PG Salaried School Direct,HEI,13,1,0,x,x
+202223,Academic year,National,E92000001,England,Geography,PG Salaried School Direct,SCITT,58,11,2,11,19
+202223,Academic year,National,E92000001,England,Geography,PG Salaried School Direct,Total,65,12,2,12,18
+202223,Academic year,National,E92000001,England,Geography,PG Total,HEI,849,387,67,458,54
+202223,Academic year,National,E92000001,England,Geography,PG Total,SCITT,473,192,33,214,45
+202223,Academic year,National,E92000001,England,Geography,PG Total,Total,1022,579,100,672,66
+202223,Academic year,National,E92000001,England,Geography,Total,HEI,849,387,67,458,54
+202223,Academic year,National,E92000001,England,Geography,Total,SCITT,473,192,33,214,45
+202223,Academic year,National,E92000001,England,Geography,Total,Total,1022,579,100,672,66
+202223,Academic year,National,E92000001,England,History,PG fee-funded,HEI,1562,734,69,862,55
+202223,Academic year,National,E92000001,England,History,PG fee-funded,SCITT,716,289,27,345,48
+202223,Academic year,National,E92000001,England,History,PG fee-funded,Total,1794,1023,97,1207,67
+202223,Academic year,National,E92000001,England,History,PG Salaried PGTA,HEI,24,3,0,x,x
+202223,Academic year,National,E92000001,England,History,PG Salaried PGTA,SCITT,107,18,2,19,18
+202223,Academic year,National,E92000001,England,History,PG Salaried PGTA,Total,121,21,2,22,18
+202223,Academic year,National,E92000001,England,History,PG Salaried School Direct,HEI,34,5,0,5,15
+202223,Academic year,National,E92000001,England,History,PG Salaried School Direct,SCITT,99,9,1,9,9
+202223,Academic year,National,E92000001,England,History,PG Salaried School Direct,Total,124,14,1,14,11
+202223,Academic year,National,E92000001,England,History,PG Total,HEI,1596,742,70,870,55
+202223,Academic year,National,E92000001,England,History,PG Total,SCITT,832,316,30,373,45
+202223,Academic year,National,E92000001,England,History,PG Total,Total,1873,1058,100,1243,66
+202223,Academic year,National,E92000001,England,History,Total,HEI,1596,742,70,870,55
+202223,Academic year,National,E92000001,England,History,Total,SCITT,832,316,30,373,45
+202223,Academic year,National,E92000001,England,History,Total,Total,1873,1058,100,1243,66
+202223,Academic year,National,E92000001,England,Mathematics,PG fee-funded,HEI,3207,1062,62,1285,40
+202223,Academic year,National,E92000001,England,Mathematics,PG fee-funded,SCITT,1630,526,31,600,37
+202223,Academic year,National,E92000001,England,Mathematics,PG fee-funded,Total,3775,1588,93,1885,50
+202223,Academic year,National,E92000001,England,Mathematics,PG Salaried PGTA,HEI,49,5,0,6,12
+202223,Academic year,National,E92000001,England,Mathematics,PG Salaried PGTA,SCITT,214,25,1,26,12
+202223,Academic year,National,E92000001,England,Mathematics,PG Salaried PGTA,Total,253,30,2,32,13
+202223,Academic year,National,E92000001,England,Mathematics,PG Salaried School Direct,HEI,124,19,1,20,16
+202223,Academic year,National,E92000001,England,Mathematics,PG Salaried School Direct,SCITT,417,68,4,68,16
+202223,Academic year,National,E92000001,England,Mathematics,PG Salaried School Direct,Total,489,87,5,88,18
+202223,Academic year,National,E92000001,England,Mathematics,PG Total,HEI,3303,1086,64,1311,40
+202223,Academic year,National,E92000001,England,Mathematics,PG Total,SCITT,1989,619,36,694,35
+202223,Academic year,National,E92000001,England,Mathematics,PG Total,Total,4070,1705,100,2005,49
+202223,Academic year,National,E92000001,England,Mathematics,Total,HEI,3303,1086,64,1311,40
+202223,Academic year,National,E92000001,England,Mathematics,Total,SCITT,1989,619,36,694,35
+202223,Academic year,National,E92000001,England,Mathematics,Total,Total,4070,1705,100,2005,49
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,PG fee-funded,HEI,1161,486,69,596,51
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,PG fee-funded,SCITT,567,192,27,228,40
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,PG fee-funded,Total,1352,678,96,824,61
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried PGTA,HEI,21,0,0,x,x
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried PGTA,SCITT,53,5,1,5,9
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried PGTA,Total,68,5,1,5,7
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried School Direct,HEI,56,5,1,7,12
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried School Direct,SCITT,113,15,2,15,13
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried School Direct,Total,145,20,3,22,15
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,PG Total,HEI,1192,491,70,603,51
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,PG Total,SCITT,655,212,30,248,38
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,PG Total,Total,1418,703,100,851,60
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Total,HEI,1192,491,70,603,51
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Total,SCITT,655,212,30,248,38
+202223,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Total,1418,703,100,851,60
+202223,Academic year,National,E92000001,England,Music,PG fee-funded,HEI,374,180,67,215,57
+202223,Academic year,National,E92000001,England,Music,PG fee-funded,SCITT,189,71,27,84,44
+202223,Academic year,National,E92000001,England,Music,PG fee-funded,Total,452,251,94,299,66
+202223,Academic year,National,E92000001,England,Music,PG Salaried PGTA,HEI,4,1,0,x,x
+202223,Academic year,National,E92000001,England,Music,PG Salaried PGTA,SCITT,52,10,4,10,19
+202223,Academic year,National,E92000001,England,Music,PG Salaried PGTA,Total,53,11,4,11,21
+202223,Academic year,National,E92000001,England,Music,PG Salaried School Direct,HEI,4,0,0,x,x
+202223,Academic year,National,E92000001,England,Music,PG Salaried School Direct,SCITT,47,5,2,6,13
+202223,Academic year,National,E92000001,England,Music,PG Salaried School Direct,Total,49,5,2,6,12
+202223,Academic year,National,E92000001,England,Music,PG Total,HEI,380,181,68,216,57
+202223,Academic year,National,E92000001,England,Music,PG Total,SCITT,241,86,32,100,41
+202223,Academic year,National,E92000001,England,Music,PG Total,Total,492,267,100,316,64
+202223,Academic year,National,E92000001,England,Music,Total,HEI,380,181,68,216,57
+202223,Academic year,National,E92000001,England,Music,Total,SCITT,241,86,32,100,41
+202223,Academic year,National,E92000001,England,Music,Total,Total,492,267,100,316,64
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG fee-funded,HEI,11758,5126,66,6205,53
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG fee-funded,SCITT,6100,2226,29,2652,43
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG fee-funded,Total,13846,7352,95,8857,64
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried PGTA,HEI,197,21,0,24,12
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried PGTA,SCITT,789,163,2,170,22
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried PGTA,Total,935,184,2,194,21
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried School Direct,HEI,437,56,1,59,14
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried School Direct,SCITT,900,166,2,175,19
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried School Direct,Total,1178,222,3,234,20
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Total,HEI,12081,5203,67,6288,52
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Total,SCITT,7031,2555,33,2997,43
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Total,Total,14568,7758,100,9285,64
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,Total,HEI,12081,5203,67,6288,52
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,Total,SCITT,7031,2555,33,2997,43
+202223,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,Total,Total,14568,7758,100,9285,64
+202223,Academic year,National,E92000001,England,Others,PG fee-funded,HEI,826,250,65,321,39
+202223,Academic year,National,E92000001,England,Others,PG fee-funded,SCITT,476,120,31,159,33
+202223,Academic year,National,E92000001,England,Others,PG fee-funded,Total,1051,370,96,480,46
+202223,Academic year,National,E92000001,England,Others,PG Salaried PGTA,HEI,8,0,0,x,x
+202223,Academic year,National,E92000001,England,Others,PG Salaried PGTA,SCITT,27,7,2,x,x
+202223,Academic year,National,E92000001,England,Others,PG Salaried PGTA,Total,34,7,2,7,21
+202223,Academic year,National,E92000001,England,Others,PG Salaried School Direct,HEI,12,2,1,x,x
+202223,Academic year,National,E92000001,England,Others,PG Salaried School Direct,SCITT,27,8,2,x,x
+202223,Academic year,National,E92000001,England,Others,PG Salaried School Direct,Total,39,10,3,11,28
+202223,Academic year,National,E92000001,England,Others,PG Total,HEI,837,252,65,323,39
+202223,Academic year,National,E92000001,England,Others,PG Total,SCITT,517,135,35,175,34
+202223,Academic year,National,E92000001,England,Others,PG Total,Total,1093,387,100,498,46
+202223,Academic year,National,E92000001,England,Others,Total,HEI,837,252,65,323,39
+202223,Academic year,National,E92000001,England,Others,Total,SCITT,517,135,35,175,34
+202223,Academic year,National,E92000001,England,Others,Total,Total,1093,387,100,498,46
+202223,Academic year,National,E92000001,England,Physical Education,PG fee-funded,HEI,2239,975,66,1121,50
+202223,Academic year,National,E92000001,England,Physical Education,PG fee-funded,SCITT,1264,460,31,517,41
+202223,Academic year,National,E92000001,England,Physical Education,PG fee-funded,Total,2639,1435,97,1638,62
+202223,Academic year,National,E92000001,England,Physical Education,PG Salaried PGTA,HEI,57,7,0,9,16
+202223,Academic year,National,E92000001,England,Physical Education,PG Salaried PGTA,SCITT,44,7,0,8,18
+202223,Academic year,National,E92000001,England,Physical Education,PG Salaried PGTA,Total,96,14,1,17,18
+202223,Academic year,National,E92000001,England,Physical Education,PG Salaried School Direct,HEI,35,6,0,6,17
+202223,Academic year,National,E92000001,England,Physical Education,PG Salaried School Direct,SCITT,52,17,1,17,33
+202223,Academic year,National,E92000001,England,Physical Education,PG Salaried School Direct,Total,81,23,2,23,28
+202223,Academic year,National,E92000001,England,Physical Education,PG Total,HEI,2277,988,67,1136,50
+202223,Academic year,National,E92000001,England,Physical Education,PG Total,SCITT,1321,484,33,542,41
+202223,Academic year,National,E92000001,England,Physical Education,PG Total,Total,2699,1472,100,1678,62
+202223,Academic year,National,E92000001,England,Physical Education,Total,HEI,2277,988,67,1136,50
+202223,Academic year,National,E92000001,England,Physical Education,Total,SCITT,1321,484,33,542,41
+202223,Academic year,National,E92000001,England,Physical Education,Total,Total,2699,1472,100,1678,62
+202223,Academic year,National,E92000001,England,Physics,PG fee-funded,HEI,880,288,66,353,40
+202223,Academic year,National,E92000001,England,Physics,PG fee-funded,SCITT,373,128,29,147,39
+202223,Academic year,National,E92000001,England,Physics,PG fee-funded,Total,1040,416,95,500,48
+202223,Academic year,National,E92000001,England,Physics,PG Salaried PGTA,HEI,6,1,0,x,x
+202223,Academic year,National,E92000001,England,Physics,PG Salaried PGTA,SCITT,24,3,1,x,x
+202223,Academic year,National,E92000001,England,Physics,PG Salaried PGTA,Total,28,4,1,x,x
+202223,Academic year,National,E92000001,England,Physics,PG Salaried School Direct,HEI,37,4,1,5,14
+202223,Academic year,National,E92000001,England,Physics,PG Salaried School Direct,SCITT,111,13,3,16,14
+202223,Academic year,National,E92000001,England,Physics,PG Salaried School Direct,Total,131,17,4,21,16
+202223,Academic year,National,E92000001,England,Physics,PG Total,HEI,907,293,67,359,40
+202223,Academic year,National,E92000001,England,Physics,PG Total,SCITT,465,144,33,166,36
+202223,Academic year,National,E92000001,England,Physics,PG Total,Total,1119,437,100,525,47
+202223,Academic year,National,E92000001,England,Physics,Total,HEI,907,293,67,359,40
+202223,Academic year,National,E92000001,England,Physics,Total,SCITT,465,144,33,166,36
+202223,Academic year,National,E92000001,England,Physics,Total,Total,1119,437,100,525,47
+202223,Academic year,National,E92000001,England,Primary,PG fee-funded,HEI,14411,7286,65,8694,60
+202223,Academic year,National,E92000001,England,Primary,PG fee-funded,SCITT,7318,3054,27,3628,50
+202223,Academic year,National,E92000001,England,Primary,PG fee-funded,Total,17126,10340,92,12322,72
+202223,Academic year,National,E92000001,England,Primary,PG Salaried PGTA,HEI,777,120,1,128,16
+202223,Academic year,National,E92000001,England,Primary,PG Salaried PGTA,SCITT,1645,368,3,394,24
+202223,Academic year,National,E92000001,England,Primary,PG Salaried PGTA,Total,2167,488,4,522,24
+202223,Academic year,National,E92000001,England,Primary,PG Salaried School Direct,HEI,879,132,1,136,15
+202223,Academic year,National,E92000001,England,Primary,PG Salaried School Direct,SCITT,1462,229,2,245,17
+202223,Academic year,National,E92000001,England,Primary,PG Salaried School Direct,Total,2025,361,3,381,19
+202223,Academic year,National,E92000001,England,Primary,PG Total,HEI,15260,7538,67,8958,59
+202223,Academic year,National,E92000001,England,Primary,PG Total,SCITT,8962,3651,33,4267,48
+202223,Academic year,National,E92000001,England,Primary,PG Total,Total,18561,11189,100,13225,71
+202223,Academic year,National,E92000001,England,Primary,Total,HEI,15260,7538,67,8958,59
+202223,Academic year,National,E92000001,England,Primary,Total,SCITT,8962,3651,33,4267,48
+202223,Academic year,National,E92000001,England,Primary,Total,Total,18561,11189,100,13225,71
+202223,Academic year,National,E92000001,England,Religious Education,PG fee-funded,HEI,565,204,66,253,45
+202223,Academic year,National,E92000001,England,Religious Education,PG fee-funded,SCITT,252,73,24,83,33
+202223,Academic year,National,E92000001,England,Religious Education,PG fee-funded,Total,705,277,89,336,48
+202223,Academic year,National,E92000001,England,Religious Education,PG Salaried PGTA,HEI,2,0,0,x,x
+202223,Academic year,National,E92000001,England,Religious Education,PG Salaried PGTA,SCITT,65,16,5,16,25
+202223,Academic year,National,E92000001,England,Religious Education,PG Salaried PGTA,Total,66,16,5,16,24
+202223,Academic year,National,E92000001,England,Religious Education,PG Salaried School Direct,HEI,58,6,2,7,12
+202223,Academic year,National,E92000001,England,Religious Education,PG Salaried School Direct,SCITT,45,11,4,12,27
+202223,Academic year,National,E92000001,England,Religious Education,PG Salaried School Direct,Total,89,17,5,19,21
+202223,Academic year,National,E92000001,England,Religious Education,PG Total,HEI,604,210,68,260,43
+202223,Academic year,National,E92000001,England,Religious Education,PG Total,SCITT,332,100,32,111,33
+202223,Academic year,National,E92000001,England,Religious Education,PG Total,Total,777,310,100,371,48
+202223,Academic year,National,E92000001,England,Religious Education,Total,HEI,604,210,68,260,43
+202223,Academic year,National,E92000001,England,Religious Education,Total,SCITT,332,100,32,111,33
+202223,Academic year,National,E92000001,England,Religious Education,Total,Total,777,310,100,371,48
+202223,Academic year,National,E92000001,England,Secondary,PG fee-funded,HEI,18048,7586,65,9215,51
+202223,Academic year,National,E92000001,England,Secondary,PG fee-funded,SCITT,9384,3373,29,3989,43
+202223,Academic year,National,E92000001,England,Secondary,PG fee-funded,Total,21095,10959,95,13204,63
+202223,Academic year,National,E92000001,England,Secondary,PG Salaried PGTA,HEI,283,31,0,36,13
+202223,Academic year,National,E92000001,England,Secondary,PG Salaried PGTA,SCITT,1174,208,2,218,19
+202223,Academic year,National,E92000001,England,Secondary,PG Salaried PGTA,Total,1377,239,2,254,18
+202223,Academic year,National,E92000001,England,Secondary,PG Salaried School Direct,HEI,716,97,1,105,15
+202223,Academic year,National,E92000001,England,Secondary,PG Salaried School Direct,SCITT,1689,291,3,306,18
+202223,Academic year,National,E92000001,England,Secondary,PG Salaried School Direct,Total,2117,388,3,411,19
+202223,Academic year,National,E92000001,England,Secondary,PG Total,HEI,18554,7714,67,9356,50
+202223,Academic year,National,E92000001,England,Secondary,PG Total,SCITT,10914,3872,33,4513,41
+202223,Academic year,National,E92000001,England,Secondary,PG Total,Total,22216,11586,100,13869,62
+202223,Academic year,National,E92000001,England,Secondary,Total,HEI,18554,7714,67,9356,50
+202223,Academic year,National,E92000001,England,Secondary,Total,SCITT,10914,3872,33,4513,41
+202223,Academic year,National,E92000001,England,Secondary,Total,Total,22216,11586,100,13869,62
+202223,Academic year,National,E92000001,England,STEM Subjects,PG fee-funded,HEI,6662,2460,64,3010,45
+202223,Academic year,National,E92000001,England,STEM Subjects,PG fee-funded,SCITT,3434,1147,30,1337,39
+202223,Academic year,National,E92000001,England,STEM Subjects,PG fee-funded,Total,7813,3607,94,4347,56
+202223,Academic year,National,E92000001,England,STEM Subjects,PG Salaried PGTA,HEI,87,10,0,12,14
+202223,Academic year,National,E92000001,England,STEM Subjects,PG Salaried PGTA,SCITT,397,45,1,48,12
+202223,Academic year,National,E92000001,England,STEM Subjects,PG Salaried PGTA,Total,460,55,1,60,13
+202223,Academic year,National,E92000001,England,STEM Subjects,PG Salaried School Direct,HEI,286,41,1,46,16
+202223,Academic year,National,E92000001,England,STEM Subjects,PG Salaried School Direct,SCITT,812,125,3,131,16
+202223,Academic year,National,E92000001,England,STEM Subjects,PG Salaried School Direct,Total,972,166,4,177,18
+202223,Academic year,National,E92000001,England,STEM Subjects,PG Total,HEI,6867,2511,66,3068,45
+202223,Academic year,National,E92000001,England,STEM Subjects,PG Total,SCITT,4092,1317,34,1516,37
+202223,Academic year,National,E92000001,England,STEM Subjects,PG Total,Total,8296,3828,100,4584,55
+202223,Academic year,National,E92000001,England,STEM Subjects,Total,HEI,6867,2511,66,3068,45
+202223,Academic year,National,E92000001,England,STEM Subjects,Total,SCITT,4092,1317,34,1516,37
+202223,Academic year,National,E92000001,England,STEM Subjects,Total,Total,8296,3828,100,4584,55
+202223,Academic year,National,E92000001,England,Total,PG fee-funded,HEI,31020,14872,65,17909,58
+202223,Academic year,National,E92000001,England,Total,PG fee-funded,SCITT,16334,6427,28,7617,47
+202223,Academic year,National,E92000001,England,Total,PG fee-funded,Total,36284,21299,94,25526,70
+202223,Academic year,National,E92000001,England,Total,PG Salaried PGTA,HEI,1055,151,1,164,16
+202223,Academic year,National,E92000001,England,Total,PG Salaried PGTA,SCITT,2773,576,3,612,22
+202223,Academic year,National,E92000001,England,Total,PG Salaried PGTA,Total,3480,727,3,776,22
+202223,Academic year,National,E92000001,England,Total,PG Salaried School Direct,HEI,1575,229,1,241,15
+202223,Academic year,National,E92000001,England,Total,PG Salaried School Direct,SCITT,3094,520,2,551,18
+202223,Academic year,National,E92000001,England,Total,PG Salaried School Direct,Total,4039,749,3,792,20
+202223,Academic year,National,E92000001,England,Total,PG Total,HEI,32294,15252,67,18314,57
+202223,Academic year,National,E92000001,England,Total,PG Total,SCITT,19325,7523,33,8780,45
+202223,Academic year,National,E92000001,England,Total,PG Total,Total,38581,22775,100,27094,70
+202223,Academic year,National,E92000001,England,Total,Total,HEI,32294,15252,67,18314,57
+202223,Academic year,National,E92000001,England,Total,Total,SCITT,19325,7523,33,8780,45
+202223,Academic year,National,E92000001,England,Total,Total,Total,38581,22775,100,27094,70
+202324,Academic year,National,E92000001,England,Art & Design,PG fee-funded,HEI,882,296,69,374,42
+202324,Academic year,National,E92000001,England,Art & Design,PG fee-funded,SCITT,419,108,25,138,33
+202324,Academic year,National,E92000001,England,Art & Design,PG fee-funded,Total,1053,404,94,512,49
+202324,Academic year,National,E92000001,England,Art & Design,PG Salaried PGTA,HEI,6,0,0,x,x
+202324,Academic year,National,E92000001,England,Art & Design,PG Salaried PGTA,SCITT,65,16,4,18,28
+202324,Academic year,National,E92000001,England,Art & Design,PG Salaried PGTA,Total,67,16,4,18,27
+202324,Academic year,National,E92000001,England,Art & Design,PG Salaried School Direct,HEI,7,4,1,x,x
+202324,Academic year,National,E92000001,England,Art & Design,PG Salaried School Direct,SCITT,21,4,1,x,x
+202324,Academic year,National,E92000001,England,Art & Design,PG Salaried School Direct,Total,28,8,2,x,x
+202324,Academic year,National,E92000001,England,Art & Design,PG Total,HEI,893,300,70,378,42
+202324,Academic year,National,E92000001,England,Art & Design,PG Total,SCITT,470,128,30,160,34
+202324,Academic year,National,E92000001,England,Art & Design,PG Total,Total,1096,428,100,538,49
+202324,Academic year,National,E92000001,England,Art & Design,Total,HEI,893,300,70,378,42
+202324,Academic year,National,E92000001,England,Art & Design,Total,SCITT,470,128,30,160,34
+202324,Academic year,National,E92000001,England,Art & Design,Total,Total,1096,428,100,538,49
+202324,Academic year,National,E92000001,England,Biology,PG fee-funded,HEI,2222,552,64,669,30
+202324,Academic year,National,E92000001,England,Biology,PG fee-funded,SCITT,961,263,30,308,32
+202324,Academic year,National,E92000001,England,Biology,PG fee-funded,Total,2624,815,94,977,37
+202324,Academic year,National,E92000001,England,Biology,PG Salaried PGTA,HEI,8,4,0,x,x
+202324,Academic year,National,E92000001,England,Biology,PG Salaried PGTA,SCITT,158,16,2,19,12
+202324,Academic year,National,E92000001,England,Biology,PG Salaried PGTA,Total,166,20,2,22,13
+202324,Academic year,National,E92000001,England,Biology,PG Salaried School Direct,HEI,59,7,1,7,12
+202324,Academic year,National,E92000001,England,Biology,PG Salaried School Direct,SCITT,361,24,3,25,7
+202324,Academic year,National,E92000001,England,Biology,PG Salaried School Direct,Total,391,31,4,32,8
+202324,Academic year,National,E92000001,England,Biology,PG Total,HEI,2263,563,65,679,30
+202324,Academic year,National,E92000001,England,Biology,PG Total,SCITT,1304,303,35,352,27
+202324,Academic year,National,E92000001,England,Biology,PG Total,Total,2847,866,100,1031,36
+202324,Academic year,National,E92000001,England,Biology,Total,HEI,2263,563,65,679,30
+202324,Academic year,National,E92000001,England,Biology,Total,SCITT,1304,303,35,352,27
+202324,Academic year,National,E92000001,England,Biology,Total,Total,2847,866,100,1031,36
+202324,Academic year,National,E92000001,England,Business Studies,PG fee-funded,HEI,788,102,56,147,19
+202324,Academic year,National,E92000001,England,Business Studies,PG fee-funded,SCITT,340,49,27,72,21
+202324,Academic year,National,E92000001,England,Business Studies,PG fee-funded,Total,958,151,83,219,23
+202324,Academic year,National,E92000001,England,Business Studies,PG Salaried PGTA,HEI,4,0,0,x,x
+202324,Academic year,National,E92000001,England,Business Studies,PG Salaried PGTA,SCITT,123,14,8,15,12
+202324,Academic year,National,E92000001,England,Business Studies,PG Salaried PGTA,Total,124,14,8,15,12
+202324,Academic year,National,E92000001,England,Business Studies,PG Salaried School Direct,HEI,57,5,3,6,11
+202324,Academic year,National,E92000001,England,Business Studies,PG Salaried School Direct,SCITT,102,11,6,12,12
+202324,Academic year,National,E92000001,England,Business Studies,PG Salaried School Direct,Total,147,16,9,18,12
+202324,Academic year,National,E92000001,England,Business Studies,PG Total,HEI,830,107,59,153,18
+202324,Academic year,National,E92000001,England,Business Studies,PG Total,SCITT,467,74,41,99,21
+202324,Academic year,National,E92000001,England,Business Studies,PG Total,Total,1070,181,100,252,24
+202324,Academic year,National,E92000001,England,Business Studies,Total,HEI,830,107,59,153,18
+202324,Academic year,National,E92000001,England,Business Studies,Total,SCITT,467,74,41,99,21
+202324,Academic year,National,E92000001,England,Business Studies,Total,Total,1070,181,100,252,24
+202324,Academic year,National,E92000001,England,Chemistry,PG fee-funded,HEI,2006,484,62,583,29
+202324,Academic year,National,E92000001,England,Chemistry,PG fee-funded,SCITT,864,244,31,302,35
+202324,Academic year,National,E92000001,England,Chemistry,PG fee-funded,Total,2360,728,94,885,38
+202324,Academic year,National,E92000001,England,Chemistry,PG Salaried PGTA,HEI,5,0,0,x,x
+202324,Academic year,National,E92000001,England,Chemistry,PG Salaried PGTA,SCITT,97,5,1,5,5
+202324,Academic year,National,E92000001,England,Chemistry,PG Salaried PGTA,Total,101,5,1,5,5
+202324,Academic year,National,E92000001,England,Chemistry,PG Salaried School Direct,HEI,71,9,1,9,13
+202324,Academic year,National,E92000001,England,Chemistry,PG Salaried School Direct,SCITT,311,33,4,37,12
+202324,Academic year,National,E92000001,England,Chemistry,PG Salaried School Direct,Total,360,42,5,46,13
+202324,Academic year,National,E92000001,England,Chemistry,PG Total,HEI,2040,493,64,592,29
+202324,Academic year,National,E92000001,England,Chemistry,PG Total,SCITT,1127,282,36,344,31
+202324,Academic year,National,E92000001,England,Chemistry,PG Total,Total,2522,775,100,936,37
+202324,Academic year,National,E92000001,England,Chemistry,Total,HEI,2040,493,64,592,29
+202324,Academic year,National,E92000001,England,Chemistry,Total,SCITT,1127,282,36,344,31
+202324,Academic year,National,E92000001,England,Chemistry,Total,Total,2522,775,100,936,37
+202324,Academic year,National,E92000001,England,Classics,PG fee-funded,HEI,93,42,86,50,54
+202324,Academic year,National,E92000001,England,Classics,PG fee-funded,SCITT,24,7,14,x,x
+202324,Academic year,National,E92000001,England,Classics,PG fee-funded,Total,101,49,100,60,59
+202324,Academic year,National,E92000001,England,Classics,PG Salaried PGTA,HEI,0,0,0,0,0
+202324,Academic year,National,E92000001,England,Classics,PG Salaried PGTA,SCITT,1,0,0,x,x
+202324,Academic year,National,E92000001,England,Classics,PG Salaried PGTA,Total,1,0,0,x,x
+202324,Academic year,National,E92000001,England,Classics,PG Salaried School Direct,HEI,0,0,0,0,0
+202324,Academic year,National,E92000001,England,Classics,PG Salaried School Direct,SCITT,5,0,0,x,x
+202324,Academic year,National,E92000001,England,Classics,PG Salaried School Direct,Total,5,0,0,x,x
+202324,Academic year,National,E92000001,England,Classics,PG Total,HEI,93,42,86,50,54
+202324,Academic year,National,E92000001,England,Classics,PG Total,SCITT,28,7,14,x,x
+202324,Academic year,National,E92000001,England,Classics,PG Total,Total,105,49,100,60,57
+202324,Academic year,National,E92000001,England,Classics,Total,HEI,93,42,86,50,54
+202324,Academic year,National,E92000001,England,Classics,Total,SCITT,28,7,14,x,x
+202324,Academic year,National,E92000001,England,Classics,Total,Total,105,49,100,60,57
+202324,Academic year,National,E92000001,England,Computing,PG fee-funded,HEI,1374,282,64,343,25
+202324,Academic year,National,E92000001,England,Computing,PG fee-funded,SCITT,597,137,31,164,27
+202324,Academic year,National,E92000001,England,Computing,PG fee-funded,Total,1633,419,95,507,31
+202324,Academic year,National,E92000001,England,Computing,PG Salaried PGTA,HEI,11,1,0,x,x
+202324,Academic year,National,E92000001,England,Computing,PG Salaried PGTA,SCITT,70,2,0,2,3
+202324,Academic year,National,E92000001,England,Computing,PG Salaried PGTA,Total,78,3,1,3,4
+202324,Academic year,National,E92000001,England,Computing,PG Salaried School Direct,HEI,67,3,1,6,9
+202324,Academic year,National,E92000001,England,Computing,PG Salaried School Direct,SCITT,183,14,3,17,9
+202324,Academic year,National,E92000001,England,Computing,PG Salaried School Direct,Total,221,17,4,23,10
+202324,Academic year,National,E92000001,England,Computing,PG Total,HEI,1411,286,65,350,25
+202324,Academic year,National,E92000001,England,Computing,PG Total,SCITT,766,153,35,183,24
+202324,Academic year,National,E92000001,England,Computing,PG Total,Total,1751,439,100,533,30
+202324,Academic year,National,E92000001,England,Computing,Total,HEI,1411,286,65,350,25
+202324,Academic year,National,E92000001,England,Computing,Total,SCITT,766,153,35,183,24
+202324,Academic year,National,E92000001,England,Computing,Total,Total,1751,439,100,533,30
+202324,Academic year,National,E92000001,England,Design & Technology,PG fee-funded,HEI,786,253,45,296,38
+202324,Academic year,National,E92000001,England,Design & Technology,PG fee-funded,SCITT,643,257,46,302,47
+202324,Academic year,National,E92000001,England,Design & Technology,PG fee-funded,Total,1115,510,91,598,54
+202324,Academic year,National,E92000001,England,Design & Technology,PG Salaried PGTA,HEI,2,1,0,x,x
+202324,Academic year,National,E92000001,England,Design & Technology,PG Salaried PGTA,SCITT,27,9,2,x,x
+202324,Academic year,National,E92000001,England,Design & Technology,PG Salaried PGTA,Total,29,10,2,x,x
+202324,Academic year,National,E92000001,England,Design & Technology,PG Salaried School Direct,HEI,35,7,1,7,20
+202324,Academic year,National,E92000001,England,Design & Technology,PG Salaried School Direct,SCITT,123,31,6,39,32
+202324,Academic year,National,E92000001,England,Design & Technology,PG Salaried School Direct,Total,152,38,7,46,30
+202324,Academic year,National,E92000001,England,Design & Technology,PG Total,HEI,805,261,47,304,38
+202324,Academic year,National,E92000001,England,Design & Technology,PG Total,SCITT,728,297,53,351,48
+202324,Academic year,National,E92000001,England,Design & Technology,PG Total,Total,1201,558,100,655,55
+202324,Academic year,National,E92000001,England,Design & Technology,Total,HEI,805,261,47,304,38
+202324,Academic year,National,E92000001,England,Design & Technology,Total,SCITT,728,297,53,351,48
+202324,Academic year,National,E92000001,England,Design & Technology,Total,Total,1201,558,100,655,55
+202324,Academic year,National,E92000001,England,Drama,PG fee-funded,HEI,463,167,66,199,43
+202324,Academic year,National,E92000001,England,Drama,PG fee-funded,SCITT,254,73,29,89,35
+202324,Academic year,National,E92000001,England,Drama,PG fee-funded,Total,580,240,95,288,50
+202324,Academic year,National,E92000001,England,Drama,PG Salaried PGTA,HEI,2,1,0,x,x
+202324,Academic year,National,E92000001,England,Drama,PG Salaried PGTA,SCITT,37,11,4,11,30
+202324,Academic year,National,E92000001,England,Drama,PG Salaried PGTA,Total,39,12,5,12,31
+202324,Academic year,National,E92000001,England,Drama,PG Salaried School Direct,HEI,0,0,0,0,0
+202324,Academic year,National,E92000001,England,Drama,PG Salaried School Direct,SCITT,15,1,0,x,x
+202324,Academic year,National,E92000001,England,Drama,PG Salaried School Direct,Total,15,1,0,x,x
+202324,Academic year,National,E92000001,England,Drama,PG Total,HEI,463,168,66,200,43
+202324,Academic year,National,E92000001,England,Drama,PG Total,SCITT,288,85,34,101,35
+202324,Academic year,National,E92000001,England,Drama,PG Total,Total,610,253,100,301,49
+202324,Academic year,National,E92000001,England,Drama,Total,HEI,463,168,66,200,43
+202324,Academic year,National,E92000001,England,Drama,Total,SCITT,288,85,34,101,35
+202324,Academic year,National,E92000001,England,Drama,Total,Total,610,253,100,301,49
+202324,Academic year,National,E92000001,England,English,PG fee-funded,HEI,3829,1270,63,1482,39
+202324,Academic year,National,E92000001,England,English,PG fee-funded,SCITT,1865,587,29,692,37
+202324,Academic year,National,E92000001,England,English,PG fee-funded,Total,4611,1857,92,2174,47
+202324,Academic year,National,E92000001,England,English,PG Salaried PGTA,HEI,60,3,0,3,5
+202324,Academic year,National,E92000001,England,English,PG Salaried PGTA,SCITT,443,77,4,85,19
+202324,Academic year,National,E92000001,England,English,PG Salaried PGTA,Total,486,80,4,88,18
+202324,Academic year,National,E92000001,England,English,PG Salaried School Direct,HEI,207,25,1,27,13
+202324,Academic year,National,E92000001,England,English,PG Salaried School Direct,SCITT,371,67,3,79,21
+202324,Academic year,National,E92000001,England,English,PG Salaried School Direct,Total,517,92,5,106,21
+202324,Academic year,National,E92000001,England,English,PG Total,HEI,3970,1298,64,1512,38
+202324,Academic year,National,E92000001,England,English,PG Total,SCITT,2312,731,36,856,37
+202324,Academic year,National,E92000001,England,English,PG Total,Total,4985,2029,100,2368,48
+202324,Academic year,National,E92000001,England,English,Total,HEI,3970,1298,64,1512,38
+202324,Academic year,National,E92000001,England,English,Total,SCITT,2312,731,36,856,37
+202324,Academic year,National,E92000001,England,English,Total,Total,4985,2029,100,2368,48
+202324,Academic year,National,E92000001,England,Geography,PG fee-funded,HEI,1438,529,66,609,42
+202324,Academic year,National,E92000001,England,Geography,PG fee-funded,SCITT,706,242,30,271,38
+202324,Academic year,National,E92000001,England,Geography,PG fee-funded,Total,1717,771,96,880,51
+202324,Academic year,National,E92000001,England,Geography,PG Salaried PGTA,HEI,4,0,0,x,x
+202324,Academic year,National,E92000001,England,Geography,PG Salaried PGTA,SCITT,54,11,1,11,20
+202324,Academic year,National,E92000001,England,Geography,PG Salaried PGTA,Total,57,11,1,12,21
+202324,Academic year,National,E92000001,England,Geography,PG Salaried School Direct,HEI,42,1,0,1,2
+202324,Academic year,National,E92000001,England,Geography,PG Salaried School Direct,SCITT,120,23,3,24,20
+202324,Academic year,National,E92000001,England,Geography,PG Salaried School Direct,Total,152,24,3,25,16
+202324,Academic year,National,E92000001,England,Geography,PG Total,HEI,1463,530,66,611,42
+202324,Academic year,National,E92000001,England,Geography,PG Total,SCITT,812,276,34,306,38
+202324,Academic year,National,E92000001,England,Geography,PG Total,Total,1795,806,100,917,51
+202324,Academic year,National,E92000001,England,Geography,Total,HEI,1463,530,66,611,42
+202324,Academic year,National,E92000001,England,Geography,Total,SCITT,812,276,34,306,38
+202324,Academic year,National,E92000001,England,Geography,Total,Total,1795,806,100,917,51
+202324,Academic year,National,E92000001,England,History,PG fee-funded,HEI,1367,568,69,644,47
+202324,Academic year,National,E92000001,England,History,PG fee-funded,SCITT,632,213,26,253,40
+202324,Academic year,National,E92000001,England,History,PG fee-funded,Total,1614,781,95,897,56
+202324,Academic year,National,E92000001,England,History,PG Salaried PGTA,HEI,4,2,0,x,x
+202324,Academic year,National,E92000001,England,History,PG Salaried PGTA,SCITT,110,26,3,27,25
+202324,Academic year,National,E92000001,England,History,PG Salaried PGTA,Total,113,28,3,29,26
+202324,Academic year,National,E92000001,England,History,PG Salaried School Direct,HEI,37,3,0,3,8
+202324,Academic year,National,E92000001,England,History,PG Salaried School Direct,SCITT,113,14,2,15,13
+202324,Academic year,National,E92000001,England,History,PG Salaried School Direct,Total,132,17,2,18,14
+202324,Academic year,National,E92000001,England,History,PG Total,HEI,1396,573,69,649,46
+202324,Academic year,National,E92000001,England,History,PG Total,SCITT,760,253,31,295,39
+202324,Academic year,National,E92000001,England,History,PG Total,Total,1720,826,100,944,55
+202324,Academic year,National,E92000001,England,History,Total,HEI,1396,573,69,649,46
+202324,Academic year,National,E92000001,England,History,Total,SCITT,760,253,31,295,39
+202324,Academic year,National,E92000001,England,History,Total,Total,1720,826,100,944,55
+202324,Academic year,National,E92000001,England,Mathematics,PG fee-funded,HEI,4546,1091,61,1316,29
+202324,Academic year,National,E92000001,England,Mathematics,PG fee-funded,SCITT,2282,579,32,674,30
+202324,Academic year,National,E92000001,England,Mathematics,PG fee-funded,Total,5450,1670,93,1990,37
+202324,Academic year,National,E92000001,England,Mathematics,PG Salaried PGTA,HEI,62,5,0,6,10
+202324,Academic year,National,E92000001,England,Mathematics,PG Salaried PGTA,SCITT,418,28,2,32,8
+202324,Academic year,National,E92000001,England,Mathematics,PG Salaried PGTA,Total,461,33,2,38,8
+202324,Academic year,National,E92000001,England,Mathematics,PG Salaried School Direct,HEI,200,15,1,16,8
+202324,Academic year,National,E92000001,England,Mathematics,PG Salaried School Direct,SCITT,826,80,4,92,11
+202324,Academic year,National,E92000001,England,Mathematics,PG Salaried School Direct,Total,928,95,5,108,12
+202324,Academic year,National,E92000001,England,Mathematics,PG Total,HEI,4652,1111,62,1338,29
+202324,Academic year,National,E92000001,England,Mathematics,PG Total,SCITT,3002,687,38,798,27
+202324,Academic year,National,E92000001,England,Mathematics,PG Total,Total,5901,1798,100,2136,36
+202324,Academic year,National,E92000001,England,Mathematics,Total,HEI,4652,1111,62,1338,29
+202324,Academic year,National,E92000001,England,Mathematics,Total,SCITT,3002,687,38,798,27
+202324,Academic year,National,E92000001,England,Mathematics,Total,Total,5901,1798,100,2136,36
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,PG fee-funded,HEI,2019,661,65,794,39
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,PG fee-funded,SCITT,903,318,31,375,42
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,PG fee-funded,Total,2328,979,97,1169,50
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried PGTA,HEI,17,4,0,x,x
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried PGTA,SCITT,115,4,0,4,3
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried PGTA,Total,128,8,1,8,6
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried School Direct,HEI,31,4,0,4,13
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried School Direct,SCITT,154,21,2,22,14
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried School Direct,Total,171,25,2,26,15
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,PG Total,HEI,2041,669,66,802,39
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,PG Total,SCITT,1037,343,34,401,39
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,PG Total,Total,2400,1012,100,1203,50
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Total,HEI,2041,669,66,802,39
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Total,SCITT,1037,343,34,401,39
+202324,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Total,2400,1012,100,1203,50
+202324,Academic year,National,E92000001,England,Music,PG fee-funded,HEI,332,129,62,161,48
+202324,Academic year,National,E92000001,England,Music,PG fee-funded,SCITT,198,51,25,72,36
+202324,Academic year,National,E92000001,England,Music,PG fee-funded,Total,408,180,87,233,57
+202324,Academic year,National,E92000001,England,Music,PG Salaried PGTA,HEI,6,0,0,x,x
+202324,Academic year,National,E92000001,England,Music,PG Salaried PGTA,SCITT,65,15,7,16,25
+202324,Academic year,National,E92000001,England,Music,PG Salaried PGTA,Total,69,15,7,16,23
+202324,Academic year,National,E92000001,England,Music,PG Salaried School Direct,HEI,10,2,1,x,x
+202324,Academic year,National,E92000001,England,Music,PG Salaried School Direct,SCITT,41,10,5,9,22
+202324,Academic year,National,E92000001,England,Music,PG Salaried School Direct,Total,45,12,6,11,24
+202324,Academic year,National,E92000001,England,Music,PG Total,HEI,341,131,63,163,48
+202324,Academic year,National,E92000001,England,Music,PG Total,SCITT,256,76,37,97,38
+202324,Academic year,National,E92000001,England,Music,PG Total,Total,462,207,100,260,56
+202324,Academic year,National,E92000001,England,Music,Total,HEI,341,131,63,163,48
+202324,Academic year,National,E92000001,England,Music,Total,SCITT,256,76,37,97,38
+202324,Academic year,National,E92000001,England,Music,Total,Total,462,207,100,260,56
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG fee-funded,HEI,14349,5272,64,6266,44
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG fee-funded,SCITT,7431,2489,30,2972,40
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG fee-funded,Total,17049,7761,94,9238,54
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried PGTA,HEI,168,20,0,24,14
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried PGTA,SCITT,1220,237,3,254,21
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried PGTA,Total,1336,257,3,278,21
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried School Direct,HEI,475,61,1,64,13
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried School Direct,SCITT,1171,216,3,239,20
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried School Direct,Total,1498,277,3,303,20
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Total,HEI,14677,5353,65,6354,43
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Total,SCITT,8658,2942,35,3465,40
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Total,Total,17994,8295,100,9819,55
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,Total,HEI,14677,5353,65,6354,43
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,Total,SCITT,8658,2942,35,3465,40
+202324,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,Total,Total,17994,8295,100,9819,55
+202324,Academic year,National,E92000001,England,Others,PG fee-funded,HEI,1025,207,66,265,26
+202324,Academic year,National,E92000001,England,Others,PG fee-funded,SCITT,481,86,27,113,23
+202324,Academic year,National,E92000001,England,Others,PG fee-funded,Total,1283,293,93,378,29
+202324,Academic year,National,E92000001,England,Others,PG Salaried PGTA,HEI,21,2,1,x,x
+202324,Academic year,National,E92000001,England,Others,PG Salaried PGTA,SCITT,24,4,1,x,x
+202324,Academic year,National,E92000001,England,Others,PG Salaried PGTA,Total,45,6,2,7,16
+202324,Academic year,National,E92000001,England,Others,PG Salaried School Direct,HEI,16,3,1,x,x
+202324,Academic year,National,E92000001,England,Others,PG Salaried School Direct,SCITT,54,12,4,12,22
+202324,Academic year,National,E92000001,England,Others,PG Salaried School Direct,Total,70,15,5,15,21
+202324,Academic year,National,E92000001,England,Others,PG Total,HEI,1052,212,68,270,26
+202324,Academic year,National,E92000001,England,Others,PG Total,SCITT,538,102,32,130,24
+202324,Academic year,National,E92000001,England,Others,PG Total,Total,1350,314,100,400,30
+202324,Academic year,National,E92000001,England,Others,Total,HEI,1052,212,68,270,26
+202324,Academic year,National,E92000001,England,Others,Total,SCITT,538,102,32,130,24
+202324,Academic year,National,E92000001,England,Others,Total,Total,1350,314,100,400,30
+202324,Academic year,National,E92000001,England,Physical Education,PG fee-funded,HEI,2230,914,65,1069,48
+202324,Academic year,National,E92000001,England,Physical Education,PG fee-funded,SCITT,1188,438,31,513,43
+202324,Academic year,National,E92000001,England,Physical Education,PG fee-funded,Total,2648,1352,97,1582,60
+202324,Academic year,National,E92000001,England,Physical Education,PG Salaried PGTA,HEI,38,6,0,8,21
+202324,Academic year,National,E92000001,England,Physical Education,PG Salaried PGTA,SCITT,144,31,2,33,23
+202324,Academic year,National,E92000001,England,Physical Education,PG Salaried PGTA,Total,171,37,3,41,24
+202324,Academic year,National,E92000001,England,Physical Education,PG Salaried School Direct,HEI,37,4,0,4,11
+202324,Academic year,National,E92000001,England,Physical Education,PG Salaried School Direct,SCITT,46,8,1,8,17
+202324,Academic year,National,E92000001,England,Physical Education,PG Salaried School Direct,Total,75,12,1,12,16
+202324,Academic year,National,E92000001,England,Physical Education,PG Total,HEI,2266,924,66,1081,48
+202324,Academic year,National,E92000001,England,Physical Education,PG Total,SCITT,1285,477,34,554,43
+202324,Academic year,National,E92000001,England,Physical Education,PG Total,Total,2734,1401,100,1635,60
+202324,Academic year,National,E92000001,England,Physical Education,Total,HEI,2266,924,66,1081,48
+202324,Academic year,National,E92000001,England,Physical Education,Total,SCITT,1285,477,34,554,43
+202324,Academic year,National,E92000001,England,Physical Education,Total,Total,2734,1401,100,1635,60
+202324,Academic year,National,E92000001,England,Physics,PG fee-funded,HEI,2486,442,71,593,24
+202324,Academic year,National,E92000001,England,Physics,PG fee-funded,SCITT,787,158,25,186,24
+202324,Academic year,National,E92000001,England,Physics,PG fee-funded,Total,2807,600,96,779,28
+202324,Academic year,National,E92000001,England,Physics,PG Salaried PGTA,HEI,26,2,0,x,x
+202324,Academic year,National,E92000001,England,Physics,PG Salaried PGTA,SCITT,71,3,0,3,4
+202324,Academic year,National,E92000001,England,Physics,PG Salaried PGTA,Total,93,5,1,5,5
+202324,Academic year,National,E92000001,England,Physics,PG Salaried School Direct,HEI,69,0,0,0,0
+202324,Academic year,National,E92000001,England,Physics,PG Salaried School Direct,SCITT,308,17,3,17,6
+202324,Academic year,National,E92000001,England,Physics,PG Salaried School Direct,Total,350,17,3,17,5
+202324,Academic year,National,E92000001,England,Physics,PG Total,HEI,2525,444,71,595,24
+202324,Academic year,National,E92000001,England,Physics,PG Total,SCITT,1051,178,29,206,20
+202324,Academic year,National,E92000001,England,Physics,PG Total,Total,2944,622,100,801,27
+202324,Academic year,National,E92000001,England,Physics,Total,HEI,2525,444,71,595,24
+202324,Academic year,National,E92000001,England,Physics,Total,SCITT,1051,178,29,206,20
+202324,Academic year,National,E92000001,England,Physics,Total,Total,2944,622,100,801,27
+202324,Academic year,National,E92000001,England,Primary,PG fee-funded,HEI,14767,5745,62,6930,47
+202324,Academic year,National,E92000001,England,Primary,PG fee-funded,SCITT,7584,2643,29,3151,42
+202324,Academic year,National,E92000001,England,Primary,PG fee-funded,Total,17742,8388,90,10081,57
+202324,Academic year,National,E92000001,England,Primary,PG Salaried PGTA,HEI,818,107,1,117,14
+202324,Academic year,National,E92000001,England,Primary,PG Salaried PGTA,SCITT,2155,519,6,565,26
+202324,Academic year,National,E92000001,England,Primary,PG Salaried PGTA,Total,2609,626,7,682,26
+202324,Academic year,National,E92000001,England,Primary,PG Salaried School Direct,HEI,935,84,1,91,10
+202324,Academic year,National,E92000001,England,Primary,PG Salaried School Direct,SCITT,1041,173,2,185,18
+202324,Academic year,National,E92000001,England,Primary,PG Salaried School Direct,Total,1752,257,3,276,16
+202324,Academic year,National,E92000001,England,Primary,PG Total,HEI,15617,5936,64,7138,46
+202324,Academic year,National,E92000001,England,Primary,PG Total,SCITT,9349,3335,36,3901,42
+202324,Academic year,National,E92000001,England,Primary,PG Total,Total,19350,9271,100,11039,57
+202324,Academic year,National,E92000001,England,Primary,Total,HEI,15617,5936,64,7138,46
+202324,Academic year,National,E92000001,England,Primary,Total,SCITT,9349,3335,36,3901,42
+202324,Academic year,National,E92000001,England,Primary,Total,Total,19350,9271,100,11039,57
+202324,Academic year,National,E92000001,England,Religious Education,PG fee-funded,HEI,565,134,58,176,31
+202324,Academic year,National,E92000001,England,Religious Education,PG fee-funded,SCITT,264,60,26,72,27
+202324,Academic year,National,E92000001,England,Religious Education,PG fee-funded,Total,698,194,84,248,36
+202324,Academic year,National,E92000001,England,Religious Education,PG Salaried PGTA,HEI,6,1,0,x,x
+202324,Academic year,National,E92000001,England,Religious Education,PG Salaried PGTA,SCITT,63,19,8,19,30
+202324,Academic year,National,E92000001,England,Religious Education,PG Salaried PGTA,Total,67,20,9,21,31
+202324,Academic year,National,E92000001,England,Religious Education,PG Salaried School Direct,HEI,12,3,1,x,x
+202324,Academic year,National,E92000001,England,Religious Education,PG Salaried School Direct,SCITT,53,14,6,14,26
+202324,Academic year,National,E92000001,England,Religious Education,PG Salaried School Direct,Total,61,17,7,17,28
+202324,Academic year,National,E92000001,England,Religious Education,PG Total,HEI,578,138,60,181,31
+202324,Academic year,National,E92000001,England,Religious Education,PG Total,SCITT,341,93,40,105,31
+202324,Academic year,National,E92000001,England,Religious Education,PG Total,Total,770,231,100,286,37
+202324,Academic year,National,E92000001,England,Religious Education,Total,HEI,578,138,60,181,31
+202324,Academic year,National,E92000001,England,Religious Education,Total,SCITT,341,93,40,105,31
+202324,Academic year,National,E92000001,England,Religious Education,Total,Total,770,231,100,286,37
+202324,Academic year,National,E92000001,England,Secondary,PG fee-funded,HEI,24279,8123,63,9770,40
+202324,Academic year,National,E92000001,England,Secondary,PG fee-funded,SCITT,12172,3870,30,4606,38
+202324,Academic year,National,E92000001,England,Secondary,PG fee-funded,Total,28377,11993,94,14376,51
+202324,Academic year,National,E92000001,England,Secondary,PG Salaried PGTA,HEI,269,32,0,36,13
+202324,Academic year,National,E92000001,England,Secondary,PG Salaried PGTA,SCITT,1980,291,2,315,16
+202324,Academic year,National,E92000001,England,Secondary,PG Salaried PGTA,Total,2165,323,3,351,16
+202324,Academic year,National,E92000001,England,Secondary,PG Salaried School Direct,HEI,912,95,1,102,11
+202324,Academic year,National,E92000001,England,Secondary,PG Salaried School Direct,SCITT,2899,384,3,427,15
+202324,Academic year,National,E92000001,England,Secondary,PG Salaried School Direct,Total,3441,479,4,529,15
+202324,Academic year,National,E92000001,England,Secondary,PG Total,HEI,24793,8250,64,9908,40
+202324,Academic year,National,E92000001,England,Secondary,PG Total,SCITT,14732,4545,36,5348,36
+202324,Academic year,National,E92000001,England,Secondary,PG Total,Total,29951,12795,100,15256,51
+202324,Academic year,National,E92000001,England,Secondary,Total,HEI,24793,8250,64,9908,40
+202324,Academic year,National,E92000001,England,Secondary,Total,SCITT,14732,4545,36,5348,36
+202324,Academic year,National,E92000001,England,Secondary,Total,Total,29951,12795,100,15256,51
+202324,Academic year,National,E92000001,England,STEM Subjects,PG fee-funded,HEI,10813,2851,63,3504,32
+202324,Academic year,National,E92000001,England,STEM Subjects,PG fee-funded,SCITT,5017,1381,31,1634,33
+202324,Academic year,National,E92000001,England,STEM Subjects,PG fee-funded,Total,12529,4232,94,5138,41
+202324,Academic year,National,E92000001,England,STEM Subjects,PG Salaried PGTA,HEI,107,12,0,12,11
+202324,Academic year,National,E92000001,England,STEM Subjects,PG Salaried PGTA,SCITT,780,54,1,61,8
+202324,Academic year,National,E92000001,England,STEM Subjects,PG Salaried PGTA,Total,858,66,1,73,9
+202324,Academic year,National,E92000001,England,STEM Subjects,PG Salaried School Direct,HEI,450,34,1,38,8
+202324,Academic year,National,E92000001,England,STEM Subjects,PG Salaried School Direct,SCITT,1769,168,4,188,11
+202324,Academic year,National,E92000001,England,STEM Subjects,PG Salaried School Direct,Total,2009,202,4,226,11
+202324,Academic year,National,E92000001,England,STEM Subjects,PG Total,HEI,11030,2897,64,3554,32
+202324,Academic year,National,E92000001,England,STEM Subjects,PG Total,SCITT,6467,1603,36,1883,29
+202324,Academic year,National,E92000001,England,STEM Subjects,PG Total,Total,13286,4500,100,5437,41
+202324,Academic year,National,E92000001,England,STEM Subjects,Total,HEI,11030,2897,64,3554,32
+202324,Academic year,National,E92000001,England,STEM Subjects,Total,SCITT,6467,1603,36,1883,29
+202324,Academic year,National,E92000001,England,STEM Subjects,Total,Total,13286,4500,100,5437,41
+202324,Academic year,National,E92000001,England,Total,PG fee-funded,HEI,36514,13868,63,16700,46
+202324,Academic year,National,E92000001,England,Total,PG fee-funded,SCITT,19056,6513,30,7757,41
+202324,Academic year,National,E92000001,England,Total,PG fee-funded,Total,42779,20381,92,24457,57
+202324,Academic year,National,E92000001,England,Total,PG Salaried PGTA,HEI,1071,139,1,153,14
+202324,Academic year,National,E92000001,England,Total,PG Salaried PGTA,SCITT,4038,810,4,880,22
+202324,Academic year,National,E92000001,England,Total,PG Salaried PGTA,Total,4654,949,4,1033,22
+202324,Academic year,National,E92000001,England,Total,PG Salaried School Direct,HEI,1820,179,1,193,11
+202324,Academic year,National,E92000001,England,Total,PG Salaried School Direct,SCITT,3891,557,3,612,16
+202324,Academic year,National,E92000001,England,Total,PG Salaried School Direct,Total,5082,736,3,805,16
+202324,Academic year,National,E92000001,England,Total,PG Total,HEI,37761,14186,64,17046,45
+202324,Academic year,National,E92000001,England,Total,PG Total,SCITT,23088,7880,36,9249,40
+202324,Academic year,National,E92000001,England,Total,PG Total,Total,45608,22066,100,26295,58
+202324,Academic year,National,E92000001,England,Total,Total,HEI,37761,14186,64,17046,45
+202324,Academic year,National,E92000001,England,Total,Total,SCITT,23088,7880,36,9249,40
+202324,Academic year,National,E92000001,England,Total,Total,Total,45608,22066,100,26295,58
+202425,Academic year,National,E92000001,England,Art & Design,PG fee-funded,HEI,1311,508,65,557,42
+202425,Academic year,National,E92000001,England,Art & Design,PG fee-funded,SCITT,747,240,31,276,37
+202425,Academic year,National,E92000001,England,Art & Design,PG fee-funded,Total,1617,748,96,833,52
+202425,Academic year,National,E92000001,England,Art & Design,PG Salaried PGTA,HEI,53,4,1,4,8
+202425,Academic year,National,E92000001,England,Art & Design,PG Salaried PGTA,SCITT,120,17,2,18,15
+202425,Academic year,National,E92000001,England,Art & Design,PG Salaried PGTA,Total,163,21,3,22,13
+202425,Academic year,National,E92000001,England,Art & Design,PG Salaried School Direct,HEI,8,0,0,x,x
+202425,Academic year,National,E92000001,England,Art & Design,PG Salaried School Direct,SCITT,160,8,1,10,6
+202425,Academic year,National,E92000001,England,Art & Design,PG Salaried School Direct,Total,161,8,1,10,6
+202425,Academic year,National,E92000001,England,Art & Design,PG Total,HEI,1350,512,66,561,42
+202425,Academic year,National,E92000001,England,Art & Design,PG Total,SCITT,923,265,34,304,33
+202425,Academic year,National,E92000001,England,Art & Design,PG Total,Total,1761,777,100,865,49
+202425,Academic year,National,E92000001,England,Art & Design,Total,HEI,1350,512,66,561,42
+202425,Academic year,National,E92000001,England,Art & Design,Total,SCITT,923,265,34,304,33
+202425,Academic year,National,E92000001,England,Art & Design,Total,Total,1761,777,100,865,49
+202425,Academic year,National,E92000001,England,Biology,PG fee-funded,HEI,2984,661,57,771,26
+202425,Academic year,National,E92000001,England,Biology,PG fee-funded,SCITT,1263,443,38,531,42
+202425,Academic year,National,E92000001,England,Biology,PG fee-funded,Total,3540,1104,94,1302,37
+202425,Academic year,National,E92000001,England,Biology,PG Salaried PGTA,HEI,19,1,0,x,x
+202425,Academic year,National,E92000001,England,Biology,PG Salaried PGTA,SCITT,244,12,1,16,7
+202425,Academic year,National,E92000001,England,Biology,PG Salaried PGTA,Total,256,13,1,17,7
+202425,Academic year,National,E92000001,England,Biology,PG Salaried School Direct,HEI,87,3,0,4,5
+202425,Academic year,National,E92000001,England,Biology,PG Salaried School Direct,SCITT,1052,49,4,57,5
+202425,Academic year,National,E92000001,England,Biology,PG Salaried School Direct,Total,1075,52,4,61,6
+202425,Academic year,National,E92000001,England,Biology,PG Total,HEI,3045,665,57,776,25
+202425,Academic year,National,E92000001,England,Biology,PG Total,SCITT,2238,504,43,604,27
+202425,Academic year,National,E92000001,England,Biology,PG Total,Total,4080,1169,100,1380,34
+202425,Academic year,National,E92000001,England,Biology,Total,HEI,3045,665,57,776,25
+202425,Academic year,National,E92000001,England,Biology,Total,SCITT,2238,504,43,604,27
+202425,Academic year,National,E92000001,England,Biology,Total,Total,4080,1169,100,1380,34
+202425,Academic year,National,E92000001,England,Business Studies,PG fee-funded,HEI,832,102,60,126,15
+202425,Academic year,National,E92000001,England,Business Studies,PG fee-funded,SCITT,282,37,22,61,22
+202425,Academic year,National,E92000001,England,Business Studies,PG fee-funded,Total,973,139,82,187,19
+202425,Academic year,National,E92000001,England,Business Studies,PG Salaried PGTA,HEI,0,0,0,0,0
+202425,Academic year,National,E92000001,England,Business Studies,PG Salaried PGTA,SCITT,178,22,13,24,13
+202425,Academic year,National,E92000001,England,Business Studies,PG Salaried PGTA,Total,178,22,13,24,13
+202425,Academic year,National,E92000001,England,Business Studies,PG Salaried School Direct,HEI,61,3,2,3,5
+202425,Academic year,National,E92000001,England,Business Studies,PG Salaried School Direct,SCITT,172,6,4,8,5
+202425,Academic year,National,E92000001,England,Business Studies,PG Salaried School Direct,Total,206,9,5,11,5
+202425,Academic year,National,E92000001,England,Business Studies,PG Total,HEI,858,105,62,129,15
+202425,Academic year,National,E92000001,England,Business Studies,PG Total,SCITT,510,65,38,93,18
+202425,Academic year,National,E92000001,England,Business Studies,PG Total,Total,1151,170,100,222,19
+202425,Academic year,National,E92000001,England,Business Studies,Total,HEI,858,105,62,129,15
+202425,Academic year,National,E92000001,England,Business Studies,Total,SCITT,510,65,38,93,18
+202425,Academic year,National,E92000001,England,Business Studies,Total,Total,1151,170,100,222,19
+202425,Academic year,National,E92000001,England,Chemistry,PG fee-funded,HEI,2473,394,52,479,19
+202425,Academic year,National,E92000001,England,Chemistry,PG fee-funded,SCITT,784,292,38,326,42
+202425,Academic year,National,E92000001,England,Chemistry,PG fee-funded,Total,2790,686,90,805,29
+202425,Academic year,National,E92000001,England,Chemistry,PG Salaried PGTA,HEI,9,0,0,x,x
+202425,Academic year,National,E92000001,England,Chemistry,PG Salaried PGTA,SCITT,220,27,4,30,14
+202425,Academic year,National,E92000001,England,Chemistry,PG Salaried PGTA,Total,223,27,4,30,13
+202425,Academic year,National,E92000001,England,Chemistry,PG Salaried School Direct,HEI,64,2,0,2,3
+202425,Academic year,National,E92000001,England,Chemistry,PG Salaried School Direct,SCITT,804,49,6,55,7
+202425,Academic year,National,E92000001,England,Chemistry,PG Salaried School Direct,Total,829,51,7,57,7
+202425,Academic year,National,E92000001,England,Chemistry,PG Total,HEI,2512,396,52,481,19
+202425,Academic year,National,E92000001,England,Chemistry,PG Total,SCITT,1563,368,48,411,26
+202425,Academic year,National,E92000001,England,Chemistry,PG Total,Total,3214,764,100,892,28
+202425,Academic year,National,E92000001,England,Chemistry,Total,HEI,2512,396,52,481,19
+202425,Academic year,National,E92000001,England,Chemistry,Total,SCITT,1563,368,48,411,26
+202425,Academic year,National,E92000001,England,Chemistry,Total,Total,3214,764,100,892,28
+202425,Academic year,National,E92000001,England,Classics,PG fee-funded,HEI,102,43,84,49,48
+202425,Academic year,National,E92000001,England,Classics,PG fee-funded,SCITT,34,7,14,8,24
+202425,Academic year,National,E92000001,England,Classics,PG fee-funded,Total,112,50,98,57,51
+202425,Academic year,National,E92000001,England,Classics,PG Salaried PGTA,HEI,0,0,0,0,0
+202425,Academic year,National,E92000001,England,Classics,PG Salaried PGTA,SCITT,0,0,0,0,0
+202425,Academic year,National,E92000001,England,Classics,PG Salaried PGTA,Total,0,0,0,0,0
+202425,Academic year,National,E92000001,England,Classics,PG Salaried School Direct,HEI,0,0,0,0,0
+202425,Academic year,National,E92000001,England,Classics,PG Salaried School Direct,SCITT,5,1,2,x,x
+202425,Academic year,National,E92000001,England,Classics,PG Salaried School Direct,Total,5,1,2,x,x
+202425,Academic year,National,E92000001,England,Classics,PG Total,HEI,102,43,84,49,48
+202425,Academic year,National,E92000001,England,Classics,PG Total,SCITT,38,8,16,9,24
+202425,Academic year,National,E92000001,England,Classics,PG Total,Total,113,51,100,58,51
+202425,Academic year,National,E92000001,England,Classics,Total,HEI,102,43,84,49,48
+202425,Academic year,National,E92000001,England,Classics,Total,SCITT,38,8,16,9,24
+202425,Academic year,National,E92000001,England,Classics,Total,Total,113,51,100,58,51
+202425,Academic year,National,E92000001,England,Computing,PG fee-funded,HEI,1778,301,57,369,21
+202425,Academic year,National,E92000001,England,Computing,PG fee-funded,SCITT,728,179,34,217,30
+202425,Academic year,National,E92000001,England,Computing,PG fee-funded,Total,2088,480,92,586,28
+202425,Academic year,National,E92000001,England,Computing,PG Salaried PGTA,HEI,2,0,0,x,x
+202425,Academic year,National,E92000001,England,Computing,PG Salaried PGTA,SCITT,137,12,2,16,12
+202425,Academic year,National,E92000001,England,Computing,PG Salaried PGTA,Total,139,12,2,16,12
+202425,Academic year,National,E92000001,England,Computing,PG Salaried School Direct,HEI,43,2,0,3,7
+202425,Academic year,National,E92000001,England,Computing,PG Salaried School Direct,SCITT,504,30,6,32,6
+202425,Academic year,National,E92000001,England,Computing,PG Salaried School Direct,Total,514,32,6,35,7
+202425,Academic year,National,E92000001,England,Computing,PG Total,HEI,1804,303,58,372,21
+202425,Academic year,National,E92000001,England,Computing,PG Total,SCITT,1194,221,42,265,22
+202425,Academic year,National,E92000001,England,Computing,PG Total,Total,2347,524,100,637,27
+202425,Academic year,National,E92000001,England,Computing,Total,HEI,1804,303,58,372,21
+202425,Academic year,National,E92000001,England,Computing,Total,SCITT,1194,221,42,265,22
+202425,Academic year,National,E92000001,England,Computing,Total,Total,2347,524,100,637,27
+202425,Academic year,National,E92000001,England,Design & Technology,PG fee-funded,HEI,927,264,44,294,32
+202425,Academic year,National,E92000001,England,Design & Technology,PG fee-funded,SCITT,702,291,48,332,47
+202425,Academic year,National,E92000001,England,Design & Technology,PG fee-funded,Total,1296,555,92,626,48
+202425,Academic year,National,E92000001,England,Design & Technology,PG Salaried PGTA,HEI,44,3,0,4,9
+202425,Academic year,National,E92000001,England,Design & Technology,PG Salaried PGTA,SCITT,49,10,2,11,22
+202425,Academic year,National,E92000001,England,Design & Technology,PG Salaried PGTA,Total,89,13,2,15,17
+202425,Academic year,National,E92000001,England,Design & Technology,PG Salaried School Direct,HEI,63,5,1,5,8
+202425,Academic year,National,E92000001,England,Design & Technology,PG Salaried School Direct,SCITT,195,28,5,29,15
+202425,Academic year,National,E92000001,England,Design & Technology,PG Salaried School Direct,Total,245,33,5,34,14
+202425,Academic year,National,E92000001,England,Design & Technology,PG Total,HEI,980,272,45,303,31
+202425,Academic year,National,E92000001,England,Design & Technology,PG Total,SCITT,878,329,55,372,42
+202425,Academic year,National,E92000001,England,Design & Technology,PG Total,Total,1460,601,100,675,46
+202425,Academic year,National,E92000001,England,Design & Technology,Total,HEI,980,272,45,303,31
+202425,Academic year,National,E92000001,England,Design & Technology,Total,SCITT,878,329,55,372,42
+202425,Academic year,National,E92000001,England,Design & Technology,Total,Total,1460,601,100,675,46
+202425,Academic year,National,E92000001,England,Drama,PG fee-funded,HEI,461,143,62,173,38
+202425,Academic year,National,E92000001,England,Drama,PG fee-funded,SCITT,243,76,33,96,40
+202425,Academic year,National,E92000001,England,Drama,PG fee-funded,Total,574,219,94,269,47
+202425,Academic year,National,E92000001,England,Drama,PG Salaried PGTA,HEI,2,1,0,x,x
+202425,Academic year,National,E92000001,England,Drama,PG Salaried PGTA,SCITT,73,9,4,9,12
+202425,Academic year,National,E92000001,England,Drama,PG Salaried PGTA,Total,75,10,4,10,13
+202425,Academic year,National,E92000001,England,Drama,PG Salaried School Direct,HEI,7,0,0,x,x
+202425,Academic year,National,E92000001,England,Drama,PG Salaried School Direct,SCITT,27,3,1,x,x
+202425,Academic year,National,E92000001,England,Drama,PG Salaried School Direct,Total,31,3,1,3,10
+202425,Academic year,National,E92000001,England,Drama,PG Total,HEI,467,144,62,174,37
+202425,Academic year,National,E92000001,England,Drama,PG Total,SCITT,297,88,38,108,36
+202425,Academic year,National,E92000001,England,Drama,PG Total,Total,625,232,100,282,45
+202425,Academic year,National,E92000001,England,Drama,Total,HEI,467,144,62,174,37
+202425,Academic year,National,E92000001,England,Drama,Total,SCITT,297,88,38,108,36
+202425,Academic year,National,E92000001,England,Drama,Total,Total,625,232,100,282,45
+202425,Academic year,National,E92000001,England,English,PG fee-funded,HEI,3863,1193,58,1380,36
+202425,Academic year,National,E92000001,England,English,PG fee-funded,SCITT,1777,634,31,723,41
+202425,Academic year,National,E92000001,England,English,PG fee-funded,Total,4597,1827,89,2103,46
+202425,Academic year,National,E92000001,England,English,PG Salaried PGTA,HEI,99,6,0,6,6
+202425,Academic year,National,E92000001,England,English,PG Salaried PGTA,SCITT,488,60,3,67,14
+202425,Academic year,National,E92000001,England,English,PG Salaried PGTA,Total,546,66,3,73,13
+202425,Academic year,National,E92000001,England,English,PG Salaried School Direct,HEI,185,15,1,15,8
+202425,Academic year,National,E92000001,England,English,PG Salaried School Direct,SCITT,1132,151,7,162,14
+202425,Academic year,National,E92000001,England,English,PG Salaried School Direct,Total,1208,166,8,177,15
+202425,Academic year,National,E92000001,England,English,PG Total,HEI,4029,1214,59,1401,35
+202425,Academic year,National,E92000001,England,English,PG Total,SCITT,2817,845,41,952,34
+202425,Academic year,National,E92000001,England,English,PG Total,Total,5321,2059,100,2353,44
+202425,Academic year,National,E92000001,England,English,Total,HEI,4029,1214,59,1401,35
+202425,Academic year,National,E92000001,England,English,Total,SCITT,2817,845,41,952,34
+202425,Academic year,National,E92000001,England,English,Total,Total,5321,2059,100,2353,44
+202425,Academic year,National,E92000001,England,Geography,PG fee-funded,HEI,1535,493,62,559,36
+202425,Academic year,National,E92000001,England,Geography,PG fee-funded,SCITT,713,266,33,303,42
+202425,Academic year,National,E92000001,England,Geography,PG fee-funded,Total,1824,759,95,862,47
+202425,Academic year,National,E92000001,England,Geography,PG Salaried PGTA,HEI,6,1,0,x,x
+202425,Academic year,National,E92000001,England,Geography,PG Salaried PGTA,SCITT,129,14,2,18,14
+202425,Academic year,National,E92000001,England,Geography,PG Salaried PGTA,Total,135,15,2,19,14
+202425,Academic year,National,E92000001,England,Geography,PG Salaried School Direct,HEI,26,4,0,x,x
+202425,Academic year,National,E92000001,England,Geography,PG Salaried School Direct,SCITT,295,23,3,27,9
+202425,Academic year,National,E92000001,England,Geography,PG Salaried School Direct,Total,312,27,3,31,10
+202425,Academic year,National,E92000001,England,Geography,PG Total,HEI,1552,498,62,564,36
+202425,Academic year,National,E92000001,England,Geography,PG Total,SCITT,1011,303,38,348,34
+202425,Academic year,National,E92000001,England,Geography,PG Total,Total,2028,801,100,912,45
+202425,Academic year,National,E92000001,England,Geography,Total,HEI,1552,498,62,564,36
+202425,Academic year,National,E92000001,England,Geography,Total,SCITT,1011,303,38,348,34
+202425,Academic year,National,E92000001,England,Geography,Total,Total,2028,801,100,912,45
+202425,Academic year,National,E92000001,England,History,PG fee-funded,HEI,1369,498,63,580,42
+202425,Academic year,National,E92000001,England,History,PG fee-funded,SCITT,680,233,30,271,40
+202425,Academic year,National,E92000001,England,History,PG fee-funded,Total,1648,731,93,851,52
+202425,Academic year,National,E92000001,England,History,PG Salaried PGTA,HEI,12,1,0,x,x
+202425,Academic year,National,E92000001,England,History,PG Salaried PGTA,SCITT,246,48,6,51,21
+202425,Academic year,National,E92000001,England,History,PG Salaried PGTA,Total,254,49,6,52,20
+202425,Academic year,National,E92000001,England,History,PG Salaried School Direct,HEI,24,1,0,x,x
+202425,Academic year,National,E92000001,England,History,PG Salaried School Direct,SCITT,246,7,1,7,3
+202425,Academic year,National,E92000001,England,History,PG Salaried School Direct,Total,254,8,1,8,3
+202425,Academic year,National,E92000001,England,History,PG Total,HEI,1391,500,63,582,42
+202425,Academic year,National,E92000001,England,History,PG Total,SCITT,981,288,37,329,34
+202425,Academic year,National,E92000001,England,History,PG Total,Total,1891,788,100,911,48
+202425,Academic year,National,E92000001,England,History,Total,HEI,1391,500,63,582,42
+202425,Academic year,National,E92000001,England,History,Total,SCITT,981,288,37,329,34
+202425,Academic year,National,E92000001,England,History,Total,Total,1891,788,100,911,48
+202425,Academic year,National,E92000001,England,Mathematics,PG fee-funded,HEI,5688,1222,56,1434,25
+202425,Academic year,National,E92000001,England,Mathematics,PG fee-funded,SCITT,2561,783,36,913,36
+202425,Academic year,National,E92000001,England,Mathematics,PG fee-funded,Total,6689,2005,92,2347,35
+202425,Academic year,National,E92000001,England,Mathematics,PG Salaried PGTA,HEI,28,2,0,x,x
+202425,Academic year,National,E92000001,England,Mathematics,PG Salaried PGTA,SCITT,634,57,3,61,10
+202425,Academic year,National,E92000001,England,Mathematics,PG Salaried PGTA,Total,646,59,3,63,10
+202425,Academic year,National,E92000001,England,Mathematics,PG Salaried School Direct,HEI,208,12,1,12,6
+202425,Academic year,National,E92000001,England,Mathematics,PG Salaried School Direct,SCITT,1903,105,5,113,6
+202425,Academic year,National,E92000001,England,Mathematics,PG Salaried School Direct,Total,1976,117,5,125,6
+202425,Academic year,National,E92000001,England,Mathematics,PG Total,HEI,5813,1236,57,1448,25
+202425,Academic year,National,E92000001,England,Mathematics,PG Total,SCITT,4199,945,43,1087,26
+202425,Academic year,National,E92000001,England,Mathematics,PG Total,Total,7556,2181,100,2535,34
+202425,Academic year,National,E92000001,England,Mathematics,Total,HEI,5813,1236,57,1448,25
+202425,Academic year,National,E92000001,England,Mathematics,Total,SCITT,4199,945,43,1087,26
+202425,Academic year,National,E92000001,England,Mathematics,Total,Total,7556,2181,100,2535,34
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,PG fee-funded,HEI,2393,713,60,879,37
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,PG fee-funded,SCITT,1056,417,35,499,47
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,PG fee-funded,Total,2810,1130,96,1378,49
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried PGTA,HEI,14,0,0,x,x
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried PGTA,SCITT,191,19,2,23,12
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried PGTA,Total,201,19,2,24,12
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried School Direct,HEI,29,3,0,x,x
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried School Direct,SCITT,372,29,2,37,10
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried School Direct,Total,386,32,3,40,10
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,PG Total,HEI,2407,716,61,883,37
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,PG Total,SCITT,1362,465,39,559,41
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,PG Total,Total,2957,1181,100,1442,49
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Total,HEI,2407,716,61,883,37
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Total,SCITT,1362,465,39,559,41
+202425,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Total,2957,1181,100,1442,49
+202425,Academic year,National,E92000001,England,Music,PG fee-funded,HEI,415,172,55,196,47
+202425,Academic year,National,E92000001,England,Music,PG fee-funded,SCITT,273,101,33,120,44
+202425,Academic year,National,E92000001,England,Music,PG fee-funded,Total,539,273,88,316,59
+202425,Academic year,National,E92000001,England,Music,PG Salaried PGTA,HEI,0,0,0,0,0
+202425,Academic year,National,E92000001,England,Music,PG Salaried PGTA,SCITT,85,18,6,19,22
+202425,Academic year,National,E92000001,England,Music,PG Salaried PGTA,Total,85,18,6,19,22
+202425,Academic year,National,E92000001,England,Music,PG Salaried School Direct,HEI,12,1,0,x,x
+202425,Academic year,National,E92000001,England,Music,PG Salaried School Direct,SCITT,95,18,6,18,19
+202425,Academic year,National,E92000001,England,Music,PG Salaried School Direct,Total,98,19,6,19,19
+202425,Academic year,National,E92000001,England,Music,PG Total,HEI,422,173,56,197,47
+202425,Academic year,National,E92000001,England,Music,PG Total,SCITT,378,137,44,157,42
+202425,Academic year,National,E92000001,England,Music,PG Total,Total,618,310,100,354,57
+202425,Academic year,National,E92000001,England,Music,Total,HEI,422,173,56,197,47
+202425,Academic year,National,E92000001,England,Music,Total,SCITT,378,137,44,157,42
+202425,Academic year,National,E92000001,England,Music,Total,Total,618,310,100,354,57
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG fee-funded,HEI,16153,5430,60,6313,39
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG fee-funded,SCITT,8122,3018,33,3532,43
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG fee-funded,Total,19280,8448,93,9845,51
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried PGTA,HEI,287,24,0,26,9
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried PGTA,SCITT,1893,287,3,319,17
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried PGTA,Total,2085,311,3,345,17
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried School Direct,HEI,443,42,0,43,10
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried School Direct,SCITT,2942,317,3,350,12
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried School Direct,Total,3149,359,4,393,12
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Total,HEI,16511,5496,60,6382,39
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Total,SCITT,10897,3622,40,4201,39
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Total,Total,21131,9118,100,10583,50
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,Total,HEI,16511,5496,60,6382,39
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,Total,SCITT,10897,3622,40,4201,39
+202425,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,Total,Total,21131,9118,100,10583,50
+202425,Academic year,National,E92000001,England,Others,PG fee-funded,HEI,1213,214,64,255,21
+202425,Academic year,National,E92000001,England,Others,PG fee-funded,SCITT,442,99,29,130,29
+202425,Academic year,National,E92000001,England,Others,PG fee-funded,Total,1456,313,93,385,26
+202425,Academic year,National,E92000001,England,Others,PG Salaried PGTA,HEI,0,0,0,0,0
+202425,Academic year,National,E92000001,England,Others,PG Salaried PGTA,SCITT,69,14,4,14,20
+202425,Academic year,National,E92000001,England,Others,PG Salaried PGTA,Total,69,14,4,14,20
+202425,Academic year,National,E92000001,England,Others,PG Salaried School Direct,HEI,1,0,0,x,x
+202425,Academic year,National,E92000001,England,Others,PG Salaried School Direct,SCITT,97,9,3,10,10
+202425,Academic year,National,E92000001,England,Others,PG Salaried School Direct,Total,97,9,3,10,10
+202425,Academic year,National,E92000001,England,Others,PG Total,HEI,1214,214,64,255,21
+202425,Academic year,National,E92000001,England,Others,PG Total,SCITT,537,122,36,154,29
+202425,Academic year,National,E92000001,England,Others,PG Total,Total,1538,336,100,409,27
+202425,Academic year,National,E92000001,England,Others,Total,HEI,1214,214,64,255,21
+202425,Academic year,National,E92000001,England,Others,Total,SCITT,537,122,36,154,29
+202425,Academic year,National,E92000001,England,Others,Total,Total,1538,336,100,409,27
+202425,Academic year,National,E92000001,England,Physical Education,PG fee-funded,HEI,2737,868,61,1002,37
+202425,Academic year,National,E92000001,England,Physical Education,PG fee-funded,SCITT,1253,486,34,556,44
+202425,Academic year,National,E92000001,England,Physical Education,PG fee-funded,Total,3204,1354,96,1558,49
+202425,Academic year,National,E92000001,England,Physical Education,PG Salaried PGTA,HEI,47,6,0,6,13
+202425,Academic year,National,E92000001,England,Physical Education,PG Salaried PGTA,SCITT,244,36,3,42,17
+202425,Academic year,National,E92000001,England,Physical Education,PG Salaried PGTA,Total,279,42,3,48,17
+202425,Academic year,National,E92000001,England,Physical Education,PG Salaried School Direct,HEI,18,3,0,x,x
+202425,Academic year,National,E92000001,England,Physical Education,PG Salaried School Direct,SCITT,133,14,1,15,11
+202425,Academic year,National,E92000001,England,Physical Education,PG Salaried School Direct,Total,143,17,1,19,13
+202425,Academic year,National,E92000001,England,Physical Education,PG Total,HEI,2767,877,62,1012,37
+202425,Academic year,National,E92000001,England,Physical Education,PG Total,SCITT,1429,536,38,613,43
+202425,Academic year,National,E92000001,England,Physical Education,PG Total,Total,3360,1413,100,1625,48
+202425,Academic year,National,E92000001,England,Physical Education,Total,HEI,2767,877,62,1012,37
+202425,Academic year,National,E92000001,England,Physical Education,Total,SCITT,1429,536,38,613,43
+202425,Academic year,National,E92000001,England,Physical Education,Total,Total,3360,1413,100,1625,48
+202425,Academic year,National,E92000001,England,Physics,PG fee-funded,HEI,4435,605,67,887,20
+202425,Academic year,National,E92000001,England,Physics,PG fee-funded,SCITT,1088,257,28,308,28
+202425,Academic year,National,E92000001,England,Physics,PG fee-funded,Total,4928,862,95,1195,24
+202425,Academic year,National,E92000001,England,Physics,PG Salaried PGTA,HEI,17,3,0,x,x
+202425,Academic year,National,E92000001,England,Physics,PG Salaried PGTA,SCITT,201,13,1,17,8
+202425,Academic year,National,E92000001,England,Physics,PG Salaried PGTA,Total,213,16,2,20,9
+202425,Academic year,National,E92000001,England,Physics,PG Salaried School Direct,HEI,129,3,0,3,2
+202425,Academic year,National,E92000001,England,Physics,PG Salaried School Direct,SCITT,1561,25,3,26,2
+202425,Academic year,National,E92000001,England,Physics,PG Salaried School Direct,Total,1601,28,3,29,2
+202425,Academic year,National,E92000001,England,Physics,PG Total,HEI,4497,611,67,893,20
+202425,Academic year,National,E92000001,England,Physics,PG Total,SCITT,2509,295,33,351,14
+202425,Academic year,National,E92000001,England,Physics,PG Total,Total,5363,906,100,1244,23
+202425,Academic year,National,E92000001,England,Physics,Total,HEI,4497,611,67,893,20
+202425,Academic year,National,E92000001,England,Physics,Total,SCITT,2509,295,33,351,14
+202425,Academic year,National,E92000001,England,Physics,Total,Total,5363,906,100,1244,23
+202425,Academic year,National,E92000001,England,Primary,PG fee-funded,HEI,13575,5082,58,5999,44
+202425,Academic year,National,E92000001,England,Primary,PG fee-funded,SCITT,7499,2806,32,3383,45
+202425,Academic year,National,E92000001,England,Primary,PG fee-funded,Total,17017,7888,90,9382,55
+202425,Academic year,National,E92000001,England,Primary,PG Salaried PGTA,HEI,1198,116,1,116,10
+202425,Academic year,National,E92000001,England,Primary,PG Salaried PGTA,SCITT,3307,619,7,738,22
+202425,Academic year,National,E92000001,England,Primary,PG Salaried PGTA,Total,3882,735,8,854,22
+202425,Academic year,National,E92000001,England,Primary,PG Salaried School Direct,HEI,255,32,0,32,13
+202425,Academic year,National,E92000001,England,Primary,PG Salaried School Direct,SCITT,1405,125,1,141,10
+202425,Academic year,National,E92000001,England,Primary,PG Salaried School Direct,Total,1558,157,2,173,11
+202425,Academic year,National,E92000001,England,Primary,PG Total,HEI,14429,5230,60,6147,43
+202425,Academic year,National,E92000001,England,Primary,PG Total,SCITT,9907,3550,40,4262,43
+202425,Academic year,National,E92000001,England,Primary,PG Total,Total,19237,8780,100,10409,54
+202425,Academic year,National,E92000001,England,Primary,Total,HEI,14429,5230,60,6147,43
+202425,Academic year,National,E92000001,England,Primary,Total,SCITT,9907,3550,40,4262,43
+202425,Academic year,National,E92000001,England,Primary,Total,Total,19237,8780,100,10409,54
+202425,Academic year,National,E92000001,England,Religious Education,PG fee-funded,HEI,902,219,55,263,29
+202425,Academic year,National,E92000001,England,Religious Education,PG fee-funded,SCITT,461,131,33,157,34
+202425,Academic year,National,E92000001,England,Religious Education,PG fee-funded,Total,1158,350,88,420,36
+202425,Academic year,National,E92000001,England,Religious Education,PG Salaried PGTA,HEI,15,2,1,x,x
+202425,Academic year,National,E92000001,England,Religious Education,PG Salaried PGTA,SCITT,144,20,5,23,16
+202425,Academic year,National,E92000001,England,Religious Education,PG Salaried PGTA,Total,151,22,6,25,17
+202425,Academic year,National,E92000001,England,Religious Education,PG Salaried School Direct,HEI,21,7,2,x,x
+202425,Academic year,National,E92000001,England,Religious Education,PG Salaried School Direct,SCITT,271,20,5,23,8
+202425,Academic year,National,E92000001,England,Religious Education,PG Salaried School Direct,Total,285,27,7,30,11
+202425,Academic year,National,E92000001,England,Religious Education,PG Total,HEI,927,228,57,272,29
+202425,Academic year,National,E92000001,England,Religious Education,PG Total,SCITT,763,171,43,203,27
+202425,Academic year,National,E92000001,England,Religious Education,PG Total,Total,1389,399,100,475,34
+202425,Academic year,National,E92000001,England,Religious Education,Total,HEI,927,228,57,272,29
+202425,Academic year,National,E92000001,England,Religious Education,Total,SCITT,763,171,43,203,27
+202425,Academic year,National,E92000001,England,Religious Education,Total,Total,1389,399,100,475,34
+202425,Academic year,National,E92000001,England,Secondary,PG fee-funded,HEI,29354,8613,59,10253,35
+202425,Academic year,National,E92000001,England,Secondary,PG fee-funded,SCITT,13811,4972,34,5827,42
+202425,Academic year,National,E92000001,England,Secondary,PG fee-funded,Total,34382,13585,93,16080,47
+202425,Academic year,National,E92000001,England,Secondary,PG Salaried PGTA,HEI,361,30,0,32,9
+202425,Academic year,National,E92000001,England,Secondary,PG Salaried PGTA,SCITT,3194,408,3,459,14
+202425,Academic year,National,E92000001,England,Secondary,PG Salaried PGTA,Total,3414,438,3,491,14
+202425,Academic year,National,E92000001,England,Secondary,PG Salaried School Direct,HEI,944,64,0,67,7
+202425,Academic year,National,E92000001,England,Secondary,PG Salaried School Direct,SCITT,7682,575,4,633,8
+202425,Academic year,National,E92000001,England,Secondary,PG Salaried School Direct,Total,8019,639,4,700,9
+202425,Academic year,National,E92000001,England,Secondary,PG Total,HEI,29957,8707,59,10352,35
+202425,Academic year,National,E92000001,England,Secondary,PG Total,SCITT,20509,5955,41,6919,34
+202425,Academic year,National,E92000001,England,Secondary,PG Total,Total,37561,14662,100,17271,46
+202425,Academic year,National,E92000001,England,Secondary,Total,HEI,29957,8707,59,10352,35
+202425,Academic year,National,E92000001,England,Secondary,Total,SCITT,20509,5955,41,6919,34
+202425,Academic year,National,E92000001,England,Secondary,Total,Total,37561,14662,100,17271,46
+202425,Academic year,National,E92000001,England,STEM Subjects,PG fee-funded,HEI,14753,3183,57,3940,27
+202425,Academic year,National,E92000001,England,STEM Subjects,PG fee-funded,SCITT,5971,1954,35,2295,38
+202425,Academic year,National,E92000001,England,STEM Subjects,PG fee-funded,Total,16926,5137,93,6235,37
+202425,Academic year,National,E92000001,England,STEM Subjects,PG Salaried PGTA,HEI,75,6,0,6,8
+202425,Academic year,National,E92000001,England,STEM Subjects,PG Salaried PGTA,SCITT,1350,121,2,140,10
+202425,Academic year,National,E92000001,England,STEM Subjects,PG Salaried PGTA,Total,1386,127,2,146,11
+202425,Academic year,National,E92000001,England,STEM Subjects,PG Salaried School Direct,HEI,514,22,0,24,5
+202425,Academic year,National,E92000001,England,STEM Subjects,PG Salaried School Direct,SCITT,5002,258,5,283,6
+202425,Academic year,National,E92000001,England,STEM Subjects,PG Salaried School Direct,Total,5145,280,5,307,6
+202425,Academic year,National,E92000001,England,STEM Subjects,PG Total,HEI,15020,3211,58,3970,26
+202425,Academic year,National,E92000001,England,STEM Subjects,PG Total,SCITT,10250,2333,42,2718,27
+202425,Academic year,National,E92000001,England,STEM Subjects,PG Total,Total,18592,5544,100,6688,36
+202425,Academic year,National,E92000001,England,STEM Subjects,Total,HEI,15020,3211,58,3970,26
+202425,Academic year,National,E92000001,England,STEM Subjects,Total,SCITT,10250,2333,42,2718,27
+202425,Academic year,National,E92000001,England,STEM Subjects,Total,Total,18592,5544,100,6688,36
+202425,Academic year,National,E92000001,England,Total,PG fee-funded,HEI,39910,13695,58,16252,41
+202425,Academic year,National,E92000001,England,Total,PG fee-funded,SCITT,20547,7778,33,9210,45
+202425,Academic year,National,E92000001,England,Total,PG fee-funded,Total,47622,21473,92,25462,53
+202425,Academic year,National,E92000001,England,Total,PG Salaried PGTA,HEI,1545,146,1,148,10
+202425,Academic year,National,E92000001,England,Total,PG Salaried PGTA,SCITT,6292,1027,4,1197,19
+202425,Academic year,National,E92000001,England,Total,PG Salaried PGTA,Total,7050,1173,5,1345,19
+202425,Academic year,National,E92000001,England,Total,PG Salaried School Direct,HEI,1193,96,0,99,8
+202425,Academic year,National,E92000001,England,Total,PG Salaried School Direct,SCITT,8946,700,3,774,9
+202425,Academic year,National,E92000001,England,Total,PG Salaried School Direct,Total,9408,796,3,873,9
+202425,Academic year,National,E92000001,England,Total,PG Total,HEI,41265,13937,59,16499,40
+202425,Academic year,National,E92000001,England,Total,PG Total,SCITT,29109,9505,41,11181,38
+202425,Academic year,National,E92000001,England,Total,PG Total,Total,52405,23442,100,27680,53
+202425,Academic year,National,E92000001,England,Total,Total,HEI,41265,13937,59,16499,40
+202425,Academic year,National,E92000001,England,Total,Total,SCITT,29109,9505,41,11181,38
+202425,Academic year,National,E92000001,England,Total,Total,Total,52405,23442,100,27680,53
+202526,Academic year,National,E92000001,England,Art & Design,PG fee-funded,HEI,1527,546,62,603,39
+202526,Academic year,National,E92000001,England,Art & Design,PG fee-funded,SCITT,876,312,35,378,43
+202526,Academic year,National,E92000001,England,Art & Design,PG fee-funded,Total,1902,858,97,981,52
+202526,Academic year,National,E92000001,England,Art & Design,PG Salaried PGTA,HEI,23,1,0,x,x
+202526,Academic year,National,E92000001,England,Art & Design,PG Salaried PGTA,SCITT,133,9,1,9,7
+202526,Academic year,National,E92000001,England,Art & Design,PG Salaried PGTA,Total,150,10,1,10,7
+202526,Academic year,National,E92000001,England,Art & Design,PG Salaried School Direct,HEI,13,1,0,x,x
+202526,Academic year,National,E92000001,England,Art & Design,PG Salaried School Direct,SCITT,271,16,2,17,6
+202526,Academic year,National,E92000001,England,Art & Design,PG Salaried School Direct,Total,276,17,2,18,7
+202526,Academic year,National,E92000001,England,Art & Design,PG Total,HEI,1546,548,62,605,39
+202526,Academic year,National,E92000001,England,Art & Design,PG Total,SCITT,1121,337,38,404,36
+202526,Academic year,National,E92000001,England,Art & Design,PG Total,Total,2070,885,100,1009,49
+202526,Academic year,National,E92000001,England,Art & Design,Total,HEI,1546,548,62,605,39
+202526,Academic year,National,E92000001,England,Art & Design,Total,SCITT,1121,337,38,404,36
+202526,Academic year,National,E92000001,England,Art & Design,Total,Total,2070,885,100,1009,49
+202526,Academic year,National,E92000001,England,Art & Design,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Art & Design,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Art & Design,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Biology,PG fee-funded,HEI,3195,778,57,898,28
+202526,Academic year,National,E92000001,England,Biology,PG fee-funded,SCITT,1576,526,39,622,39
+202526,Academic year,National,E92000001,England,Biology,PG fee-funded,Total,3795,1304,96,1520,40
+202526,Academic year,National,E92000001,England,Biology,PG Salaried PGTA,HEI,45,0,0,0,0
+202526,Academic year,National,E92000001,England,Biology,PG Salaried PGTA,SCITT,223,14,1,18,8
+202526,Academic year,National,E92000001,England,Biology,PG Salaried PGTA,Total,258,14,1,18,7
+202526,Academic year,National,E92000001,England,Biology,PG Salaried School Direct,HEI,32,1,0,1,3
+202526,Academic year,National,E92000001,England,Biology,PG Salaried School Direct,SCITT,819,41,3,44,5
+202526,Academic year,National,E92000001,England,Biology,PG Salaried School Direct,Total,829,42,3,45,5
+202526,Academic year,National,E92000001,England,Biology,PG Total,HEI,3244,779,57,899,28
+202526,Academic year,National,E92000001,England,Biology,PG Total,SCITT,2216,581,43,684,31
+202526,Academic year,National,E92000001,England,Biology,PG Total,Total,4201,1360,100,1583,38
+202526,Academic year,National,E92000001,England,Biology,Total,HEI,3244,779,57,899,28
+202526,Academic year,National,E92000001,England,Biology,Total,SCITT,2216,581,43,684,31
+202526,Academic year,National,E92000001,England,Biology,Total,Total,4201,1360,100,1583,38
+202526,Academic year,National,E92000001,England,Biology,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Biology,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Biology,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Business Studies,PG fee-funded,HEI,804,139,63,176,22
+202526,Academic year,National,E92000001,England,Business Studies,PG fee-funded,SCITT,337,56,26,78,23
+202526,Academic year,National,E92000001,England,Business Studies,PG fee-funded,Total,969,195,89,254,26
+202526,Academic year,National,E92000001,England,Business Studies,PG Salaried PGTA,HEI,7,1,0,x,x
+202526,Academic year,National,E92000001,England,Business Studies,PG Salaried PGTA,SCITT,204,18,8,20,10
+202526,Academic year,National,E92000001,England,Business Studies,PG Salaried PGTA,Total,205,19,9,21,10
+202526,Academic year,National,E92000001,England,Business Studies,PG Salaried School Direct,HEI,5,1,0,x,x
+202526,Academic year,National,E92000001,England,Business Studies,PG Salaried School Direct,SCITT,215,4,2,6,3
+202526,Academic year,National,E92000001,England,Business Studies,PG Salaried School Direct,Total,217,5,2,8,4
+202526,Academic year,National,E92000001,England,Business Studies,PG Total,HEI,813,141,64,179,22
+202526,Academic year,National,E92000001,England,Business Studies,PG Total,SCITT,571,78,36,104,18
+202526,Academic year,National,E92000001,England,Business Studies,PG Total,Total,1147,219,100,283,25
+202526,Academic year,National,E92000001,England,Business Studies,Total,HEI,813,141,64,179,22
+202526,Academic year,National,E92000001,England,Business Studies,Total,SCITT,571,78,36,104,18
+202526,Academic year,National,E92000001,England,Business Studies,Total,Total,1147,219,100,283,25
+202526,Academic year,National,E92000001,England,Business Studies,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Business Studies,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Business Studies,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Chemistry,PG fee-funded,HEI,2262,472,53,537,24
+202526,Academic year,National,E92000001,England,Chemistry,PG fee-funded,SCITT,928,337,38,389,42
+202526,Academic year,National,E92000001,England,Chemistry,PG fee-funded,Total,2660,809,91,926,35
+202526,Academic year,National,E92000001,England,Chemistry,PG Salaried PGTA,HEI,30,4,0,4,13
+202526,Academic year,National,E92000001,England,Chemistry,PG Salaried PGTA,SCITT,194,29,3,30,15
+202526,Academic year,National,E92000001,England,Chemistry,PG Salaried PGTA,Total,214,33,4,34,16
+202526,Academic year,National,E92000001,England,Chemistry,PG Salaried School Direct,HEI,48,4,0,4,8
+202526,Academic year,National,E92000001,England,Chemistry,PG Salaried School Direct,SCITT,626,45,5,47,8
+202526,Academic year,National,E92000001,England,Chemistry,PG Salaried School Direct,Total,637,49,5,51,8
+202526,Academic year,National,E92000001,England,Chemistry,PG Total,HEI,2307,480,54,545,24
+202526,Academic year,National,E92000001,England,Chemistry,PG Total,SCITT,1475,411,46,466,32
+202526,Academic year,National,E92000001,England,Chemistry,PG Total,Total,2993,891,100,1011,34
+202526,Academic year,National,E92000001,England,Chemistry,Total,HEI,2307,480,54,545,24
+202526,Academic year,National,E92000001,England,Chemistry,Total,SCITT,1475,411,46,466,32
+202526,Academic year,National,E92000001,England,Chemistry,Total,Total,2993,891,100,1011,34
+202526,Academic year,National,E92000001,England,Chemistry,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Chemistry,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Chemistry,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Classics,PG fee-funded,HEI,106,36,86,43,41
+202526,Academic year,National,E92000001,England,Classics,PG fee-funded,SCITT,22,5,12,x,x
+202526,Academic year,National,E92000001,England,Classics,PG fee-funded,Total,109,41,98,49,45
+202526,Academic year,National,E92000001,England,Classics,PG Salaried PGTA,HEI,3,0,0,x,x
+202526,Academic year,National,E92000001,England,Classics,PG Salaried PGTA,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Classics,PG Salaried PGTA,Total,3,0,0,x,x
+202526,Academic year,National,E92000001,England,Classics,PG Salaried School Direct,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Classics,PG Salaried School Direct,SCITT,8,1,2,x,x
+202526,Academic year,National,E92000001,England,Classics,PG Salaried School Direct,Total,8,1,2,x,x
+202526,Academic year,National,E92000001,England,Classics,PG Total,HEI,106,36,86,43,41
+202526,Academic year,National,E92000001,England,Classics,PG Total,SCITT,29,6,14,x,x
+202526,Academic year,National,E92000001,England,Classics,PG Total,Total,112,42,100,50,45
+202526,Academic year,National,E92000001,England,Classics,Total,HEI,106,36,86,43,41
+202526,Academic year,National,E92000001,England,Classics,Total,SCITT,29,6,14,x,x
+202526,Academic year,National,E92000001,England,Classics,Total,Total,112,42,100,50,45
+202526,Academic year,National,E92000001,England,Classics,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Classics,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Classics,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Computing,PG fee-funded,HEI,2017,438,59,499,25
+202526,Academic year,National,E92000001,England,Computing,PG fee-funded,SCITT,967,269,36,341,35
+202526,Academic year,National,E92000001,England,Computing,PG fee-funded,Total,2427,707,95,840,35
+202526,Academic year,National,E92000001,England,Computing,PG Salaried PGTA,HEI,14,0,0,x,x
+202526,Academic year,National,E92000001,England,Computing,PG Salaried PGTA,SCITT,203,15,2,16,8
+202526,Academic year,National,E92000001,England,Computing,PG Salaried PGTA,Total,210,15,2,16,8
+202526,Academic year,National,E92000001,England,Computing,PG Salaried School Direct,HEI,12,2,0,x,x
+202526,Academic year,National,E92000001,England,Computing,PG Salaried School Direct,SCITT,486,18,2,23,5
+202526,Academic year,National,E92000001,England,Computing,PG Salaried School Direct,Total,491,20,3,25,5
+202526,Academic year,National,E92000001,England,Computing,PG Total,HEI,2031,440,59,501,25
+202526,Academic year,National,E92000001,England,Computing,PG Total,SCITT,1409,302,41,380,27
+202526,Academic year,National,E92000001,England,Computing,PG Total,Total,2714,742,100,881,32
+202526,Academic year,National,E92000001,England,Computing,Total,HEI,2031,440,59,501,25
+202526,Academic year,National,E92000001,England,Computing,Total,SCITT,1409,302,41,380,27
+202526,Academic year,National,E92000001,England,Computing,Total,Total,2714,742,100,881,32
+202526,Academic year,National,E92000001,England,Computing,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Computing,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Computing,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Design & Technology,PG fee-funded,HEI,1014,317,46,348,34
+202526,Academic year,National,E92000001,England,Design & Technology,PG fee-funded,SCITT,780,314,46,352,45
+202526,Academic year,National,E92000001,England,Design & Technology,PG fee-funded,Total,1428,631,92,700,49
+202526,Academic year,National,E92000001,England,Design & Technology,PG Salaried PGTA,HEI,13,2,0,x,x
+202526,Academic year,National,E92000001,England,Design & Technology,PG Salaried PGTA,SCITT,63,11,2,11,17
+202526,Academic year,National,E92000001,England,Design & Technology,PG Salaried PGTA,Total,74,13,2,13,18
+202526,Academic year,National,E92000001,England,Design & Technology,PG Salaried School Direct,HEI,4,2,0,x,x
+202526,Academic year,National,E92000001,England,Design & Technology,PG Salaried School Direct,SCITT,229,38,6,39,17
+202526,Academic year,National,E92000001,England,Design & Technology,PG Salaried School Direct,Total,232,40,6,41,18
+202526,Academic year,National,E92000001,England,Design & Technology,PG Total,HEI,1025,321,47,352,34
+202526,Academic year,National,E92000001,England,Design & Technology,PG Total,SCITT,955,363,53,402,42
+202526,Academic year,National,E92000001,England,Design & Technology,PG Total,Total,1570,684,100,754,48
+202526,Academic year,National,E92000001,England,Design & Technology,Total,HEI,1025,321,47,352,34
+202526,Academic year,National,E92000001,England,Design & Technology,Total,SCITT,955,363,53,402,42
+202526,Academic year,National,E92000001,England,Design & Technology,Total,Total,1570,684,100,754,48
+202526,Academic year,National,E92000001,England,Design & Technology,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Design & Technology,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Design & Technology,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Drama,PG fee-funded,HEI,446,154,58,186,42
+202526,Academic year,National,E92000001,England,Drama,PG fee-funded,SCITT,239,92,34,107,45
+202526,Academic year,National,E92000001,England,Drama,PG fee-funded,Total,565,246,92,293,52
+202526,Academic year,National,E92000001,England,Drama,PG Salaried PGTA,HEI,2,0,0,x,x
+202526,Academic year,National,E92000001,England,Drama,PG Salaried PGTA,SCITT,99,19,7,20,20
+202526,Academic year,National,E92000001,England,Drama,PG Salaried PGTA,Total,99,19,7,20,20
+202526,Academic year,National,E92000001,England,Drama,PG Salaried School Direct,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Drama,PG Salaried School Direct,SCITT,68,2,1,2,3
+202526,Academic year,National,E92000001,England,Drama,PG Salaried School Direct,Total,68,2,1,2,3
+202526,Academic year,National,E92000001,England,Drama,PG Total,HEI,448,154,58,186,42
+202526,Academic year,National,E92000001,England,Drama,PG Total,SCITT,335,113,42,129,39
+202526,Academic year,National,E92000001,England,Drama,PG Total,Total,645,267,100,315,49
+202526,Academic year,National,E92000001,England,Drama,Total,HEI,448,154,58,186,42
+202526,Academic year,National,E92000001,England,Drama,Total,SCITT,335,113,42,129,39
+202526,Academic year,National,E92000001,England,Drama,Total,Total,645,267,100,315,49
+202526,Academic year,National,E92000001,England,Drama,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Drama,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Drama,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,English,PG fee-funded,HEI,3305,1042,60,1179,36
+202526,Academic year,National,E92000001,England,English,PG fee-funded,SCITT,1523,478,28,570,37
+202526,Academic year,National,E92000001,England,English,PG fee-funded,Total,3986,1520,88,1749,44
+202526,Academic year,National,E92000001,England,English,PG Salaried PGTA,HEI,109,4,0,4,4
+202526,Academic year,National,E92000001,England,English,PG Salaried PGTA,SCITT,778,140,8,150,19
+202526,Academic year,National,E92000001,England,English,PG Salaried PGTA,Total,834,144,8,154,18
+202526,Academic year,National,E92000001,England,English,PG Salaried School Direct,HEI,110,5,0,5,5
+202526,Academic year,National,E92000001,England,English,PG Salaried School Direct,SCITT,884,59,3,66,7
+202526,Academic year,National,E92000001,England,English,PG Salaried School Direct,Total,922,64,4,71,8
+202526,Academic year,National,E92000001,England,English,PG Total,HEI,3461,1051,61,1188,34
+202526,Academic year,National,E92000001,England,English,PG Total,SCITT,2523,677,39,786,31
+202526,Academic year,National,E92000001,England,English,PG Total,Total,4751,1728,100,1974,42
+202526,Academic year,National,E92000001,England,English,Total,HEI,3461,1051,61,1188,34
+202526,Academic year,National,E92000001,England,English,Total,SCITT,2523,677,39,786,31
+202526,Academic year,National,E92000001,England,English,Total,Total,4751,1728,100,1974,42
+202526,Academic year,National,E92000001,England,English,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,English,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,English,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Geography,PG fee-funded,HEI,1595,617,64,664,42
+202526,Academic year,National,E92000001,England,Geography,PG fee-funded,SCITT,791,303,31,353,45
+202526,Academic year,National,E92000001,England,Geography,PG fee-funded,Total,1951,920,95,1017,52
+202526,Academic year,National,E92000001,England,Geography,PG Salaried PGTA,HEI,12,0,0,x,x
+202526,Academic year,National,E92000001,England,Geography,PG Salaried PGTA,SCITT,101,14,1,18,18
+202526,Academic year,National,E92000001,England,Geography,PG Salaried PGTA,Total,111,14,1,18,16
+202526,Academic year,National,E92000001,England,Geography,PG Salaried School Direct,HEI,11,0,0,x,x
+202526,Academic year,National,E92000001,England,Geography,PG Salaried School Direct,SCITT,340,33,3,36,11
+202526,Academic year,National,E92000001,England,Geography,PG Salaried School Direct,Total,344,33,3,36,10
+202526,Academic year,National,E92000001,England,Geography,PG Total,HEI,1610,617,64,664,41
+202526,Academic year,National,E92000001,England,Geography,PG Total,SCITT,1082,350,36,407,38
+202526,Academic year,National,E92000001,England,Geography,PG Total,Total,2159,967,100,1071,50
+202526,Academic year,National,E92000001,England,Geography,Total,HEI,1610,617,64,664,41
+202526,Academic year,National,E92000001,England,Geography,Total,SCITT,1082,350,36,407,38
+202526,Academic year,National,E92000001,England,Geography,Total,Total,2159,967,100,1071,50
+202526,Academic year,National,E92000001,England,Geography,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Geography,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Geography,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,History,PG fee-funded,HEI,1468,605,66,674,46
+202526,Academic year,National,E92000001,England,History,PG fee-funded,SCITT,740,262,28,313,42
+202526,Academic year,National,E92000001,England,History,PG fee-funded,Total,1777,867,94,987,56
+202526,Academic year,National,E92000001,England,History,PG Salaried PGTA,HEI,23,0,0,x,x
+202526,Academic year,National,E92000001,England,History,PG Salaried PGTA,SCITT,347,42,5,45,13
+202526,Academic year,National,E92000001,England,History,PG Salaried PGTA,Total,359,42,5,45,13
+202526,Academic year,National,E92000001,England,History,PG Salaried School Direct,HEI,15,1,0,x,x
+202526,Academic year,National,E92000001,England,History,PG Salaried School Direct,SCITT,197,13,1,14,7
+202526,Academic year,National,E92000001,England,History,PG Salaried School Direct,Total,208,14,2,15,7
+202526,Academic year,National,E92000001,England,History,PG Total,HEI,1489,606,66,675,45
+202526,Academic year,National,E92000001,England,History,PG Total,SCITT,1043,317,34,372,36
+202526,Academic year,National,E92000001,England,History,PG Total,Total,2019,923,100,1047,52
+202526,Academic year,National,E92000001,England,History,Total,HEI,1489,606,66,675,45
+202526,Academic year,National,E92000001,England,History,Total,SCITT,1043,317,34,372,36
+202526,Academic year,National,E92000001,England,History,Total,Total,2019,923,100,1047,52
+202526,Academic year,National,E92000001,England,History,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,History,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,History,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Mathematics,PG fee-funded,HEI,5634,1436,57,1644,29
+202526,Academic year,National,E92000001,England,Mathematics,PG fee-funded,SCITT,2730,907,36,1049,38
+202526,Academic year,National,E92000001,England,Mathematics,PG fee-funded,Total,6673,2343,93,2693,40
+202526,Academic year,National,E92000001,England,Mathematics,PG Salaried PGTA,HEI,77,5,0,5,6
+202526,Academic year,National,E92000001,England,Mathematics,PG Salaried PGTA,SCITT,731,65,3,68,9
+202526,Academic year,National,E92000001,England,Mathematics,PG Salaried PGTA,Total,772,70,3,73,9
+202526,Academic year,National,E92000001,England,Mathematics,PG Salaried School Direct,HEI,135,1,0,1,1
+202526,Academic year,National,E92000001,England,Mathematics,PG Salaried School Direct,SCITT,1567,98,4,101,6
+202526,Academic year,National,E92000001,England,Mathematics,PG Salaried School Direct,Total,1608,99,4,102,6
+202526,Academic year,National,E92000001,England,Mathematics,PG Total,HEI,5754,1442,56,1650,29
+202526,Academic year,National,E92000001,England,Mathematics,PG Total,SCITT,4100,1070,42,1218,30
+202526,Academic year,National,E92000001,England,Mathematics,PG Total,Total,7547,2512,97,2868,38
+202526,Academic year,National,E92000001,England,Mathematics,Total,HEI,6134,1500,58,1709,28
+202526,Academic year,National,E92000001,England,Mathematics,Total,SCITT,4179,1077,42,1227,29
+202526,Academic year,National,E92000001,England,Mathematics,Total,Total,7940,2577,100,2936,37
+202526,Academic year,National,E92000001,England,Mathematics,UG Teacher Degree Apprenticeship,HEI,401,58,4,59,15
+202526,Academic year,National,E92000001,England,Mathematics,UG Teacher Degree Apprenticeship,SCITT,82,7,1,9,11
+202526,Academic year,National,E92000001,England,Mathematics,UG Teacher Degree Apprenticeship,Total,428,65,3,68,16
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,PG fee-funded,HEI,2571,852,61,1009,39
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,PG fee-funded,SCITT,1175,498,36,568,48
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,PG fee-funded,Total,3055,1350,97,1577,52
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried PGTA,HEI,17,0,0,x,x
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried PGTA,SCITT,168,14,1,15,9
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried PGTA,Total,182,14,1,15,8
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried School Direct,HEI,28,2,0,x,x
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried School Direct,SCITT,351,25,2,29,8
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,PG Salaried School Direct,Total,361,27,2,31,9
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,PG Total,HEI,2592,854,61,1011,39
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,PG Total,SCITT,1423,537,39,612,43
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,PG Total,Total,3185,1391,100,1623,51
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Total,HEI,2592,854,61,1011,39
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Total,SCITT,1423,537,39,612,43
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,Total,Total,3185,1391,100,1623,51
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Modern Foreign Languages,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Music,PG fee-funded,HEI,454,195,58,220,48
+202526,Academic year,National,E92000001,England,Music,PG fee-funded,SCITT,289,118,35,139,48
+202526,Academic year,National,E92000001,England,Music,PG fee-funded,Total,587,313,92,359,61
+202526,Academic year,National,E92000001,England,Music,PG Salaried PGTA,HEI,4,0,0,x,x
+202526,Academic year,National,E92000001,England,Music,PG Salaried PGTA,SCITT,63,8,2,8,13
+202526,Academic year,National,E92000001,England,Music,PG Salaried PGTA,Total,65,8,2,8,12
+202526,Academic year,National,E92000001,England,Music,PG Salaried School Direct,HEI,7,0,0,x,x
+202526,Academic year,National,E92000001,England,Music,PG Salaried School Direct,SCITT,105,18,5,18,17
+202526,Academic year,National,E92000001,England,Music,PG Salaried School Direct,Total,105,18,5,18,17
+202526,Academic year,National,E92000001,England,Music,PG Total,HEI,463,195,58,220,48
+202526,Academic year,National,E92000001,England,Music,PG Total,SCITT,390,144,42,165,42
+202526,Academic year,National,E92000001,England,Music,PG Total,Total,669,339,100,385,58
+202526,Academic year,National,E92000001,England,Music,Total,HEI,463,195,58,220,48
+202526,Academic year,National,E92000001,England,Music,Total,SCITT,390,144,42,165,42
+202526,Academic year,National,E92000001,England,Music,Total,Total,669,339,100,385,58
+202526,Academic year,National,E92000001,England,Music,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Music,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Music,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG fee-funded,HEI,16015,5841,60,6656,42
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG fee-funded,SCITT,8394,3201,33,3753,45
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG fee-funded,Total,19487,9042,93,10409,53
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried PGTA,HEI,308,16,0,16,5
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried PGTA,SCITT,2478,359,4,380,15
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried PGTA,Total,2651,375,4,396,15
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried School Direct,HEI,229,16,0,17,7
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried School Direct,SCITT,2854,252,3,274,10
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Salaried School Direct,Total,2930,268,3,291,10
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Total,HEI,16333,5873,61,6689,41
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Total,SCITT,11181,3812,39,4407,39
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,PG Total,Total,21459,9685,100,11096,52
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,Total,HEI,16333,5873,61,6689,41
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,Total,SCITT,11182,3812,39,4407,39
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,Total,Total,21460,9685,100,11096,52
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,UG Teacher Degree Apprenticeship,SCITT,1,0,0,x,x
+202526,Academic year,National,E92000001,England,Non-STEM Secondary Subjects,UG Teacher Degree Apprenticeship,Total,1,0,0,x,x
+202526,Academic year,National,E92000001,England,Others,PG fee-funded,HEI,1158,229,66,278,24
+202526,Academic year,National,E92000001,England,Others,PG fee-funded,SCITT,439,98,28,130,30
+202526,Academic year,National,E92000001,England,Others,PG fee-funded,Total,1386,327,95,408,29
+202526,Academic year,National,E92000001,England,Others,PG Salaried PGTA,HEI,5,0,0,x,x
+202526,Academic year,National,E92000001,England,Others,PG Salaried PGTA,SCITT,102,12,3,12,12
+202526,Academic year,National,E92000001,England,Others,PG Salaried PGTA,Total,105,12,3,12,11
+202526,Academic year,National,E92000001,England,Others,PG Salaried School Direct,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Others,PG Salaried School Direct,SCITT,86,7,2,7,8
+202526,Academic year,National,E92000001,England,Others,PG Salaried School Direct,Total,86,7,2,7,8
+202526,Academic year,National,E92000001,England,Others,PG Total,HEI,1160,229,66,278,24
+202526,Academic year,National,E92000001,England,Others,PG Total,SCITT,555,117,34,149,27
+202526,Academic year,National,E92000001,England,Others,PG Total,Total,1482,346,100,427,29
+202526,Academic year,National,E92000001,England,Others,Total,HEI,1160,229,66,278,24
+202526,Academic year,National,E92000001,England,Others,Total,SCITT,555,117,34,149,27
+202526,Academic year,National,E92000001,England,Others,Total,Total,1482,346,100,427,29
+202526,Academic year,National,E92000001,England,Others,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Others,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Others,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Physical Education,PG fee-funded,HEI,2287,859,59,993,43
+202526,Academic year,National,E92000001,England,Physical Education,PG fee-funded,SCITT,1207,525,36,603,50
+202526,Academic year,National,E92000001,England,Physical Education,PG fee-funded,Total,2813,1384,94,1596,57
+202526,Academic year,National,E92000001,England,Physical Education,PG Salaried PGTA,HEI,65,6,0,6,9
+202526,Academic year,National,E92000001,England,Physical Education,PG Salaried PGTA,SCITT,479,61,4,61,13
+202526,Academic year,National,E92000001,England,Physical Education,PG Salaried PGTA,Total,519,67,5,67,13
+202526,Academic year,National,E92000001,England,Physical Education,PG Salaried School Direct,HEI,19,1,0,x,x
+202526,Academic year,National,E92000001,England,Physical Education,PG Salaried School Direct,SCITT,133,14,1,15,11
+202526,Academic year,National,E92000001,England,Physical Education,PG Salaried School Direct,Total,144,15,1,16,11
+202526,Academic year,National,E92000001,England,Physical Education,PG Total,HEI,2338,866,59,1000,43
+202526,Academic year,National,E92000001,England,Physical Education,PG Total,SCITT,1560,600,41,679,44
+202526,Academic year,National,E92000001,England,Physical Education,PG Total,Total,3125,1466,100,1679,54
+202526,Academic year,National,E92000001,England,Physical Education,Total,HEI,2338,866,59,1000,43
+202526,Academic year,National,E92000001,England,Physical Education,Total,SCITT,1560,600,41,679,43
+202526,Academic year,National,E92000001,England,Physical Education,Total,Total,3125,1466,100,1679,54
+202526,Academic year,National,E92000001,England,Physical Education,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Physical Education,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Physical Education,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Physics,PG fee-funded,HEI,4904,875,70,1168,24
+202526,Academic year,National,E92000001,England,Physics,PG fee-funded,SCITT,1009,344,27,391,39
+202526,Academic year,National,E92000001,England,Physics,PG fee-funded,Total,5349,1219,97,1559,29
+202526,Academic year,National,E92000001,England,Physics,PG Salaried PGTA,HEI,112,2,0,2,2
+202526,Academic year,National,E92000001,England,Physics,PG Salaried PGTA,SCITT,139,6,0,6,4
+202526,Academic year,National,E92000001,England,Physics,PG Salaried PGTA,Total,244,8,1,8,3
+202526,Academic year,National,E92000001,England,Physics,PG Salaried School Direct,HEI,41,2,0,2,5
+202526,Academic year,National,E92000001,England,Physics,PG Salaried School Direct,SCITT,974,29,2,29,3
+202526,Academic year,National,E92000001,England,Physics,PG Salaried School Direct,Total,988,31,2,31,3
+202526,Academic year,National,E92000001,England,Physics,PG Total,HEI,5008,879,70,1172,23
+202526,Academic year,National,E92000001,England,Physics,PG Total,SCITT,1830,379,30,426,23
+202526,Academic year,National,E92000001,England,Physics,PG Total,Total,5657,1258,100,1598,28
+202526,Academic year,National,E92000001,England,Physics,Total,HEI,5008,879,70,1172,23
+202526,Academic year,National,E92000001,England,Physics,Total,SCITT,1830,379,30,426,23
+202526,Academic year,National,E92000001,England,Physics,Total,Total,2657,1258,100,1598,28
+202526,Academic year,National,E92000001,England,Physics,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Physics,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Physics,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Primary,PG fee-funded,HEI,13259,5579,58,6320,48
+202526,Academic year,National,E92000001,England,Primary,PG fee-funded,SCITT,7702,3178,33,3721,48
+202526,Academic year,National,E92000001,England,Primary,PG fee-funded,Total,16841,8757,91,10041,60
+202526,Academic year,National,E92000001,England,Primary,PG Salaried PGTA,HEI,1391,101,1,104,7
+202526,Academic year,National,E92000001,England,Primary,PG Salaried PGTA,SCITT,3440,684,7,722,21
+202526,Academic year,National,E92000001,England,Primary,PG Salaried PGTA,Total,4222,785,8,826,20
+202526,Academic year,National,E92000001,England,Primary,PG Salaried School Direct,HEI,150,19,0,19,13
+202526,Academic year,National,E92000001,England,Primary,PG Salaried School Direct,SCITT,1173,73,1,80,7
+202526,Academic year,National,E92000001,England,Primary,PG Salaried School Direct,Total,1277,92,1,99,8
+202526,Academic year,National,E92000001,England,Primary,PG Total,HEI,14151,5699,58,6443,46
+202526,Academic year,National,E92000001,England,Primary,PG Total,SCITT,10055,3935,40,4523,45
+202526,Academic year,National,E92000001,England,Primary,PG Total,Total,19157,9634,99,10966,57
+202526,Academic year,National,E92000001,England,Primary,Total,HEI,14863,5820,60,6582,44
+202526,Academic year,National,E92000001,England,Primary,Total,SCITT,10210,3948,40,4537,44
+202526,Academic year,National,E92000001,England,Primary,Total,Total,19915,9768,100,11119,56
+202526,Academic year,National,E92000001,England,Primary,UG Teacher Degree Apprenticeship,HEI,740,121,2,139,19
+202526,Academic year,National,E92000001,England,Primary,UG Teacher Degree Apprenticeship,SCITT,161,13,0,14,9
+202526,Academic year,National,E92000001,England,Primary,UG Teacher Degree Apprenticeship,Total,808,134,1,153,19
+202526,Academic year,National,E92000001,England,Religious Education,PG fee-funded,HEI,913,250,58,283,31
+202526,Academic year,National,E92000001,England,Religious Education,PG fee-funded,SCITT,476,140,33,156,33
+202526,Academic year,National,E92000001,England,Religious Education,PG fee-funded,Total,1166,390,91,439,38
+202526,Academic year,National,E92000001,England,Religious Education,PG Salaried PGTA,HEI,33,2,0,2,6
+202526,Academic year,National,E92000001,England,Religious Education,PG Salaried PGTA,SCITT,97,11,3,11,11
+202526,Academic year,National,E92000001,England,Religious Education,PG Salaried PGTA,Total,122,13,3,13,11
+202526,Academic year,National,E92000001,England,Religious Education,PG Salaried School Direct,HEI,19,3,1,x,x
+202526,Academic year,National,E92000001,England,Religious Education,PG Salaried School Direct,SCITT,203,22,5,24,12
+202526,Academic year,National,E92000001,England,Religious Education,PG Salaried School Direct,Total,211,25,6,27,13
+202526,Academic year,National,E92000001,England,Religious Education,PG Total,HEI,948,255,60,288,30
+202526,Academic year,National,E92000001,England,Religious Education,PG Total,SCITT,657,173,40,191,29
+202526,Academic year,National,E92000001,England,Religious Education,PG Total,Total,1327,428,100,479,36
+202526,Academic year,National,E92000001,England,Religious Education,Total,HEI,948,255,60,288,30
+202526,Academic year,National,E92000001,England,Religious Education,Total,SCITT,657,173,40,191,29
+202526,Academic year,National,E92000001,England,Religious Education,Total,Total,1327,428,100,479,36
+202526,Academic year,National,E92000001,England,Religious Education,UG Teacher Degree Apprenticeship,HEI,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Religious Education,UG Teacher Degree Apprenticeship,SCITT,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Religious Education,UG Teacher Degree Apprenticeship,Total,0,0,0,0,0
+202526,Academic year,National,E92000001,England,Secondary,PG fee-funded,HEI,30370,9840,60,11402,38
+202526,Academic year,National,E92000001,England,Secondary,PG fee-funded,SCITT,14871,5584,34,6545,44
+202526,Academic year,National,E92000001,England,Secondary,PG fee-funded,Total,36035,15424,94,17947,50
+202526,Academic year,National,E92000001,England,Secondary,PG Salaried PGTA,HEI,564,27,0,27,5
+202526,Academic year,National,E92000001,England,Secondary,PG Salaried PGTA,SCITT,3824,488,3,518,14
+202526,Academic year,National,E92000001,England,Secondary,PG Salaried PGTA,Total,4166,515,3,545,13
+202526,Academic year,National,E92000001,England,Secondary,PG Salaried School Direct,HEI,488,26,0,27,6
+202526,Academic year,National,E92000001,England,Secondary,PG Salaried School Direct,SCITT,6628,483,3,518,8
+202526,Academic year,National,E92000001,England,Secondary,PG Salaried School Direct,Total,6764,509,3,545,8
+202526,Academic year,National,E92000001,England,Secondary,PG Total,HEI,30935,9893,60,11456,37
+202526,Academic year,National,E92000001,England,Secondary,PG Total,SCITT,20527,6555,40,7581,37
+202526,Academic year,National,E92000001,England,Secondary,PG Total,Total,39259,16448,100,19037,48
+202526,Academic year,National,E92000001,England,Secondary,Total,HEI,31309,9951,60,11515,37
+202526,Academic year,National,E92000001,England,Secondary,Total,SCITT,20606,6562,40,7590,37
+202526,Academic year,National,E92000001,England,Secondary,Total,Total,39643,16513,100,19105,48
+202526,Academic year,National,E92000001,England,Secondary,UG Teacher Degree Apprenticeship,HEI,402,58,0,59,15
+202526,Academic year,National,E92000001,England,Secondary,UG Teacher Degree Apprenticeship,SCITT,82,7,0,9,11
+202526,Academic year,National,E92000001,England,Secondary,UG Teacher Degree Apprenticeship,Total,429,65,0,68,16
+202526,Academic year,National,E92000001,England,STEM Subjects,PG fee-funded,HEI,15579,3999,59,4746,30
+202526,Academic year,National,E92000001,England,STEM Subjects,PG fee-funded,SCITT,6741,2383,35,2792,41
+202526,Academic year,National,E92000001,England,STEM Subjects,PG fee-funded,Total,18030,6382,94,7538,42
+202526,Academic year,National,E92000001,England,STEM Subjects,PG Salaried PGTA,HEI,263,11,0,11,4
+202526,Academic year,National,E92000001,England,STEM Subjects,PG Salaried PGTA,SCITT,1410,129,2,138,10
+202526,Academic year,National,E92000001,England,STEM Subjects,PG Salaried PGTA,Total,1589,140,2,149,9
+202526,Academic year,National,E92000001,England,STEM Subjects,PG Salaried School Direct,HEI,259,10,0,10,4
+202526,Academic year,National,E92000001,England,STEM Subjects,PG Salaried School Direct,SCITT,3939,231,3,244,6
+202526,Academic year,National,E92000001,England,STEM Subjects,PG Salaried School Direct,Total,4004,241,4,254,6
+202526,Academic year,National,E92000001,England,STEM Subjects,PG Total,HEI,15849,4020,59,4767,30
+202526,Academic year,National,E92000001,England,STEM Subjects,PG Total,SCITT,9899,2743,43,3174,32
+202526,Academic year,National,E92000001,England,STEM Subjects,PG Total,Total,19592,6763,99,7941,41
+202526,Academic year,National,E92000001,England,STEM Subjects,Total,HEI,16225,4078,60,4826,30
+202526,Academic year,National,E92000001,England,STEM Subjects,Total,SCITT,9978,2750,40,3183,32
+202526,Academic year,National,E92000001,England,STEM Subjects,Total,Total,19980,6828,100,8009,40
+202526,Academic year,National,E92000001,England,STEM Subjects,UG Teacher Degree Apprenticeship,HEI,402,58,1,59,15
+202526,Academic year,National,E92000001,England,STEM Subjects,UG Teacher Degree Apprenticeship,SCITT,82,7,0,9,11
+202526,Academic year,National,E92000001,England,STEM Subjects,UG Teacher Degree Apprenticeship,Total,429,65,1,68,16
+202526,Academic year,National,E92000001,England,Total,PG fee-funded,HEI,41170,15419,59,17722,43
+202526,Academic year,National,E92000001,England,Total,PG fee-funded,SCITT,21827,8762,34,10266,47
+202526,Academic year,National,E92000001,England,Total,PG fee-funded,Total,49656,24181,93,27988,56
+202526,Academic year,National,E92000001,England,Total,PG Salaried PGTA,HEI,1915,128,0,131,7
+202526,Academic year,National,E92000001,England,Total,PG Salaried PGTA,SCITT,6984,1172,4,1240,18
+202526,Academic year,National,E92000001,England,Total,PG Salaried PGTA,Total,8020,1300,5,1371,17
+202526,Academic year,National,E92000001,England,Total,PG Salaried School Direct,HEI,636,45,0,46,7
+202526,Academic year,National,E92000001,England,Total,PG Salaried School Direct,SCITT,7647,556,2,598,8
+202526,Academic year,National,E92000001,England,Total,PG Salaried School Direct,Total,7866,601,2,644,8
+202526,Academic year,National,E92000001,England,Total,PG Total,HEI,42477,15592,59,17899,42
+202526,Academic year,National,E92000001,England,Total,PG Total,SCITT,29292,10490,40,12104,41
+202526,Academic year,National,E92000001,England,Total,PG Total,Total,54562,26082,99,30003,55
+202526,Academic year,National,E92000001,England,Total,Total,HEI,43492,15771,60,18097,42
+202526,Academic year,National,E92000001,England,Total,Total,SCITT,29511,10510,40,12127,41
+202526,Academic year,National,E92000001,England,Total,Total,Total,55626,26281,100,30224,54
+202526,Academic year,National,E92000001,England,Total,UG Teacher Degree Apprenticeship,HEI,1082,179,1,198,18
+202526,Academic year,National,E92000001,England,Total,UG Teacher Degree Apprenticeship,SCITT,230,20,0,23,10
+202526,Academic year,National,E92000001,England,Total,UG Teacher Degree Apprenticeship,Total,1166,199,1,221,19
