@@ -502,6 +502,7 @@ tibble::tribble(
 V1 through V4 are internal consistency checks; they verify that the simulation does what the code claims. V5 is an external plausibility check, and it is the more important of the five for a policy audience: it asks whether the simulation's output sits within a range that observed reality would predict. The simulated 17.18 per cent year-one attrition for the Status Quo overseas cohort sits at the upper end of the 10–15 per cent newly-qualified-teacher leaver range documented for the state-funded sector in England (House of Commons Library, 2025), with the upward shift attributable to the additional visa-route friction documented in recent policy analysis (HEPI, 2026). The simulation is not calibrated to this external figure; the agreement is independent and serves as evidence that the model is producing realistic baseline behaviour.
 
 A note on V3 is required for transparency. Bit-identical reproducibility holds when the simulation is rerun with the sequential driver `run_simulation_sequential()`, which preserves the full L'Ecuyer-CMRG stream order. The headline cache used in this report was generated with `run_simulation_parallel()`, which allocates independent L'Ecuyer-CMRG sub-streams to multiple worker processes for a roughly threefold reduction in wall-clock time. Parallel sub-stream allocation does not preserve per-replicate bit-identity against a sequential rerun; what it preserves is statistical equivalence, meaning that Monte Carlo means and confidence intervals from a parallel rerun match a sequential rerun to within the Monte Carlo standard errors documented under V4. This is a deliberate trade-off, and it is consistent with standard practice in parallel Monte Carlo simulation. For any verification exercise that requires exact bit-identity, the simulation should be rerun under `run_simulation_sequential()` with the same global seed (20250117).
+
 ---
 
 # Appendix C: Full Metric Panel
@@ -513,17 +514,22 @@ mc_summary |>
       "Status Quo",
       "Auto Sponsor + Relocation",
       "Auto Sponsor + Relocation + Integration"
-    ))
+    )),
+    # This line combines the 4 numbers into one string so it fits in 4 columns!
+    value_string = paste0(
+      round(mean, 4), " [", 
+      round(ci_low, 4), ", ", 
+      round(ci_high, 4), "] (MCSE: ", 
+      round(mcse, 4), ")"
+    )
   ) |>
-  select(metric, policy_short, mean, ci_low, ci_high, mcse) |>
+  select(metric, policy_short, value_string) |>
   pivot_wider(
     names_from = policy_short,
-    values_from = c(mean, ci_low, ci_high, mcse),
-    names_glue = "{policy_short}__{.value}"
+    values_from = value_string
   ) |>
   arrange(metric) |>
   knitr::kable(
-    digits = 4,
     caption = "All 18 metrics across 3 policies. Each metric appears once with mean, 99 per cent CI bounds, and MCSE for each policy."
   )
 ```
